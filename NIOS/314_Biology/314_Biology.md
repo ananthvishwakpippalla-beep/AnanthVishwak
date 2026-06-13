@@ -1,5 +1,13 @@
 # 314 Biology (NIOS)
 
+## NIOS Information
+- Student profile: [Ananth Vishwak Pippalla](../AnanthVishwak.md)
+- Useful portals:
+  - https://sdmis.nios.ac.in/home/dashboard
+  - https://nios.ac.in/
+  - https://swayam.gov.in/
+  - https://www.nios.ac.in/online-course-material.aspx
+
 Files available:
 - `314_Book-1_Eng.pdf`
 - `314_Book-2_Eng.pdf`

@@ -8,6 +8,14 @@ I am Ananth Vishwak Pippalla, born in April 2011. I have just completed Grade 10
 - Please help me through my education.
 - Related content is in the NIOS folder (add a relative link if needed, e.g., [NIOS](./NIOS/)).
 
+## Academic education - NIOS Information
+- NIOS is National Institute of Open Schooling
+URLs:
+- https://sdmis.nios.ac.in/home/dashboard
+- https://nios.ac.in/
+- https://swayam.gov.in/
+- https://www.nios.ac.in/online-course-material.aspx
+
 ## Music
 I am learning music at Muzigal Institute, Gajularamaram, Hyderabad, Telangana, India — 500055.
 Currently learning:

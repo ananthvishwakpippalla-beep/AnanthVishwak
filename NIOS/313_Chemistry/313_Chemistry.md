@@ -1,5 +1,13 @@
 # 313 Chemistry (NIOS)
 
+## NIOS Information
+- Student profile: [Ananth Vishwak Pippalla](../AnanthVishwak.md)
+- Useful portals:
+  - https://sdmis.nios.ac.in/home/dashboard
+  - https://nios.ac.in/
+  - https://swayam.gov.in/
+  - https://www.nios.ac.in/online-course-material.aspx
+
 Files available:
 - `313_E_book1.pdf`
 - `313_E_book2.pdf`
