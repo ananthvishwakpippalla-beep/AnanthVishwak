@@ -14,4 +14,10 @@ node_modules/
 dist/
 build/
 *.log
+
+# Big Files
 ./NIOS/332_Painting/332_Painting_Theory_New.pdf
+
+# Downloads
+Downloads/
+/Downloads/
