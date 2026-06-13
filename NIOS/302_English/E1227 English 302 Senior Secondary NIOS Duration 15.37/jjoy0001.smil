@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:58.152"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:00.000"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="NIOS English Subject Code 302"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="58.152s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy0001" id="jjoy0001"/>
+				<seq>
+					<audio src="01_NIOS_English_Subject_Code_302.mp3" clip-begin="npt=0.000s" clip-end="npt=0.352s" id="audio_0001"/>
+					<audio src="01_NIOS_English_Subject_Code_302.mp3" clip-begin="npt=0.352s" clip-end="npt=6.339s" id="audio_0002"/>
+					<audio src="01_NIOS_English_Subject_Code_302.mp3" clip-begin="npt=6.339s" clip-end="npt=57.262s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zrom_0003" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00d9" id="zrom_0004"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy0001" id="zrom_0005"/>
+				<seq>
+					<audio src="01_NIOS_English_Subject_Code_302.mp3" clip-begin="npt=57.262s" clip-end="npt=58.152s" id="audio_0004"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

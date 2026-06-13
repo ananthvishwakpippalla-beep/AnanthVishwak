@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:12:12.929"/>
+		<meta name="ncc:totalElapsedTime" content="00:50:15.966"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 2: Leisure"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="732.929s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_00ee" id="jjoy_00ee"/>
+				<seq>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=0.000s" clip-end="npt=2.156s" id="audio_0001"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=2.156s" clip-end="npt=5.852s" id="audio_0002"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=5.852s" clip-end="npt=8.164s" id="audio_0003"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=8.164s" clip-end="npt=14.159s" id="audio_0004"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=14.159s" clip-end="npt=16.889s" id="audio_0005"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=16.889s" clip-end="npt=29.832s" id="audio_0006"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=29.832s" clip-end="npt=32.170s" id="audio_0007"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=32.170s" clip-end="npt=37.460s" id="audio_0008"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=37.460s" clip-end="npt=40.347s" id="audio_0009"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=40.347s" clip-end="npt=47.857s" id="audio_0010"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=47.857s" clip-end="npt=54.257s" id="audio_0011"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=54.257s" clip-end="npt=60.814s" id="audio_0012"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=60.814s" clip-end="npt=64.236s" id="audio_0013"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=64.236s" clip-end="npt=68.062s" id="audio_0014"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=68.062s" clip-end="npt=74.933s" id="audio_0015"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=74.933s" clip-end="npt=81.842s" id="audio_0016"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=81.842s" clip-end="npt=89.587s" id="audio_0017"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=89.587s" clip-end="npt=94.707s" id="audio_0018"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=94.707s" clip-end="npt=98.038s" id="audio_0019"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=98.038s" clip-end="npt=103.315s" id="audio_0020"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=103.315s" clip-end="npt=107.821s" id="audio_0021"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=107.821s" clip-end="npt=111.439s" id="audio_0022"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=111.439s" clip-end="npt=114.848s" id="audio_0023"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=114.848s" clip-end="npt=123.573s" id="audio_0024"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=123.573s" clip-end="npt=127.960s" id="audio_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ytuq_0004" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00ec" id="ytuq_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_00ee" id="ytuq_0007"/>
+				<seq>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=127.960s" clip-end="npt=129.855s" id="audio_0026"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=129.855s" clip-end="npt=131.866s" id="audio_0027"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=131.866s" clip-end="npt=135.066s" id="audio_0028"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=135.066s" clip-end="npt=137.456s" id="audio_0029"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=137.456s" clip-end="npt=139.324s" id="audio_0030"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=139.324s" clip-end="npt=144.927s" id="audio_0031"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=144.927s" clip-end="npt=151.158s" id="audio_0032"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=151.158s" clip-end="npt=155.272s" id="audio_0033"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=155.272s" clip-end="npt=158.080s" id="audio_0034"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=158.080s" clip-end="npt=162.573s" id="audio_0035"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=162.573s" clip-end="npt=167.340s" id="audio_0036"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=167.340s" clip-end="npt=168.633s" id="audio_0037"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=168.633s" clip-end="npt=173.767s" id="audio_0038"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=173.767s" clip-end="npt=175.177s" id="audio_0039"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=175.177s" clip-end="npt=183.863s" id="audio_0040"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=183.863s" clip-end="npt=185.665s" id="audio_0041"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=185.665s" clip-end="npt=190.328s" id="audio_0042"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=190.328s" clip-end="npt=197.447s" id="audio_0043"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=197.447s" clip-end="npt=200.777s" id="audio_0044"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=200.777s" clip-end="npt=206.759s" id="audio_0045"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=206.759s" clip-end="npt=210.978s" id="audio_0046"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=210.978s" clip-end="npt=212.271s" id="audio_0047"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=212.271s" clip-end="npt=218.436s" id="audio_0048"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=218.436s" clip-end="npt=222.602s" id="audio_0049"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=222.602s" clip-end="npt=224.209s" id="audio_0050"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=224.209s" clip-end="npt=230.518s" id="audio_0051"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=230.518s" clip-end="npt=234.436s" id="audio_0052"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=234.436s" clip-end="npt=239.524s" id="audio_0053"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=239.524s" clip-end="npt=248.444s" id="audio_0054"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=248.444s" clip-end="npt=249.946s" id="audio_0055"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=249.946s" clip-end="npt=252.245s" id="audio_0056"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=252.245s" clip-end="npt=257.444s" id="audio_0057"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=257.444s" clip-end="npt=264.118s" id="audio_0058"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=264.118s" clip-end="npt=268.363s" id="audio_0059"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=268.363s" clip-end="npt=275.076s" id="audio_0060"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=275.076s" clip-end="npt=283.618s" id="audio_0061"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=283.618s" clip-end="npt=286.449s" id="audio_0062"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ytuq_0008" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00ed" id="ytuq_0009"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_00ee" id="ytuq_000a"/>
+				<seq>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=286.449s" clip-end="npt=290.223s" id="audio_0063"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=290.223s" clip-end="npt=293.671s" id="audio_0064"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=293.671s" clip-end="npt=298.086s" id="audio_0065"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=298.086s" clip-end="npt=304.564s" id="audio_0066"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=304.564s" clip-end="npt=308.182s" id="audio_0067"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=308.182s" clip-end="npt=311.879s" id="audio_0068"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=311.879s" clip-end="npt=314.177s" id="audio_0069"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=314.177s" clip-end="npt=317.051s" id="audio_0070"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=317.051s" clip-end="npt=321.178s" id="audio_0071"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=321.178s" clip-end="npt=322.589s" id="audio_0072"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=322.589s" clip-end="npt=325.737s" id="audio_0073"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=325.737s" clip-end="npt=332.594s" id="audio_0074"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=332.594s" clip-end="npt=334.200s" id="audio_0075"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=334.200s" clip-end="npt=342.559s" id="audio_0076"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=342.559s" clip-end="npt=344.009s" id="audio_0077"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=344.009s" clip-end="npt=348.750s" id="audio_0078"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=348.750s" clip-end="npt=356.208s" id="audio_0079"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=356.208s" clip-end="npt=367.728s" id="audio_0080"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=367.728s" clip-end="npt=373.763s" id="audio_0081"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=373.763s" clip-end="npt=375.395s" id="audio_0082"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=375.395s" clip-end="npt=377.550s" id="audio_0083"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=377.550s" clip-end="npt=381.848s" id="audio_0084"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=381.848s" clip-end="npt=383.337s" id="audio_0085"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=383.337s" clip-end="npt=391.291s" id="audio_0086"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=391.291s" clip-end="npt=394.791s" id="audio_0087"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=394.791s" clip-end="npt=399.454s" id="audio_0088"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=399.454s" clip-end="npt=403.268s" id="audio_0089"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=403.268s" clip-end="npt=404.443s" id="audio_0090"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=404.443s" clip-end="npt=411.784s" id="audio_0091"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=411.784s" clip-end="npt=413.325s" id="audio_0092"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=413.325s" clip-end="npt=421.070s" id="audio_0093"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=421.070s" clip-end="npt=422.951s" id="audio_0094"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=422.951s" clip-end="npt=424.205s" id="audio_0095"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=424.205s" clip-end="npt=427.706s" id="audio_0096"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=427.706s" clip-end="npt=435.046s" id="audio_0097"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=435.046s" clip-end="npt=437.188s" id="audio_0098"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=437.188s" clip-end="npt=440.675s" id="audio_0099"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=440.675s" clip-end="npt=442.752s" id="audio_0100"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=442.752s" clip-end="npt=445.273s" id="audio_0101"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=445.273s" clip-end="npt=452.391s" id="audio_0102"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=452.391s" clip-end="npt=457.004s" id="audio_0103"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ytuq_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00f0" id="ytuq_000d"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_00ee" id="ytuq_000e"/>
+				<seq>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=457.004s" clip-end="npt=459.743s" id="audio_0104"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=459.743s" clip-end="npt=461.650s" id="audio_0105"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=461.650s" clip-end="npt=463.792s" id="audio_0106"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=463.792s" clip-end="npt=476.879s" id="audio_0107"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=476.879s" clip-end="npt=480.863s" id="audio_0108"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=480.863s" clip-end="npt=484.272s" id="audio_0109"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=484.272s" clip-end="npt=487.394s" id="audio_0110"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=487.394s" clip-end="npt=489.640s" id="audio_0111"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=489.640s" clip-end="npt=494.695s" id="audio_0112"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=494.695s" clip-end="npt=496.262s" id="audio_0113"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=496.262s" clip-end="npt=504.308s" id="audio_0114"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=504.308s" clip-end="npt=506.163s" id="audio_0115"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=506.163s" clip-end="npt=512.981s" id="audio_0116"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=512.981s" clip-end="npt=518.636s" id="audio_0117"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=518.636s" clip-end="npt=521.274s" id="audio_0118"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=521.274s" clip-end="npt=525.180s" id="audio_0119"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=525.180s" clip-end="npt=529.281s" id="audio_0120"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=529.281s" clip-end="npt=530.796s" id="audio_0121"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=530.796s" clip-end="npt=534.218s" id="audio_0122"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=534.218s" clip-end="npt=537.640s" id="audio_0123"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=537.640s" clip-end="npt=539.129s" id="audio_0124"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=539.129s" clip-end="npt=542.773s" id="audio_0125"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=542.773s" clip-end="npt=546.888s" id="audio_0126"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=546.888s" clip-end="npt=549.983s" id="audio_0127"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=549.983s" clip-end="npt=555.312s" id="audio_0128"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=555.312s" clip-end="npt=556.788s" id="audio_0129"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=556.788s" clip-end="npt=559.711s" id="audio_0130"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=559.711s" clip-end="npt=561.931s" id="audio_0131"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=561.931s" clip-end="npt=565.745s" id="audio_0132"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=565.745s" clip-end="npt=571.348s" id="audio_0133"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=571.348s" clip-end="npt=572.916s" id="audio_0134"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=572.916s" clip-end="npt=579.355s" id="audio_0135"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=579.355s" clip-end="npt=580.844s" id="audio_0136"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=580.844s" clip-end="npt=589.595s" id="audio_0137"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=589.595s" clip-end="npt=592.246s" id="audio_0138"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=592.246s" clip-end="npt=594.819s" id="audio_0139"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=594.819s" clip-end="npt=597.131s" id="audio_0140"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=597.131s" clip-end="npt=602.747s" id="audio_0141"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=602.747s" clip-end="npt=610.114s" id="audio_0142"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=610.114s" clip-end="npt=611.511s" id="audio_0143"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=611.511s" clip-end="npt=617.363s" id="audio_0144"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=617.363s" clip-end="npt=624.951s" id="audio_0145"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=624.951s" clip-end="npt=626.414s" id="audio_0146"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=626.414s" clip-end="npt=628.413s" id="audio_0147"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=628.413s" clip-end="npt=632.840s" id="audio_0148"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=632.840s" clip-end="npt=634.303s" id="audio_0149"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=634.303s" clip-end="npt=639.214s" id="audio_0150"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=639.214s" clip-end="npt=645.000s" id="audio_0151"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=645.000s" clip-end="npt=650.225s" id="audio_0152"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=650.225s" clip-end="npt=652.798s" id="audio_0153"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=652.798s" clip-end="npt=654.104s" id="audio_0154"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=654.104s" clip-end="npt=655.972s" id="audio_0155"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=655.972s" clip-end="npt=662.058s" id="audio_0156"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=662.058s" clip-end="npt=663.717s" id="audio_0157"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=663.717s" clip-end="npt=676.112s" id="audio_0158"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=676.112s" clip-end="npt=679.286s" id="audio_0159"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=679.286s" clip-end="npt=681.533s" id="audio_0160"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=681.533s" clip-end="npt=689.591s" id="audio_0161"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=689.591s" clip-end="npt=691.472s" id="audio_0162"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=691.472s" clip-end="npt=693.092s" id="audio_0163"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=693.092s" clip-end="npt=699.283s" id="audio_0164"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=699.283s" clip-end="npt=701.229s" id="audio_0165"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=701.229s" clip-end="npt=705.213s" id="audio_0166"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=705.213s" clip-end="npt=708.609s" id="audio_0167"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=708.609s" clip-end="npt=723.786s" id="audio_0168"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=723.786s" clip-end="npt=729.703s" id="audio_0169"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00f1" id="par_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_00ee" id="par_0004"/>
+				<seq>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=729.703s" clip-end="npt=730.983s" id="audio_0170"/>
+					<audio src="03_Lesson_2__Leisure.mp3" clip-begin="npt=730.983s" clip-end="npt=732.929s" id="audio_0171"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

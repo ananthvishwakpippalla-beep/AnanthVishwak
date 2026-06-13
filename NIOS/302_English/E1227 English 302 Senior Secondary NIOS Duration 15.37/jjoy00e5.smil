@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:12:06.833"/>
+		<meta name="ncc:totalElapsedTime" content="08:50:44.260"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 23: Reading with understanding"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="726.833s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_01b0" id="jjoy_01b0"/>
+				<seq>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=0.000s" clip-end="npt=2.349s" id="audio_0001"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=2.349s" clip-end="npt=4.830s" id="audio_0002"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=4.830s" clip-end="npt=17.082s" id="audio_0003"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=17.082s" clip-end="npt=20.334s" id="audio_0004"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=20.334s" clip-end="npt=25.963s" id="audio_0005"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=25.963s" clip-end="npt=32.050s" id="audio_0006"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=32.050s" clip-end="npt=41.127s" id="audio_0007"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=41.127s" clip-end="npt=45.816s" id="audio_0008"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=45.816s" clip-end="npt=52.360s" id="audio_0009"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=52.360s" clip-end="npt=56.239s" id="audio_0010"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=56.239s" clip-end="npt=64.859s" id="audio_0011"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=64.859s" clip-end="npt=75.021s" id="audio_0012"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=75.021s" clip-end="npt=86.946s" id="audio_0013"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=86.946s" clip-end="npt=100.634s" id="audio_0014"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=100.634s" clip-end="npt=103.573s" id="audio_0015"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=103.573s" clip-end="npt=111.828s" id="audio_0016"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=111.828s" clip-end="npt=119.808s" id="audio_0017"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=119.808s" clip-end="npt=130.440s" id="audio_0018"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=130.440s" clip-end="npt=140.772s" id="audio_0019"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=140.772s" clip-end="npt=144.583s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01b1" id="par_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_01b0" id="par_0004"/>
+				<seq>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=144.583s" clip-end="npt=145.718s" id="audio_0021"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=145.718s" clip-end="npt=159.354s" id="audio_0022"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=159.354s" clip-end="npt=162.724s" id="audio_0023"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=162.724s" clip-end="npt=165.898s" id="audio_0024"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=165.898s" clip-end="npt=169.280s" id="audio_0025"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=169.280s" clip-end="npt=171.292s" id="audio_0026"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=171.292s" clip-end="npt=173.669s" id="audio_0027"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=173.669s" clip-end="npt=175.315s" id="audio_0028"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=175.315s" clip-end="npt=178.763s" id="audio_0029"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=178.763s" clip-end="npt=182.707s" id="audio_0030"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=182.707s" clip-end="npt=186.691s" id="audio_0031"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=186.691s" clip-end="npt=189.186s" id="audio_0032"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=189.186s" clip-end="npt=194.345s" id="audio_0033"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=194.345s" clip-end="npt=203.853s" id="audio_0034"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=203.853s" clip-end="npt=218.952s" id="audio_0035"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=218.952s" clip-end="npt=227.782s" id="audio_0036"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=227.782s" clip-end="npt=230.224s" id="audio_0037"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=230.224s" clip-end="npt=231.818s" id="audio_0038"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=231.818s" clip-end="npt=233.502s" id="audio_0039"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=233.502s" clip-end="npt=236.168s" id="audio_0040"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=236.168s" clip-end="npt=240.701s" id="audio_0041"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=240.701s" clip-end="npt=249.203s" id="audio_0042"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=249.203s" clip-end="npt=255.421s" id="audio_0043"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=255.421s" clip-end="npt=268.443s" id="audio_0044"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=268.443s" clip-end="npt=280.054s" id="audio_0045"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=280.054s" clip-end="npt=291.744s" id="audio_0046"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=291.744s" clip-end="npt=294.160s" id="audio_0047"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01b2" id="par_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_01b0" id="par_0007"/>
+				<seq>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=294.160s" clip-end="npt=295.713s" id="audio_0048"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=295.713s" clip-end="npt=298.717s" id="audio_0049"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=298.717s" clip-end="npt=313.567s" id="audio_0050"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=313.567s" clip-end="npt=329.711s" id="audio_0051"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=329.711s" clip-end="npt=335.785s" id="audio_0052"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=335.785s" clip-end="npt=346.978s" id="audio_0053"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=346.978s" clip-end="npt=369.940s" id="audio_0054"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=369.940s" clip-end="npt=387.781s" id="audio_0055"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=387.781s" clip-end="npt=397.055s" id="audio_0056"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=397.055s" clip-end="npt=402.932s" id="audio_0057"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=402.932s" clip-end="npt=411.435s" id="audio_0058"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=411.435s" clip-end="npt=424.078s" id="audio_0059"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=424.078s" clip-end="npt=432.438s" id="audio_0060"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=432.438s" clip-end="npt=447.941s" id="audio_0061"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=447.941s" clip-end="npt=458.952s" id="audio_0062"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=458.952s" clip-end="npt=477.799s" id="audio_0063"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=477.799s" clip-end="npt=483.324s" id="audio_0064"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=483.324s" clip-end="npt=486.739s" id="audio_0065"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0009" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01b3" id="par_000a"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_01b0" id="par_000b"/>
+				<seq>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=486.739s" clip-end="npt=487.953s" id="audio_0066"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=487.953s" clip-end="npt=523.271s" id="audio_0067"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=523.271s" clip-end="npt=529.566s" id="audio_0068"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=529.566s" clip-end="npt=536.554s" id="audio_0069"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=536.554s" clip-end="npt=558.881s" id="audio_0070"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=558.881s" clip-end="npt=572.347s" id="audio_0071"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=572.347s" clip-end="npt=577.245s" id="audio_0072"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=577.245s" clip-end="npt=584.246s" id="audio_0073"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=584.246s" clip-end="npt=589.875s" id="audio_0074"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=589.875s" clip-end="npt=595.949s" id="audio_0075"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=595.949s" clip-end="npt=597.843s" id="audio_0076"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=597.843s" clip-end="npt=600.285s" id="audio_0077"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=600.285s" clip-end="npt=604.034s" id="audio_0078"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=604.034s" clip-end="npt=615.854s" id="audio_0079"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=615.854s" clip-end="npt=629.882s" id="audio_0080"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=629.882s" clip-end="npt=632.128s" id="audio_0081"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=632.128s" clip-end="npt=636.321s" id="audio_0082"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=636.321s" clip-end="npt=650.806s" id="audio_0083"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=650.806s" clip-end="npt=653.836s" id="audio_0084"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=653.836s" clip-end="npt=658.643s" id="audio_0085"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=658.643s" clip-end="npt=664.638s" id="audio_0086"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=664.638s" clip-end="npt=668.331s" id="audio_0087"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01b4" id="par_000d"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_01b0" id="par_000e"/>
+				<seq>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=668.331s" clip-end="npt=670.473s" id="audio_0088"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=670.473s" clip-end="npt=672.341s" id="audio_0089"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=672.341s" clip-end="npt=674.143s" id="audio_0090"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=674.143s" clip-end="npt=676.167s" id="audio_0091"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=676.167s" clip-end="npt=681.862s" id="audio_0092"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=681.862s" clip-end="npt=687.348s" id="audio_0093"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=687.348s" clip-end="npt=692.716s" id="audio_0094"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=692.716s" clip-end="npt=694.192s" id="audio_0095"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=694.192s" clip-end="npt=698.776s" id="audio_0096"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=698.776s" clip-end="npt=707.998s" id="audio_0097"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=707.998s" clip-end="npt=709.944s" id="audio_0098"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=709.944s" clip-end="npt=711.642s" id="audio_0099"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=711.642s" clip-end="npt=713.549s" id="audio_0100"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=713.549s" clip-end="npt=715.416s" id="audio_0101"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=715.416s" clip-end="npt=716.932s" id="audio_0102"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=716.932s" clip-end="npt=720.341s" id="audio_0103"/>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=720.341s" clip-end="npt=724.690s" id="audio_0104"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ylyy_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01b5" id="ylyy_0002"/>
+			</par>
+			<par endsync="last" id="aemr_0001">
+				<text src="ncc.html#jjoy_01b0" id="ylyy_0003"/>
+				<seq>
+					<audio src="24_Lesson_23__Reading_with_understanding.mp3" clip-begin="npt=724.690s" clip-end="npt=726.833s" id="audio_0105"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

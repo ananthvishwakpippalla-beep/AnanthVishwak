@@ -1,0 +1,17 @@
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environments and heavy dependencies
+node_modules/
+/env/
+/venv/
+/ENV/
+.env
+
+# Build outputs and logs
+dist/
+build/
+*.log
+./NIOS/332_Painting/332_Painting_Theory_New.pdf

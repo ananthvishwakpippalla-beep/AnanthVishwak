@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:07:13.576"/>
+		<meta name="ncc:totalElapsedTime" content="10:20:31.269"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 26 A: The Reception Desk and you"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="433.576s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#ybue_051c" id="ybue_051c"/>
+				<seq>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=0.000s" clip-end="npt=1.841s" id="audio_0001"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=1.841s" clip-end="npt=5.394s" id="audio_0002"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=5.394s" clip-end="npt=17.724s" id="audio_0003"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=17.724s" clip-end="npt=24.842s" id="audio_0004"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=24.842s" clip-end="npt=30.929s" id="audio_0005"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=30.929s" clip-end="npt=43.494s" id="audio_0006"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=43.494s" clip-end="npt=47.582s" id="audio_0007"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=47.582s" clip-end="npt=57.743s" id="audio_0008"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=57.743s" clip-end="npt=60.774s" id="audio_0009"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=60.774s" clip-end="npt=68.963s" id="audio_0010"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=68.963s" clip-end="npt=76.108s" id="audio_0011"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=76.108s" clip-end="npt=83.474s" id="audio_0012"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=83.474s" clip-end="npt=86.702s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0521" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_051e" id="ybue_0522"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#ybue_051c" id="ybue_0523"/>
+				<seq>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=86.702s" clip-end="npt=87.988s" id="audio_0014"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=87.988s" clip-end="npt=88.845s" id="audio_0015"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=88.845s" clip-end="npt=91.262s" id="audio_0016"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=91.262s" clip-end="npt=111.415s" id="audio_0017"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=111.415s" clip-end="npt=117.254s" id="audio_0018"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=117.254s" clip-end="npt=128.290s" id="audio_0019"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=128.290s" clip-end="npt=131.778s" id="audio_0020"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=131.778s" clip-end="npt=142.423s" id="audio_0021"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=142.423s" clip-end="npt=144.669s" id="audio_0022"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=144.669s" clip-end="npt=151.187s" id="audio_0023"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=151.187s" clip-end="npt=156.411s" id="audio_0024"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=156.411s" clip-end="npt=160.447s" id="audio_0025"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=160.447s" clip-end="npt=169.459s" id="audio_0026"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=169.459s" clip-end="npt=173.051s" id="audio_0027"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=173.051s" clip-end="npt=179.151s" id="audio_0028"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=179.151s" clip-end="npt=185.655s" id="audio_0029"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=185.655s" clip-end="npt=190.958s" id="audio_0030"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=190.958s" clip-end="npt=196.862s" id="audio_0031"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=196.862s" clip-end="npt=198.991s" id="audio_0032"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=198.991s" clip-end="npt=210.041s" id="audio_0033"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=210.041s" clip-end="npt=217.642s" id="audio_0034"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=217.642s" clip-end="npt=228.313s" id="audio_0035"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=228.313s" clip-end="npt=248.179s" id="audio_0036"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=248.179s" clip-end="npt=250.960s" id="audio_0037"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0525" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_051f" id="ybue_0526"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#ybue_051c" id="ybue_0527"/>
+				<seq>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=250.960s" clip-end="npt=252.263s" id="audio_0038"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=252.263s" clip-end="npt=253.120s" id="audio_0039"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=253.120s" clip-end="npt=254.792s" id="audio_0040"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=254.792s" clip-end="npt=256.934s" id="audio_0041"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=256.934s" clip-end="npt=261.949s" id="audio_0042"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=261.949s" clip-end="npt=273.012s" id="audio_0043"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=273.012s" clip-end="npt=277.479s" id="audio_0044"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=277.479s" clip-end="npt=281.123s" id="audio_0045"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=281.123s" clip-end="npt=282.338s" id="audio_0046"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=282.338s" clip-end="npt=287.523s" id="audio_0047"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=287.523s" clip-end="npt=288.882s" id="audio_0048"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=288.882s" clip-end="npt=292.696s" id="audio_0049"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=292.696s" clip-end="npt=295.020s" id="audio_0050"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=295.020s" clip-end="npt=297.123s" id="audio_0051"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=297.123s" clip-end="npt=298.247s" id="audio_0052"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=298.247s" clip-end="npt=299.827s" id="audio_0053"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=299.827s" clip-end="npt=300.911s" id="audio_0054"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=300.911s" clip-end="npt=306.331s" id="audio_0055"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=306.331s" clip-end="npt=309.440s" id="audio_0056"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=309.440s" clip-end="npt=312.509s" id="audio_0057"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=312.509s" clip-end="npt=314.325s" id="audio_0058"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=314.325s" clip-end="npt=317.460s" id="audio_0059"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=317.460s" clip-end="npt=318.622s" id="audio_0060"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=318.622s" clip-end="npt=321.626s" id="audio_0061"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=321.626s" clip-end="npt=326.328s" id="audio_0062"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=326.328s" clip-end="npt=328.753s" id="audio_0063"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0528" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0520" id="ybue_052a"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#ybue_051c" id="ybue_052b"/>
+				<seq>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=328.753s" clip-end="npt=330.063s" id="audio_0064"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=330.063s" clip-end="npt=330.920s" id="audio_0065"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=330.920s" clip-end="npt=332.474s" id="audio_0066"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=332.474s" clip-end="npt=334.668s" id="audio_0067"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=334.668s" clip-end="npt=336.484s" id="audio_0068"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=336.484s" clip-end="npt=338.221s" id="audio_0069"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=338.221s" clip-end="npt=344.686s" id="audio_0070"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=344.686s" clip-end="npt=345.953s" id="audio_0071"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=345.953s" clip-end="npt=348.435s" id="audio_0072"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=348.435s" clip-end="npt=354.208s" id="audio_0073"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=354.208s" clip-end="npt=355.906s" id="audio_0074"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=355.906s" clip-end="npt=362.476s" id="audio_0075"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=362.476s" clip-end="npt=366.629s" id="audio_0076"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=366.629s" clip-end="npt=370.456s" id="audio_0077"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=370.456s" clip-end="npt=371.671s" id="audio_0078"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=371.671s" clip-end="npt=374.753s" id="audio_0079"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=374.753s" clip-end="npt=375.837s" id="audio_0080"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=375.837s" clip-end="npt=377.705s" id="audio_0081"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=377.705s" clip-end="npt=378.907s" id="audio_0082"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=378.907s" clip-end="npt=382.002s" id="audio_0083"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=382.002s" clip-end="npt=383.178s" id="audio_0084"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=383.178s" clip-end="npt=387.749s" id="audio_0085"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=387.749s" clip-end="npt=401.782s" id="audio_0086"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=401.782s" clip-end="npt=403.336s" id="audio_0087"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=403.336s" clip-end="npt=406.327s" id="audio_0088"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=406.327s" clip-end="npt=407.959s" id="audio_0089"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=407.959s" clip-end="npt=413.223s" id="audio_0090"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=413.223s" clip-end="npt=414.581s" id="audio_0091"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=414.581s" clip-end="npt=419.989s" id="audio_0092"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=419.989s" clip-end="npt=421.438s" id="audio_0093"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=421.438s" clip-end="npt=427.473s" id="audio_0094"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=427.473s" clip-end="npt=431.052s" id="audio_0095"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pbbn_021f" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0521" id="pbbn_0220"/>
+			</par>
+			<par endsync="last" id="yelj_0001">
+				<text src="ncc.html#ybue_051c" id="pbbn_0221"/>
+				<seq>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=431.052s" clip-end="npt=431.909s" id="audio_0096"/>
+					<audio src="27_Lesson_26_A__The_Reception_Desk_and_you.mp3" clip-begin="npt=431.909s" clip-end="npt=433.576s" id="audio_0097"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:41:38.270"/>
+		<meta name="ncc:totalElapsedTime" content="14:55:51.077"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Question Paper Design"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="2498.270s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_00d7" id="jjoy_00d7"/>
+			</par>
+			<par endsync="last" id="zfml_0001" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0025" id="zfml_0002"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_00d7" id="zfml_0003"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=0.000s" clip-end="npt=1.189s" id="audio_0001"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1.189s" clip-end="npt=4.441s" id="audio_0002"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=4.441s" clip-end="npt=6.883s" id="audio_0003"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=6.883s" clip-end="npt=8.960s" id="audio_0004"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=8.960s" clip-end="npt=14.028s" id="audio_0005"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=14.028s" clip-end="npt=18.442s" id="audio_0006"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=18.442s" clip-end="npt=23.380s" id="audio_0007"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=23.380s" clip-end="npt=25.287s" id="audio_0008"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=25.287s" clip-end="npt=30.002s" id="audio_0009"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=30.002s" clip-end="npt=35.148s" id="audio_0010"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=35.148s" clip-end="npt=36.715s" id="audio_0011"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=36.715s" clip-end="npt=43.311s" id="audio_0012"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=43.311s" clip-end="npt=48.379s" id="audio_0013"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=48.379s" clip-end="npt=49.646s" id="audio_0014"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=49.646s" clip-end="npt=60.748s" id="audio_0015"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=60.748s" clip-end="npt=70.975s" id="audio_0016"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=70.975s" clip-end="npt=74.305s" id="audio_0017"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=74.305s" clip-end="npt=76.643s" id="audio_0018"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=76.643s" clip-end="npt=82.064s" id="audio_0019"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=82.064s" clip-end="npt=82.730s" id="audio_0020"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=82.730s" clip-end="npt=83.788s" id="audio_0021"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=83.788s" clip-end="npt=88.790s" id="audio_0022"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=88.790s" clip-end="npt=96.065s" id="audio_0023"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=96.065s" clip-end="npt=99.461s" id="audio_0024"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=99.461s" clip-end="npt=104.803s" id="audio_0025"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=104.803s" clip-end="npt=110.929s" id="audio_0026"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=110.929s" clip-end="npt=116.088s" id="audio_0027"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=116.088s" clip-end="npt=119.993s" id="audio_0028"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=119.993s" clip-end="npt=124.604s" id="audio_0029"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=124.604s" clip-end="npt=131.383s" id="audio_0030"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=131.383s" clip-end="npt=133.381s" id="audio_0031"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=133.381s" clip-end="npt=137.221s" id="audio_0032"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=137.221s" clip-end="npt=140.656s" id="audio_0033"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=140.656s" clip-end="npt=143.909s" id="audio_0034"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=143.909s" clip-end="npt=146.991s" id="audio_0035"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=146.991s" clip-end="npt=158.602s" id="audio_0036"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=158.602s" clip-end="npt=161.162s" id="audio_0037"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=161.162s" clip-end="npt=164.088s" id="audio_0038"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=164.088s" clip-end="npt=166.700s" id="audio_0039"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=166.700s" clip-end="npt=176.901s" id="audio_0040"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=176.901s" clip-end="npt=190.890s" id="audio_0041"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=190.890s" clip-end="npt=196.036s" id="audio_0042"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=196.036s" clip-end="npt=204.160s" id="audio_0043"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=204.160s" clip-end="npt=210.207s" id="audio_0044"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=210.207s" clip-end="npt=211.918s" id="audio_0045"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=211.918s" clip-end="npt=215.732s" id="audio_0046"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=215.732s" clip-end="npt=217.287s" id="audio_0047"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=217.287s" clip-end="npt=222.720s" id="audio_0048"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=222.720s" clip-end="npt=227.200s" id="audio_0049"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=227.200s" clip-end="npt=230.296s" id="audio_0050"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=230.296s" clip-end="npt=237.767s" id="audio_0051"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=237.767s" clip-end="npt=241.424s" id="audio_0052"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=241.424s" clip-end="npt=243.131s" id="audio_0053"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfml_0004" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0026" id="zfml_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_00d7" id="zfml_0007"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=243.131s" clip-end="npt=244.064s" id="audio_0054"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfml_0008" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0027" id="zfml_0009"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_00d7" id="zfml_000a"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=244.064s" clip-end="npt=248.945s" id="audio_0055"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=248.945s" clip-end="npt=250.721s" id="audio_0056"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=250.721s" clip-end="npt=259.028s" id="audio_0057"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=259.028s" clip-end="npt=261.379s" id="audio_0058"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=261.379s" clip-end="npt=262.437s" id="audio_0059"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=262.437s" clip-end="npt=268.028s" id="audio_0060"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=268.028s" clip-end="npt=279.495s" id="audio_0061"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=279.495s" clip-end="npt=287.437s" id="audio_0062"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=287.437s" clip-end="npt=289.304s" id="audio_0063"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=289.304s" clip-end="npt=297.872s" id="audio_0064"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=297.872s" clip-end="npt=299.962s" id="audio_0065"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=299.962s" clip-end="npt=304.050s" id="audio_0066"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=304.050s" clip-end="npt=305.696s" id="audio_0067"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=305.696s" clip-end="npt=313.180s" id="audio_0068"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=313.180s" clip-end="npt=316.498s" id="audio_0069"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=316.498s" clip-end="npt=318.470s" id="audio_0070"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=318.470s" clip-end="npt=330.160s" id="audio_0071"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=330.160s" clip-end="npt=336.103s" id="audio_0072"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=336.103s" clip-end="npt=341.340s" id="audio_0073"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=341.340s" clip-end="npt=356.570s" id="audio_0074"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=356.570s" clip-end="npt=367.228s" id="audio_0075"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=367.228s" clip-end="npt=369.383s" id="audio_0076"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=369.383s" clip-end="npt=375.626s" id="audio_0077"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=375.626s" clip-end="npt=401.944s" id="audio_0078"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=401.944s" clip-end="npt=406.007s" id="audio_0079"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=406.007s" clip-end="npt=407.155s" id="audio_0080"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfml_000b" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0028" id="zfml_000d"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_00d7" id="zfml_000e"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=407.155s" clip-end="npt=414.449s" id="audio_0081"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=414.449s" clip-end="npt=424.623s" id="audio_0082"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=424.623s" clip-end="npt=438.076s" id="audio_0083"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=438.076s" clip-end="npt=453.971s" id="audio_0084"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=453.971s" clip-end="npt=456.544s" id="audio_0085"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=456.544s" clip-end="npt=464.851s" id="audio_0086"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=464.851s" clip-end="npt=466.419s" id="audio_0087"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=466.419s" clip-end="npt=472.087s" id="audio_0088"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=472.087s" clip-end="npt=473.759s" id="audio_0089"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=473.759s" clip-end="npt=479.062s" id="audio_0090"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=479.062s" clip-end="npt=480.342s" id="audio_0091"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=480.342s" clip-end="npt=488.923s" id="audio_0092"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=488.923s" clip-end="npt=492.397s" id="audio_0093"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=492.397s" clip-end="npt=499.046s" id="audio_0094"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=499.046s" clip-end="npt=503.186s" id="audio_0095"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=503.186s" clip-end="npt=504.662s" id="audio_0096"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=504.662s" clip-end="npt=506.856s" id="audio_0097"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=506.856s" clip-end="npt=516.770s" id="audio_0098"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=516.770s" clip-end="npt=520.348s" id="audio_0099"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=520.348s" clip-end="npt=523.601s" id="audio_0100"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=523.601s" clip-end="npt=534.141s" id="audio_0101"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=534.141s" clip-end="npt=535.565s" id="audio_0102"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=535.565s" clip-end="npt=536.949s" id="audio_0103"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=536.949s" clip-end="npt=542.696s" id="audio_0104"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=542.696s" clip-end="npt=557.064s" id="audio_0105"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=557.064s" clip-end="npt=558.278s" id="audio_0106"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=558.278s" clip-end="npt=565.423s" id="audio_0107"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=565.423s" clip-end="npt=567.630s" id="audio_0108"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=567.630s" clip-end="npt=573.952s" id="audio_0109"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=573.952s" clip-end="npt=578.157s" id="audio_0110"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=578.157s" clip-end="npt=582.703s" id="audio_0111"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=582.703s" clip-end="npt=596.757s" id="audio_0112"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=596.757s" clip-end="npt=602.713s" id="audio_0113"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=602.713s" clip-end="npt=614.311s" id="audio_0114"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=614.311s" clip-end="npt=616.546s" id="audio_0115"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=616.546s" clip-end="npt=624.148s" id="audio_0116"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=624.148s" clip-end="npt=625.963s" id="audio_0117"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=625.963s" clip-end="npt=631.305s" id="audio_0118"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=631.305s" clip-end="npt=632.651s" id="audio_0119"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=632.651s" clip-end="npt=633.970s" id="audio_0120"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=633.970s" clip-end="npt=639.312s" id="audio_0121"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=639.312s" clip-end="npt=640.958s" id="audio_0122"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=640.958s" clip-end="npt=644.301s" id="audio_0123"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=644.301s" clip-end="npt=646.156s" id="audio_0124"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=646.156s" clip-end="npt=650.244s" id="audio_0125"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=650.244s" clip-end="npt=651.694s" id="audio_0126"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=651.694s" clip-end="npt=658.839s" id="audio_0127"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=658.839s" clip-end="npt=661.516s" id="audio_0128"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=661.516s" clip-end="npt=663.554s" id="audio_0129"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfml_000f" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0029" id="zfml_0010"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_00d7" id="zfml_0011"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=663.554s" clip-end="npt=664.392s" id="audio_0130"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=664.392s" clip-end="npt=666.612s" id="audio_0131"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=666.612s" clip-end="npt=671.876s" id="audio_0132"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=671.876s" clip-end="npt=675.677s" id="audio_0133"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=675.677s" clip-end="npt=679.922s" id="audio_0134"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=679.922s" clip-end="npt=680.940s" id="audio_0135"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=680.940s" clip-end="npt=688.777s" id="audio_0136"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=688.777s" clip-end="npt=697.097s" id="audio_0137"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=697.097s" clip-end="npt=698.338s" id="audio_0138"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=698.338s" clip-end="npt=703.445s" id="audio_0139"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=703.445s" clip-end="npt=706.658s" id="audio_0140"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=706.658s" clip-end="npt=711.504s" id="audio_0141"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=711.504s" clip-end="npt=720.098s" id="audio_0142"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=720.098s" clip-end="npt=724.356s" id="audio_0143"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=724.356s" clip-end="npt=728.954s" id="audio_0144"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=728.954s" clip-end="npt=731.683s" id="audio_0145"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=731.683s" clip-end="npt=733.185s" id="audio_0146"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=733.185s" clip-end="npt=738.397s" id="audio_0147"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=738.397s" clip-end="npt=743.896s" id="audio_0148"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=743.896s" clip-end="npt=747.945s" id="audio_0149"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=747.945s" clip-end="npt=751.314s" id="audio_0150"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=751.314s" clip-end="npt=760.327s" id="audio_0151"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=760.327s" clip-end="npt=765.773s" id="audio_0152"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=765.773s" clip-end="npt=771.946s" id="audio_0153"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=771.946s" clip-end="npt=772.696s" id="audio_0154"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=772.696s" clip-end="npt=773.525s" id="audio_0155"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=773.525s" clip-end="npt=779.050s" id="audio_0156"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=779.050s" clip-end="npt=785.306s" id="audio_0157"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=785.306s" clip-end="npt=803.292s" id="audio_0158"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=803.292s" clip-end="npt=805.590s" id="audio_0159"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=805.590s" clip-end="npt=807.706s" id="audio_0160"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=807.706s" clip-end="npt=811.821s" id="audio_0161"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=811.821s" clip-end="npt=814.707s" id="audio_0162"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=814.707s" clip-end="npt=816.914s" id="audio_0163"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=816.914s" clip-end="npt=818.208s" id="audio_0164"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=818.208s" clip-end="npt=821.721s" id="audio_0165"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=821.721s" clip-end="npt=825.221s" id="audio_0166"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=825.221s" clip-end="npt=827.285s" id="audio_0167"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=827.285s" clip-end="npt=828.944s" id="audio_0168"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=828.944s" clip-end="npt=835.461s" id="audio_0169"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=835.461s" clip-end="npt=838.047s" id="audio_0170"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=838.047s" clip-end="npt=839.523s" id="audio_0171"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=839.523s" clip-end="npt=843.500s" id="audio_0172"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfml_0013" system-required="pagenumber-on">
+				<text src="ncc.html#iime_002a" id="zfml_0015"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_00d7" id="zfml_0016"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=843.500s" clip-end="npt=845.510s" id="audio_0173"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=845.510s" clip-end="npt=847.992s" id="audio_0174"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=847.992s" clip-end="npt=851.453s" id="audio_0175"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=851.453s" clip-end="npt=854.013s" id="audio_0176"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=854.013s" clip-end="npt=859.708s" id="audio_0177"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=859.708s" clip-end="npt=866.016s" id="audio_0178"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=866.016s" clip-end="npt=869.386s" id="audio_0179"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=869.386s" clip-end="npt=872.939s" id="audio_0180"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=872.939s" clip-end="npt=880.554s" id="audio_0181"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=880.554s" clip-end="npt=882.565s" id="audio_0182"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=882.565s" clip-end="npt=884.054s" id="audio_0183"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=884.054s" clip-end="npt=890.167s" id="audio_0184"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=890.167s" clip-end="npt=894.803s" id="audio_0185"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=894.803s" clip-end="npt=898.042s" id="audio_0186"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=898.042s" clip-end="npt=900.080s" id="audio_0187"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=900.080s" clip-end="npt=906.167s" id="audio_0188"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=906.167s" clip-end="npt=911.561s" id="audio_0189"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=911.561s" clip-end="npt=915.231s" id="audio_0190"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=915.231s" clip-end="npt=919.894s" id="audio_0191"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=919.894s" clip-end="npt=923.290s" id="audio_0192"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=923.290s" clip-end="npt=936.717s" id="audio_0193"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=936.717s" clip-end="npt=937.393s" id="audio_0194"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=937.393s" clip-end="npt=942.369s" id="audio_0195"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=942.369s" clip-end="npt=943.871s" id="audio_0196"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=943.871s" clip-end="npt=958.696s" id="audio_0197"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=958.696s" clip-end="npt=977.765s" id="audio_0198"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=977.765s" clip-end="npt=984.196s" id="audio_0199"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfml_0017" system-required="pagenumber-on">
+				<text src="ncc.html#iime_002b" id="zfml_0018"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#jjoy_00d7" id="zfml_0019"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=984.196s" clip-end="npt=985.329s" id="audio_0200"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=985.329s" clip-end="npt=996.301s" id="audio_0201"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=996.301s" clip-end="npt=1008.827s" id="audio_0202"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1008.827s" clip-end="npt=1012.510s" id="audio_0203"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1012.510s" clip-end="npt=1019.537s" id="audio_0204"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1019.537s" clip-end="npt=1023.560s" id="audio_0205"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1023.560s" clip-end="npt=1025.675s" id="audio_0206"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1025.675s" clip-end="npt=1031.292s" id="audio_0207"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1031.292s" clip-end="npt=1033.852s" id="audio_0208"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1033.852s" clip-end="npt=1039.899s" id="audio_0209"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1039.899s" clip-end="npt=1046.926s" id="audio_0210"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1046.926s" clip-end="npt=1060.523s" id="audio_0211"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1060.523s" clip-end="npt=1067.367s" id="audio_0212"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1067.367s" clip-end="npt=1077.098s" id="audio_0213"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1077.098s" clip-end="npt=1084.373s" id="audio_0214"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1084.373s" clip-end="npt=1088.800s" id="audio_0215"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1088.800s" clip-end="npt=1094.613s" id="audio_0216"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1094.613s" clip-end="npt=1098.296s" id="audio_0217"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1098.296s" clip-end="npt=1108.353s" id="audio_0218"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1108.353s" clip-end="npt=1113.630s" id="audio_0219"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1113.630s" clip-end="npt=1123.295s" id="audio_0220"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1123.295s" clip-end="npt=1142.795s" id="audio_0221"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1142.795s" clip-end="npt=1160.010s" id="audio_0222"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1160.010s" clip-end="npt=1168.721s" id="audio_0223"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1168.721s" clip-end="npt=1175.852s" id="audio_0224"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1175.852s" clip-end="npt=1178.412s" id="audio_0225"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1178.412s" clip-end="npt=1187.503s" id="audio_0226"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1187.503s" clip-end="npt=1189.501s" id="audio_0227"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1189.501s" clip-end="npt=1194.347s" id="audio_0228"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1194.347s" clip-end="npt=1195.849s" id="audio_0229"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1195.849s" clip-end="npt=1206.586s" id="audio_0230"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1206.586s" clip-end="npt=1212.620s" id="audio_0231"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1212.620s" clip-end="npt=1219.386s" id="audio_0232"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1219.386s" clip-end="npt=1225.642s" id="audio_0233"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1225.642s" clip-end="npt=1230.083s" id="audio_0234"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1230.083s" clip-end="npt=1235.438s" id="audio_0235"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#iime_002c" id="eqdl_0001"/>
+			</par>
+			<par endsync="last" id="eqdl_0002">
+				<text src="ncc.html#jjoy_00d7" id="par_0004"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1235.438s" clip-end="npt=1237.188s" id="audio_0236"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1237.188s" clip-end="npt=1239.605s" id="audio_0237"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1239.605s" clip-end="npt=1244.202s" id="audio_0238"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1244.202s" clip-end="npt=1249.831s" id="audio_0239"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1249.831s" clip-end="npt=1258.387s" id="audio_0240"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1258.387s" clip-end="npt=1266.445s" id="audio_0241"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1266.445s" clip-end="npt=1268.052s" id="audio_0242"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1268.052s" clip-end="npt=1270.821s" id="audio_0243"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1270.821s" clip-end="npt=1272.101s" id="audio_0244"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1272.101s" clip-end="npt=1276.607s" id="audio_0245"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1276.607s" clip-end="npt=1278.357s" id="audio_0246"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1278.357s" clip-end="npt=1283.673s" id="audio_0247"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1283.673s" clip-end="npt=1287.996s" id="audio_0248"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1287.996s" clip-end="npt=1290.138s" id="audio_0249"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1290.138s" clip-end="npt=1294.109s" id="audio_0250"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1294.109s" clip-end="npt=1299.529s" id="audio_0251"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1299.529s" clip-end="npt=1302.978s" id="audio_0252"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1302.978s" clip-end="npt=1304.924s" id="audio_0253"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1304.924s" clip-end="npt=1310.031s" id="audio_0254"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1310.031s" clip-end="npt=1313.923s" id="audio_0255"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1313.923s" clip-end="npt=1319.121s" id="audio_0256"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1319.121s" clip-end="npt=1320.819s" id="audio_0257"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1320.819s" clip-end="npt=1322.243s" id="audio_0258"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1322.243s" clip-end="npt=1330.119s" id="audio_0259"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1330.119s" clip-end="npt=1332.666s" id="audio_0260"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1332.666s" clip-end="npt=1333.737s" id="audio_0261"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1333.737s" clip-end="npt=1338.360s" id="audio_0262"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1338.360s" clip-end="npt=1339.849s" id="audio_0263"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1339.849s" clip-end="npt=1345.387s" id="audio_0264"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1345.387s" clip-end="npt=1351.879s" id="audio_0265"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1351.879s" clip-end="npt=1353.825s" id="audio_0266"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1353.825s" clip-end="npt=1355.131s" id="audio_0267"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1355.131s" clip-end="npt=1359.480s" id="audio_0268"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1359.480s" clip-end="npt=1361.335s" id="audio_0269"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1361.335s" clip-end="npt=1362.824s" id="audio_0270"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1362.824s" clip-end="npt=1364.548s" id="audio_0271"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1364.548s" clip-end="npt=1366.873s" id="audio_0272"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1366.873s" clip-end="npt=1367.853s" id="audio_0273"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1367.853s" clip-end="npt=1370.517s" id="audio_0274"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1370.517s" clip-end="npt=1371.862s" id="audio_0275"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1371.862s" clip-end="npt=1375.115s" id="audio_0276"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1375.115s" clip-end="npt=1376.617s" id="audio_0277"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1376.617s" clip-end="npt=1380.065s" id="audio_0278"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1380.065s" clip-end="npt=1381.985s" id="audio_0279"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1381.985s" clip-end="npt=1386.452s" id="audio_0280"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1386.452s" clip-end="npt=1388.463s" id="audio_0281"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1388.463s" clip-end="npt=1393.479s" id="audio_0282"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1393.479s" clip-end="npt=1395.111s" id="audio_0283"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1395.111s" clip-end="npt=1396.418s" id="audio_0284"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1396.418s" clip-end="npt=1398.155s" id="audio_0285"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1398.155s" clip-end="npt=1400.192s" id="audio_0286"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1400.192s" clip-end="npt=1404.189s" id="audio_0287"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1404.189s" clip-end="npt=1407.206s" id="audio_0288"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1407.206s" clip-end="npt=1408.643s" id="audio_0289"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1408.643s" clip-end="npt=1412.326s" id="audio_0290"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1412.326s" clip-end="npt=1414.089s" id="audio_0291"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1414.089s" clip-end="npt=1416.245s" id="audio_0292"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1416.245s" clip-end="npt=1418.831s" id="audio_0293"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1418.831s" clip-end="npt=1421.064s" id="audio_0294"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1421.064s" clip-end="npt=1423.872s" id="audio_0295"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1423.872s" clip-end="npt=1426.158s" id="audio_0296"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1426.158s" clip-end="npt=1432.898s" id="audio_0297"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1432.898s" clip-end="npt=1441.074s" id="audio_0298"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1441.074s" clip-end="npt=1443.869s" id="audio_0299"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1443.869s" clip-end="npt=1446.716s" id="audio_0300"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1446.716s" clip-end="npt=1455.467s" id="audio_0301"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1455.467s" clip-end="npt=1459.177s" id="audio_0302"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1459.177s" clip-end="npt=1464.858s" id="audio_0303"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1464.858s" clip-end="npt=1470.827s" id="audio_0304"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1470.827s" clip-end="npt=1472.865s" id="audio_0305"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1472.865s" clip-end="npt=1476.587s" id="audio_0306"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1476.587s" clip-end="npt=1478.325s" id="audio_0307"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1478.325s" clip-end="npt=1484.058s" id="audio_0308"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1484.058s" clip-end="npt=1494.325s" id="audio_0309"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1494.325s" clip-end="npt=1496.179s" id="audio_0310"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1496.179s" clip-end="npt=1498.413s" id="audio_0311"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1498.413s" clip-end="npt=1501.037s" id="audio_0312"/>
+				</seq>
+			</par>
+			<par endsync="last" id="eqdl_009d" system-required="pagenumber-on">
+				<text src="ncc.html#iime_002d" id="eqdl_009e"/>
+			</par>
+			<par endsync="last" id="eqdl_009f">
+				<text src="ncc.html#jjoy_00d7" id="par_0008"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1501.037s" clip-end="npt=1502.760s" id="audio_0313"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1502.760s" clip-end="npt=1505.699s" id="audio_0314"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1505.699s" clip-end="npt=1508.572s" id="audio_0315"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1508.572s" clip-end="npt=1510.414s" id="audio_0316"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1510.414s" clip-end="npt=1516.252s" id="audio_0317"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1516.252s" clip-end="npt=1528.673s" id="audio_0318"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1528.673s" clip-end="npt=1531.286s" id="audio_0319"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1531.286s" clip-end="npt=1532.918s" id="audio_0320"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1532.918s" clip-end="npt=1538.430s" id="audio_0321"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1538.430s" clip-end="npt=1543.746s" id="audio_0322"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1543.746s" clip-end="npt=1548.801s" id="audio_0323"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1548.801s" clip-end="npt=1552.523s" id="audio_0324"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1552.523s" clip-end="npt=1556.415s" id="audio_0325"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1556.415s" clip-end="npt=1559.694s" id="audio_0326"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1559.694s" clip-end="npt=1562.632s" id="audio_0327"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1562.632s" clip-end="npt=1569.163s" id="audio_0328"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1569.163s" clip-end="npt=1575.472s" id="audio_0329"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1575.472s" clip-end="npt=1585.150s" id="audio_0330"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1585.150s" clip-end="npt=1587.606s" id="audio_0331"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1587.606s" clip-end="npt=1590.009s" id="audio_0332"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1590.009s" clip-end="npt=1591.681s" id="audio_0333"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1591.681s" clip-end="npt=1595.468s" id="audio_0334"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1595.468s" clip-end="npt=1599.191s" id="audio_0335"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1599.191s" clip-end="npt=1600.614s" id="audio_0336"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1600.614s" clip-end="npt=1602.600s" id="audio_0337"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1602.600s" clip-end="npt=1604.428s" id="audio_0338"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1604.428s" clip-end="npt=1611.481s" id="audio_0339"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1611.481s" clip-end="npt=1613.637s" id="audio_0340"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1613.637s" clip-end="npt=1614.865s" id="audio_0341"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1614.865s" clip-end="npt=1620.690s" id="audio_0342"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1620.690s" clip-end="npt=1622.793s" id="audio_0343"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1622.793s" clip-end="npt=1627.142s" id="audio_0344"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1627.142s" clip-end="npt=1629.702s" id="audio_0345"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1629.702s" clip-end="npt=1630.812s" id="audio_0346"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1630.812s" clip-end="npt=1640.791s" id="audio_0347"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1640.791s" clip-end="npt=1643.874s" id="audio_0348"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1643.874s" clip-end="npt=1646.395s" id="audio_0349"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1646.395s" clip-end="npt=1647.857s" id="audio_0350"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1647.857s" clip-end="npt=1649.111s" id="audio_0351"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1649.111s" clip-end="npt=1653.826s" id="audio_0352"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1653.826s" clip-end="npt=1655.864s" id="audio_0353"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1655.864s" clip-end="npt=1660.252s" id="audio_0354"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1660.252s" clip-end="npt=1662.381s" id="audio_0355"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1662.381s" clip-end="npt=1663.779s" id="audio_0356"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1663.779s" clip-end="npt=1670.153s" id="audio_0357"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1670.153s" clip-end="npt=1672.151s" id="audio_0358"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1672.151s" clip-end="npt=1675.730s" id="audio_0359"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1675.730s" clip-end="npt=1679.061s" id="audio_0360"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1679.061s" clip-end="npt=1681.346s" id="audio_0361"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1681.346s" clip-end="npt=1686.114s" id="audio_0362"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1686.114s" clip-end="npt=1688.556s" id="audio_0363"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1688.556s" clip-end="npt=1699.410s" id="audio_0364"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1699.410s" clip-end="npt=1702.127s" id="audio_0365"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1702.127s" clip-end="npt=1706.293s" id="audio_0366"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1706.293s" clip-end="npt=1709.598s" id="audio_0367"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1709.598s" clip-end="npt=1711.740s" id="audio_0368"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1711.740s" clip-end="npt=1713.869s" id="audio_0369"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1713.869s" clip-end="npt=1716.755s" id="audio_0370"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1716.755s" clip-end="npt=1718.388s" id="audio_0371"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1718.388s" clip-end="npt=1722.359s" id="audio_0372"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1722.359s" clip-end="npt=1725.101s" id="audio_0373"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1725.101s" clip-end="npt=1727.270s" id="audio_0374"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1727.270s" clip-end="npt=1734.048s" id="audio_0375"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1734.048s" clip-end="npt=1745.320s" id="audio_0376"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1745.320s" clip-end="npt=1748.115s" id="audio_0377"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1748.115s" clip-end="npt=1750.048s" id="audio_0378"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1750.048s" clip-end="npt=1751.067s" id="audio_0379"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1751.067s" clip-end="npt=1754.241s" id="audio_0380"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1754.241s" clip-end="npt=1756.762s" id="audio_0381"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1756.762s" clip-end="npt=1758.760s" id="audio_0382"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1758.760s" clip-end="npt=1760.092s" id="audio_0383"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1760.092s" clip-end="npt=1768.151s" id="audio_0384"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1768.151s" clip-end="npt=1771.377s" id="audio_0385"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1771.377s" clip-end="npt=1774.551s" id="audio_0386"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1774.551s" clip-end="npt=1776.288s" id="audio_0387"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1776.288s" clip-end="npt=1783.903s" id="audio_0388"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1783.903s" clip-end="npt=1786.842s" id="audio_0389"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1786.842s" clip-end="npt=1790.799s" id="audio_0390"/>
+				</seq>
+			</par>
+			<par endsync="last" id="eqdl_013c" system-required="pagenumber-on">
+				<text src="ncc.html#iime_002e" id="par_000a"/>
+			</par>
+			<par endsync="last" id="eqdl_013d">
+				<text src="ncc.html#jjoy_00d7" id="par_000b"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1790.799s" clip-end="npt=1793.137s" id="audio_0391"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1793.137s" clip-end="npt=1795.357s" id="audio_0392"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1795.357s" clip-end="npt=1796.833s" id="audio_0393"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1796.833s" clip-end="npt=1799.942s" id="audio_0394"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1799.942s" clip-end="npt=1809.555s" id="audio_0395"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1809.555s" clip-end="npt=1812.154s" id="audio_0396"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1812.154s" clip-end="npt=1820.369s" id="audio_0397"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1820.369s" clip-end="npt=1823.595s" id="audio_0398"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1823.595s" clip-end="npt=1826.978s" id="audio_0399"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1826.978s" clip-end="npt=1832.464s" id="audio_0400"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1832.464s" clip-end="npt=1840.823s" id="audio_0401"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1840.823s" clip-end="npt=1843.631s" id="audio_0402"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1843.631s" clip-end="npt=1847.341s" id="audio_0403"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1847.341s" clip-end="npt=1850.946s" id="audio_0404"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1850.946s" clip-end="npt=1856.131s" id="audio_0405"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1856.131s" clip-end="npt=1860.650s" id="audio_0406"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1860.650s" clip-end="npt=1866.645s" id="audio_0407"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1866.645s" clip-end="npt=1868.461s" id="audio_0408"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1868.461s" clip-end="npt=1870.511s" id="audio_0409"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1870.511s" clip-end="npt=1875.318s" id="audio_0410"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1875.318s" clip-end="npt=1877.773s" id="audio_0411"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1877.773s" clip-end="npt=1885.166s" id="audio_0412"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1885.166s" clip-end="npt=1886.720s" id="audio_0413"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1886.720s" clip-end="npt=1889.555s" id="audio_0414"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1889.555s" clip-end="npt=1891.840s" id="audio_0415"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1891.840s" clip-end="npt=1894.831s" id="audio_0416"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1894.831s" clip-end="npt=1899.638s" id="audio_0417"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1899.638s" clip-end="npt=1901.192s" id="audio_0418"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1901.192s" clip-end="npt=1903.191s" id="audio_0419"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1903.191s" clip-end="npt=1905.084s" id="audio_0420"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1905.084s" clip-end="npt=1907.475s" id="audio_0421"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1907.475s" clip-end="npt=1916.513s" id="audio_0422"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1916.513s" clip-end="npt=1918.694s" id="audio_0423"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1918.694s" clip-end="npt=1939.775s" id="audio_0424"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1939.775s" clip-end="npt=1950.982s" id="audio_0425"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1950.982s" clip-end="npt=1961.444s" id="audio_0426"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1961.444s" clip-end="npt=1968.444s" id="audio_0427"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1968.444s" clip-end="npt=1970.769s" id="audio_0428"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1970.769s" clip-end="npt=1975.158s" id="audio_0429"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1975.158s" clip-end="npt=1976.960s" id="audio_0430"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1976.960s" clip-end="npt=1982.237s" id="audio_0431"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1982.237s" clip-end="npt=1986.129s" id="audio_0432"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1986.129s" clip-end="npt=1995.024s" id="audio_0433"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1995.024s" clip-end="npt=1999.648s" id="audio_0434"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=1999.648s" clip-end="npt=2003.278s" id="audio_0435"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000c" system-required="pagenumber-on">
+				<text src="ncc.html#iime_002f" id="par_000d"/>
+			</par>
+			<par endsync="last" id="eqdl_0198">
+				<text src="ncc.html#jjoy_00d7" id="par_000e"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2003.278s" clip-end="npt=2004.895s" id="audio_0436"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2004.895s" clip-end="npt=2006.671s" id="audio_0437"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2006.671s" clip-end="npt=2009.819s" id="audio_0438"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2009.819s" clip-end="npt=2015.657s" id="audio_0439"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2015.657s" clip-end="npt=2017.251s" id="audio_0440"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2017.251s" clip-end="npt=2024.030s" id="audio_0441"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2024.030s" clip-end="npt=2031.553s" id="audio_0442"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2031.553s" clip-end="npt=2033.303s" id="audio_0443"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2033.303s" clip-end="npt=2036.542s" id="audio_0444"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2036.542s" clip-end="npt=2039.337s" id="audio_0445"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2039.337s" clip-end="npt=2042.394s" id="audio_0446"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2042.394s" clip-end="npt=2049.029s" id="audio_0447"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2049.029s" clip-end="npt=2052.934s" id="audio_0448"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2052.934s" clip-end="npt=2055.599s" id="audio_0449"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2055.599s" clip-end="npt=2061.750s" id="audio_0450"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2061.750s" clip-end="npt=2066.178s" id="audio_0451"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2066.178s" clip-end="npt=2071.533s" id="audio_0452"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2071.533s" clip-end="npt=2074.942s" id="audio_0453"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2074.942s" clip-end="npt=2079.605s" id="audio_0454"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2079.605s" clip-end="npt=2081.812s" id="audio_0455"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2081.812s" clip-end="npt=2084.608s" id="audio_0456"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2084.608s" clip-end="npt=2087.272s" id="audio_0457"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2087.272s" clip-end="npt=2090.433s" id="audio_0458"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2090.433s" clip-end="npt=2094.952s" id="audio_0459"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2094.952s" clip-end="npt=2100.085s" id="audio_0460"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2100.085s" clip-end="npt=2105.140s" id="audio_0461"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2105.140s" clip-end="npt=2107.073s" id="audio_0462"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2107.073s" clip-end="npt=2109.803s" id="audio_0463"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2109.803s" clip-end="npt=2119.233s" id="audio_0464"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2119.233s" clip-end="npt=2121.218s" id="audio_0465"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2121.218s" clip-end="npt=2125.450s" id="audio_0466"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2125.450s" clip-end="npt=2127.488s" id="audio_0467"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2127.488s" clip-end="npt=2128.689s" id="audio_0468"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2128.689s" clip-end="npt=2133.483s" id="audio_0469"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2133.483s" clip-end="npt=2140.693s" id="audio_0470"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2140.693s" clip-end="npt=2157.751s" id="audio_0471"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2157.751s" clip-end="npt=2162.074s" id="audio_0472"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2162.074s" clip-end="npt=2163.289s" id="audio_0473"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2163.289s" clip-end="npt=2166.110s" id="audio_0474"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2166.110s" clip-end="npt=2169.205s" id="audio_0475"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2169.205s" clip-end="npt=2172.732s" id="audio_0476"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2172.732s" clip-end="npt=2179.080s" id="audio_0477"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2179.080s" clip-end="npt=2183.586s" id="audio_0478"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2183.586s" clip-end="npt=2192.585s" id="audio_0479"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2192.585s" clip-end="npt=2200.343s" id="audio_0480"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2200.343s" clip-end="npt=2202.433s" id="audio_0481"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2202.433s" clip-end="npt=2207.344s" id="audio_0482"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2207.344s" clip-end="npt=2210.074s" id="audio_0483"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2210.074s" clip-end="npt=2215.965s" id="audio_0484"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2215.965s" clip-end="npt=2217.950s" id="audio_0485"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2217.950s" clip-end="npt=2226.348s" id="audio_0486"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2226.348s" clip-end="npt=2233.976s" id="audio_0487"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2233.976s" clip-end="npt=2235.961s" id="audio_0488"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2235.961s" clip-end="npt=2238.430s" id="audio_0489"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2238.430s" clip-end="npt=2240.285s" id="audio_0490"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2240.285s" clip-end="npt=2243.001s" id="audio_0491"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2243.001s" clip-end="npt=2247.495s" id="audio_0492"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000f" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0030" id="par_0010"/>
+			</par>
+			<par endsync="last" id="eqdl_01f5">
+				<text src="ncc.html#jjoy_00d7" id="eqdl_01f6"/>
+				<seq>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2247.495s" clip-end="npt=2249.350s" id="audio_0493"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2249.350s" clip-end="npt=2252.053s" id="audio_0494"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2252.053s" clip-end="npt=2258.257s" id="audio_0495"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2258.257s" clip-end="npt=2260.191s" id="audio_0496"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2260.191s" clip-end="npt=2264.488s" id="audio_0497"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2264.488s" clip-end="npt=2267.361s" id="audio_0498"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2267.361s" clip-end="npt=2271.044s" id="audio_0499"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2271.044s" clip-end="npt=2273.631s" id="audio_0500"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2273.631s" clip-end="npt=2279.691s" id="audio_0501"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2279.691s" clip-end="npt=2282.473s" id="audio_0502"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2282.473s" clip-end="npt=2284.759s" id="audio_0503"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2284.759s" clip-end="npt=2290.349s" id="audio_0504"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2290.349s" clip-end="npt=2292.073s" id="audio_0505"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2292.073s" clip-end="npt=2293.431s" id="audio_0506"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2293.431s" clip-end="npt=2295.560s" id="audio_0507"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2295.560s" clip-end="npt=2299.283s" id="audio_0508"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2299.283s" clip-end="npt=2304.494s" id="audio_0509"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2304.494s" clip-end="npt=2314.852s" id="audio_0510"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2314.852s" clip-end="npt=2319.175s" id="audio_0511"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2319.175s" clip-end="npt=2325.758s" id="audio_0512"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2325.758s" clip-end="npt=2327.626s" id="audio_0513"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2327.626s" clip-end="npt=2335.279s" id="audio_0514"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2335.279s" clip-end="npt=2337.657s" id="audio_0515"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2337.657s" clip-end="npt=2341.902s" id="audio_0516"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2341.902s" clip-end="npt=2347.609s" id="audio_0517"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2347.609s" clip-end="npt=2349.934s" id="audio_0518"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2349.934s" clip-end="npt=2352.559s" id="audio_0519"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2352.559s" clip-end="npt=2355.759s" id="audio_0520"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2355.759s" clip-end="npt=2358.111s" id="audio_0521"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2358.111s" clip-end="npt=2368.181s" id="audio_0522"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2368.181s" clip-end="npt=2370.062s" id="audio_0523"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2370.062s" clip-end="npt=2379.648s" id="audio_0524"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2379.648s" clip-end="npt=2384.899s" id="audio_0525"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2384.899s" clip-end="npt=2389.340s" id="audio_0526"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2389.340s" clip-end="npt=2396.654s" id="audio_0527"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2396.654s" clip-end="npt=2398.535s" id="audio_0528"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2398.535s" clip-end="npt=2401.996s" id="audio_0529"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2401.996s" clip-end="npt=2409.337s" id="audio_0530"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2409.337s" clip-end="npt=2411.871s" id="audio_0531"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2411.871s" clip-end="npt=2417.134s" id="audio_0532"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2417.134s" clip-end="npt=2418.806s" id="audio_0533"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2418.806s" clip-end="npt=2421.588s" id="audio_0534"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2421.588s" clip-end="npt=2423.338s" id="audio_0535"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2423.338s" clip-end="npt=2425.337s" id="audio_0536"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2425.337s" clip-end="npt=2432.664s" id="audio_0537"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2432.664s" clip-end="npt=2436.008s" id="audio_0538"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2436.008s" clip-end="npt=2439.652s" id="audio_0539"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2439.652s" clip-end="npt=2441.755s" id="audio_0540"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2441.755s" clip-end="npt=2446.026s" id="audio_0541"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2446.026s" clip-end="npt=2450.427s" id="audio_0542"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2450.427s" clip-end="npt=2452.844s" id="audio_0543"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2452.844s" clip-end="npt=2458.917s" id="audio_0544"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2458.917s" clip-end="npt=2461.673s" id="audio_0545"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2461.673s" clip-end="npt=2463.436s" id="audio_0546"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2463.436s" clip-end="npt=2464.755s" id="audio_0547"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2464.755s" clip-end="npt=2466.166s" id="audio_0548"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2466.166s" clip-end="npt=2467.498s" id="audio_0549"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2467.498s" clip-end="npt=2469.471s" id="audio_0550"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2469.471s" clip-end="npt=2475.270s" id="audio_0551"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2475.270s" clip-end="npt=2479.384s" id="audio_0552"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2479.384s" clip-end="npt=2482.271s" id="audio_0553"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2482.271s" clip-end="npt=2482.925s" id="audio_0554"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2482.925s" clip-end="npt=2495.554s" id="audio_0555"/>
+					<audio src="39_Question_Paper_Design.mp3" clip-begin="npt=2495.554s" clip-end="npt=2498.270s" id="audio_0556"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:20:38.070"/>
+		<meta name="ncc:totalElapsedTime" content="11:48:37.664"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 28 B: Writing Email"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="1238.070s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#cfpr_0009" id="cfpr_0009"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=0.000s" clip-end="npt=2.489s" id="audio_0001"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=2.489s" clip-end="npt=6.068s" id="audio_0002"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=6.068s" clip-end="npt=11.149s" id="audio_0003"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=11.149s" clip-end="npt=20.866s" id="audio_0004"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=20.866s" clip-end="npt=36.945s" id="audio_0005"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=36.945s" clip-end="npt=48.295s" id="audio_0006"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=48.295s" clip-end="npt=63.172s" id="audio_0007"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=63.172s" clip-end="npt=71.479s" id="audio_0008"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=71.479s" clip-end="npt=76.076s" id="audio_0009"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=76.076s" clip-end="npt=81.405s" id="audio_0010"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=81.405s" clip-end="npt=86.068s" id="audio_0011"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=86.068s" clip-end="npt=98.829s" id="audio_0012"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=98.829s" clip-end="npt=106.417s" id="audio_0013"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=106.417s" clip-end="npt=110.283s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0003" system-required="pagenumber-on">
+				<text src="ncc.html#kmqo_0004" id="par_0004"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#cfpr_0009" id="par_0005"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=110.283s" clip-end="npt=111.567s" id="audio_0015"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=111.567s" clip-end="npt=112.424s" id="audio_0016"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=112.424s" clip-end="npt=114.866s" id="audio_0017"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=114.866s" clip-end="npt=138.115s" id="audio_0018"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=138.115s" clip-end="npt=154.468s" id="audio_0019"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=154.468s" clip-end="npt=158.883s" id="audio_0020"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=158.883s" clip-end="npt=165.925s" id="audio_0021"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=165.925s" clip-end="npt=201.830s" id="audio_0022"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=201.830s" clip-end="npt=206.428s" id="audio_0023"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=206.428s" clip-end="npt=216.576s" id="audio_0024"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=216.576s" clip-end="npt=221.213s" id="audio_0025"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=221.213s" clip-end="npt=226.424s" id="audio_0026"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=226.424s" clip-end="npt=227.587s" id="audio_0027"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=227.587s" clip-end="npt=231.296s" id="audio_0028"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=231.296s" clip-end="npt=240.948s" id="audio_0029"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=240.948s" clip-end="npt=245.768s" id="audio_0030"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=245.768s" clip-end="npt=250.940s" id="audio_0031"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=250.940s" clip-end="npt=259.717s" id="audio_0032"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=259.717s" clip-end="npt=262.036s" id="audio_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="typl_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0530" id="typl_0003"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#cfpr_0009" id="typl_0004"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=262.036s" clip-end="npt=263.514s" id="audio_0034"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=263.514s" clip-end="npt=266.113s" id="audio_0035"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=266.113s" clip-end="npt=270.933s" id="audio_0036"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=270.933s" clip-end="npt=278.169s" id="audio_0037"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=278.169s" clip-end="npt=286.319s" id="audio_0038"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=286.319s" clip-end="npt=298.701s" id="audio_0039"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=298.701s" clip-end="npt=309.346s" id="audio_0040"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=309.346s" clip-end="npt=317.966s" id="audio_0041"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=317.966s" clip-end="npt=328.141s" id="audio_0042"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=328.141s" clip-end="npt=330.270s" id="audio_0043"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=330.270s" clip-end="npt=343.344s" id="audio_0044"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=343.344s" clip-end="npt=359.958s" id="audio_0045"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=359.958s" clip-end="npt=363.380s" id="audio_0046"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=363.380s" clip-end="npt=372.079s" id="audio_0047"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=372.079s" clip-end="npt=382.202s" id="audio_0048"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=382.202s" clip-end="npt=391.175s" id="audio_0049"/>
+				</seq>
+			</par>
+			<par endsync="last" id="typl_0005" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0531" id="typl_0006"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#cfpr_0009" id="typl_0007"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=391.175s" clip-end="npt=392.277s" id="audio_0050"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=392.277s" clip-end="npt=393.134s" id="audio_0051"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=393.134s" clip-end="npt=415.085s" id="audio_0052"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=415.085s" clip-end="npt=416.914s" id="audio_0053"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=416.914s" clip-end="npt=421.211s" id="audio_0054"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=421.211s" clip-end="npt=423.379s" id="audio_0055"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=423.379s" clip-end="npt=425.991s" id="audio_0056"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=425.991s" clip-end="npt=433.684s" id="audio_0057"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=433.684s" clip-end="npt=440.280s" id="audio_0058"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=440.280s" clip-end="npt=448.705s" id="audio_0059"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=448.705s" clip-end="npt=473.456s" id="audio_0060"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=473.456s" clip-end="npt=474.527s" id="audio_0061"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=474.527s" clip-end="npt=476.786s" id="audio_0062"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=476.786s" clip-end="npt=486.386s" id="audio_0063"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=486.386s" clip-end="npt=507.115s" id="audio_0064"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=507.115s" clip-end="npt=513.397s" id="audio_0065"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=513.397s" clip-end="npt=519.301s" id="audio_0066"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=519.301s" clip-end="npt=525.387s" id="audio_0067"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=525.387s" clip-end="npt=529.384s" id="audio_0068"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=529.384s" clip-end="npt=556.107s" id="audio_0069"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=556.107s" clip-end="npt=559.751s" id="audio_0070"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=559.751s" clip-end="npt=563.604s" id="audio_0071"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=563.604s" clip-end="npt=570.932s" id="audio_0072"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=570.932s" clip-end="npt=572.108s" id="audio_0073"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=572.108s" clip-end="npt=579.631s" id="audio_0074"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=579.631s" clip-end="npt=601.287s" id="audio_0075"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=601.287s" clip-end="npt=604.041s" id="audio_0076"/>
+				</seq>
+			</par>
+			<par endsync="last" id="typl_0008" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0532" id="typl_000a"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#cfpr_0009" id="typl_000b"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=604.041s" clip-end="npt=605.351s" id="audio_0077"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=605.351s" clip-end="npt=606.208s" id="audio_0078"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=606.208s" clip-end="npt=609.565s" id="audio_0079"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=609.565s" clip-end="npt=621.529s" id="audio_0080"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=621.529s" clip-end="npt=625.826s" id="audio_0081"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=625.826s" clip-end="npt=644.791s" id="audio_0082"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=644.791s" clip-end="npt=650.682s" id="audio_0083"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=650.682s" clip-end="npt=665.180s" id="audio_0084"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=665.180s" clip-end="npt=673.239s" id="audio_0085"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=673.239s" clip-end="npt=678.868s" id="audio_0086"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=678.868s" clip-end="npt=682.825s" id="audio_0087"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=682.825s" clip-end="npt=686.652s" id="audio_0088"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=686.652s" clip-end="npt=690.231s" id="audio_0089"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=690.231s" clip-end="npt=693.444s" id="audio_0090"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=693.444s" clip-end="npt=698.460s" id="audio_0091"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=698.460s" clip-end="npt=704.755s" id="audio_0092"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=704.755s" clip-end="npt=707.603s" id="audio_0093"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=707.603s" clip-end="npt=715.531s" id="audio_0094"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=715.531s" clip-end="npt=720.468s" id="audio_0095"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=720.468s" clip-end="npt=724.752s" id="audio_0096"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=724.752s" clip-end="npt=728.461s" id="audio_0097"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=728.461s" clip-end="npt=732.759s" id="audio_0098"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=732.759s" clip-end="npt=736.794s" id="audio_0099"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=736.794s" clip-end="npt=740.530s" id="audio_0100"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=740.530s" clip-end="npt=745.532s" id="audio_0101"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=745.532s" clip-end="npt=749.307s" id="audio_0102"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=749.307s" clip-end="npt=752.834s" id="audio_0103"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=752.834s" clip-end="npt=757.065s" id="audio_0104"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=757.065s" clip-end="npt=761.049s" id="audio_0105"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=761.049s" clip-end="npt=762.042s" id="audio_0106"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=762.042s" clip-end="npt=766.326s" id="audio_0107"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=766.326s" clip-end="npt=770.453s" id="audio_0108"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=770.453s" clip-end="npt=774.541s" id="audio_0109"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=774.541s" clip-end="npt=794.655s" id="audio_0110"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=794.655s" clip-end="npt=798.731s" id="audio_0111"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=798.731s" clip-end="npt=807.103s" id="audio_0112"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=807.103s" clip-end="npt=813.320s" id="audio_0113"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=813.320s" clip-end="npt=817.464s" id="audio_0114"/>
+				</seq>
+			</par>
+			<par endsync="last" id="typl_000c" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0533" id="typl_000d"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#cfpr_0009" id="typl_000e"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=817.464s" clip-end="npt=818.945s" id="audio_0115"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=818.945s" clip-end="npt=819.802s" id="audio_0116"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=819.802s" clip-end="npt=821.983s" id="audio_0117"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=821.983s" clip-end="npt=840.269s" id="audio_0118"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=840.269s" clip-end="npt=842.476s" id="audio_0119"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=842.476s" clip-end="npt=845.768s" id="audio_0120"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=845.768s" clip-end="npt=855.263s" id="audio_0121"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=855.263s" clip-end="npt=867.475s" id="audio_0122"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=867.475s" clip-end="npt=869.500s" id="audio_0123"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=869.500s" clip-end="npt=876.422s" id="audio_0124"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=876.422s" clip-end="npt=884.128s" id="audio_0125"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=884.128s" clip-end="npt=890.763s" id="audio_0126"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=890.763s" clip-end="npt=902.166s" id="audio_0127"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=902.166s" clip-end="npt=915.619s" id="audio_0128"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=915.619s" clip-end="npt=918.558s" id="audio_0129"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=918.558s" clip-end="npt=926.186s" id="audio_0130"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=926.186s" clip-end="npt=938.672s" id="audio_0131"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=938.672s" clip-end="npt=945.764s" id="audio_0132"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=945.764s" clip-end="npt=956.683s" id="audio_0133"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=956.683s" clip-end="npt=965.265s" id="audio_0134"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=965.265s" clip-end="npt=967.106s" id="audio_0135"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=967.106s" clip-end="npt=976.132s" id="audio_0136"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=976.132s" clip-end="npt=979.457s" id="audio_0137"/>
+				</seq>
+			</par>
+			<par endsync="last" id="typl_000f" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0534" id="typl_0010"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#cfpr_0009" id="typl_0011"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=979.457s" clip-end="npt=981.549s" id="audio_0138"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=981.549s" clip-end="npt=982.406s" id="audio_0139"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=982.406s" clip-end="npt=984.796s" id="audio_0140"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=984.796s" clip-end="npt=987.317s" id="audio_0141"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=987.317s" clip-end="npt=997.596s" id="audio_0142"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=997.596s" clip-end="npt=1003.787s" id="audio_0143"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1003.787s" clip-end="npt=1011.507s" id="audio_0144"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1011.507s" clip-end="npt=1014.289s" id="audio_0145"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1014.289s" clip-end="npt=1017.097s" id="audio_0146"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1017.097s" clip-end="npt=1020.440s" id="audio_0147"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1020.440s" clip-end="npt=1026.166s" id="audio_0148"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1026.166s" clip-end="npt=1027.995s" id="audio_0149"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1027.995s" clip-end="npt=1034.774s" id="audio_0150"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1034.774s" clip-end="npt=1040.390s" id="audio_0151"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1040.390s" clip-end="npt=1046.672s" id="audio_0152"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1046.672s" clip-end="npt=1054.770s" id="audio_0153"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1054.770s" clip-end="npt=1061.314s" id="audio_0154"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1061.314s" clip-end="npt=1076.648s" id="audio_0155"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1076.648s" clip-end="npt=1086.797s" id="audio_0156"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1086.797s" clip-end="npt=1090.013s" id="audio_0157"/>
+				</seq>
+			</par>
+			<par endsync="last" id="typl_0012" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0535" id="typl_0014"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#cfpr_0009" id="typl_0015"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1090.013s" clip-end="npt=1091.800s" id="audio_0158"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1091.800s" clip-end="npt=1092.657s" id="audio_0159"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1092.657s" clip-end="npt=1094.929s" id="audio_0160"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1094.929s" clip-end="npt=1096.262s" id="audio_0161"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1096.262s" clip-end="npt=1102.648s" id="audio_0162"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1102.648s" clip-end="npt=1119.641s" id="audio_0163"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1119.641s" clip-end="npt=1123.063s" id="audio_0164"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1123.063s" clip-end="npt=1128.340s" id="audio_0165"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1128.340s" clip-end="npt=1141.129s" id="audio_0166"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1141.129s" clip-end="npt=1144.344s" id="audio_0167"/>
+				</seq>
+			</par>
+			<par endsync="last" id="typl_0016" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0536" id="typl_0017"/>
+			</par>
+			<par endsync="last" id="par_0017">
+				<text src="ncc.html#cfpr_0009" id="typl_0018"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1144.344s" clip-end="npt=1145.363s" id="audio_0168"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1145.363s" clip-end="npt=1146.220s" id="audio_0169"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1146.220s" clip-end="npt=1147.892s" id="audio_0170"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1147.892s" clip-end="npt=1150.047s" id="audio_0171"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1150.047s" clip-end="npt=1152.528s" id="audio_0172"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1152.528s" clip-end="npt=1154.344s" id="audio_0173"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1154.344s" clip-end="npt=1156.760s" id="audio_0174"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1156.760s" clip-end="npt=1163.461s" id="audio_0175"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1163.461s" clip-end="npt=1165.472s" id="audio_0176"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1165.472s" clip-end="npt=1167.862s" id="audio_0177"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1167.862s" clip-end="npt=1175.960s" id="audio_0178"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1175.960s" clip-end="npt=1177.972s" id="audio_0179"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1177.972s" clip-end="npt=1187.676s" id="audio_0180"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1187.676s" clip-end="npt=1190.471s" id="audio_0181"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1190.471s" clip-end="npt=1195.869s" id="audio_0182"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1195.869s" clip-end="npt=1198.233s" id="audio_0183"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1198.233s" clip-end="npt=1204.737s" id="audio_0184"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1204.737s" clip-end="npt=1209.557s" id="audio_0185"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1209.557s" clip-end="npt=1221.965s" id="audio_0186"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1221.965s" clip-end="npt=1223.585s" id="audio_0187"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1223.585s" clip-end="npt=1231.800s" id="audio_0188"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1231.800s" clip-end="npt=1235.784s" id="audio_0189"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wdwo_0001" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0537" id="wdwo_0002"/>
+			</par>
+			<par endsync="last" id="fdrk_0001">
+				<text src="ncc.html#cfpr_0009" id="wdwo_0003"/>
+				<seq>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1235.784s" clip-end="npt=1236.641s" id="audio_0190"/>
+					<audio src="32_Lesson_28_B__Writing_Email.mp3" clip-begin="npt=1236.641s" clip-end="npt=1238.070s" id="audio_0191"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:29:01.115"/>
+		<meta name="ncc:totalElapsedTime" content="01:18:25.898"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 4: Father Dear Father"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="1741.115s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_00fa" id="jjoy_00fa"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=0.000s" clip-end="npt=1.724s" id="audio_0001"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1.724s" clip-end="npt=5.668s" id="audio_0002"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=5.668s" clip-end="npt=11.193s" id="audio_0003"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=11.193s" clip-end="npt=14.302s" id="audio_0004"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=14.302s" clip-end="npt=21.459s" id="audio_0005"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=21.459s" clip-end="npt=24.202s" id="audio_0006"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=24.202s" clip-end="npt=29.061s" id="audio_0007"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=29.061s" clip-end="npt=30.850s" id="audio_0008"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=30.850s" clip-end="npt=34.912s" id="audio_0009"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=34.912s" clip-end="npt=40.829s" id="audio_0010"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=40.829s" clip-end="npt=45.009s" id="audio_0011"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=45.009s" clip-end="npt=59.376s" id="audio_0012"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=59.376s" clip-end="npt=64.074s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sldc_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00fc" id="sldc_0006"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_00fa" id="sldc_0007"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=64.074s" clip-end="npt=66.745s" id="audio_0014"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=66.745s" clip-end="npt=69.162s" id="audio_0015"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=69.162s" clip-end="npt=72.283s" id="audio_0016"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=72.283s" clip-end="npt=81.648s" id="audio_0017"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=81.648s" clip-end="npt=85.854s" id="audio_0018"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=85.854s" clip-end="npt=88.205s" id="audio_0019"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=88.205s" clip-end="npt=92.868s" id="audio_0020"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=92.868s" clip-end="npt=99.999s" id="audio_0021"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=99.999s" clip-end="npt=106.556s" id="audio_0022"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=106.556s" clip-end="npt=109.534s" id="audio_0023"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=109.534s" clip-end="npt=112.655s" id="audio_0024"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=112.655s" clip-end="npt=122.961s" id="audio_0025"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=122.961s" clip-end="npt=126.409s" id="audio_0026"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=126.409s" clip-end="npt=136.753s" id="audio_0027"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=136.753s" clip-end="npt=149.292s" id="audio_0028"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=149.292s" clip-end="npt=157.508s" id="audio_0029"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=157.508s" clip-end="npt=163.803s" id="audio_0030"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=163.803s" clip-end="npt=174.030s" id="audio_0031"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=174.030s" clip-end="npt=177.779s" id="audio_0032"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=177.779s" clip-end="npt=179.764s" id="audio_0033"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=179.764s" clip-end="npt=180.652s" id="audio_0034"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=180.652s" clip-end="npt=183.147s" id="audio_0035"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=183.147s" clip-end="npt=190.788s" id="audio_0036"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=190.788s" clip-end="npt=195.019s" id="audio_0037"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=195.019s" clip-end="npt=196.835s" id="audio_0038"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=196.835s" clip-end="npt=200.205s" id="audio_0039"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=200.205s" clip-end="npt=202.778s" id="audio_0040"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=202.778s" clip-end="npt=206.448s" id="audio_0041"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=206.448s" clip-end="npt=208.747s" id="audio_0042"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=208.747s" clip-end="npt=215.643s" id="audio_0043"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=215.643s" clip-end="npt=220.724s" id="audio_0044"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=220.724s" clip-end="npt=222.226s" id="audio_0045"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=222.226s" clip-end="npt=227.646s" id="audio_0046"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=227.646s" clip-end="npt=232.832s" id="audio_0047"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=232.832s" clip-end="npt=234.935s" id="audio_0048"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=234.935s" clip-end="npt=241.648s" id="audio_0049"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=241.648s" clip-end="npt=248.270s" id="audio_0050"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=248.270s" clip-end="npt=251.020s" id="audio_0051"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sldc_0009" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00fd" id="sldc_000a"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_00fa" id="sldc_000b"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=251.020s" clip-end="npt=253.984s" id="audio_0052"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=253.984s" clip-end="npt=257.837s" id="audio_0053"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=257.837s" clip-end="npt=262.409s" id="audio_0054"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=262.409s" clip-end="npt=266.432s" id="audio_0055"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=266.432s" clip-end="npt=275.470s" id="audio_0056"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=275.470s" clip-end="npt=276.985s" id="audio_0057"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=276.985s" clip-end="npt=280.734s" id="audio_0058"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=280.734s" clip-end="npt=282.523s" id="audio_0059"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=282.523s" clip-end="npt=286.585s" id="audio_0060"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=286.585s" clip-end="npt=288.309s" id="audio_0061"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=288.309s" clip-end="npt=292.332s" id="audio_0062"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=292.332s" clip-end="npt=294.252s" id="audio_0063"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=294.252s" clip-end="npt=299.020s" id="audio_0064"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=299.020s" clip-end="npt=300.404s" id="audio_0065"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=300.404s" clip-end="npt=307.993s" id="audio_0066"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=307.993s" clip-end="npt=315.046s" id="audio_0067"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=315.046s" clip-end="npt=317.201s" id="audio_0068"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=317.201s" clip-end="npt=319.643s" id="audio_0069"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=319.643s" clip-end="npt=328.407s" id="audio_0070"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=328.407s" clip-end="npt=332.012s" id="audio_0071"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=332.012s" clip-end="npt=336.584s" id="audio_0072"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=336.584s" clip-end="npt=337.511s" id="audio_0073"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=337.511s" clip-end="npt=344.799s" id="audio_0074"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=344.799s" clip-end="npt=353.028s" id="audio_0075"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=353.028s" clip-end="npt=355.109s" id="audio_0076"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=355.109s" clip-end="npt=356.912s" id="audio_0077"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=356.912s" clip-end="npt=359.824s" id="audio_0078"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=359.824s" clip-end="npt=366.551s" id="audio_0079"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=366.551s" clip-end="npt=369.411s" id="audio_0080"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=369.411s" clip-end="npt=378.920s" id="audio_0081"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=378.920s" clip-end="npt=388.010s" id="audio_0082"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=388.010s" clip-end="npt=388.912s" id="audio_0083"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=388.912s" clip-end="npt=394.920s" id="audio_0084"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=394.920s" clip-end="npt=397.075s" id="audio_0085"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=397.075s" clip-end="npt=404.115s" id="audio_0086"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=404.115s" clip-end="npt=407.537s" id="audio_0087"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=407.537s" clip-end="npt=408.974s" id="audio_0088"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=408.974s" clip-end="npt=414.642s" id="audio_0089"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=414.642s" clip-end="npt=423.968s" id="audio_0090"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=423.968s" clip-end="npt=426.711s" id="audio_0091"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=426.711s" clip-end="npt=430.015s" id="audio_0092"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=430.015s" clip-end="npt=432.414s" id="audio_0093"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=432.414s" clip-end="npt=440.578s" id="audio_0094"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=440.578s" clip-end="npt=446.272s" id="audio_0095"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=446.272s" clip-end="npt=447.539s" id="audio_0096"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=447.539s" clip-end="npt=455.128s" id="audio_0097"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=455.128s" clip-end="npt=463.317s" id="audio_0098"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=463.317s" clip-end="npt=470.540s" id="audio_0099"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=470.540s" clip-end="npt=472.826s" id="audio_0100"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=472.826s" clip-end="npt=476.261s" id="audio_0101"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=476.261s" clip-end="npt=477.881s" id="audio_0102"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=477.881s" clip-end="npt=482.152s" id="audio_0103"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=482.152s" clip-end="npt=486.266s" id="audio_0104"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=486.266s" clip-end="npt=487.402s" id="audio_0105"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=487.402s" clip-end="npt=490.432s" id="audio_0106"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=490.432s" clip-end="npt=493.528s" id="audio_0107"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=493.528s" clip-end="npt=498.844s" id="audio_0108"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=498.844s" clip-end="npt=502.423s" id="audio_0109"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=502.423s" clip-end="npt=504.134s" id="audio_0110"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=504.134s" clip-end="npt=508.953s" id="audio_0111"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=508.953s" clip-end="npt=511.605s" id="audio_0112"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=511.605s" clip-end="npt=518.070s" id="audio_0113"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=518.070s" clip-end="npt=522.171s" id="audio_0114"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sldc_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00fe" id="sldc_000d"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_00fa" id="sldc_000e"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=522.171s" clip-end="npt=523.817s" id="audio_0115"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=523.817s" clip-end="npt=525.528s" id="audio_0116"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=525.528s" clip-end="npt=526.860s" id="audio_0117"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=526.860s" clip-end="npt=529.067s" id="audio_0118"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=529.067s" clip-end="npt=530.491s" id="audio_0119"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=530.491s" clip-end="npt=531.575s" id="audio_0120"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=531.575s" clip-end="npt=537.492s" id="audio_0121"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=537.492s" clip-end="npt=538.341s" id="audio_0122"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=538.341s" clip-end="npt=540.378s" id="audio_0123"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=540.378s" clip-end="npt=546.543s" id="audio_0124"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=546.543s" clip-end="npt=549.613s" id="audio_0125"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=549.613s" clip-end="npt=555.699s" id="audio_0126"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=555.699s" clip-end="npt=558.991s" id="audio_0127"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=558.991s" clip-end="npt=564.398s" id="audio_0128"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=564.398s" clip-end="npt=565.913s" id="audio_0129"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=565.913s" clip-end="npt=572.039s" id="audio_0130"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=572.039s" clip-end="npt=575.813s" id="audio_0131"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=575.813s" clip-end="npt=577.407s" id="audio_0132"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=577.407s" clip-end="npt=581.822s" id="audio_0133"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=581.822s" clip-end="npt=584.682s" id="audio_0134"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=584.682s" clip-end="npt=586.706s" id="audio_0135"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=586.706s" clip-end="npt=587.686s" id="audio_0136"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=587.686s" clip-end="npt=595.980s" id="audio_0137"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=595.980s" clip-end="npt=601.531s" id="audio_0138"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=601.531s" clip-end="npt=602.759s" id="audio_0139"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=602.759s" clip-end="npt=615.807s" id="audio_0140"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=615.807s" clip-end="npt=621.071s" id="audio_0141"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=621.071s" clip-end="npt=623.983s" id="audio_0142"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=623.983s" clip-end="npt=627.209s" id="audio_0143"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=627.209s" clip-end="npt=630.148s" id="audio_0144"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=630.148s" clip-end="npt=631.820s" id="audio_0145"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=631.820s" clip-end="npt=633.374s" id="audio_0146"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=633.374s" clip-end="npt=638.246s" id="audio_0147"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=638.246s" clip-end="npt=640.049s" id="audio_0148"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=640.049s" clip-end="npt=643.810s" id="audio_0149"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=643.810s" clip-end="npt=647.768s" id="audio_0150"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=647.768s" clip-end="npt=652.509s" id="audio_0151"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=652.509s" clip-end="npt=657.597s" id="audio_0152"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sldc_000f" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00ff" id="sldc_0010"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_00fa" id="sldc_0011"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=657.597s" clip-end="npt=660.275s" id="audio_0153"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=660.275s" clip-end="npt=662.665s" id="audio_0154"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=662.665s" clip-end="npt=664.193s" id="audio_0155"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=664.193s" clip-end="npt=670.880s" id="audio_0156"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=670.880s" clip-end="npt=672.787s" id="audio_0157"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=672.787s" clip-end="npt=678.103s" id="audio_0158"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=678.103s" clip-end="npt=679.880s" id="audio_0159"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=679.880s" clip-end="npt=681.617s" id="audio_0160"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=681.617s" clip-end="npt=683.315s" id="audio_0161"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=683.315s" clip-end="npt=685.274s" id="audio_0162"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=685.274s" clip-end="npt=686.972s" id="audio_0163"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=686.972s" clip-end="npt=688.631s" id="audio_0164"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=688.631s" clip-end="npt=690.381s" id="audio_0165"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=690.381s" clip-end="npt=692.014s" id="audio_0166"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=692.014s" clip-end="npt=693.385s" id="audio_0167"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=693.385s" clip-end="npt=696.533s" id="audio_0168"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=696.533s" clip-end="npt=697.943s" id="audio_0169"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=697.943s" clip-end="npt=702.880s" id="audio_0170"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=702.880s" clip-end="npt=708.523s" id="audio_0171"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=708.523s" clip-end="npt=709.881s" id="audio_0172"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=709.881s" clip-end="npt=719.063s" id="audio_0173"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=719.063s" clip-end="npt=720.200s" id="audio_0174"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=720.200s" clip-end="npt=723.883s" id="audio_0175"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=723.883s" clip-end="npt=726.103s" id="audio_0176"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=726.103s" clip-end="npt=732.503s" id="audio_0177"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=732.503s" clip-end="npt=742.900s" id="audio_0178"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=742.900s" clip-end="npt=751.599s" id="audio_0179"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=751.599s" clip-end="npt=760.716s" id="audio_0180"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=760.716s" clip-end="npt=761.800s" id="audio_0181"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=761.800s" clip-end="npt=766.985s" id="audio_0182"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=766.985s" clip-end="npt=772.993s" id="audio_0183"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=772.993s" clip-end="npt=779.001s" id="audio_0184"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=779.001s" clip-end="npt=786.263s" id="audio_0185"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=786.263s" clip-end="npt=787.609s" id="audio_0186"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=787.609s" clip-end="npt=797.888s" id="audio_0187"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=797.888s" clip-end="npt=800.644s" id="audio_0188"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=800.644s" clip-end="npt=801.806s" id="audio_0189"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=801.806s" clip-end="npt=805.764s" id="audio_0190"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=805.764s" clip-end="npt=808.494s" id="audio_0191"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=808.494s" clip-end="npt=809.956s" id="audio_0192"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=809.956s" clip-end="npt=817.375s" id="audio_0193"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=817.375s" clip-end="npt=818.538s" id="audio_0194"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=818.538s" clip-end="npt=824.925s" id="audio_0195"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=824.925s" clip-end="npt=832.069s" id="audio_0196"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=832.069s" clip-end="npt=833.075s" id="audio_0197"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=833.075s" clip-end="npt=839.958s" id="audio_0198"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=839.958s" clip-end="npt=841.147s" id="audio_0199"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=841.147s" clip-end="npt=846.920s" id="audio_0200"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=846.920s" clip-end="npt=854.508s" id="audio_0201"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=854.508s" clip-end="npt=859.054s" id="audio_0202"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sldc_0012" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0100" id="sldc_0013"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_00fa" id="sldc_0014"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=859.054s" clip-end="npt=861.261s" id="audio_0203"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=861.261s" clip-end="npt=863.716s" id="audio_0204"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=863.716s" clip-end="npt=874.218s" id="audio_0205"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=874.218s" clip-end="npt=875.824s" id="audio_0206"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=875.824s" clip-end="npt=880.343s" id="audio_0207"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=880.343s" clip-end="npt=882.133s" id="audio_0208"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=882.133s" clip-end="npt=883.465s" id="audio_0209"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=883.465s" clip-end="npt=887.645s" id="audio_0210"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=887.645s" clip-end="npt=891.798s" id="audio_0211"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=891.798s" clip-end="npt=894.854s" id="audio_0212"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=894.854s" clip-end="npt=897.245s" id="audio_0213"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=897.245s" clip-end="npt=898.303s" id="audio_0214"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=898.303s" clip-end="npt=900.928s" id="audio_0215"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=900.928s" clip-end="npt=903.840s" id="audio_0216"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=903.840s" clip-end="npt=904.794s" id="audio_0217"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=904.794s" clip-end="npt=907.628s" id="audio_0218"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=907.628s" clip-end="npt=910.058s" id="audio_0219"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=910.058s" clip-end="npt=910.724s" id="audio_0220"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=910.724s" clip-end="npt=912.030s" id="audio_0221"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=912.030s" clip-end="npt=914.969s" id="audio_0222"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=914.969s" clip-end="npt=917.685s" id="audio_0223"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=917.685s" clip-end="npt=921.904s" id="audio_0224"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=921.904s" clip-end="npt=924.177s" id="audio_0225"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=924.177s" clip-end="npt=925.431s" id="audio_0226"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=925.431s" clip-end="npt=928.631s" id="audio_0227"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=928.631s" clip-end="npt=929.545s" id="audio_0228"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=929.545s" clip-end="npt=933.045s" id="audio_0229"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=933.045s" clip-end="npt=934.809s" id="audio_0230"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=934.809s" clip-end="npt=939.223s" id="audio_0231"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=939.223s" clip-end="npt=944.735s" id="audio_0232"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=944.735s" clip-end="npt=949.463s" id="audio_0233"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=949.463s" clip-end="npt=952.624s" id="audio_0234"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=952.624s" clip-end="npt=956.921s" id="audio_0235"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=956.921s" clip-end="npt=962.276s" id="audio_0236"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=962.276s" clip-end="npt=964.444s" id="audio_0237"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=964.444s" clip-end="npt=967.657s" id="audio_0238"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=967.657s" clip-end="npt=970.426s" id="audio_0239"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=970.426s" clip-end="npt=975.285s" id="audio_0240"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=975.285s" clip-end="npt=977.675s" id="audio_0241"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=977.675s" clip-end="npt=982.155s" id="audio_0242"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=982.155s" clip-end="npt=991.664s" id="audio_0243"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=991.664s" clip-end="npt=994.929s" id="audio_0244"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=994.929s" clip-end="npt=998.051s" id="audio_0245"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=998.051s" clip-end="npt=1000.036s" id="audio_0246"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1000.036s" clip-end="npt=1001.081s" id="audio_0247"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1001.081s" clip-end="npt=1004.582s" id="audio_0248"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1004.582s" clip-end="npt=1008.657s" id="audio_0249"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1008.657s" clip-end="npt=1011.739s" id="audio_0250"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1011.739s" clip-end="npt=1017.068s" id="audio_0251"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1017.068s" clip-end="npt=1024.539s" id="audio_0252"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1024.539s" clip-end="npt=1028.722s" id="audio_0253"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1028.722s" clip-end="npt=1030.016s" id="audio_0254"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1030.016s" clip-end="npt=1036.037s" id="audio_0255"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1036.037s" clip-end="npt=1040.269s" id="audio_0256"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1040.269s" clip-end="npt=1043.743s" id="audio_0257"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1043.743s" clip-end="npt=1048.393s" id="audio_0258"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1048.393s" clip-end="npt=1049.411s" id="audio_0259"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1049.411s" clip-end="npt=1052.220s" id="audio_0260"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1052.220s" clip-end="npt=1056.125s" id="audio_0261"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1056.125s" clip-end="npt=1060.135s" id="audio_0262"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1060.135s" clip-end="npt=1063.518s" id="audio_0263"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1063.518s" clip-end="npt=1069.826s" id="audio_0264"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1069.826s" clip-end="npt=1074.139s" id="audio_0265"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0172" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0101" id="par_0173"/>
+			</par>
+			<par endsync="last" id="usjr_0001">
+				<text src="ncc.html#jjoy_00fa" id="par_0174"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1074.139s" clip-end="npt=1077.091s" id="audio_0266"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1077.091s" clip-end="npt=1078.985s" id="audio_0267"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1078.985s" clip-end="npt=1089.356s" id="audio_0268"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1089.356s" clip-end="npt=1096.330s" id="audio_0269"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1096.330s" clip-end="npt=1099.308s" id="audio_0270"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1099.308s" clip-end="npt=1102.652s" id="audio_0271"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1102.652s" clip-end="npt=1105.930s" id="audio_0272"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1105.930s" clip-end="npt=1109.078s" id="audio_0273"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1109.078s" clip-end="npt=1112.121s" id="audio_0274"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1112.121s" clip-end="npt=1115.452s" id="audio_0275"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1115.452s" clip-end="npt=1118.952s" id="audio_0276"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1118.952s" clip-end="npt=1122.675s" id="audio_0277"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1122.675s" clip-end="npt=1127.050s" id="audio_0278"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1127.050s" clip-end="npt=1132.301s" id="audio_0279"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1132.301s" clip-end="npt=1138.087s" id="audio_0280"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1138.087s" clip-end="npt=1141.052s" id="audio_0281"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1141.052s" clip-end="npt=1147.804s" id="audio_0282"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1147.804s" clip-end="npt=1153.943s" id="audio_0283"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1153.943s" clip-end="npt=1158.175s" id="audio_0284"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1158.175s" clip-end="npt=1164.027s" id="audio_0285"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1164.027s" clip-end="npt=1165.293s" id="audio_0286"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1165.293s" clip-end="npt=1169.290s" id="audio_0287"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1169.290s" clip-end="npt=1175.076s" id="audio_0288"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1175.076s" clip-end="npt=1179.295s" id="audio_0289"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1179.295s" clip-end="npt=1185.342s" id="audio_0290"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1185.342s" clip-end="npt=1189.300s" id="audio_0291"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1189.300s" clip-end="npt=1190.306s" id="audio_0292"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1190.306s" clip-end="npt=1195.896s" id="audio_0293"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1195.896s" clip-end="npt=1198.025s" id="audio_0294"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1198.025s" clip-end="npt=1203.615s" id="audio_0295"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1203.615s" clip-end="npt=1209.114s" id="audio_0296"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1209.114s" clip-end="npt=1210.538s" id="audio_0297"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1210.538s" clip-end="npt=1213.790s" id="audio_0298"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1213.790s" clip-end="npt=1219.315s" id="audio_0299"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1219.315s" clip-end="npt=1222.293s" id="audio_0300"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1222.293s" clip-end="npt=1227.622s" id="audio_0301"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1227.622s" clip-end="npt=1231.305s" id="audio_0302"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1231.305s" clip-end="npt=1236.608s" id="audio_0303"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1236.608s" clip-end="npt=1240.918s" id="audio_0304"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1240.918s" clip-end="npt=1244.588s" id="audio_0305"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1244.588s" clip-end="npt=1248.298s" id="audio_0306"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1248.298s" clip-end="npt=1249.578s" id="audio_0307"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1249.578s" clip-end="npt=1258.198s" id="audio_0308"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1258.198s" clip-end="npt=1259.648s" id="audio_0309"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1259.648s" clip-end="npt=1261.999s" id="audio_0310"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1261.999s" clip-end="npt=1264.794s" id="audio_0311"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1264.794s" clip-end="npt=1266.126s" id="audio_0312"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1266.126s" clip-end="npt=1269.209s" id="audio_0313"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1269.209s" clip-end="npt=1273.793s" id="audio_0314"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1273.793s" clip-end="npt=1277.291s" id="audio_0315"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0176" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0102" id="par_0177"/>
+			</par>
+			<par endsync="last" id="usjr_0066">
+				<text src="ncc.html#jjoy_00fa" id="par_0178"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1277.291s" clip-end="npt=1279.353s" id="audio_0316"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1279.353s" clip-end="npt=1281.860s" id="audio_0317"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1281.860s" clip-end="npt=1283.872s" id="audio_0318"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1283.872s" clip-end="npt=1288.247s" id="audio_0319"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1288.247s" clip-end="npt=1289.632s" id="audio_0320"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1289.632s" clip-end="npt=1292.179s" id="audio_0321"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1292.179s" clip-end="npt=1294.935s" id="audio_0322"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1294.935s" clip-end="npt=1299.493s" id="audio_0323"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1299.493s" clip-end="npt=1300.956s" id="audio_0324"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1300.956s" clip-end="npt=1303.921s" id="audio_0325"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1303.921s" clip-end="npt=1307.056s" id="audio_0326"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1307.056s" clip-end="npt=1309.811s" id="audio_0327"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1309.811s" clip-end="npt=1315.219s" id="audio_0328"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1315.219s" clip-end="npt=1317.034s" id="audio_0329"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1317.034s" clip-end="npt=1319.216s" id="audio_0330"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1319.216s" clip-end="npt=1325.981s" id="audio_0331"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1325.981s" clip-end="npt=1339.630s" id="audio_0332"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1339.630s" clip-end="npt=1341.629s" id="audio_0333"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1341.629s" clip-end="npt=1343.379s" id="audio_0334"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1343.379s" clip-end="npt=1350.014s" id="audio_0335"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1350.014s" clip-end="npt=1351.176s" id="audio_0336"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1351.176s" clip-end="npt=1354.873s" id="audio_0337"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1354.873s" clip-end="npt=1355.852s" id="audio_0338"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1355.852s" clip-end="npt=1361.286s" id="audio_0339"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1361.286s" clip-end="npt=1362.187s" id="audio_0340"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1362.187s" clip-end="npt=1368.260s" id="audio_0341"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1368.260s" clip-end="npt=1369.632s" id="audio_0342"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1369.632s" clip-end="npt=1375.771s" id="audio_0343"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1375.771s" clip-end="npt=1383.202s" id="audio_0344"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1383.202s" clip-end="npt=1385.255s" id="audio_0345"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1385.255s" clip-end="npt=1387.750s" id="audio_0346"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1387.750s" clip-end="npt=1391.903s" id="audio_0347"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1391.903s" clip-end="npt=1393.784s" id="audio_0348"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1393.784s" clip-end="npt=1395.417s" id="audio_0349"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1395.417s" clip-end="npt=1397.781s" id="audio_0350"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1397.781s" clip-end="npt=1398.787s" id="audio_0351"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1398.787s" clip-end="npt=1403.645s" id="audio_0352"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1403.645s" clip-end="npt=1405.121s" id="audio_0353"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1405.121s" clip-end="npt=1410.333s" id="audio_0354"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1410.333s" clip-end="npt=1414.297s" id="audio_0355"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_017b" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0103" id="par_017c"/>
+			</par>
+			<par endsync="last" id="usjr_00b7">
+				<text src="ncc.html#jjoy_00fa" id="par_017d"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1414.297s" clip-end="npt=1416.511s" id="audio_0356"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1416.511s" clip-end="npt=1419.567s" id="audio_0357"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1419.567s" clip-end="npt=1421.422s" id="audio_0358"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1421.422s" clip-end="npt=1424.204s" id="audio_0359"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1424.204s" clip-end="npt=1425.928s" id="audio_0360"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1425.928s" clip-end="npt=1427.417s" id="audio_0361"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1427.417s" clip-end="npt=1431.701s" id="audio_0362"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1431.701s" clip-end="npt=1439.812s" id="audio_0363"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1439.812s" clip-end="npt=1449.086s" id="audio_0364"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1449.086s" clip-end="npt=1450.797s" id="audio_0365"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1450.797s" clip-end="npt=1455.917s" id="audio_0366"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1455.917s" clip-end="npt=1460.945s" id="audio_0367"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1460.945s" clip-end="npt=1465.699s" id="audio_0368"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1465.699s" clip-end="npt=1467.437s" id="audio_0369"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1467.437s" clip-end="npt=1471.775s" id="audio_0370"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1471.775s" clip-end="npt=1476.046s" id="audio_0371"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1476.046s" clip-end="npt=1482.642s" id="audio_0372"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1482.642s" clip-end="npt=1483.935s" id="audio_0373"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1483.935s" clip-end="npt=1486.639s" id="audio_0374"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1486.639s" clip-end="npt=1488.559s" id="audio_0375"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1488.559s" clip-end="npt=1491.223s" id="audio_0376"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1491.223s" clip-end="npt=1500.144s" id="audio_0377"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1500.144s" clip-end="npt=1504.000s" id="audio_0378"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1504.000s" clip-end="npt=1507.435s" id="audio_0379"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1507.435s" clip-end="npt=1509.224s" id="audio_0380"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1509.224s" clip-end="npt=1516.304s" id="audio_0381"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1516.304s" clip-end="npt=1519.164s" id="audio_0382"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1519.164s" clip-end="npt=1523.736s" id="audio_0383"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1523.736s" clip-end="npt=1525.499s" id="audio_0384"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1525.499s" clip-end="npt=1526.557s" id="audio_0385"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1526.557s" clip-end="npt=1528.059s" id="audio_0386"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1528.059s" clip-end="npt=1529.169s" id="audio_0387"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1529.169s" clip-end="npt=1533.662s" id="audio_0388"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1533.662s" clip-end="npt=1538.168s" id="audio_0389"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1538.168s" clip-end="npt=1539.553s" id="audio_0390"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1539.553s" clip-end="npt=1541.590s" id="audio_0391"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1541.590s" clip-end="npt=1544.333s" id="audio_0392"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1544.333s" clip-end="npt=1550.925s" id="audio_0393"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1550.925s" clip-end="npt=1556.371s" id="audio_0394"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1556.371s" clip-end="npt=1583.591s" id="audio_0395"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1583.591s" clip-end="npt=1586.334s" id="audio_0396"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1586.334s" clip-end="npt=1588.110s" id="audio_0397"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1588.110s" clip-end="npt=1590.304s" id="audio_0398"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1590.304s" clip-end="npt=1591.402s" id="audio_0399"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1591.402s" clip-end="npt=1592.590s" id="audio_0400"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1592.590s" clip-end="npt=1598.951s" id="audio_0401"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1598.951s" clip-end="npt=1601.655s" id="audio_0402"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1601.655s" clip-end="npt=1604.358s" id="audio_0403"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1604.358s" clip-end="npt=1607.872s" id="audio_0404"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1607.872s" clip-end="npt=1611.738s" id="audio_0405"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1611.738s" clip-end="npt=1619.640s" id="audio_0406"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1619.640s" clip-end="npt=1622.357s" id="audio_0407"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1622.357s" clip-end="npt=1623.493s" id="audio_0408"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1623.493s" clip-end="npt=1625.753s" id="audio_0409"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1625.753s" clip-end="npt=1630.585s" id="audio_0410"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1630.585s" clip-end="npt=1633.132s" id="audio_0411"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_017e" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0104" id="par_017f"/>
+			</par>
+			<par endsync="last" id="usjr_0128">
+				<text src="ncc.html#jjoy_00fa" id="par_0180"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1633.132s" clip-end="npt=1635.198s" id="audio_0412"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1635.198s" clip-end="npt=1638.528s" id="audio_0413"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1638.528s" clip-end="npt=1641.885s" id="audio_0414"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1641.885s" clip-end="npt=1643.975s" id="audio_0415"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1643.975s" clip-end="npt=1646.287s" id="audio_0416"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1646.287s" clip-end="npt=1648.533s" id="audio_0417"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1648.533s" clip-end="npt=1650.780s" id="audio_0418"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1650.780s" clip-end="npt=1652.909s" id="audio_0419"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1652.909s" clip-end="npt=1656.312s" id="audio_0420"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1656.312s" clip-end="npt=1658.481s" id="audio_0421"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1658.481s" clip-end="npt=1660.322s" id="audio_0422"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1660.322s" clip-end="npt=1664.319s" id="audio_0423"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1664.319s" clip-end="npt=1666.317s" id="audio_0424"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1666.317s" clip-end="npt=1668.316s" id="audio_0425"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1668.316s" clip-end="npt=1672.495s" id="audio_0426"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1672.495s" clip-end="npt=1674.676s" id="audio_0427"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1674.676s" clip-end="npt=1676.858s" id="audio_0428"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1676.858s" clip-end="npt=1678.072s" id="audio_0429"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1678.072s" clip-end="npt=1680.959s" id="audio_0430"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1680.959s" clip-end="npt=1685.387s" id="audio_0431"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1685.387s" clip-end="npt=1688.051s" id="audio_0432"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1688.051s" clip-end="npt=1692.401s" id="audio_0433"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1692.401s" clip-end="npt=1698.526s" id="audio_0434"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1698.526s" clip-end="npt=1700.394s" id="audio_0435"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1700.394s" clip-end="npt=1701.700s" id="audio_0436"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1701.700s" clip-end="npt=1703.725s" id="audio_0437"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1703.725s" clip-end="npt=1707.552s" id="audio_0438"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1707.552s" clip-end="npt=1710.464s" id="audio_0439"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1710.464s" clip-end="npt=1714.147s" id="audio_0440"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1714.147s" clip-end="npt=1715.153s" id="audio_0441"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1715.153s" clip-end="npt=1717.112s" id="audio_0442"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1717.112s" clip-end="npt=1722.206s" id="audio_0443"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1722.206s" clip-end="npt=1724.322s" id="audio_0444"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1724.322s" clip-end="npt=1726.608s" id="audio_0445"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1726.608s" clip-end="npt=1733.922s" id="audio_0446"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1733.922s" clip-end="npt=1738.289s" id="audio_0447"/>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1738.289s" clip-end="npt=1739.796s" id="audio_0448"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0105" id="usjr_0174"/>
+			</par>
+			<par endsync="last" id="usjr_0175">
+				<text src="ncc.html#jjoy_00fa" id="par_0004"/>
+				<seq>
+					<audio src="05_Lesson_4__Father_Dear_Father.mp3" clip-begin="npt=1739.796s" clip-end="npt=1741.115s" id="audio_0449"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

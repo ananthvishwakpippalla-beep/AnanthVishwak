@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:23:15.473"/>
+		<meta name="ncc:totalElapsedTime" content="01:47:27.013"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 5: Fuel of the Future"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="1395.473s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_0106" id="jjoy_0106"/>
+				<seq>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=0.000s" clip-end="npt=2.116s" id="audio_0001"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=2.116s" clip-end="npt=5.329s" id="audio_0002"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=5.329s" clip-end="npt=12.147s" id="audio_0003"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=12.147s" clip-end="npt=15.503s" id="audio_0004"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=15.503s" clip-end="npt=16.862s" id="audio_0005"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=16.862s" clip-end="npt=23.131s" id="audio_0006"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=23.131s" clip-end="npt=33.071s" id="audio_0007"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=33.071s" clip-end="npt=37.472s" id="audio_0008"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=37.472s" clip-end="npt=40.725s" id="audio_0009"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=40.725s" clip-end="npt=43.833s" id="audio_0010"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=43.833s" clip-end="npt=48.966s" id="audio_0011"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=48.966s" clip-end="npt=52.532s" id="audio_0012"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=52.532s" clip-end="npt=57.965s" id="audio_0013"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=57.965s" clip-end="npt=63.020s" id="audio_0014"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=63.020s" clip-end="npt=76.264s" id="audio_0015"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=76.264s" clip-end="npt=84.140s" id="audio_0016"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=84.140s" clip-end="npt=93.531s" id="audio_0017"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=93.531s" clip-end="npt=98.389s" id="audio_0018"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=98.389s" clip-end="npt=103.588s" id="audio_0019"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=103.588s" clip-end="npt=112.548s" id="audio_0020"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=112.548s" clip-end="npt=124.381s" id="audio_0021"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=124.381s" clip-end="npt=130.053s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sari_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0107" id="sari_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_0106" id="sari_0004"/>
+				<seq>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=130.053s" clip-end="npt=132.515s" id="audio_0023"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=132.515s" clip-end="npt=134.592s" id="audio_0024"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=134.592s" clip-end="npt=138.144s" id="audio_0025"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=138.144s" clip-end="npt=139.490s" id="audio_0026"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=139.490s" clip-end="npt=147.535s" id="audio_0027"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=147.535s" clip-end="npt=148.633s" id="audio_0028"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=148.633s" clip-end="npt=153.896s" id="audio_0029"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=153.896s" clip-end="npt=161.615s" id="audio_0030"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=161.615s" clip-end="npt=168.786s" id="audio_0031"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=168.786s" clip-end="npt=170.471s" id="audio_0032"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=170.471s" clip-end="npt=171.973s" id="audio_0033"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=171.973s" clip-end="npt=175.134s" id="audio_0034"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=175.134s" clip-end="npt=176.218s" id="audio_0035"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=176.218s" clip-end="npt=183.467s" id="audio_0036"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=183.467s" clip-end="npt=184.564s" id="audio_0037"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=184.564s" clip-end="npt=190.964s" id="audio_0038"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=190.964s" clip-end="npt=192.466s" id="audio_0039"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=192.466s" clip-end="npt=200.564s" id="audio_0040"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=200.564s" clip-end="npt=202.262s" id="audio_0041"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=202.262s" clip-end="npt=212.855s" id="audio_0042"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=212.855s" clip-end="npt=217.282s" id="audio_0043"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=217.282s" clip-end="npt=221.775s" id="audio_0044"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=221.775s" clip-end="npt=227.157s" id="audio_0045"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=227.157s" clip-end="npt=237.788s" id="audio_0046"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=237.788s" clip-end="npt=242.739s" id="audio_0047"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=242.739s" clip-end="npt=250.602s" id="audio_0048"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=250.602s" clip-end="npt=258.007s" id="audio_0049"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=258.007s" clip-end="npt=264.473s" id="audio_0050"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=264.473s" clip-end="npt=265.883s" id="audio_0051"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=265.883s" clip-end="npt=275.470s" id="audio_0052"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=275.470s" clip-end="npt=279.558s" id="audio_0053"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=279.558s" clip-end="npt=286.677s" id="audio_0054"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=286.677s" clip-end="npt=293.991s" id="audio_0055"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=293.991s" clip-end="npt=305.132s" id="audio_0056"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=305.132s" clip-end="npt=314.719s" id="audio_0057"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=314.719s" clip-end="npt=326.970s" id="audio_0058"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=326.970s" clip-end="npt=332.518s" id="audio_0059"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sari_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0108" id="sari_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_0106" id="sari_0007"/>
+				<seq>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=332.518s" clip-end="npt=336.005s" id="audio_0060"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=336.005s" clip-end="npt=338.278s" id="audio_0061"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=338.278s" clip-end="npt=342.301s" id="audio_0062"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=342.301s" clip-end="npt=343.672s" id="audio_0063"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=343.672s" clip-end="npt=347.133s" id="audio_0064"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=347.133s" clip-end="npt=348.270s" id="audio_0065"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=348.270s" clip-end="npt=352.880s" id="audio_0066"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=352.880s" clip-end="npt=358.823s" id="audio_0067"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=358.823s" clip-end="npt=370.265s" id="audio_0068"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=370.265s" clip-end="npt=381.576s" id="audio_0069"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=381.576s" clip-end="npt=385.847s" id="audio_0070"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=385.847s" clip-end="npt=388.772s" id="audio_0071"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=388.772s" clip-end="npt=395.381s" id="audio_0072"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=395.381s" clip-end="npt=405.922s" id="audio_0073"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=405.922s" clip-end="npt=415.365s" id="audio_0074"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=415.365s" clip-end="npt=420.694s" id="audio_0075"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=420.694s" clip-end="npt=429.014s" id="audio_0076"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=429.014s" clip-end="npt=439.124s" id="audio_0077"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=439.124s" clip-end="npt=445.576s" id="audio_0078"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=445.576s" clip-end="npt=455.894s" id="audio_0079"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=455.894s" clip-end="npt=466.435s" id="audio_0080"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=466.435s" clip-end="npt=478.725s" id="audio_0081"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=478.725s" clip-end="npt=489.292s" id="audio_0082"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=489.292s" clip-end="npt=496.136s" id="audio_0083"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=496.136s" clip-end="npt=506.532s" id="audio_0084"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=506.532s" clip-end="npt=510.033s" id="audio_0085"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=510.033s" clip-end="npt=517.412s" id="audio_0086"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=517.412s" clip-end="npt=518.692s" id="audio_0087"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=518.692s" clip-end="npt=524.661s" id="audio_0088"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=524.661s" clip-end="npt=531.244s" id="audio_0089"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=531.244s" clip-end="npt=539.512s" id="audio_0090"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=539.512s" clip-end="npt=542.516s" id="audio_0091"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=542.516s" clip-end="npt=548.864s" id="audio_0092"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=548.864s" clip-end="npt=555.408s" id="audio_0093"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=555.408s" clip-end="npt=560.946s" id="audio_0094"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sari_0008" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0109" id="sari_0009"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_0106" id="sari_000a"/>
+				<seq>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=560.946s" clip-end="npt=563.624s" id="audio_0095"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=563.624s" clip-end="npt=565.870s" id="audio_0096"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=565.870s" clip-end="npt=568.300s" id="audio_0097"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=568.300s" clip-end="npt=579.532s" id="audio_0098"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=579.532s" clip-end="npt=582.236s" id="audio_0099"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=582.236s" clip-end="npt=585.488s" id="audio_0100"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=585.488s" clip-end="npt=587.121s" id="audio_0101"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=587.121s" clip-end="npt=596.734s" id="audio_0102"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=596.734s" clip-end="npt=598.445s" id="audio_0103"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=598.445s" clip-end="npt=603.800s" id="audio_0104"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=603.800s" clip-end="npt=610.618s" id="audio_0105"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=610.618s" clip-end="npt=615.621s" id="audio_0106"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=615.621s" clip-end="npt=625.939s" id="audio_0107"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=625.939s" clip-end="npt=628.734s" id="audio_0108"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=628.734s" clip-end="npt=636.101s" id="audio_0109"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=636.101s" clip-end="npt=643.010s" id="audio_0110"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=643.010s" clip-end="npt=646.732s" id="audio_0111"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=646.732s" clip-end="npt=652.989s" id="audio_0112"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=652.989s" clip-end="npt=658.866s" id="audio_0113"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=658.866s" clip-end="npt=664.901s" id="audio_0114"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=664.901s" clip-end="npt=668.388s" id="audio_0115"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=668.388s" clip-end="npt=673.939s" id="audio_0116"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=673.939s" clip-end="npt=685.968s" id="audio_0117"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=685.968s" clip-end="npt=689.012s" id="audio_0118"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=689.012s" clip-end="npt=708.864s" id="audio_0119"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sari_000b" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_010a" id="sari_000c"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_0106" id="sari_000d"/>
+				<seq>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=708.864s" clip-end="npt=711.633s" id="audio_0120"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=711.633s" clip-end="npt=715.381s" id="audio_0121"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=715.381s" clip-end="npt=717.079s" id="audio_0122"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=717.079s" clip-end="npt=725.752s" id="audio_0123"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=725.752s" clip-end="npt=726.980s" id="audio_0124"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=726.980s" clip-end="npt=735.626s" id="audio_0125"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=735.626s" clip-end="npt=736.906s" id="audio_0126"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=736.906s" clip-end="npt=739.767s" id="audio_0127"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=739.767s" clip-end="npt=742.248s" id="audio_0128"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=742.248s" clip-end="npt=744.638s" id="audio_0129"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=744.638s" clip-end="npt=747.551s" id="audio_0130"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=747.551s" clip-end="npt=750.307s" id="audio_0131"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=750.307s" clip-end="npt=753.468s" id="audio_0132"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=753.468s" clip-end="npt=756.485s" id="audio_0133"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=756.485s" clip-end="npt=758.810s" id="audio_0134"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=758.810s" clip-end="npt=761.030s" id="audio_0135"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=761.030s" clip-end="npt=766.542s" id="audio_0136"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=766.542s" clip-end="npt=774.849s" id="audio_0137"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=774.849s" clip-end="npt=777.618s" id="audio_0138"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=777.618s" clip-end="npt=781.994s" id="audio_0139"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=781.994s" clip-end="npt=783.143s" id="audio_0140"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=783.143s" clip-end="npt=787.244s" id="audio_0141"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=787.244s" clip-end="npt=795.055s" id="audio_0142"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=795.055s" clip-end="npt=798.059s" id="audio_0143"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=798.059s" clip-end="npt=809.252s" id="audio_0144"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=809.252s" clip-end="npt=815.574s" id="audio_0145"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=815.574s" clip-end="npt=818.278s" id="audio_0146"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=818.278s" clip-end="npt=824.521s" id="audio_0147"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=824.521s" clip-end="npt=828.413s" id="audio_0148"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=828.413s" clip-end="npt=832.345s" id="audio_0149"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=832.345s" clip-end="npt=835.349s" id="audio_0150"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=835.349s" clip-end="npt=846.255s" id="audio_0151"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=846.255s" clip-end="npt=848.253s" id="audio_0152"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=848.253s" clip-end="npt=850.252s" id="audio_0153"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=850.252s" clip-end="npt=858.454s" id="audio_0154"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=858.454s" clip-end="npt=859.538s" id="audio_0155"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=859.538s" clip-end="npt=862.516s" id="audio_0156"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=862.516s" clip-end="npt=867.401s" id="audio_0157"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=867.401s" clip-end="npt=873.918s" id="audio_0158"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=873.918s" clip-end="npt=878.255s" id="audio_0159"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=878.255s" clip-end="npt=881.925s" id="audio_0160"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=881.925s" clip-end="npt=883.427s" id="audio_0161"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=883.427s" clip-end="npt=889.749s" id="audio_0162"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=889.749s" clip-end="npt=892.432s" id="audio_0163"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sari_000e" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_010b" id="sari_0010"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_0106" id="sari_0011"/>
+				<seq>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=892.432s" clip-end="npt=895.052s" id="audio_0164"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=895.052s" clip-end="npt=897.233s" id="audio_0165"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=897.233s" clip-end="npt=900.224s" id="audio_0166"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=900.224s" clip-end="npt=909.210s" id="audio_0167"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=909.210s" clip-end="npt=914.095s" id="audio_0168"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=914.095s" clip-end="npt=939.551s" id="audio_0169"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=939.551s" clip-end="npt=948.590s" id="audio_0170"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=948.590s" clip-end="npt=957.994s" id="audio_0171"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=957.994s" clip-end="npt=964.093s" id="audio_0172"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=964.093s" clip-end="npt=968.939s" id="audio_0173"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=968.939s" clip-end="npt=982.392s" id="audio_0174"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=982.392s" clip-end="npt=992.645s" id="audio_0175"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=992.645s" clip-end="npt=1003.251s" id="audio_0176"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1003.251s" clip-end="npt=1011.623s" id="audio_0177"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1011.623s" clip-end="npt=1014.510s" id="audio_0178"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1014.510s" clip-end="npt=1016.182s" id="audio_0179"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1016.182s" clip-end="npt=1025.455s" id="audio_0180"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1025.455s" clip-end="npt=1039.653s" id="audio_0181"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1039.653s" clip-end="npt=1041.964s" id="audio_0182"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1041.964s" clip-end="npt=1045.426s" id="audio_0183"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1045.426s" clip-end="npt=1046.706s" id="audio_0184"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1046.706s" clip-end="npt=1052.087s" id="audio_0185"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1052.087s" clip-end="npt=1056.044s" id="audio_0186"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1056.044s" clip-end="npt=1058.056s" id="audio_0187"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1058.056s" clip-end="npt=1060.864s" id="audio_0188"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1060.864s" clip-end="npt=1066.271s" id="audio_0189"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1066.271s" clip-end="npt=1072.893s" id="audio_0190"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1072.893s" clip-end="npt=1076.080s" id="audio_0191"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1076.080s" clip-end="npt=1078.758s" id="audio_0192"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1078.758s" clip-end="npt=1082.428s" id="audio_0193"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1082.428s" clip-end="npt=1084.949s" id="audio_0194"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1084.949s" clip-end="npt=1092.368s" id="audio_0195"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1092.368s" clip-end="npt=1099.212s" id="audio_0196"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1099.212s" clip-end="npt=1102.995s" id="audio_0197"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sari_0013" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_010c" id="sari_0014"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_0106" id="sari_0015"/>
+				<seq>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1102.995s" clip-end="npt=1106.171s" id="audio_0198"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1106.171s" clip-end="npt=1108.039s" id="audio_0199"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1108.039s" clip-end="npt=1110.520s" id="audio_0200"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1110.520s" clip-end="npt=1114.726s" id="audio_0201"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1114.726s" clip-end="npt=1116.385s" id="audio_0202"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1116.385s" clip-end="npt=1118.475s" id="audio_0203"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1118.475s" clip-end="npt=1127.187s" id="audio_0204"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1127.187s" clip-end="npt=1129.642s" id="audio_0205"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1129.642s" clip-end="npt=1136.016s" id="audio_0206"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1136.016s" clip-end="npt=1147.954s" id="audio_0207"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1147.954s" clip-end="npt=1152.630s" id="audio_0208"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1152.630s" clip-end="npt=1156.483s" id="audio_0209"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1156.483s" clip-end="npt=1167.128s" id="audio_0210"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1167.128s" clip-end="npt=1172.483s" id="audio_0211"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1172.483s" clip-end="npt=1180.424s" id="audio_0212"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1180.424s" clip-end="npt=1182.044s" id="audio_0213"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1182.044s" clip-end="npt=1186.315s" id="audio_0214"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1186.315s" clip-end="npt=1193.629s" id="audio_0215"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1193.629s" clip-end="npt=1198.044s" id="audio_0216"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1198.044s" clip-end="npt=1200.212s" id="audio_0217"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1200.212s" clip-end="npt=1212.267s" id="audio_0218"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1212.267s" clip-end="npt=1214.631s" id="audio_0219"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1214.631s" clip-end="npt=1220.404s" id="audio_0220"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1220.404s" clip-end="npt=1222.847s" id="audio_0221"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1222.847s" clip-end="npt=1225.172s" id="audio_0222"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1225.172s" clip-end="npt=1229.325s" id="audio_0223"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1229.325s" clip-end="npt=1230.684s" id="audio_0224"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1230.684s" clip-end="npt=1238.011s" id="audio_0225"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1238.011s" clip-end="npt=1239.396s" id="audio_0226"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1239.396s" clip-end="npt=1240.819s" id="audio_0227"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1240.819s" clip-end="npt=1248.120s" id="audio_0228"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1248.120s" clip-end="npt=1250.158s" id="audio_0229"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1250.158s" clip-end="npt=1254.724s" id="audio_0230"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sari_0016" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_010d" id="sari_0017"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#jjoy_0106" id="sari_0018"/>
+				<seq>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1254.724s" clip-end="npt=1256.932s" id="audio_0231"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1256.932s" clip-end="npt=1260.079s" id="audio_0232"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1260.079s" clip-end="npt=1265.252s" id="audio_0233"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1265.252s" clip-end="npt=1266.636s" id="audio_0234"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1266.636s" clip-end="npt=1269.719s" id="audio_0235"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1269.719s" clip-end="npt=1273.598s" id="audio_0236"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1273.598s" clip-end="npt=1275.074s" id="audio_0237"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1275.074s" clip-end="npt=1283.485s" id="audio_0238"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1283.485s" clip-end="npt=1286.280s" id="audio_0239"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1286.280s" clip-end="npt=1293.111s" id="audio_0240"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1293.111s" clip-end="npt=1294.574s" id="audio_0241"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1294.574s" clip-end="npt=1298.506s" id="audio_0242"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1298.506s" clip-end="npt=1304.488s" id="audio_0243"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1304.488s" clip-end="npt=1310.979s" id="audio_0244"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1310.979s" clip-end="npt=1314.584s" id="audio_0245"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1314.584s" clip-end="npt=1323.335s" id="audio_0246"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1323.335s" clip-end="npt=1328.141s" id="audio_0247"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1328.141s" clip-end="npt=1329.382s" id="audio_0248"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1329.382s" clip-end="npt=1333.000s" id="audio_0249"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1333.000s" clip-end="npt=1335.952s" id="audio_0250"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1335.952s" clip-end="npt=1340.275s" id="audio_0251"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1340.275s" clip-end="npt=1342.287s" id="audio_0252"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1342.287s" clip-end="npt=1348.804s" id="audio_0253"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1348.804s" clip-end="npt=1350.463s" id="audio_0254"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1350.463s" clip-end="npt=1352.030s" id="audio_0255"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1352.030s" clip-end="npt=1354.355s" id="audio_0256"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1354.355s" clip-end="npt=1355.217s" id="audio_0257"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1355.217s" clip-end="npt=1357.137s" id="audio_0258"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1357.137s" clip-end="npt=1359.645s" id="audio_0259"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1359.645s" clip-end="npt=1362.336s" id="audio_0260"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1362.336s" clip-end="npt=1364.439s" id="audio_0261"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1364.439s" clip-end="npt=1368.553s" id="audio_0262"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1368.553s" clip-end="npt=1371.257s" id="audio_0263"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1371.257s" clip-end="npt=1373.490s" id="audio_0264"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1373.490s" clip-end="npt=1376.155s" id="audio_0265"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1376.155s" clip-end="npt=1378.858s" id="audio_0266"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1378.858s" clip-end="npt=1381.301s" id="audio_0267"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1381.301s" clip-end="npt=1387.870s" id="audio_0268"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1387.870s" clip-end="npt=1391.685s" id="audio_0269"/>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1391.685s" clip-end="npt=1393.461s" id="audio_0270"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_010e" id="mjgo_0003"/>
+			</par>
+			<par endsync="last" id="mjgo_0004">
+				<text src="ncc.html#jjoy_0106" id="par_0004"/>
+				<seq>
+					<audio src="06_Lesson_5__Fuel_of_the_Future.mp3" clip-begin="npt=1393.461s" clip-end="npt=1395.473s" id="audio_0271"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

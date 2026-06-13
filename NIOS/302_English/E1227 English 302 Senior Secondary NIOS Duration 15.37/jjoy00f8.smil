@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:30:41.215"/>
+		<meta name="ncc:totalElapsedTime" content="10:27:44.845"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 26 B: Face to Face Communication in Business"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="1841.215s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#ybue_0522" id="ybue_0522"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=0.000s" clip-end="npt=2.539s" id="audio_0001"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=2.539s" clip-end="npt=6.170s" id="audio_0002"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=6.170s" clip-end="npt=11.604s" id="audio_0003"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=11.604s" clip-end="npt=19.401s" id="audio_0004"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=19.401s" clip-end="npt=30.582s" id="audio_0005"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=30.582s" clip-end="npt=39.085s" id="audio_0006"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=39.085s" clip-end="npt=43.016s" id="audio_0007"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=43.016s" clip-end="npt=48.214s" id="audio_0008"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=48.214s" clip-end="npt=56.338s" id="audio_0009"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=56.338s" clip-end="npt=61.106s" id="audio_0010"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=61.106s" clip-end="npt=64.985s" id="audio_0011"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=64.985s" clip-end="npt=68.123s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0523" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0523" id="ybue_0524"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#ybue_0522" id="ybue_0525"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=68.123s" clip-end="npt=68.980s" id="audio_0013"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=68.980s" clip-end="npt=71.671s" id="audio_0014"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=71.671s" clip-end="npt=85.895s" id="audio_0015"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=85.895s" clip-end="npt=89.996s" id="audio_0016"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=89.996s" clip-end="npt=96.292s" id="audio_0017"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=96.292s" clip-end="npt=108.399s" id="audio_0018"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=108.399s" clip-end="npt=113.820s" id="audio_0019"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=113.820s" clip-end="npt=124.987s" id="audio_0020"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=124.987s" clip-end="npt=127.576s" id="audio_0021"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=127.576s" clip-end="npt=129.300s" id="audio_0022"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=129.300s" clip-end="npt=132.513s" id="audio_0023"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=132.513s" clip-end="npt=137.895s" id="audio_0024"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=137.895s" clip-end="npt=140.990s" id="audio_0025"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=140.990s" clip-end="npt=150.969s" id="audio_0026"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=150.969s" clip-end="npt=157.499s" id="audio_0027"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=157.499s" clip-end="npt=161.588s" id="audio_0028"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=161.588s" clip-end="npt=171.971s" id="audio_0029"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=171.971s" clip-end="npt=173.473s" id="audio_0030"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=173.473s" clip-end="npt=176.464s" id="audio_0031"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=176.464s" clip-end="npt=178.123s" id="audio_0032"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=178.123s" clip-end="npt=181.872s" id="audio_0033"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=181.872s" clip-end="npt=186.717s" id="audio_0034"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=186.717s" clip-end="npt=192.634s" id="audio_0035"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=192.634s" clip-end="npt=193.653s" id="audio_0036"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=193.653s" clip-end="npt=202.469s" id="audio_0037"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=202.469s" clip-end="npt=208.464s" id="audio_0038"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=208.464s" clip-end="npt=213.336s" id="audio_0039"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=213.336s" clip-end="npt=215.596s" id="audio_0040"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=215.596s" clip-end="npt=221.526s" id="audio_0041"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=221.526s" clip-end="npt=227.077s" id="audio_0042"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=227.077s" clip-end="npt=230.475s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0527" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0524" id="ybue_0528"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#ybue_0522" id="ybue_0529"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=230.475s" clip-end="npt=231.953s" id="audio_0044"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=231.953s" clip-end="npt=232.810s" id="audio_0045"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=232.810s" clip-end="npt=234.651s" id="audio_0046"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=234.651s" clip-end="npt=237.838s" id="audio_0047"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=237.838s" clip-end="npt=251.866s" id="audio_0048"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=251.866s" clip-end="npt=253.956s" id="audio_0049"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=253.956s" clip-end="npt=256.777s" id="audio_0050"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=256.777s" clip-end="npt=257.704s" id="audio_0051"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=257.704s" clip-end="npt=259.429s" id="audio_0052"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=259.429s" clip-end="npt=266.155s" id="audio_0053"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=266.155s" clip-end="npt=274.462s" id="audio_0054"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=274.462s" clip-end="npt=276.160s" id="audio_0055"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=276.160s" clip-end="npt=280.470s" id="audio_0056"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=280.470s" clip-end="npt=285.068s" id="audio_0057"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=285.068s" clip-end="npt=288.020s" id="audio_0058"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=288.020s" clip-end="npt=290.436s" id="audio_0059"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=290.436s" clip-end="npt=294.851s" id="audio_0060"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=294.851s" clip-end="npt=299.213s" id="audio_0061"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=299.213s" clip-end="npt=300.663s" id="audio_0062"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=300.663s" clip-end="npt=306.344s" id="audio_0063"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=306.344s" clip-end="npt=310.393s" id="audio_0064"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=310.393s" clip-end="npt=312.431s" id="audio_0065"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=312.431s" clip-end="npt=314.351s" id="audio_0066"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=314.351s" clip-end="npt=315.474s" id="audio_0067"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=315.474s" clip-end="npt=316.859s" id="audio_0068"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=316.859s" clip-end="npt=321.038s" id="audio_0069"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=321.038s" clip-end="npt=326.890s" id="audio_0070"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=326.890s" clip-end="npt=333.564s" id="audio_0071"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=333.564s" clip-end="npt=340.656s" id="audio_0072"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=340.656s" clip-end="npt=343.878s" id="audio_0073"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_052b" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0525" id="ybue_052c"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#ybue_0522" id="ybue_052d"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=343.878s" clip-end="npt=345.624s" id="audio_0074"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=345.624s" clip-end="npt=346.481s" id="audio_0075"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=346.481s" clip-end="npt=348.179s" id="audio_0076"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=348.179s" clip-end="npt=349.838s" id="audio_0077"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=349.838s" clip-end="npt=353.403s" id="audio_0078"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=353.403s" clip-end="npt=356.224s" id="audio_0079"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=356.224s" clip-end="npt=362.037s" id="audio_0080"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=362.037s" clip-end="npt=362.925s" id="audio_0081"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=362.925s" clip-end="npt=367.340s" id="audio_0082"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=367.340s" clip-end="npt=368.633s" id="audio_0083"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=368.633s" clip-end="npt=370.984s" id="audio_0084"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=370.984s" clip-end="npt=377.841s" id="audio_0085"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=377.841s" clip-end="npt=383.118s" id="audio_0086"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=383.118s" clip-end="npt=384.528s" id="audio_0087"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=384.528s" clip-end="npt=386.069s" id="audio_0088"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=386.069s" clip-end="npt=389.531s" id="audio_0089"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=389.531s" clip-end="npt=390.719s" id="audio_0090"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=390.719s" clip-end="npt=394.207s" id="audio_0091"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=394.207s" clip-end="npt=397.563s" id="audio_0092"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=397.563s" clip-end="npt=401.978s" id="audio_0093"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=401.978s" clip-end="npt=404.381s" id="audio_0094"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=404.381s" clip-end="npt=410.337s" id="audio_0095"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=410.337s" clip-end="npt=411.970s" id="audio_0096"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=411.970s" clip-end="npt=416.097s" id="audio_0097"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=416.097s" clip-end="npt=417.377s" id="audio_0098"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=417.377s" clip-end="npt=420.838s" id="audio_0099"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=420.838s" clip-end="npt=424.430s" id="audio_0100"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=424.430s" clip-end="npt=425.593s" id="audio_0101"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=425.593s" clip-end="npt=429.929s" id="audio_0102"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=429.929s" clip-end="npt=431.614s" id="audio_0103"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=431.614s" clip-end="npt=440.848s" id="audio_0104"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=440.848s" clip-end="npt=444.218s" id="audio_0105"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=444.218s" clip-end="npt=448.468s" id="audio_0106"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=448.468s" clip-end="npt=450.584s" id="audio_0107"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=450.584s" clip-end="npt=454.202s" id="audio_0108"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=454.202s" clip-end="npt=458.499s" id="audio_0109"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=458.499s" clip-end="npt=463.058s" id="audio_0110"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=463.058s" clip-end="npt=473.359s" id="audio_0111"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=473.359s" clip-end="npt=476.574s" id="audio_0112"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_052e" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0526" id="ybue_052f"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#ybue_0522" id="ybue_0530"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=476.574s" clip-end="npt=477.772s" id="audio_0113"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=477.772s" clip-end="npt=478.629s" id="audio_0114"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=478.629s" clip-end="npt=481.098s" id="audio_0115"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=481.098s" clip-end="npt=485.069s" id="audio_0116"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=485.069s" clip-end="npt=486.949s" id="audio_0117"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=486.949s" clip-end="npt=501.931s" id="audio_0118"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=501.931s" clip-end="npt=511.753s" id="audio_0119"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=511.753s" clip-end="npt=514.117s" id="audio_0120"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=514.117s" clip-end="npt=518.780s" id="audio_0121"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=518.780s" clip-end="npt=536.856s" id="audio_0122"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=536.856s" clip-end="npt=540.109s" id="audio_0123"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=540.109s" clip-end="npt=562.365s" id="audio_0124"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=562.365s" clip-end="npt=564.180s" id="audio_0125"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=564.180s" clip-end="npt=569.836s" id="audio_0126"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=569.836s" clip-end="npt=571.691s" id="audio_0127"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=571.691s" clip-end="npt=577.137s" id="audio_0128"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=577.137s" clip-end="npt=582.780s" id="audio_0129"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=582.780s" clip-end="npt=588.383s" id="audio_0130"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=588.383s" clip-end="npt=593.294s" id="audio_0131"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=593.294s" clip-end="npt=601.157s" id="audio_0132"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=601.157s" clip-end="npt=606.773s" id="audio_0133"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=606.773s" clip-end="npt=609.268s" id="audio_0134"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=609.268s" clip-end="npt=612.076s" id="audio_0135"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=612.076s" clip-end="npt=615.263s" id="audio_0136"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=615.263s" clip-end="npt=622.120s" id="audio_0137"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=622.120s" clip-end="npt=625.468s" id="audio_0138"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0532" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0527" id="ybue_0533"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#ybue_0522" id="ybue_0534"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=625.468s" clip-end="npt=626.663s" id="audio_0139"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=626.663s" clip-end="npt=627.520s" id="audio_0140"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=627.520s" clip-end="npt=631.190s" id="audio_0141"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=631.190s" clip-end="npt=640.895s" id="audio_0142"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=640.895s" clip-end="npt=641.783s" id="audio_0143"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=641.783s" clip-end="npt=649.019s" id="audio_0144"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=649.019s" clip-end="npt=655.824s" id="audio_0145"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=655.824s" clip-end="npt=665.215s" id="audio_0146"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=665.215s" clip-end="npt=671.236s" id="audio_0147"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=671.236s" clip-end="npt=678.433s" id="audio_0148"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=678.433s" clip-end="npt=683.331s" id="audio_0149"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=683.331s" clip-end="npt=686.766s" id="audio_0150"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=686.766s" clip-end="npt=702.230s" id="audio_0151"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=702.230s" clip-end="npt=703.680s" id="audio_0152"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=703.680s" clip-end="npt=704.738s" id="audio_0153"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=704.738s" clip-end="npt=716.950s" id="audio_0154"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=716.950s" clip-end="npt=718.518s" id="audio_0155"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=718.518s" clip-end="npt=719.484s" id="audio_0156"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=719.484s" clip-end="npt=723.520s" id="audio_0157"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=723.520s" clip-end="npt=724.408s" id="audio_0158"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=724.408s" clip-end="npt=735.106s" id="audio_0159"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=735.106s" clip-end="npt=736.438s" id="audio_0160"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=736.438s" clip-end="npt=737.679s" id="audio_0161"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=737.679s" clip-end="npt=748.075s" id="audio_0162"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=748.075s" clip-end="npt=749.839s" id="audio_0163"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=749.839s" clip-end="npt=754.828s" id="audio_0164"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=754.828s" clip-end="npt=756.395s" id="audio_0165"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=756.395s" clip-end="npt=757.963s" id="audio_0166"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=757.963s" clip-end="npt=760.640s" id="audio_0167"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=760.640s" clip-end="npt=767.615s" id="audio_0168"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=767.615s" clip-end="npt=769.156s" id="audio_0169"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=769.156s" clip-end="npt=773.897s" id="audio_0170"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=773.897s" clip-end="npt=777.298s" id="audio_0171"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0535" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0528" id="ybue_0536"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#ybue_0522" id="ybue_0537"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=777.298s" clip-end="npt=778.155s" id="audio_0172"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=778.155s" clip-end="npt=779.788s" id="audio_0173"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=779.788s" clip-end="npt=781.564s" id="audio_0174"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=781.564s" clip-end="npt=783.537s" id="audio_0175"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=783.537s" clip-end="npt=784.791s" id="audio_0176"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=784.791s" clip-end="npt=789.480s" id="audio_0177"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=789.480s" clip-end="npt=792.693s" id="audio_0178"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=792.693s" clip-end="npt=797.133s" id="audio_0179"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=797.133s" clip-end="npt=798.479s" id="audio_0180"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=798.479s" clip-end="npt=802.136s" id="audio_0181"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=802.136s" clip-end="npt=804.696s" id="audio_0182"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=804.696s" clip-end="npt=811.736s" id="audio_0183"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=811.736s" clip-end="npt=814.139s" id="audio_0184"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=814.139s" clip-end="npt=816.020s" id="audio_0185"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=816.020s" clip-end="npt=817.731s" id="audio_0186"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=817.731s" clip-end="npt=823.230s" id="audio_0187"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=823.230s" clip-end="npt=825.973s" id="audio_0188"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=825.973s" clip-end="npt=828.977s" id="audio_0189"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=828.977s" clip-end="npt=832.216s" id="audio_0190"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=832.216s" clip-end="npt=836.017s" id="audio_0191"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=836.017s" clip-end="npt=840.379s" id="audio_0192"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=840.379s" clip-end="npt=846.165s" id="audio_0193"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=846.165s" clip-end="npt=848.085s" id="audio_0194"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=848.085s" clip-end="npt=850.475s" id="audio_0195"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=850.475s" clip-end="npt=857.868s" id="audio_0196"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=857.868s" clip-end="npt=861.891s" id="audio_0197"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=861.891s" clip-end="npt=868.343s" id="audio_0198"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=868.343s" clip-end="npt=873.075s" id="audio_0199"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=873.075s" clip-end="npt=874.629s" id="audio_0200"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=874.629s" clip-end="npt=878.953s" id="audio_0201"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=878.953s" clip-end="npt=880.565s" id="audio_0202"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=880.565s" clip-end="npt=890.308s" id="audio_0203"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=890.308s" clip-end="npt=905.956s" id="audio_0204"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=905.956s" clip-end="npt=910.227s" id="audio_0205"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=910.227s" clip-end="npt=916.653s" id="audio_0206"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=916.653s" clip-end="npt=929.231s" id="audio_0207"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=929.231s" clip-end="npt=932.189s" id="audio_0208"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0538" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0529" id="ybue_0539"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#ybue_0522" id="ybue_053a"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=932.189s" clip-end="npt=933.046s" id="audio_0209"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=933.046s" clip-end="npt=934.312s" id="audio_0210"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=934.312s" clip-end="npt=936.089s" id="audio_0211"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=936.089s" clip-end="npt=946.407s" id="audio_0212"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=946.407s" clip-end="npt=969.604s" id="audio_0213"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=969.604s" clip-end="npt=978.564s" id="audio_0214"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=978.564s" clip-end="npt=984.624s" id="audio_0215"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=984.624s" clip-end="npt=988.399s" id="audio_0216"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=988.399s" clip-end="npt=995.609s" id="audio_0217"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=995.609s" clip-end="npt=1001.173s" id="audio_0218"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1001.173s" clip-end="npt=1007.181s" id="audio_0219"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1007.181s" clip-end="npt=1014.260s" id="audio_0220"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1014.260s" clip-end="npt=1015.423s" id="audio_0221"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1015.423s" clip-end="npt=1019.067s" id="audio_0222"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1019.067s" clip-end="npt=1020.112s" id="audio_0223"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1020.112s" clip-end="npt=1024.356s" id="audio_0224"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1024.356s" clip-end="npt=1031.318s" id="audio_0225"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1031.318s" clip-end="npt=1037.679s" id="audio_0226"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1037.679s" clip-end="npt=1041.571s" id="audio_0227"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1041.571s" clip-end="npt=1045.542s" id="audio_0228"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1045.542s" clip-end="npt=1048.533s" id="audio_0229"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1048.533s" clip-end="npt=1052.033s" id="audio_0230"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1052.033s" clip-end="npt=1056.311s" id="audio_0231"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1056.311s" clip-end="npt=1057.591s" id="audio_0232"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1057.591s" clip-end="npt=1059.498s" id="audio_0233"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1059.498s" clip-end="npt=1062.358s" id="audio_0234"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1062.358s" clip-end="npt=1071.893s" id="audio_0235"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1071.893s" clip-end="npt=1089.761s" id="audio_0236"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1089.761s" clip-end="npt=1092.874s" id="audio_0237"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_053b" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_052a" id="ybue_053c"/>
+			</par>
+			<par endsync="last" id="par_0017">
+				<text src="ncc.html#ybue_0522" id="ybue_053d"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1092.874s" clip-end="npt=1093.731s" id="audio_0238"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1093.731s" clip-end="npt=1095.403s" id="audio_0239"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1095.403s" clip-end="npt=1100.705s" id="audio_0240"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1100.705s" clip-end="npt=1105.016s" id="audio_0241"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1105.016s" clip-end="npt=1119.135s" id="audio_0242"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1119.135s" clip-end="npt=1120.128s" id="audio_0243"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1120.128s" clip-end="npt=1127.128s" id="audio_0244"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1127.128s" clip-end="npt=1134.025s" id="audio_0245"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1134.025s" clip-end="npt=1138.988s" id="audio_0246"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1138.988s" clip-end="npt=1144.905s" id="audio_0247"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1144.905s" clip-end="npt=1147.399s" id="audio_0248"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1147.399s" clip-end="npt=1150.129s" id="audio_0249"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1150.129s" clip-end="npt=1155.759s" id="audio_0250"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1155.759s" clip-end="npt=1161.910s" id="audio_0251"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1161.910s" clip-end="npt=1167.148s" id="audio_0252"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1167.148s" clip-end="npt=1169.473s" id="audio_0253"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1169.473s" clip-end="npt=1171.824s" id="audio_0254"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1171.824s" clip-end="npt=1174.214s" id="audio_0255"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1174.214s" clip-end="npt=1176.147s" id="audio_0256"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1176.147s" clip-end="npt=1179.634s" id="audio_0257"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1179.634s" clip-end="npt=1190.848s" id="audio_0258"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1190.848s" clip-end="npt=1193.682s" id="audio_0259"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1193.682s" clip-end="npt=1196.882s" id="audio_0260"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1196.882s" clip-end="npt=1199.768s" id="audio_0261"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1199.768s" clip-end="npt=1208.898s" id="audio_0262"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1208.898s" clip-end="npt=1212.725s" id="audio_0263"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1212.725s" clip-end="npt=1215.991s" id="audio_0264"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1215.991s" clip-end="npt=1222.560s" id="audio_0265"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1222.560s" clip-end="npt=1226.740s" id="audio_0266"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1226.740s" clip-end="npt=1231.377s" id="audio_0267"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1231.377s" clip-end="npt=1236.484s" id="audio_0268"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1236.484s" clip-end="npt=1242.335s" id="audio_0269"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1242.335s" clip-end="npt=1245.509s" id="audio_0270"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1245.509s" clip-end="npt=1246.240s" id="audio_0271"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1246.240s" clip-end="npt=1248.610s" id="audio_0272"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfjb_0131" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_052b" id="zfjb_0132"/>
+			</par>
+			<par endsync="last" id="pspq_0001">
+				<text src="ncc.html#ybue_0522" id="zfjb_0133"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1248.610s" clip-end="npt=1249.467s" id="audio_0273"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1249.467s" clip-end="npt=1251.766s" id="audio_0274"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1251.766s" clip-end="npt=1253.621s" id="audio_0275"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1253.621s" clip-end="npt=1255.280s" id="audio_0276"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1255.280s" clip-end="npt=1262.137s" id="audio_0277"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1262.137s" clip-end="npt=1265.676s" id="audio_0278"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1265.676s" clip-end="npt=1268.145s" id="audio_0279"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1268.145s" clip-end="npt=1274.610s" id="audio_0280"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1274.610s" clip-end="npt=1278.803s" id="audio_0281"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1278.803s" clip-end="npt=1285.268s" id="audio_0282"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1285.268s" clip-end="npt=1288.938s" id="audio_0283"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1288.938s" clip-end="npt=1290.663s" id="audio_0284"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1290.663s" clip-end="npt=1296.906s" id="audio_0285"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1296.906s" clip-end="npt=1300.981s" id="audio_0286"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1300.981s" clip-end="npt=1302.836s" id="audio_0287"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1302.836s" clip-end="npt=1304.677s" id="audio_0288"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1304.677s" clip-end="npt=1308.112s" id="audio_0289"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1308.112s" clip-end="npt=1316.419s" id="audio_0290"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1316.419s" clip-end="npt=1322.414s" id="audio_0291"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1322.414s" clip-end="npt=1324.138s" id="audio_0292"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1324.138s" clip-end="npt=1329.337s" id="audio_0293"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1329.337s" clip-end="npt=1331.662s" id="audio_0294"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1331.662s" clip-end="npt=1336.168s" id="audio_0295"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1336.168s" clip-end="npt=1339.812s" id="audio_0296"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1339.812s" clip-end="npt=1349.268s" id="audio_0297"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1349.268s" clip-end="npt=1352.298s" id="audio_0298"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1352.298s" clip-end="npt=1356.635s" id="audio_0299"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1356.635s" clip-end="npt=1360.592s" id="audio_0300"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1360.592s" clip-end="npt=1365.490s" id="audio_0301"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1365.490s" clip-end="npt=1371.146s" id="audio_0302"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1371.146s" clip-end="npt=1377.585s" id="audio_0303"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1377.585s" clip-end="npt=1380.302s" id="audio_0304"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfjb_0134" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_052c" id="zfjb_0135"/>
+			</par>
+			<par endsync="last" id="pspq_0040">
+				<text src="ncc.html#ybue_0522" id="zfjb_0136"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1380.302s" clip-end="npt=1381.159s" id="audio_0305"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1381.159s" clip-end="npt=1382.923s" id="audio_0306"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1382.923s" clip-end="npt=1384.947s" id="audio_0307"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1384.947s" clip-end="npt=1396.310s" id="audio_0308"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1396.310s" clip-end="npt=1403.795s" id="audio_0309"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1403.795s" clip-end="npt=1407.896s" id="audio_0310"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1407.896s" clip-end="npt=1411.644s" id="audio_0311"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1411.644s" clip-end="npt=1413.460s" id="audio_0312"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1413.460s" clip-end="npt=1416.595s" id="audio_0313"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1416.595s" clip-end="npt=1420.199s" id="audio_0314"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1420.199s" clip-end="npt=1425.999s" id="audio_0315"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1425.999s" clip-end="npt=1431.106s" id="audio_0316"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1431.106s" clip-end="npt=1432.608s" id="audio_0317"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1432.608s" clip-end="npt=1437.114s" id="audio_0318"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1437.114s" clip-end="npt=1441.620s" id="audio_0319"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1441.620s" clip-end="npt=1445.786s" id="audio_0320"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1445.786s" clip-end="npt=1450.306s" id="audio_0321"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1450.306s" clip-end="npt=1457.790s" id="audio_0322"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1457.790s" clip-end="npt=1462.831s" id="audio_0323"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1462.831s" clip-end="npt=1465.783s" id="audio_0324"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1465.783s" clip-end="npt=1468.787s" id="audio_0325"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1468.787s" clip-end="npt=1472.039s" id="audio_0326"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1472.039s" clip-end="npt=1477.904s" id="audio_0327"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1477.904s" clip-end="npt=1479.106s" id="audio_0328"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1479.106s" clip-end="npt=1482.057s" id="audio_0329"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1482.057s" clip-end="npt=1484.696s" id="audio_0330"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1484.696s" clip-end="npt=1485.832s" id="audio_0331"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1485.832s" clip-end="npt=1488.288s" id="audio_0332"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1488.288s" clip-end="npt=1491.292s" id="audio_0333"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1491.292s" clip-end="npt=1492.885s" id="audio_0334"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1492.885s" clip-end="npt=1499.795s" id="audio_0335"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1499.795s" clip-end="npt=1503.295s" id="audio_0336"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1503.295s" clip-end="npt=1506.286s" id="audio_0337"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1506.286s" clip-end="npt=1509.904s" id="audio_0338"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1509.904s" clip-end="npt=1521.999s" id="audio_0339"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1521.999s" clip-end="npt=1529.339s" id="audio_0340"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1529.339s" clip-end="npt=1535.608s" id="audio_0341"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1535.608s" clip-end="npt=1546.789s" id="audio_0342"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1546.789s" clip-end="npt=1554.599s" id="audio_0343"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1554.599s" clip-end="npt=1559.027s" id="audio_0344"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1559.027s" clip-end="npt=1565.388s" id="audio_0345"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1565.388s" clip-end="npt=1566.995s" id="audio_0346"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1566.995s" clip-end="npt=1569.621s" id="audio_0347"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfjb_0137" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_052d" id="zfjb_0139"/>
+			</par>
+			<par endsync="last" id="pspq_0095">
+				<text src="ncc.html#ybue_0522" id="zfjb_013a"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1569.621s" clip-end="npt=1571.170s" id="audio_0348"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1571.170s" clip-end="npt=1572.027s" id="audio_0349"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1572.027s" clip-end="npt=1573.395s" id="audio_0350"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1573.395s" clip-end="npt=1575.524s" id="audio_0351"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1575.524s" clip-end="npt=1577.079s" id="audio_0352"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1577.079s" clip-end="npt=1577.901s" id="audio_0353"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1577.901s" clip-end="npt=1579.390s" id="audio_0354"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1579.390s" clip-end="npt=1580.527s" id="audio_0355"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1580.527s" clip-end="npt=1583.949s" id="audio_0356"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1583.949s" clip-end="npt=1587.031s" id="audio_0357"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1587.031s" clip-end="npt=1593.914s" id="audio_0358"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1593.914s" clip-end="npt=1596.527s" id="audio_0359"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1596.527s" clip-end="npt=1597.979s" id="audio_0360"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1597.979s" clip-end="npt=1604.953s" id="audio_0361"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1604.953s" clip-end="npt=1611.236s" id="audio_0362"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1611.236s" clip-end="npt=1613.639s" id="audio_0363"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1613.639s" clip-end="npt=1614.893s" id="audio_0364"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1614.893s" clip-end="npt=1624.036s" id="audio_0365"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1624.036s" clip-end="npt=1626.753s" id="audio_0366"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1626.753s" clip-end="npt=1629.822s" id="audio_0367"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1629.822s" clip-end="npt=1634.472s" id="audio_0368"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1634.472s" clip-end="npt=1637.306s" id="audio_0369"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1637.306s" clip-end="npt=1641.224s" id="audio_0370"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1641.224s" clip-end="npt=1646.122s" id="audio_0371"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1646.122s" clip-end="npt=1649.623s" id="audio_0372"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zfjb_013b" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_052e" id="zfjb_013c"/>
+			</par>
+			<par endsync="last" id="pspq_00c6">
+				<text src="ncc.html#ybue_0522" id="zfjb_013d"/>
+				<seq>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1649.623s" clip-end="npt=1650.480s" id="audio_0373"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1650.480s" clip-end="npt=1652.791s" id="audio_0374"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1652.791s" clip-end="npt=1669.194s" id="audio_0375"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1669.194s" clip-end="npt=1676.547s" id="audio_0376"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1676.547s" clip-end="npt=1678.363s" id="audio_0377"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1678.363s" clip-end="npt=1684.972s" id="audio_0378"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1684.972s" clip-end="npt=1686.657s" id="audio_0379"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1686.657s" clip-end="npt=1688.642s" id="audio_0380"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1688.642s" clip-end="npt=1699.718s" id="audio_0381"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1699.718s" clip-end="npt=1703.806s" id="audio_0382"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1703.806s" clip-end="npt=1705.633s" id="audio_0383"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1705.633s" clip-end="npt=1708.911s" id="audio_0384"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1708.911s" clip-end="npt=1710.831s" id="audio_0385"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1710.831s" clip-end="npt=1716.369s" id="audio_0386"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1716.369s" clip-end="npt=1719.387s" id="audio_0387"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1719.387s" clip-end="npt=1722.378s" id="audio_0388"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1722.378s" clip-end="npt=1726.427s" id="audio_0389"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1726.427s" clip-end="npt=1730.724s" id="audio_0390"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1730.724s" clip-end="npt=1746.476s" id="audio_0391"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1746.476s" clip-end="npt=1750.877s" id="audio_0392"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1750.877s" clip-end="npt=1754.991s" id="audio_0393"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1754.991s" clip-end="npt=1756.245s" id="audio_0394"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1756.245s" clip-end="npt=1760.307s" id="audio_0395"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1760.307s" clip-end="npt=1764.317s" id="audio_0396"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1764.317s" clip-end="npt=1771.305s" id="audio_0397"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1771.305s" clip-end="npt=1776.490s" id="audio_0398"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1776.490s" clip-end="npt=1777.731s" id="audio_0399"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1777.731s" clip-end="npt=1781.036s" id="audio_0400"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1781.036s" clip-end="npt=1787.971s" id="audio_0401"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1787.971s" clip-end="npt=1789.774s" id="audio_0402"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1789.774s" clip-end="npt=1791.341s" id="audio_0403"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1791.341s" clip-end="npt=1794.711s" id="audio_0404"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1794.711s" clip-end="npt=1796.396s" id="audio_0405"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1796.396s" clip-end="npt=1800.105s" id="audio_0406"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1800.105s" clip-end="npt=1801.868s" id="audio_0407"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1801.868s" clip-end="npt=1804.206s" id="audio_0408"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1804.206s" clip-end="npt=1807.236s" id="audio_0409"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1807.236s" clip-end="npt=1814.616s" id="audio_0410"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1814.616s" clip-end="npt=1816.510s" id="audio_0411"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1816.510s" clip-end="npt=1818.613s" id="audio_0412"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1818.613s" clip-end="npt=1831.321s" id="audio_0413"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1831.321s" clip-end="npt=1834.900s" id="audio_0414"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1834.900s" clip-end="npt=1838.453s" id="audio_0415"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1838.453s" clip-end="npt=1839.310s" id="audio_0416"/>
+					<audio src="28_Lesson_26_B__Face_to_Face_Communication_in_Business.mp3" clip-begin="npt=1839.310s" clip-end="npt=1841.215s" id="audio_0417"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

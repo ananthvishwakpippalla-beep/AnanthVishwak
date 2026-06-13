@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:08:50.103"/>
+		<meta name="ncc:totalElapsedTime" content="05:55:04.691"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 14: The Road Not Taken"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="530.103s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_0166" id="jjoy_0166"/>
+				<seq>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=0.000s" clip-end="npt=4.885s" id="audio_0001"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=4.885s" clip-end="npt=11.324s" id="audio_0002"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=11.324s" clip-end="npt=16.588s" id="audio_0003"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=16.588s" clip-end="npt=21.551s" id="audio_0004"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=21.551s" clip-end="npt=26.149s" id="audio_0005"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=26.149s" clip-end="npt=29.806s" id="audio_0006"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=29.806s" clip-end="npt=34.038s" id="audio_0007"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=34.038s" clip-end="npt=37.381s" id="audio_0008"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=37.381s" clip-end="npt=40.163s" id="audio_0009"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=40.163s" clip-end="npt=44.944s" id="audio_0010"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=44.944s" clip-end="npt=51.527s" id="audio_0011"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=51.527s" clip-end="npt=57.417s" id="audio_0012"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=57.417s" clip-end="npt=60.435s" id="audio_0013"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=60.435s" clip-end="npt=66.782s" id="audio_0014"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=66.782s" clip-end="npt=72.973s" id="audio_0015"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=72.973s" clip-end="npt=76.278s" id="audio_0016"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=76.278s" clip-end="npt=83.527s" id="audio_0017"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=83.527s" clip-end="npt=88.921s" id="audio_0018"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=88.921s" clip-end="npt=93.192s" id="audio_0019"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=93.192s" clip-end="npt=100.180s" id="audio_0020"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=100.180s" clip-end="npt=104.438s" id="audio_0021"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=104.438s" clip-end="npt=107.663s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="quyx_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0168" id="quyx_0002"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_0166" id="quyx_0003"/>
+				<seq>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=107.663s" clip-end="npt=110.863s" id="audio_0023"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=110.863s" clip-end="npt=114.076s" id="audio_0024"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=114.076s" clip-end="npt=115.865s" id="audio_0025"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=115.865s" clip-end="npt=120.764s" id="audio_0026"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=120.764s" clip-end="npt=124.017s" id="audio_0027"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=124.017s" clip-end="npt=127.034s" id="audio_0028"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=127.034s" clip-end="npt=140.487s" id="audio_0029"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=140.487s" clip-end="npt=143.556s" id="audio_0030"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=143.556s" clip-end="npt=145.985s" id="audio_0031"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=145.985s" clip-end="npt=147.919s" id="audio_0032"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=147.919s" clip-end="npt=152.163s" id="audio_0033"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=152.163s" clip-end="npt=154.906s" id="audio_0034"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=154.906s" clip-end="npt=157.845s" id="audio_0035"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=157.845s" clip-end="npt=163.866s" id="audio_0036"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=163.866s" clip-end="npt=165.316s" id="audio_0037"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=165.316s" clip-end="npt=172.056s" id="audio_0038"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=172.056s" clip-end="npt=175.151s" id="audio_0039"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=175.151s" clip-end="npt=177.267s" id="audio_0040"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=177.267s" clip-end="npt=188.114s" id="audio_0041"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=188.114s" clip-end="npt=191.314s" id="audio_0042"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=191.314s" clip-end="npt=207.006s" id="audio_0043"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=207.006s" clip-end="npt=210.036s" id="audio_0044"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=210.036s" clip-end="npt=211.419s" id="audio_0045"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=211.419s" clip-end="npt=212.935s" id="audio_0046"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=212.935s" clip-end="npt=218.747s" id="audio_0047"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=218.747s" clip-end="npt=224.938s" id="audio_0048"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=224.938s" clip-end="npt=228.488s" id="audio_0049"/>
+				</seq>
+			</par>
+			<par endsync="last" id="quyx_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0169" id="quyx_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_0166" id="quyx_0007"/>
+				<seq>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=228.488s" clip-end="npt=229.985s" id="audio_0050"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=229.985s" clip-end="npt=232.558s" id="audio_0051"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=232.558s" clip-end="npt=235.614s" id="audio_0052"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=235.614s" clip-end="npt=253.064s" id="audio_0053"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=253.064s" clip-end="npt=256.682s" id="audio_0054"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=256.682s" clip-end="npt=258.066s" id="audio_0055"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=258.066s" clip-end="npt=259.059s" id="audio_0056"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=259.059s" clip-end="npt=265.119s" id="audio_0057"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=265.119s" clip-end="npt=267.444s" id="audio_0058"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=267.444s" clip-end="npt=271.454s" id="audio_0059"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=271.454s" clip-end="npt=273.230s" id="audio_0060"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=273.230s" clip-end="npt=278.586s" id="audio_0061"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=278.586s" clip-end="npt=285.364s" id="audio_0062"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=285.364s" clip-end="npt=288.813s" id="audio_0063"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=288.813s" clip-end="npt=292.091s" id="audio_0064"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=292.091s" clip-end="npt=295.252s" id="audio_0065"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=295.252s" clip-end="npt=307.059s" id="audio_0066"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=307.059s" clip-end="npt=310.559s" id="audio_0067"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=310.559s" clip-end="npt=312.218s" id="audio_0068"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=312.218s" clip-end="npt=319.428s" id="audio_0069"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=319.428s" clip-end="npt=323.412s" id="audio_0070"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=323.412s" clip-end="npt=327.461s" id="audio_0071"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=327.461s" clip-end="npt=330.948s" id="audio_0072"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=330.948s" clip-end="npt=337.223s" id="audio_0073"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=337.223s" clip-end="npt=338.960s" id="audio_0074"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=338.960s" clip-end="npt=340.528s" id="audio_0075"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=340.528s" clip-end="npt=344.577s" id="audio_0076"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=344.577s" clip-end="npt=352.824s" id="audio_0077"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=352.824s" clip-end="npt=354.118s" id="audio_0078"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=354.118s" clip-end="npt=356.873s" id="audio_0079"/>
+				</seq>
+			</par>
+			<par endsync="last" id="quyx_000a" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_016a" id="quyx_000b"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_0166" id="quyx_000c"/>
+				<seq>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=356.873s" clip-end="npt=358.311s" id="audio_0080"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=358.311s" clip-end="npt=360.596s" id="audio_0081"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=360.596s" clip-end="npt=363.078s" id="audio_0082"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=363.078s" clip-end="npt=365.325s" id="audio_0083"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=365.325s" clip-end="npt=366.801s" id="audio_0084"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=366.801s" clip-end="npt=372.979s" id="audio_0085"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=372.979s" clip-end="npt=375.225s" id="audio_0086"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=375.225s" clip-end="npt=380.201s" id="audio_0087"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=380.201s" clip-end="npt=382.931s" id="audio_0088"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=382.931s" clip-end="npt=385.191s" id="audio_0089"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=385.191s" clip-end="npt=387.973s" id="audio_0090"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=387.973s" clip-end="npt=391.160s" id="audio_0091"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=391.160s" clip-end="npt=394.177s" id="audio_0092"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=394.177s" clip-end="npt=397.272s" id="audio_0093"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=397.272s" clip-end="npt=404.717s" id="audio_0094"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=404.717s" clip-end="npt=413.920s" id="audio_0095"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=413.920s" clip-end="npt=415.697s" id="audio_0096"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=415.697s" clip-end="npt=419.733s" id="audio_0097"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=419.733s" clip-end="npt=423.220s" id="audio_0098"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=423.220s" clip-end="npt=426.799s" id="audio_0099"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=426.799s" clip-end="npt=431.566s" id="audio_0100"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=431.566s" clip-end="npt=433.212s" id="audio_0101"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=433.212s" clip-end="npt=434.466s" id="audio_0102"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=434.466s" clip-end="npt=438.789s" id="audio_0103"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=438.789s" clip-end="npt=442.759s" id="audio_0104"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=442.759s" clip-end="npt=444.562s" id="audio_0105"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=444.562s" clip-end="npt=450.740s" id="audio_0106"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=450.740s" clip-end="npt=454.567s" id="audio_0107"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=454.567s" clip-end="npt=455.977s" id="audio_0108"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=455.977s" clip-end="npt=459.347s" id="audio_0109"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=459.347s" clip-end="npt=465.460s" id="audio_0110"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=465.460s" clip-end="npt=468.921s" id="audio_0111"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=468.921s" clip-end="npt=476.993s" id="audio_0112"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=476.993s" clip-end="npt=479.200s" id="audio_0113"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=479.200s" clip-end="npt=481.029s" id="audio_0114"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=481.029s" clip-end="npt=486.031s" id="audio_0115"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=486.031s" clip-end="npt=489.715s" id="audio_0116"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=489.715s" clip-end="npt=496.010s" id="audio_0117"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=496.010s" clip-end="npt=499.328s" id="audio_0118"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=499.328s" clip-end="npt=504.910s" id="audio_0119"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=504.910s" clip-end="npt=507.600s" id="audio_0120"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=507.600s" clip-end="npt=513.713s" id="audio_0121"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=513.713s" clip-end="npt=524.030s" id="audio_0122"/>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=524.030s" clip-end="npt=528.436s" id="audio_0123"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_016b" id="fwwi_0001"/>
+			</par>
+			<par endsync="last" id="fwwi_0002">
+				<text src="ncc.html#jjoy_0166" id="par_0004"/>
+				<seq>
+					<audio src="15_Lesson_14__The_Road_Not_Taken.mp3" clip-begin="npt=528.436s" clip-end="npt=530.103s" id="audio_0124"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

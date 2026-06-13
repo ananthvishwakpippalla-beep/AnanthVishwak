@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:50:15.754"/>
+		<meta name="ncc:totalElapsedTime" content="06:13:48.327"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 16: I must know the truth"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="3015.754s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_0171" id="jjoy_0171"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=0.000s" clip-end="npt=2.014s" id="audio_0001"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2.014s" clip-end="npt=4.678s" id="audio_0002"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=4.678s" clip-end="npt=17.021s" id="audio_0003"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=17.021s" clip-end="npt=22.415s" id="audio_0004"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=22.415s" clip-end="npt=40.923s" id="audio_0005"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=40.923s" clip-end="npt=45.364s" id="audio_0006"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=45.364s" clip-end="npt=56.322s" id="audio_0007"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=56.322s" clip-end="npt=59.627s" id="audio_0008"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=59.627s" clip-end="npt=70.885s" id="audio_0009"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=70.885s" clip-end="npt=78.291s" id="audio_0010"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=78.291s" clip-end="npt=80.472s" id="audio_0011"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=80.472s" clip-end="npt=84.286s" id="audio_0012"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=84.286s" clip-end="npt=87.369s" id="audio_0013"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=87.369s" clip-end="npt=89.028s" id="audio_0014"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=89.028s" clip-end="npt=90.921s" id="audio_0015"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=90.921s" clip-end="npt=94.866s" id="audio_0016"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=94.866s" clip-end="npt=98.288s" id="audio_0017"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=98.288s" clip-end="npt=101.279s" id="audio_0018"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=101.279s" clip-end="npt=103.604s" id="audio_0019"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=103.604s" clip-end="npt=105.955s" id="audio_0020"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=105.955s" clip-end="npt=108.645s" id="audio_0021"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=108.645s" clip-end="npt=110.278s" id="audio_0022"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=110.278s" clip-end="npt=119.573s" id="audio_0023"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=119.573s" clip-end="npt=120.631s" id="audio_0024"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=120.631s" clip-end="npt=124.337s" id="audio_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0003" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0172" id="par_0004"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_0171" id="par_0005"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=124.337s" clip-end="npt=127.210s" id="audio_0026"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=127.210s" clip-end="npt=140.572s" id="audio_0027"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=140.572s" clip-end="npt=147.050s" id="audio_0028"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=147.050s" clip-end="npt=149.728s" id="audio_0029"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=149.728s" clip-end="npt=151.909s" id="audio_0030"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=151.909s" clip-end="npt=154.652s" id="audio_0031"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=154.652s" clip-end="npt=164.108s" id="audio_0032"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=164.108s" clip-end="npt=165.924s" id="audio_0033"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=165.924s" clip-end="npt=173.826s" id="audio_0034"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=173.826s" clip-end="npt=185.816s" id="audio_0035"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=185.816s" clip-end="npt=196.735s" id="audio_0036"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=196.735s" clip-end="npt=200.640s" id="audio_0037"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=200.640s" clip-end="npt=203.814s" id="audio_0038"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=203.814s" clip-end="npt=207.824s" id="audio_0039"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=207.824s" clip-end="npt=212.892s" id="audio_0040"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=212.892s" clip-end="npt=217.319s" id="audio_0041"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=217.319s" clip-end="npt=219.514s" id="audio_0042"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=219.514s" clip-end="npt=223.066s" id="audio_0043"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=223.066s" clip-end="npt=236.389s" id="audio_0044"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=236.389s" clip-end="npt=246.054s" id="audio_0045"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=246.054s" clip-end="npt=253.003s" id="audio_0046"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=253.003s" clip-end="npt=255.093s" id="audio_0047"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=255.093s" clip-end="npt=260.213s" id="audio_0048"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=260.213s" clip-end="npt=263.190s" id="audio_0049"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=263.190s" clip-end="npt=266.965s" id="audio_0050"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=266.965s" clip-end="npt=271.589s" id="audio_0051"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=271.589s" clip-end="npt=276.892s" id="audio_0052"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=276.892s" clip-end="npt=278.159s" id="audio_0053"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=278.159s" clip-end="npt=283.514s" id="audio_0054"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=283.514s" clip-end="npt=289.169s" id="audio_0055"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=289.169s" clip-end="npt=292.095s" id="audio_0056"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=292.095s" clip-end="npt=293.884s" id="audio_0057"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=293.884s" clip-end="npt=301.355s" id="audio_0058"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=301.355s" clip-end="npt=302.505s" id="audio_0059"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=302.505s" clip-end="npt=305.339s" id="audio_0060"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=305.339s" clip-end="npt=313.740s" id="audio_0061"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=313.740s" clip-end="npt=316.479s" id="audio_0062"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0006" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0173" id="par_0008"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_0171" id="par_0009"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=316.479s" clip-end="npt=318.207s" id="audio_0063"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=318.207s" clip-end="npt=322.308s" id="audio_0064"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=322.308s" clip-end="npt=327.976s" id="audio_0065"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=327.976s" clip-end="npt=339.065s" id="audio_0066"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=339.065s" clip-end="npt=343.781s" id="audio_0067"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=343.781s" clip-end="npt=348.953s" id="audio_0068"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=348.953s" clip-end="npt=353.067s" id="audio_0069"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=353.067s" clip-end="npt=361.452s" id="audio_0070"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=361.452s" clip-end="npt=366.076s" id="audio_0071"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=366.076s" clip-end="npt=373.926s" id="audio_0072"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=373.926s" clip-end="npt=380.587s" id="audio_0073"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=380.587s" clip-end="npt=382.468s" id="audio_0074"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=382.468s" clip-end="npt=386.778s" id="audio_0075"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=386.778s" clip-end="npt=390.631s" id="audio_0076"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=390.631s" clip-end="npt=395.568s" id="audio_0077"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=395.568s" clip-end="npt=404.319s" id="audio_0078"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=404.319s" clip-end="npt=408.969s" id="audio_0079"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=408.969s" clip-end="npt=414.363s" id="audio_0080"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=414.363s" clip-end="npt=426.275s" id="audio_0081"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=426.275s" clip-end="npt=428.770s" id="audio_0082"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=428.770s" clip-end="npt=432.963s" id="audio_0083"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=432.963s" clip-end="npt=435.954s" id="audio_0084"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=435.954s" clip-end="npt=444.444s" id="audio_0085"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=444.444s" clip-end="npt=446.220s" id="audio_0086"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=446.220s" clip-end="npt=453.169s" id="audio_0087"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=453.169s" clip-end="npt=455.180s" id="audio_0088"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=455.180s" clip-end="npt=458.785s" id="audio_0089"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=458.785s" clip-end="npt=463.605s" id="audio_0090"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=463.605s" clip-end="npt=468.986s" id="audio_0091"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=468.986s" clip-end="npt=471.102s" id="audio_0092"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=471.102s" clip-end="npt=480.872s" id="audio_0093"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=480.872s" clip-end="npt=482.713s" id="audio_0094"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=482.713s" clip-end="npt=488.042s" id="audio_0095"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=488.042s" clip-end="npt=495.200s" id="audio_0096"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=495.200s" clip-end="npt=499.301s" id="audio_0097"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=499.301s" clip-end="npt=500.986s" id="audio_0098"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=500.986s" clip-end="npt=503.272s" id="audio_0099"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000a" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0174" id="par_000b"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_0171" id="par_000c"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=503.272s" clip-end="npt=504.729s" id="audio_0100"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=504.729s" clip-end="npt=507.419s" id="audio_0101"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=507.419s" clip-end="npt=511.821s" id="audio_0102"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=511.821s" clip-end="npt=517.699s" id="audio_0103"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=517.699s" clip-end="npt=523.432s" id="audio_0104"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=523.432s" clip-end="npt=527.442s" id="audio_0105"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=527.442s" clip-end="npt=532.967s" id="audio_0106"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=532.967s" clip-end="npt=536.076s" id="audio_0107"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=536.076s" clip-end="npt=539.681s" id="audio_0108"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=539.681s" clip-end="npt=542.619s" id="audio_0109"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=542.619s" clip-end="npt=545.623s" id="audio_0110"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=545.623s" clip-end="npt=554.897s" id="audio_0111"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=554.897s" clip-end="npt=562.773s" id="audio_0112"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=562.773s" clip-end="npt=566.391s" id="audio_0113"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=566.391s" clip-end="npt=568.689s" id="audio_0114"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=568.689s" clip-end="npt=572.229s" id="audio_0115"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=572.229s" clip-end="npt=574.436s" id="audio_0116"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=574.436s" clip-end="npt=578.538s" id="audio_0117"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=578.538s" clip-end="npt=580.928s" id="audio_0118"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=580.928s" clip-end="npt=598.391s" id="audio_0119"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=598.391s" clip-end="npt=602.413s" id="audio_0120"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=602.413s" clip-end="npt=609.140s" id="audio_0121"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=609.140s" clip-end="npt=615.945s" id="audio_0122"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=615.945s" clip-end="npt=622.188s" id="audio_0123"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=622.188s" clip-end="npt=624.004s" id="audio_0124"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=624.004s" clip-end="npt=632.232s" id="audio_0125"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=632.232s" clip-end="npt=634.805s" id="audio_0126"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=634.805s" clip-end="npt=638.005s" id="audio_0127"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=638.005s" clip-end="npt=640.395s" id="audio_0128"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=640.395s" clip-end="npt=642.511s" id="audio_0129"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=642.511s" clip-end="npt=645.777s" id="audio_0130"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=645.777s" clip-end="npt=652.399s" id="audio_0131"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=652.399s" clip-end="npt=654.893s" id="audio_0132"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=654.893s" clip-end="npt=658.446s" id="audio_0133"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=658.446s" clip-end="npt=663.749s" id="audio_0134"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=663.749s" clip-end="npt=665.173s" id="audio_0135"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=665.173s" clip-end="npt=668.174s" id="audio_0136"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000d" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0175" id="par_000e"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_0171" id="par_000f"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=668.174s" clip-end="npt=671.648s" id="audio_0137"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=671.648s" clip-end="npt=688.746s" id="audio_0138"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=688.746s" clip-end="npt=694.558s" id="audio_0139"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=694.558s" clip-end="npt=700.187s" id="audio_0140"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=700.187s" clip-end="npt=707.005s" id="audio_0141"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=707.005s" clip-end="npt=711.328s" id="audio_0142"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=711.328s" clip-end="npt=713.993s" id="audio_0143"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=713.993s" clip-end="npt=716.239s" id="audio_0144"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=716.239s" clip-end="npt=718.473s" id="audio_0145"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=718.473s" clip-end="npt=721.425s" id="audio_0146"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=721.425s" clip-end="npt=722.679s" id="audio_0147"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=722.679s" clip-end="npt=724.259s" id="audio_0148"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=724.259s" clip-end="npt=727.015s" id="audio_0149"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=727.015s" clip-end="npt=732.683s" id="audio_0150"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=732.683s" clip-end="npt=738.692s" id="audio_0151"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=738.692s" clip-end="npt=742.897s" id="audio_0152"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=742.897s" clip-end="npt=745.340s" id="audio_0153"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=745.340s" clip-end="npt=748.030s" id="audio_0154"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=748.030s" clip-end="npt=756.050s" id="audio_0155"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=756.050s" clip-end="npt=765.702s" id="audio_0156"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=765.702s" clip-end="npt=773.336s" id="audio_0157"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=773.336s" clip-end="npt=776.941s" id="audio_0158"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=776.941s" clip-end="npt=783.380s" id="audio_0159"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=783.380s" clip-end="npt=786.619s" id="audio_0160"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=786.619s" clip-end="npt=792.301s" id="audio_0161"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=792.301s" clip-end="npt=796.075s" id="audio_0162"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=796.075s" clip-end="npt=800.216s" id="audio_0163"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=800.216s" clip-end="npt=805.989s" id="audio_0164"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=805.989s" clip-end="npt=807.517s" id="audio_0165"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=807.517s" clip-end="npt=811.945s" id="audio_0166"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=811.945s" clip-end="npt=816.216s" id="audio_0167"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=816.216s" clip-end="npt=820.108s" id="audio_0168"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=820.108s" clip-end="npt=827.527s" id="audio_0169"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=827.527s" clip-end="npt=830.860s" id="audio_0170"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0011" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0176" id="par_0012"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_0171" id="par_0013"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=830.860s" clip-end="npt=832.349s" id="audio_0171"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=832.349s" clip-end="npt=835.001s" id="audio_0172"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=835.001s" clip-end="npt=838.854s" id="audio_0173"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=838.854s" clip-end="npt=852.189s" id="audio_0174"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=852.189s" clip-end="npt=857.192s" id="audio_0175"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=857.192s" clip-end="npt=863.592s" id="audio_0176"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=863.592s" clip-end="npt=868.346s" id="audio_0177"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=868.346s" clip-end="npt=870.932s" id="audio_0178"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=870.932s" clip-end="npt=873.884s" id="audio_0179"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=873.884s" clip-end="npt=879.735s" id="audio_0180"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=879.735s" clip-end="npt=885.926s" id="audio_0181"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=885.926s" clip-end="npt=893.371s" id="audio_0182"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=893.371s" clip-end="npt=899.379s" id="audio_0183"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=899.379s" clip-end="npt=906.772s" id="audio_0184"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=906.772s" clip-end="npt=908.483s" id="audio_0185"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=908.483s" clip-end="npt=911.265s" id="audio_0186"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=911.265s" clip-end="npt=913.917s" id="audio_0187"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=913.917s" clip-end="npt=915.458s" id="audio_0188"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=915.458s" clip-end="npt=920.160s" id="audio_0189"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=920.160s" clip-end="npt=923.451s" id="audio_0190"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=923.451s" clip-end="npt=926.468s" id="audio_0191"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=926.468s" clip-end="npt=932.424s" id="audio_0192"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=932.424s" clip-end="npt=938.276s" id="audio_0193"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=938.276s" clip-end="npt=947.941s" id="audio_0194"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=947.941s" clip-end="npt=952.134s" id="audio_0195"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=952.134s" clip-end="npt=977.303s" id="audio_0196"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=977.303s" clip-end="npt=979.210s" id="audio_0197"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=979.210s" clip-end="npt=987.321s" id="audio_0198"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=987.321s" clip-end="npt=989.768s" id="audio_0199"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0014" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0177" id="par_0016"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_0171" id="par_0017"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=989.768s" clip-end="npt=991.078s" id="audio_0200"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=991.078s" clip-end="npt=993.768s" id="audio_0201"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=993.768s" clip-end="npt=1002.219s" id="audio_0202"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1002.219s" clip-end="npt=1006.189s" id="audio_0203"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1006.189s" clip-end="npt=1016.573s" id="audio_0204"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1016.573s" clip-end="npt=1022.908s" id="audio_0205"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1022.908s" clip-end="npt=1029.203s" id="audio_0206"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1029.203s" clip-end="npt=1032.077s" id="audio_0207"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1032.077s" clip-end="npt=1036.047s" id="audio_0208"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1036.047s" clip-end="npt=1037.536s" id="audio_0209"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1037.536s" clip-end="npt=1042.434s" id="audio_0210"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1042.434s" clip-end="npt=1057.376s" id="audio_0211"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1057.376s" clip-end="npt=1061.112s" id="audio_0212"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1061.112s" clip-end="npt=1064.260s" id="audio_0213"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1064.260s" clip-end="npt=1066.846s" id="audio_0214"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1066.846s" clip-end="npt=1069.850s" id="audio_0215"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1069.850s" clip-end="npt=1072.253s" id="audio_0216"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1072.253s" clip-end="npt=1082.715s" id="audio_0217"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1082.715s" clip-end="npt=1091.466s" id="audio_0218"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1091.466s" clip-end="npt=1099.342s" id="audio_0219"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1099.342s" clip-end="npt=1102.268s" id="audio_0220"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1102.268s" clip-end="npt=1105.415s" id="audio_0221"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1105.415s" clip-end="npt=1109.138s" id="audio_0222"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1109.138s" clip-end="npt=1114.598s" id="audio_0223"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1114.598s" clip-end="npt=1121.206s" id="audio_0224"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1121.206s" clip-end="npt=1128.978s" id="audio_0225"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1128.978s" clip-end="npt=1134.607s" id="audio_0226"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1134.607s" clip-end="npt=1141.399s" id="audio_0227"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1141.399s" clip-end="npt=1146.637s" id="audio_0228"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1146.637s" clip-end="npt=1154.604s" id="audio_0229"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1154.604s" clip-end="npt=1158.849s" id="audio_0230"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1158.849s" clip-end="npt=1160.469s" id="audio_0231"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1160.469s" clip-end="npt=1168.475s" id="audio_0232"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1168.475s" clip-end="npt=1173.425s" id="audio_0233"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1173.425s" clip-end="npt=1175.149s" id="audio_0234"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1175.149s" clip-end="npt=1176.116s" id="audio_0235"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1176.116s" clip-end="npt=1180.661s" id="audio_0236"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1180.661s" clip-end="npt=1184.841s" id="audio_0237"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1184.841s" clip-end="npt=1189.138s" id="audio_0238"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1189.138s" clip-end="npt=1192.743s" id="audio_0239"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1192.743s" clip-end="npt=1196.520s" id="audio_0240"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0018" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0178" id="par_0019"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#jjoy_0171" id="par_001a"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1196.520s" clip-end="npt=1197.822s" id="audio_0241"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1197.822s" clip-end="npt=1202.458s" id="audio_0242"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1202.458s" clip-end="npt=1205.920s" id="audio_0243"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1205.920s" clip-end="npt=1211.732s" id="audio_0244"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1211.732s" clip-end="npt=1215.650s" id="audio_0245"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1215.650s" clip-end="npt=1221.293s" id="audio_0246"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1221.293s" clip-end="npt=1226.974s" id="audio_0247"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1226.974s" clip-end="npt=1234.750s" id="audio_0248"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1234.750s" clip-end="npt=1235.923s" id="audio_0249"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1235.923s" clip-end="npt=1239.972s" id="audio_0250"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1239.972s" clip-end="npt=1245.667s" id="audio_0251"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1245.667s" clip-end="npt=1254.744s" id="audio_0252"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1254.744s" clip-end="npt=1261.079s" id="audio_0253"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1261.079s" clip-end="npt=1263.404s" id="audio_0254"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1263.404s" clip-end="npt=1269.556s" id="audio_0255"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1269.556s" clip-end="npt=1276.687s" id="audio_0256"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1276.687s" clip-end="npt=1278.934s" id="audio_0257"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1278.934s" clip-end="npt=1280.384s" id="audio_0258"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1280.384s" clip-end="npt=1282.186s" id="audio_0259"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1282.186s" clip-end="npt=1284.929s" id="audio_0260"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1284.929s" clip-end="npt=1289.474s" id="audio_0261"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1289.474s" clip-end="npt=1296.919s" id="audio_0262"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1296.919s" clip-end="npt=1301.895s" id="audio_0263"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1301.895s" clip-end="npt=1310.006s" id="audio_0264"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1310.006s" clip-end="npt=1313.024s" id="audio_0265"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1313.024s" clip-end="npt=1315.923s" id="audio_0266"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1315.923s" clip-end="npt=1319.489s" id="audio_0267"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1319.489s" clip-end="npt=1325.131s" id="audio_0268"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1325.131s" clip-end="npt=1329.311s" id="audio_0269"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1329.311s" clip-end="npt=1331.884s" id="audio_0270"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1331.884s" clip-end="npt=1338.075s" id="audio_0271"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1338.075s" clip-end="npt=1342.790s" id="audio_0272"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1342.790s" clip-end="npt=1344.893s" id="audio_0273"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1344.893s" clip-end="npt=1350.810s" id="audio_0274"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1350.810s" clip-end="npt=1360.527s" id="audio_0275"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1360.527s" clip-end="npt=1368.390s" id="audio_0276"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1368.390s" clip-end="npt=1371.340s" id="audio_0277"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0179" id="wxde_0001"/>
+			</par>
+			<par endsync="last" id="wxde_0003">
+				<text src="ncc.html#jjoy_0171" id="wxde_0004"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1371.340s" clip-end="npt=1376.356s" id="audio_0278"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1376.356s" clip-end="npt=1378.537s" id="audio_0279"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1378.537s" clip-end="npt=1385.851s" id="audio_0280"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1385.851s" clip-end="npt=1388.724s" id="audio_0281"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1388.724s" clip-end="npt=1392.225s" id="audio_0282"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1392.225s" clip-end="npt=1397.489s" id="audio_0283"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1397.489s" clip-end="npt=1405.221s" id="audio_0284"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1405.221s" clip-end="npt=1419.484s" id="audio_0285"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1419.484s" clip-end="npt=1424.395s" id="audio_0286"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1424.395s" clip-end="npt=1427.229s" id="audio_0287"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1427.229s" clip-end="npt=1433.903s" id="audio_0288"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1433.903s" clip-end="npt=1437.717s" id="audio_0289"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1437.717s" clip-end="npt=1441.583s" id="audio_0290"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1441.583s" clip-end="npt=1447.369s" id="audio_0291"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1447.369s" clip-end="npt=1451.810s" id="audio_0292"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1451.810s" clip-end="npt=1455.311s" id="audio_0293"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1455.311s" clip-end="npt=1459.229s" id="audio_0294"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1459.229s" clip-end="npt=1464.950s" id="audio_0295"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1464.950s" clip-end="npt=1466.765s" id="audio_0296"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1466.765s" clip-end="npt=1471.611s" id="audio_0297"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1471.611s" clip-end="npt=1476.169s" id="audio_0298"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1476.169s" clip-end="npt=1480.114s" id="audio_0299"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1480.114s" clip-end="npt=1486.213s" id="audio_0300"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1486.213s" clip-end="npt=1488.290s" id="audio_0301"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1488.290s" clip-end="npt=1498.517s" id="audio_0302"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1498.517s" clip-end="npt=1500.150s" id="audio_0303"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1500.150s" clip-end="npt=1502.004s" id="audio_0304"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1502.004s" clip-end="npt=1503.781s" id="audio_0305"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1503.781s" clip-end="npt=1511.239s" id="audio_0306"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1511.239s" clip-end="npt=1512.937s" id="audio_0307"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1512.937s" clip-end="npt=1518.279s" id="audio_0308"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1518.279s" clip-end="npt=1520.904s" id="audio_0309"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1520.904s" clip-end="npt=1523.529s" id="audio_0310"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1523.529s" clip-end="npt=1528.976s" id="audio_0311"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1528.976s" clip-end="npt=1532.597s" id="audio_0312"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_004b" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_017a" id="wxde_004c"/>
+			</par>
+			<par endsync="last" id="wxde_004d">
+				<text src="ncc.html#jjoy_0171" id="wxde_004e"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1532.597s" clip-end="npt=1534.922s" id="audio_0313"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1534.922s" clip-end="npt=1538.083s" id="audio_0314"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1538.083s" clip-end="npt=1539.128s" id="audio_0315"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1539.128s" clip-end="npt=1543.595s" id="audio_0316"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1543.595s" clip-end="npt=1546.299s" id="audio_0317"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1546.299s" clip-end="npt=1550.230s" id="audio_0318"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1550.230s" clip-end="npt=1552.320s" id="audio_0319"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1552.320s" clip-end="npt=1553.783s" id="audio_0320"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1553.783s" clip-end="npt=1555.337s" id="audio_0321"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1555.337s" clip-end="npt=1556.891s" id="audio_0322"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1556.891s" clip-end="npt=1560.509s" id="audio_0323"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1560.509s" clip-end="npt=1569.299s" id="audio_0324"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1569.299s" clip-end="npt=1571.128s" id="audio_0325"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1571.128s" clip-end="npt=1576.653s" id="audio_0326"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1576.653s" clip-end="npt=1579.997s" id="audio_0327"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1579.997s" clip-end="npt=1585.966s" id="audio_0328"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1585.966s" clip-end="npt=1589.309s" id="audio_0329"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1589.309s" clip-end="npt=1597.747s" id="audio_0330"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1597.747s" clip-end="npt=1600.725s" id="audio_0331"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1600.725s" clip-end="npt=1605.949s" id="audio_0332"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1605.949s" clip-end="npt=1610.299s" id="audio_0333"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1610.299s" clip-end="npt=1612.101s" id="audio_0334"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1612.101s" clip-end="npt=1617.339s" id="audio_0335"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1617.339s" clip-end="npt=1618.945s" id="audio_0336"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1618.945s" clip-end="npt=1626.455s" id="audio_0337"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1626.455s" clip-end="npt=1630.230s" id="audio_0338"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1630.230s" clip-end="npt=1634.593s" id="audio_0339"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1634.593s" clip-end="npt=1637.610s" id="audio_0340"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1637.610s" clip-end="npt=1639.817s" id="audio_0341"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1639.817s" clip-end="npt=1641.241s" id="audio_0342"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1641.241s" clip-end="npt=1644.153s" id="audio_0343"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1644.153s" clip-end="npt=1650.201s" id="audio_0344"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1650.201s" clip-end="npt=1654.093s" id="audio_0345"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1654.093s" clip-end="npt=1655.086s" id="audio_0346"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1655.086s" clip-end="npt=1662.086s" id="audio_0347"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1662.086s" clip-end="npt=1665.352s" id="audio_0348"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1665.352s" clip-end="npt=1666.449s" id="audio_0349"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1666.449s" clip-end="npt=1671.739s" id="audio_0350"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1671.739s" clip-end="npt=1675.226s" id="audio_0351"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1675.226s" clip-end="npt=1683.507s" id="audio_0352"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1683.507s" clip-end="npt=1686.628s" id="audio_0353"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1686.628s" clip-end="npt=1693.956s" id="audio_0354"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1693.956s" clip-end="npt=1696.477s" id="audio_0355"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1696.477s" clip-end="npt=1703.595s" id="audio_0356"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1703.595s" clip-end="npt=1707.095s" id="audio_0357"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1707.095s" clip-end="npt=1708.663s" id="audio_0358"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1708.663s" clip-end="npt=1711.941s" id="audio_0359"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1711.941s" clip-end="npt=1716.591s" id="audio_0360"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1716.591s" clip-end="npt=1718.759s" id="audio_0361"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1718.759s" clip-end="npt=1726.491s" id="audio_0362"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1726.491s" clip-end="npt=1733.126s" id="audio_0363"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1733.126s" clip-end="npt=1737.985s" id="audio_0364"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1737.985s" clip-end="npt=1742.622s" id="audio_0365"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1742.622s" clip-end="npt=1743.928s" id="audio_0366"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1743.928s" clip-end="npt=1748.813s" id="audio_0367"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1748.813s" clip-end="npt=1753.606s" id="audio_0368"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1753.606s" clip-end="npt=1757.473s" id="audio_0369"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1757.473s" clip-end="npt=1763.089s" id="audio_0370"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1763.089s" clip-end="npt=1765.936s" id="audio_0371"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_00c5" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_017b" id="wxde_00c6"/>
+			</par>
+			<par endsync="last" id="wxde_00c7">
+				<text src="ncc.html#jjoy_0171" id="wxde_00c8"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1765.936s" clip-end="npt=1767.330s" id="audio_0372"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1767.330s" clip-end="npt=1770.621s" id="audio_0373"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1770.621s" clip-end="npt=1774.540s" id="audio_0374"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1774.540s" clip-end="npt=1790.905s" id="audio_0375"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1790.905s" clip-end="npt=1793.400s" id="audio_0376"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1793.400s" clip-end="npt=1797.475s" id="audio_0377"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1797.475s" clip-end="npt=1801.041s" id="audio_0378"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1801.041s" clip-end="npt=1811.620s" id="audio_0379"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1811.620s" clip-end="npt=1814.886s" id="audio_0380"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1814.886s" clip-end="npt=1819.248s" id="audio_0381"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1819.248s" clip-end="npt=1827.934s" id="audio_0382"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1827.934s" clip-end="npt=1830.363s" id="audio_0383"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1830.363s" clip-end="npt=1837.965s" id="audio_0384"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1837.965s" clip-end="npt=1840.551s" id="audio_0385"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1840.551s" clip-end="npt=1845.802s" id="audio_0386"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1845.802s" clip-end="npt=1851.274s" id="audio_0387"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1851.274s" clip-end="npt=1856.629s" id="audio_0388"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1856.629s" clip-end="npt=1865.772s" id="audio_0389"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1865.772s" clip-end="npt=1870.944s" id="audio_0390"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1870.944s" clip-end="npt=1875.346s" id="audio_0391"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1875.346s" clip-end="npt=1877.958s" id="audio_0392"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1877.958s" clip-end="npt=1882.922s" id="audio_0393"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1882.922s" clip-end="npt=1889.779s" id="audio_0394"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1889.779s" clip-end="npt=1895.578s" id="audio_0395"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1895.578s" clip-end="npt=1907.333s" id="audio_0396"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1907.333s" clip-end="npt=1915.444s" id="audio_0397"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1915.444s" clip-end="npt=1923.255s" id="audio_0398"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1923.255s" clip-end="npt=1925.057s" id="audio_0399"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1925.057s" clip-end="npt=1928.179s" id="audio_0400"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1928.179s" clip-end="npt=1932.829s" id="audio_0401"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1932.829s" clip-end="npt=1940.874s" id="audio_0402"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1940.874s" clip-end="npt=1947.705s" id="audio_0403"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1947.705s" clip-end="npt=1955.816s" id="audio_0404"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1955.816s" clip-end="npt=1956.900s" id="audio_0405"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1956.900s" clip-end="npt=1962.569s" id="audio_0406"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1962.569s" clip-end="npt=1968.251s" id="audio_0407"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1968.251s" clip-end="npt=1969.204s" id="audio_0408"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1969.204s" clip-end="npt=1974.233s" id="audio_0409"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1974.233s" clip-end="npt=1982.775s" id="audio_0410"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1982.775s" clip-end="npt=1985.074s" id="audio_0411"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_0119" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_017c" id="wxde_011a"/>
+			</par>
+			<par endsync="last" id="wxde_011b">
+				<text src="ncc.html#jjoy_0171" id="wxde_011c"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1985.074s" clip-end="npt=1986.384s" id="audio_0412"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1986.384s" clip-end="npt=1988.814s" id="audio_0413"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1988.814s" clip-end="npt=1990.394s" id="audio_0414"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1990.394s" clip-end="npt=1998.244s" id="audio_0415"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1998.244s" clip-end="npt=1999.811s" id="audio_0416"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=1999.811s" clip-end="npt=2002.293s" id="audio_0417"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2002.293s" clip-end="npt=2005.023s" id="audio_0418"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2005.023s" clip-end="npt=2009.633s" id="audio_0419"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2009.633s" clip-end="npt=2012.938s" id="audio_0420"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2012.938s" clip-end="npt=2013.917s" id="audio_0421"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2013.917s" clip-end="npt=2018.345s" id="audio_0422"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2018.345s" clip-end="npt=2023.726s" id="audio_0423"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2023.726s" clip-end="npt=2031.380s" id="audio_0424"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2031.380s" clip-end="npt=2036.892s" id="audio_0425"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2036.892s" clip-end="npt=2039.126s" id="audio_0426"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2039.126s" clip-end="npt=2045.761s" id="audio_0427"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2045.761s" clip-end="npt=2047.537s" id="audio_0428"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2047.537s" clip-end="npt=2052.959s" id="audio_0429"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2052.959s" clip-end="npt=2057.935s" id="audio_0430"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2057.935s" clip-end="npt=2062.755s" id="audio_0431"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2062.755s" clip-end="npt=2067.117s" id="audio_0432"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2067.117s" clip-end="npt=2071.101s" id="audio_0433"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2071.101s" clip-end="npt=2077.514s" id="audio_0434"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2077.514s" clip-end="npt=2081.093s" id="audio_0435"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2081.093s" clip-end="npt=2085.938s" id="audio_0436"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2085.938s" clip-end="npt=2096.387s" id="audio_0437"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2096.387s" clip-end="npt=2099.574s" id="audio_0438"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2099.574s" clip-end="npt=2104.342s" id="audio_0439"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2104.342s" clip-end="npt=2109.788s" id="audio_0440"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2109.788s" clip-end="npt=2116.057s" id="audio_0441"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2116.057s" clip-end="npt=2119.937s" id="audio_0442"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2119.937s" clip-end="npt=2124.298s" id="audio_0443"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2124.298s" clip-end="npt=2129.196s" id="audio_0444"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2129.196s" clip-end="npt=2138.378s" id="audio_0445"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2138.378s" clip-end="npt=2140.298s" id="audio_0446"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2140.298s" clip-end="npt=2142.048s" id="audio_0447"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2142.048s" clip-end="npt=2144.046s" id="audio_0448"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2144.046s" clip-end="npt=2145.535s" id="audio_0449"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2145.535s" clip-end="npt=2147.978s" id="audio_0450"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2147.978s" clip-end="npt=2150.041s" id="audio_0451"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2150.041s" clip-end="npt=2154.992s" id="audio_0452"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2154.992s" clip-end="npt=2161.091s" id="audio_0453"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2161.091s" clip-end="npt=2172.703s" id="audio_0454"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2172.703s" clip-end="npt=2180.474s" id="audio_0455"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2180.474s" clip-end="npt=2183.251s" id="audio_0456"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_0178" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_017d" id="wxde_0177"/>
+			</par>
+			<par endsync="last" id="wxde_0179">
+				<text src="ncc.html#jjoy_0171" id="wxde_017a"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2183.251s" clip-end="npt=2184.641s" id="audio_0457"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2184.641s" clip-end="npt=2186.939s" id="audio_0458"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2186.939s" clip-end="npt=2189.538s" id="audio_0459"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2189.538s" clip-end="npt=2197.584s" id="audio_0460"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2197.584s" clip-end="npt=2201.372s" id="audio_0461"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2201.372s" clip-end="npt=2212.187s" id="audio_0462"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2212.187s" clip-end="npt=2221.473s" id="audio_0463"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2221.473s" clip-end="npt=2225.274s" id="audio_0464"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2225.274s" clip-end="npt=2228.069s" id="audio_0465"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2228.069s" clip-end="npt=2230.760s" id="audio_0466"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2230.760s" clip-end="npt=2251.383s" id="audio_0467"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2251.383s" clip-end="npt=2255.563s" id="audio_0468"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2255.563s" clip-end="npt=2256.961s" id="audio_0469"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2256.961s" clip-end="npt=2258.149s" id="audio_0470"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2258.149s" clip-end="npt=2268.441s" id="audio_0471"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2268.441s" clip-end="npt=2270.779s" id="audio_0472"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2270.779s" clip-end="npt=2278.616s" id="audio_0473"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2278.616s" clip-end="npt=2289.627s" id="audio_0474"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2289.627s" clip-end="npt=2300.206s" id="audio_0475"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2300.206s" clip-end="npt=2307.090s" id="audio_0476"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2307.090s" clip-end="npt=2311.112s" id="audio_0477"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2311.112s" clip-end="npt=2319.876s" id="audio_0478"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2319.876s" clip-end="npt=2324.696s" id="audio_0479"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2324.696s" clip-end="npt=2332.167s" id="audio_0480"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2332.167s" clip-end="npt=2337.692s" id="audio_0481"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2337.692s" clip-end="npt=2344.040s" id="audio_0482"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2344.040s" clip-end="npt=2353.287s" id="audio_0483"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2353.287s" clip-end="npt=2354.241s" id="audio_0484"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2354.241s" clip-end="npt=2360.196s" id="audio_0485"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2360.196s" clip-end="npt=2367.654s" id="audio_0486"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2367.654s" clip-end="npt=2369.444s" id="audio_0487"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2369.444s" clip-end="npt=2373.448s" id="audio_0488"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_01bb" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_017e" id="wxde_01bc"/>
+			</par>
+			<par endsync="last" id="wxde_01bd">
+				<text src="ncc.html#jjoy_0171" id="wxde_01be"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2373.448s" clip-end="npt=2374.562s" id="audio_0489"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2374.562s" clip-end="npt=2379.447s" id="audio_0490"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2379.447s" clip-end="npt=2396.230s" id="audio_0491"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2396.230s" clip-end="npt=2404.289s" id="audio_0492"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2404.289s" clip-end="npt=2408.390s" id="audio_0493"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2408.390s" clip-end="npt=2413.693s" id="audio_0494"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2413.693s" clip-end="npt=2423.777s" id="audio_0495"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2423.777s" clip-end="npt=2442.350s" id="audio_0496"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2442.350s" clip-end="npt=2445.458s" id="audio_0497"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2445.458s" clip-end="npt=2447.457s" id="audio_0498"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2447.457s" clip-end="npt=2454.745s" id="audio_0499"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2454.745s" clip-end="npt=2465.533s" id="audio_0500"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2465.533s" clip-end="npt=2466.957s" id="audio_0501"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2466.957s" clip-end="npt=2470.183s" id="audio_0502"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2470.183s" clip-end="npt=2477.393s" id="audio_0503"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2477.393s" clip-end="npt=2484.812s" id="audio_0504"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2484.812s" clip-end="npt=2493.406s" id="audio_0505"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2493.406s" clip-end="npt=2498.382s" id="audio_0506"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2498.382s" clip-end="npt=2512.031s" id="audio_0507"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2512.031s" clip-end="npt=2522.101s" id="audio_0508"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2522.101s" clip-end="npt=2524.021s" id="audio_0509"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2524.021s" clip-end="npt=2527.117s" id="audio_0510"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2527.117s" clip-end="npt=2535.750s" id="audio_0511"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2535.750s" clip-end="npt=2542.072s" id="audio_0512"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2542.072s" clip-end="npt=2549.465s" id="audio_0513"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2549.465s" clip-end="npt=2554.963s" id="audio_0514"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2554.963s" clip-end="npt=2558.999s" id="audio_0515"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2558.999s" clip-end="npt=2563.244s" id="audio_0516"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2563.244s" clip-end="npt=2573.184s" id="audio_0517"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2573.184s" clip-end="npt=2578.343s" id="audio_0518"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_01fd" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_017f" id="wxde_01fc"/>
+			</par>
+			<par endsync="last" id="wxde_01fe">
+				<text src="ncc.html#jjoy_0171" id="wxde_01ff"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2578.343s" clip-end="npt=2580.459s" id="audio_0519"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2580.459s" clip-end="npt=2583.999s" id="audio_0520"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2583.999s" clip-end="npt=2591.013s" id="audio_0521"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2591.013s" clip-end="npt=2595.016s" id="audio_0522"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2595.016s" clip-end="npt=2597.093s" id="audio_0523"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2597.093s" clip-end="npt=2601.560s" id="audio_0524"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2601.560s" clip-end="npt=2616.867s" id="audio_0525"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2616.867s" clip-end="npt=2621.060s" id="audio_0526"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2621.060s" clip-end="npt=2626.520s" id="audio_0527"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2626.520s" clip-end="npt=2632.084s" id="audio_0528"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2632.084s" clip-end="npt=2637.687s" id="audio_0529"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2637.687s" clip-end="npt=2639.202s" id="audio_0530"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2639.202s" clip-end="npt=2640.587s" id="audio_0531"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2640.587s" clip-end="npt=2648.567s" id="audio_0532"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2648.567s" clip-end="npt=2653.152s" id="audio_0533"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2653.152s" clip-end="npt=2657.697s" id="audio_0534"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2657.697s" clip-end="npt=2663.444s" id="audio_0535"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2663.444s" clip-end="npt=2672.038s" id="audio_0536"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2672.038s" clip-end="npt=2673.240s" id="audio_0537"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2673.240s" clip-end="npt=2679.875s" id="audio_0538"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2679.875s" clip-end="npt=2682.671s" id="audio_0539"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_022a" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0180" id="wxde_022b"/>
+			</par>
+			<par endsync="last" id="wxde_022c">
+				<text src="ncc.html#jjoy_0171" id="wxde_022d"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2682.671s" clip-end="npt=2683.957s" id="audio_0540"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2683.957s" clip-end="npt=2686.021s" id="audio_0541"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2686.021s" clip-end="npt=2688.097s" id="audio_0542"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2688.097s" clip-end="npt=2692.160s" id="audio_0543"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2692.160s" clip-end="npt=2697.515s" id="audio_0544"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2697.515s" clip-end="npt=2699.617s" id="audio_0545"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2699.617s" clip-end="npt=2702.791s" id="audio_0546"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2702.791s" clip-end="npt=2706.200s" id="audio_0547"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2706.200s" clip-end="npt=2707.911s" id="audio_0548"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2707.911s" clip-end="npt=2710.445s" id="audio_0549"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2710.445s" clip-end="npt=2715.226s" id="audio_0550"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2715.226s" clip-end="npt=2721.678s" id="audio_0551"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2721.678s" clip-end="npt=2726.066s" id="audio_0552"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2726.066s" clip-end="npt=2728.274s" id="audio_0553"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2728.274s" clip-end="npt=2729.449s" id="audio_0554"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2729.449s" clip-end="npt=2731.004s" id="audio_0555"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2731.004s" clip-end="npt=2736.027s" id="audio_0556"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2736.027s" clip-end="npt=2740.846s" id="audio_0557"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2740.846s" clip-end="npt=2743.602s" id="audio_0558"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2743.602s" clip-end="npt=2750.002s" id="audio_0559"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2750.002s" clip-end="npt=2752.105s" id="audio_0560"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2752.105s" clip-end="npt=2758.257s" id="audio_0561"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2758.257s" clip-end="npt=2762.541s" id="audio_0562"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2762.541s" clip-end="npt=2764.161s" id="audio_0563"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2764.161s" clip-end="npt=2769.385s" id="audio_0564"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2769.385s" clip-end="npt=2772.677s" id="audio_0565"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2772.677s" clip-end="npt=2775.837s" id="audio_0566"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2775.837s" clip-end="npt=2786.195s" id="audio_0567"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2786.195s" clip-end="npt=2788.768s" id="audio_0568"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2788.768s" clip-end="npt=2793.379s" id="audio_0569"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2793.379s" clip-end="npt=2798.838s" id="audio_0570"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2798.838s" clip-end="npt=2802.874s" id="audio_0571"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2802.874s" clip-end="npt=2807.002s" id="audio_0572"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2807.002s" clip-end="npt=2813.741s" id="audio_0573"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2813.741s" clip-end="npt=2816.060s" id="audio_0574"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_0274" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0181" id="wxde_0275"/>
+			</par>
+			<par endsync="last" id="wxde_0276">
+				<text src="ncc.html#jjoy_0171" id="wxde_0277"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2816.060s" clip-end="npt=2817.132s" id="audio_0575"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2817.132s" clip-end="npt=2819.539s" id="audio_0576"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2819.539s" clip-end="npt=2823.692s" id="audio_0577"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2823.692s" clip-end="npt=2829.309s" id="audio_0578"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2829.309s" clip-end="npt=2834.128s" id="audio_0579"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2834.128s" clip-end="npt=2840.411s" id="audio_0580"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2840.411s" clip-end="npt=2849.175s" id="audio_0581"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2849.175s" clip-end="npt=2856.541s" id="audio_0582"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2856.541s" clip-end="npt=2858.174s" id="audio_0583"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2858.174s" clip-end="npt=2861.661s" id="audio_0584"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2861.661s" clip-end="npt=2863.333s" id="audio_0585"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2863.333s" clip-end="npt=2867.304s" id="audio_0586"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2867.304s" clip-end="npt=2874.500s" id="audio_0587"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2874.500s" clip-end="npt=2876.120s" id="audio_0588"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2876.120s" clip-end="npt=2879.359s" id="audio_0589"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2879.359s" clip-end="npt=2881.344s" id="audio_0590"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2881.344s" clip-end="npt=2886.373s" id="audio_0591"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2886.373s" clip-end="npt=2889.560s" id="audio_0592"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2889.560s" clip-end="npt=2891.376s" id="audio_0593"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2891.376s" clip-end="npt=2893.178s" id="audio_0594"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2893.178s" clip-end="npt=2899.003s" id="audio_0595"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2899.003s" clip-end="npt=2904.476s" id="audio_0596"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2904.476s" clip-end="npt=2918.582s" id="audio_0597"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2918.582s" clip-end="npt=2923.820s" id="audio_0598"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2923.820s" clip-end="npt=2930.337s" id="audio_0599"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2930.337s" clip-end="npt=2939.444s" id="audio_0600"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2939.444s" clip-end="npt=2940.711s" id="audio_0601"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2940.711s" clip-end="npt=2944.089s" id="audio_0602"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wxde_02b0" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0182" id="wxde_02b1"/>
+			</par>
+			<par endsync="last" id="wxde_02b2">
+				<text src="ncc.html#jjoy_0171" id="par_0010"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2944.089s" clip-end="npt=2945.197s" id="audio_0603"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2945.197s" clip-end="npt=2947.195s" id="audio_0604"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2947.195s" clip-end="npt=2950.121s" id="audio_0605"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2950.121s" clip-end="npt=2952.746s" id="audio_0606"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2952.746s" clip-end="npt=2955.698s" id="audio_0607"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2955.698s" clip-end="npt=2961.393s" id="audio_0608"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2961.393s" clip-end="npt=2966.591s" id="audio_0609"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2966.591s" clip-end="npt=2970.379s" id="audio_0610"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2970.379s" clip-end="npt=2975.068s" id="audio_0611"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2975.068s" clip-end="npt=2979.640s" id="audio_0612"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2979.640s" clip-end="npt=2981.599s" id="audio_0613"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2981.599s" clip-end="npt=2986.379s" id="audio_0614"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2986.379s" clip-end="npt=2992.714s" id="audio_0615"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2992.714s" clip-end="npt=2996.384s" id="audio_0616"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=2996.384s" clip-end="npt=3000.616s" id="audio_0617"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=3000.616s" clip-end="npt=3010.007s" id="audio_0618"/>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=3010.007s" clip-end="npt=3013.965s" id="audio_0619"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0183" id="wxde_02d6"/>
+			</par>
+			<par endsync="last" id="wxde_02d7">
+				<text src="ncc.html#jjoy_0171" id="wxde_02d8"/>
+				<seq>
+					<audio src="17_Lesson_16__I_must_know_the_truth.mp3" clip-begin="npt=3013.965s" clip-end="npt=3015.754s" id="audio_0620"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

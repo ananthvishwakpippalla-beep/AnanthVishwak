@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:47:26.684"/>
+		<meta name="ncc:totalElapsedTime" content="14:08:24.393"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Questions for Practice"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="2846.684s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_00d4" id="jjoy_00d4"/>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0013" id="par_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_00d4" id="par_0004"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=0.000s" clip-end="npt=5.954s" id="audio_0001"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=5.954s" clip-end="npt=10.719s" id="audio_0002"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=10.719s" clip-end="npt=11.783s" id="audio_0003"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=11.783s" clip-end="npt=13.429s" id="audio_0004"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=13.429s" clip-end="npt=15.479s" id="audio_0005"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=15.479s" clip-end="npt=16.851s" id="audio_0006"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=16.851s" clip-end="npt=20.769s" id="audio_0007"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=20.769s" clip-end="npt=23.577s" id="audio_0008"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=23.577s" clip-end="npt=27.117s" id="audio_0009"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=27.117s" clip-end="npt=30.800s" id="audio_0010"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=30.800s" clip-end="npt=35.489s" id="audio_0011"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=35.489s" clip-end="npt=38.990s" id="audio_0012"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=38.990s" clip-end="npt=43.326s" id="audio_0013"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=43.326s" clip-end="npt=44.488s" id="audio_0014"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=44.488s" clip-end="npt=49.060s" id="audio_0015"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=49.060s" clip-end="npt=53.096s" id="audio_0016"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=53.096s" clip-end="npt=59.287s" id="audio_0017"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=59.287s" clip-end="npt=63.323s" id="audio_0018"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=63.323s" clip-end="npt=68.599s" id="audio_0019"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=68.599s" clip-end="npt=69.958s" id="audio_0020"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=69.958s" clip-end="npt=73.928s" id="audio_0021"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=73.928s" clip-end="npt=78.435s" id="audio_0022"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=78.435s" clip-end="npt=84.717s" id="audio_0023"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=84.717s" clip-end="npt=89.968s" id="audio_0024"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=89.968s" clip-end="npt=93.925s" id="audio_0025"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=93.925s" clip-end="npt=95.075s" id="audio_0026"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=95.075s" clip-end="npt=100.560s" id="audio_0027"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=100.560s" clip-end="npt=104.779s" id="audio_0028"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=104.779s" clip-end="npt=106.686s" id="audio_0029"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=106.686s" clip-end="npt=109.573s" id="audio_0030"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=109.573s" clip-end="npt=112.929s" id="audio_0031"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=112.929s" clip-end="npt=116.665s" id="audio_0032"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=116.665s" clip-end="npt=127.009s" id="audio_0033"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=127.009s" clip-end="npt=131.724s" id="audio_0034"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=131.724s" clip-end="npt=133.749s" id="audio_0035"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=133.749s" clip-end="npt=138.973s" id="audio_0036"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=138.973s" clip-end="npt=141.651s" id="audio_0037"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=141.651s" clip-end="npt=144.250s" id="audio_0038"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=144.250s" clip-end="npt=148.469s" id="audio_0039"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=148.469s" clip-end="npt=155.156s" id="audio_0040"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=155.156s" clip-end="npt=159.101s" id="audio_0041"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=159.101s" clip-end="npt=161.726s" id="audio_0042"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=161.726s" clip-end="npt=164.926s" id="audio_0043"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=164.926s" clip-end="npt=168.753s" id="audio_0044"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=168.753s" clip-end="npt=171.692s" id="audio_0045"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=171.692s" clip-end="npt=177.791s" id="audio_0046"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=177.791s" clip-end="npt=180.894s" id="audio_0047"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0005" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0014" id="par_0007"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_00d4" id="par_0008"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=180.894s" clip-end="npt=182.617s" id="audio_0048"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=182.617s" clip-end="npt=185.177s" id="audio_0049"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=185.177s" clip-end="npt=187.423s" id="audio_0050"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=187.423s" clip-end="npt=192.817s" id="audio_0051"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=192.817s" clip-end="npt=193.915s" id="audio_0052"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=193.915s" clip-end="npt=202.248s" id="audio_0053"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=202.248s" clip-end="npt=203.136s" id="audio_0054"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=203.136s" clip-end="npt=211.848s" id="audio_0055"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=211.848s" clip-end="npt=219.214s" id="audio_0056"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=219.214s" clip-end="npt=223.759s" id="audio_0057"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=223.759s" clip-end="npt=229.990s" id="audio_0058"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=229.990s" clip-end="npt=234.744s" id="audio_0059"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=234.744s" clip-end="npt=236.115s" id="audio_0060"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=236.115s" clip-end="npt=239.015s" id="audio_0061"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=239.015s" clip-end="npt=242.293s" id="audio_0062"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=242.293s" clip-end="npt=247.113s" id="audio_0063"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=247.113s" clip-end="npt=248.393s" id="audio_0064"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=248.393s" clip-end="npt=254.205s" id="audio_0065"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=254.205s" clip-end="npt=261.324s" id="audio_0066"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=261.324s" clip-end="npt=266.117s" id="audio_0067"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=266.117s" clip-end="npt=268.377s" id="audio_0068"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=268.377s" clip-end="npt=270.440s" id="audio_0069"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=270.440s" clip-end="npt=287.864s" id="audio_0070"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=287.864s" clip-end="npt=294.486s" id="audio_0071"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=294.486s" clip-end="npt=296.223s" id="audio_0072"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=296.223s" clip-end="npt=301.108s" id="audio_0073"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=301.108s" clip-end="npt=308.997s" id="audio_0074"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=308.997s" clip-end="npt=315.789s" id="audio_0075"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=315.789s" clip-end="npt=318.610s" id="audio_0076"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=318.610s" clip-end="npt=323.142s" id="audio_0077"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=323.142s" clip-end="npt=324.109s" id="audio_0078"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=324.109s" clip-end="npt=327.701s" id="audio_0079"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=327.701s" clip-end="npt=332.298s" id="audio_0080"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=332.298s" clip-end="npt=337.614s" id="audio_0081"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=337.614s" clip-end="npt=339.874s" id="audio_0082"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=339.874s" clip-end="npt=344.301s" id="audio_0083"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=344.301s" clip-end="npt=345.895s" id="audio_0084"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=345.895s" clip-end="npt=347.110s" id="audio_0085"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=347.110s" clip-end="npt=350.284s" id="audio_0086"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=350.284s" clip-end="npt=351.198s" id="audio_0087"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=351.198s" clip-end="npt=357.363s" id="audio_0088"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=357.363s" clip-end="npt=362.809s" id="audio_0089"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=362.809s" clip-end="npt=368.256s" id="audio_0090"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=368.256s" clip-end="npt=369.627s" id="audio_0091"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=369.627s" clip-end="npt=382.140s" id="audio_0092"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=382.140s" clip-end="npt=385.047s" id="audio_0093"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0009" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0015" id="par_000b"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_00d4" id="par_000c"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=385.047s" clip-end="npt=386.770s" id="audio_0094"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=386.770s" clip-end="npt=389.003s" id="audio_0095"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=389.003s" clip-end="npt=391.394s" id="audio_0096"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=391.394s" clip-end="npt=394.920s" id="audio_0097"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=394.920s" clip-end="npt=396.670s" id="audio_0098"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=396.670s" clip-end="npt=398.055s" id="audio_0099"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=398.055s" clip-end="npt=401.372s" id="audio_0100"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=401.372s" clip-end="npt=406.545s" id="audio_0101"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=406.545s" clip-end="npt=410.633s" id="audio_0102"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=410.633s" clip-end="npt=414.081s" id="audio_0103"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=414.081s" clip-end="npt=418.692s" id="audio_0104"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=418.692s" clip-end="npt=424.765s" id="audio_0105"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=424.765s" clip-end="npt=430.904s" id="audio_0106"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=430.904s" clip-end="npt=432.432s" id="audio_0107"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=432.432s" clip-end="npt=438.871s" id="audio_0108"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=438.871s" clip-end="npt=442.763s" id="audio_0109"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=442.763s" clip-end="npt=446.159s" id="audio_0110"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=446.159s" clip-end="npt=480.484s" id="audio_0111"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=480.484s" clip-end="npt=520.269s" id="audio_0112"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=520.269s" clip-end="npt=523.508s" id="audio_0113"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=523.508s" clip-end="npt=528.419s" id="audio_0114"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=528.419s" clip-end="npt=532.272s" id="audio_0115"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=532.272s" clip-end="npt=541.767s" id="audio_0116"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=541.767s" clip-end="npt=545.568s" id="audio_0117"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=545.568s" clip-end="npt=547.305s" id="audio_0118"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=547.305s" clip-end="npt=555.103s" id="audio_0119"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=555.103s" clip-end="npt=562.091s" id="audio_0120"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=562.091s" clip-end="npt=568.177s" id="audio_0121"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=568.177s" clip-end="npt=571.426s" id="audio_0122"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000d" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0016" id="par_000e"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_00d4" id="par_000f"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=571.426s" clip-end="npt=573.163s" id="audio_0123"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=573.163s" clip-end="npt=576.455s" id="audio_0124"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=576.455s" clip-end="npt=577.630s" id="audio_0125"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=577.630s" clip-end="npt=582.306s" id="audio_0126"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=582.306s" clip-end="npt=587.935s" id="audio_0127"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=587.935s" clip-end="npt=592.729s" id="audio_0128"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=592.729s" clip-end="npt=596.935s" id="audio_0129"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=596.935s" clip-end="npt=597.810s" id="audio_0130"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=597.810s" clip-end="npt=601.597s" id="audio_0131"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=601.597s" clip-end="npt=604.706s" id="audio_0132"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=604.706s" clip-end="npt=608.037s" id="audio_0133"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=608.037s" clip-end="npt=617.232s" id="audio_0134"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=617.232s" clip-end="npt=619.021s" id="audio_0135"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=619.021s" clip-end="npt=624.468s" id="audio_0136"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=624.468s" clip-end="npt=625.721s" id="audio_0137"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=625.721s" clip-end="npt=627.315s" id="audio_0138"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=627.315s" clip-end="npt=629.183s" id="audio_0139"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=629.183s" clip-end="npt=641.970s" id="audio_0140"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=641.970s" clip-end="npt=644.033s" id="audio_0141"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=644.033s" clip-end="npt=649.179s" id="audio_0142"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=649.179s" clip-end="npt=652.850s" id="audio_0143"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=652.850s" clip-end="npt=654.678s" id="audio_0144"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=654.678s" clip-end="npt=656.598s" id="audio_0145"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=656.598s" clip-end="npt=658.597s" id="audio_0146"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=658.597s" clip-end="npt=660.360s" id="audio_0147"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=660.360s" clip-end="npt=664.526s" id="audio_0148"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=664.526s" clip-end="npt=666.734s" id="audio_0149"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=666.734s" clip-end="npt=668.536s" id="audio_0150"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=668.536s" clip-end="npt=670.392s" id="audio_0151"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0010" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0017" id="par_0012"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_00d4" id="par_0013"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=670.392s" clip-end="npt=671.828s" id="audio_0152"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=671.828s" clip-end="npt=674.584s" id="audio_0153"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=674.584s" clip-end="npt=678.189s" id="audio_0154"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=678.189s" clip-end="npt=680.122s" id="audio_0155"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=680.122s" clip-end="npt=685.610s" id="audio_0156"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=685.610s" clip-end="npt=690.965s" id="audio_0157"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=690.965s" clip-end="npt=698.462s" id="audio_0158"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=698.462s" clip-end="npt=702.014s" id="audio_0159"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=702.014s" clip-end="npt=703.425s" id="audio_0160"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=703.425s" clip-end="npt=707.696s" id="audio_0161"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=707.696s" clip-end="npt=711.131s" id="audio_0162"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=711.131s" clip-end="npt=719.229s" id="audio_0163"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=719.229s" clip-end="npt=727.183s" id="audio_0164"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=727.183s" clip-end="npt=728.450s" id="audio_0165"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=728.450s" clip-end="npt=739.148s" id="audio_0166"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=739.148s" clip-end="npt=746.109s" id="audio_0167"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=746.109s" clip-end="npt=748.695s" id="audio_0168"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=748.695s" clip-end="npt=753.724s" id="audio_0169"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=753.724s" clip-end="npt=755.069s" id="audio_0170"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=755.069s" clip-end="npt=758.739s" id="audio_0171"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=758.739s" clip-end="npt=761.404s" id="audio_0172"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=761.404s" clip-end="npt=766.903s" id="audio_0173"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=766.903s" clip-end="npt=768.901s" id="audio_0174"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=768.901s" clip-end="npt=771.213s" id="audio_0175"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=771.213s" clip-end="npt=773.146s" id="audio_0176"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=773.146s" clip-end="npt=780.604s" id="audio_0177"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=780.604s" clip-end="npt=783.523s" id="audio_0178"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0014" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0018" id="par_0015"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_00d4" id="par_0016"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=783.523s" clip-end="npt=784.895s" id="audio_0179"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=784.895s" clip-end="npt=786.684s" id="audio_0180"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=786.684s" clip-end="npt=797.995s" id="audio_0181"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=797.995s" clip-end="npt=802.345s" id="audio_0182"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=802.345s" clip-end="npt=803.938s" id="audio_0183"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=803.938s" clip-end="npt=805.936s" id="audio_0184"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=805.936s" clip-end="npt=807.647s" id="audio_0185"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=807.647s" clip-end="npt=809.659s" id="audio_0186"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=809.659s" clip-end="npt=812.349s" id="audio_0187"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=812.349s" clip-end="npt=813.799s" id="audio_0188"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=813.799s" clip-end="npt=815.863s" id="audio_0189"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=815.863s" clip-end="npt=817.025s" id="audio_0190"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=817.025s" clip-end="npt=818.266s" id="audio_0191"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=818.266s" clip-end="npt=820.630s" id="audio_0192"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=820.630s" clip-end="npt=822.707s" id="audio_0193"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=822.707s" clip-end="npt=824.849s" id="audio_0194"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=824.849s" clip-end="npt=828.807s" id="audio_0195"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=828.807s" clip-end="npt=830.831s" id="audio_0196"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=830.831s" clip-end="npt=833.626s" id="audio_0197"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=833.626s" clip-end="npt=835.847s" id="audio_0198"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=835.847s" clip-end="npt=837.884s" id="audio_0199"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=837.884s" clip-end="npt=840.052s" id="audio_0200"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=840.052s" clip-end="npt=842.142s" id="audio_0201"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=842.142s" clip-end="npt=844.689s" id="audio_0202"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=844.689s" clip-end="npt=845.656s" id="audio_0203"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=845.656s" clip-end="npt=847.811s" id="audio_0204"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=847.811s" clip-end="npt=848.660s" id="audio_0205"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=848.660s" clip-end="npt=852.931s" id="audio_0206"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=852.931s" clip-end="npt=855.125s" id="audio_0207"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=855.125s" clip-end="npt=857.332s" id="audio_0208"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=857.332s" clip-end="npt=862.021s" id="audio_0209"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=862.021s" clip-end="npt=866.632s" id="audio_0210"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=866.632s" clip-end="npt=872.666s" id="audio_0211"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=872.666s" clip-end="npt=874.625s" id="audio_0212"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=874.625s" clip-end="npt=877.852s" id="audio_0213"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=877.852s" clip-end="npt=881.365s" id="audio_0214"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=881.365s" clip-end="npt=884.931s" id="audio_0215"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=884.931s" clip-end="npt=887.347s" id="audio_0216"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=887.347s" clip-end="npt=890.364s" id="audio_0217"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=890.364s" clip-end="npt=893.629s" id="audio_0218"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=893.629s" clip-end="npt=898.436s" id="audio_0219"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=898.436s" clip-end="npt=901.897s" id="audio_0220"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=901.897s" clip-end="npt=909.368s" id="audio_0221"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=909.368s" clip-end="npt=911.340s" id="audio_0222"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=911.340s" clip-end="npt=913.313s" id="audio_0223"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=913.313s" clip-end="npt=915.024s" id="audio_0224"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=915.024s" clip-end="npt=916.421s" id="audio_0225"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=916.421s" clip-end="npt=917.714s" id="audio_0226"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=917.714s" clip-end="npt=919.908s" id="audio_0227"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=919.908s" clip-end="npt=925.094s" id="audio_0228"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=925.094s" clip-end="npt=931.546s" id="audio_0229"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=931.546s" clip-end="npt=933.453s" id="audio_0230"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=933.453s" clip-end="npt=940.088s" id="audio_0231"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=940.088s" clip-end="npt=950.694s" id="audio_0232"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=950.694s" clip-end="npt=954.194s" id="audio_0233"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=954.194s" clip-end="npt=956.310s" id="audio_0234"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=956.310s" clip-end="npt=960.725s" id="audio_0235"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=960.725s" clip-end="npt=970.351s" id="audio_0236"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=970.351s" clip-end="npt=973.943s" id="audio_0237"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=973.943s" clip-end="npt=976.803s" id="audio_0238"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=976.803s" clip-end="npt=987.618s" id="audio_0239"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=987.618s" clip-end="npt=988.806s" id="audio_0240"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=988.806s" clip-end="npt=995.376s" id="audio_0241"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=995.376s" clip-end="npt=999.726s" id="audio_0242"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=999.726s" clip-end="npt=1006.805s" id="audio_0243"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1006.805s" clip-end="npt=1012.055s" id="audio_0244"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1012.055s" clip-end="npt=1015.804s" id="audio_0245"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1015.804s" clip-end="npt=1018.473s" id="audio_0246"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0017" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0019" id="par_0018"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#jjoy_00d4" id="par_0019"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1018.473s" clip-end="npt=1021.555s" id="audio_0247"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1021.555s" clip-end="npt=1023.658s" id="audio_0248"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1023.658s" clip-end="npt=1032.788s" id="audio_0249"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1032.788s" clip-end="npt=1036.837s" id="audio_0250"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1036.837s" clip-end="npt=1041.565s" id="audio_0251"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1041.565s" clip-end="npt=1045.784s" id="audio_0252"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1045.784s" clip-end="npt=1049.976s" id="audio_0253"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1049.976s" clip-end="npt=1057.552s" id="audio_0254"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1057.552s" clip-end="npt=1062.672s" id="audio_0255"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1062.672s" clip-end="npt=1067.557s" id="audio_0256"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1067.557s" clip-end="npt=1068.837s" id="audio_0257"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1068.837s" clip-end="npt=1073.212s" id="audio_0258"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1073.212s" clip-end="npt=1077.888s" id="audio_0259"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1077.888s" clip-end="npt=1084.001s" id="audio_0260"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1084.001s" clip-end="npt=1085.085s" id="audio_0261"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1085.085s" clip-end="npt=1088.520s" id="audio_0262"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1088.520s" clip-end="npt=1095.299s" id="audio_0263"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1095.299s" clip-end="npt=1098.629s" id="audio_0264"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1098.629s" clip-end="npt=1100.196s" id="audio_0265"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xmdq_0001" system-required="pagenumber-on">
+				<text src="ncc.html#iime_001a" id="xmdq_0002"/>
+			</par>
+			<par endsync="last" id="xlhb_0003">
+				<text src="ncc.html#jjoy_00d4" id="xmdq_0003"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1100.196s" clip-end="npt=1102.260s" id="audio_0266"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1102.260s" clip-end="npt=1104.010s" id="audio_0267"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1104.010s" clip-end="npt=1110.750s" id="audio_0268"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1110.750s" clip-end="npt=1116.170s" id="audio_0269"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1116.170s" clip-end="npt=1118.547s" id="audio_0270"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1118.547s" clip-end="npt=1120.062s" id="audio_0271"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1120.062s" clip-end="npt=1121.016s" id="audio_0272"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1121.016s" clip-end="npt=1127.716s" id="audio_0273"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1127.716s" clip-end="npt=1129.284s" id="audio_0274"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1129.284s" clip-end="npt=1130.916s" id="audio_0275"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1130.916s" clip-end="npt=1131.870s" id="audio_0276"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1131.870s" clip-end="npt=1135.514s" id="audio_0277"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1135.514s" clip-end="npt=1140.542s" id="audio_0278"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1140.542s" clip-end="npt=1141.600s" id="audio_0279"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1141.600s" clip-end="npt=1143.756s" id="audio_0280"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1143.756s" clip-end="npt=1145.022s" id="audio_0281"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1145.022s" clip-end="npt=1148.601s" id="audio_0282"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1148.601s" clip-end="npt=1152.311s" id="audio_0283"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1152.311s" clip-end="npt=1153.747s" id="audio_0284"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1153.747s" clip-end="npt=1159.129s" id="audio_0285"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1159.129s" clip-end="npt=1170.636s" id="audio_0286"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1170.636s" clip-end="npt=1177.022s" id="audio_0287"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1177.022s" clip-end="npt=1179.008s" id="audio_0288"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1179.008s" clip-end="npt=1180.405s" id="audio_0289"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1180.405s" clip-end="npt=1189.405s" id="audio_0290"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1189.405s" clip-end="npt=1198.508s" id="audio_0291"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1198.508s" clip-end="npt=1201.356s" id="audio_0292"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1201.356s" clip-end="npt=1203.080s" id="audio_0293"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1203.080s" clip-end="npt=1211.112s" id="audio_0294"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1211.112s" clip-end="npt=1218.427s" id="audio_0295"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1218.427s" clip-end="npt=1225.336s" id="audio_0296"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1225.336s" clip-end="npt=1226.786s" id="audio_0297"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1226.786s" clip-end="npt=1231.318s" id="audio_0298"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1231.318s" clip-end="npt=1240.304s" id="audio_0299"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1240.304s" clip-end="npt=1241.662s" id="audio_0300"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1241.662s" clip-end="npt=1250.413s" id="audio_0301"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1250.413s" clip-end="npt=1254.084s" id="audio_0302"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1254.084s" clip-end="npt=1256.853s" id="audio_0303"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1256.853s" clip-end="npt=1260.053s" id="audio_0304"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1260.053s" clip-end="npt=1263.731s" id="audio_0305"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xmdq_0004" system-required="pagenumber-on">
+				<text src="ncc.html#iime_001b" id="xmdq_0005"/>
+			</par>
+			<par endsync="last" id="xlhb_0054">
+				<text src="ncc.html#jjoy_00d4" id="xmdq_0006"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1263.731s" clip-end="npt=1265.586s" id="audio_0306"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1265.586s" clip-end="npt=1267.506s" id="audio_0307"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1267.506s" clip-end="npt=1269.923s" id="audio_0308"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1269.923s" clip-end="npt=1271.542s" id="audio_0309"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1271.542s" clip-end="npt=1274.664s" id="audio_0310"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1274.664s" clip-end="npt=1277.746s" id="audio_0311"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1277.746s" clip-end="npt=1280.372s" id="audio_0312"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1280.372s" clip-end="npt=1287.060s" id="audio_0313"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1287.060s" clip-end="npt=1293.368s" id="audio_0314"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1293.368s" clip-end="npt=1295.014s" id="audio_0315"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1295.014s" clip-end="npt=1304.601s" id="audio_0316"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1304.601s" clip-end="npt=1314.658s" id="audio_0317"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1314.658s" clip-end="npt=1320.888s" id="audio_0318"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1320.888s" clip-end="npt=1323.657s" id="audio_0319"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1323.657s" clip-end="npt=1326.948s" id="audio_0320"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1326.948s" clip-end="npt=1335.138s" id="audio_0321"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1335.138s" clip-end="npt=1338.573s" id="audio_0322"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1338.573s" clip-end="npt=1344.699s" id="audio_0323"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1344.699s" clip-end="npt=1347.128s" id="audio_0324"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1347.128s" clip-end="npt=1354.691s" id="audio_0325"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1354.691s" clip-end="npt=1357.525s" id="audio_0326"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1357.525s" clip-end="npt=1361.051s" id="audio_0327"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1361.051s" clip-end="npt=1366.237s" id="audio_0328"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1366.237s" clip-end="npt=1368.496s" id="audio_0329"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1368.496s" clip-end="npt=1375.510s" id="audio_0330"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1375.510s" clip-end="npt=1377.992s" id="audio_0331"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xmdq_0007" system-required="pagenumber-on">
+				<text src="ncc.html#iime_001c" id="xmdq_0008"/>
+			</par>
+			<par endsync="last" id="xlhb_0089">
+				<text src="ncc.html#jjoy_00d4" id="xmdq_0009"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1377.992s" clip-end="npt=1379.612s" id="audio_0332"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1379.612s" clip-end="npt=1381.388s" id="audio_0333"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1381.388s" clip-end="npt=1395.978s" id="audio_0334"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1395.978s" clip-end="npt=1405.408s" id="audio_0335"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1405.408s" clip-end="npt=1414.956s" id="audio_0336"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1414.956s" clip-end="npt=1420.611s" id="audio_0337"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1420.611s" clip-end="npt=1423.119s" id="audio_0338"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1423.119s" clip-end="npt=1425.378s" id="audio_0339"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1425.378s" clip-end="npt=1427.834s" id="audio_0340"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1427.834s" clip-end="npt=1430.303s" id="audio_0341"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1430.303s" clip-end="npt=1433.124s" id="audio_0342"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1433.124s" clip-end="npt=1435.658s" id="audio_0343"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1435.658s" clip-end="npt=1436.742s" id="audio_0344"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1436.742s" clip-end="npt=1438.440s" id="audio_0345"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1438.440s" clip-end="npt=1443.716s" id="audio_0346"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1443.716s" clip-end="npt=1445.728s" id="audio_0347"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1445.728s" clip-end="npt=1454.466s" id="audio_0348"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1454.466s" clip-end="npt=1462.433s" id="audio_0349"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1462.433s" clip-end="npt=1463.413s" id="audio_0350"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1463.413s" clip-end="npt=1466.116s" id="audio_0351"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1466.116s" clip-end="npt=1469.774s" id="audio_0352"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1469.774s" clip-end="npt=1474.005s" id="audio_0353"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1474.005s" clip-end="npt=1482.952s" id="audio_0354"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1482.952s" clip-end="npt=1490.109s" id="audio_0355"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1490.109s" clip-end="npt=1499.435s" id="audio_0356"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1499.435s" clip-end="npt=1501.120s" id="audio_0357"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1501.120s" clip-end="npt=1503.602s" id="audio_0358"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1503.602s" clip-end="npt=1505.574s" id="audio_0359"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1505.574s" clip-end="npt=1510.393s" id="audio_0360"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1510.393s" clip-end="npt=1512.013s" id="audio_0361"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1512.013s" clip-end="npt=1520.725s" id="audio_0362"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1520.725s" clip-end="npt=1543.843s" id="audio_0363"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1543.843s" clip-end="npt=1547.762s" id="audio_0364"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1547.762s" clip-end="npt=1551.244s" id="audio_0365"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xmdq_000a" system-required="pagenumber-on">
+				<text src="ncc.html#iime_001d" id="xmdq_000b"/>
+			</par>
+			<par endsync="last" id="xlhb_00ce">
+				<text src="ncc.html#jjoy_00d4" id="xmdq_000c"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1551.244s" clip-end="npt=1552.628s" id="audio_0366"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1552.628s" clip-end="npt=1555.267s" id="audio_0367"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1555.267s" clip-end="npt=1563.939s" id="audio_0368"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1563.939s" clip-end="npt=1568.001s" id="audio_0369"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1568.001s" clip-end="npt=1572.364s" id="audio_0370"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1572.364s" clip-end="npt=1582.617s" id="audio_0371"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1582.617s" clip-end="npt=1594.294s" id="audio_0372"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1594.294s" clip-end="npt=1596.906s" id="audio_0373"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1596.906s" clip-end="npt=1603.254s" id="audio_0374"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1603.254s" clip-end="npt=1611.365s" id="audio_0375"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1611.365s" clip-end="npt=1613.520s" id="audio_0376"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1613.520s" clip-end="npt=1618.548s" id="audio_0377"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1618.548s" clip-end="npt=1621.370s" id="audio_0378"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1621.370s" clip-end="npt=1625.627s" id="audio_0379"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1625.627s" clip-end="npt=1637.918s" id="audio_0380"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1637.918s" clip-end="npt=1639.368s" id="audio_0381"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1639.368s" clip-end="npt=1643.756s" id="audio_0382"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1643.756s" clip-end="npt=1653.931s" id="audio_0383"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1653.931s" clip-end="npt=1656.060s" id="audio_0384"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1656.060s" clip-end="npt=1658.189s" id="audio_0385"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1658.189s" clip-end="npt=1666.000s" id="audio_0386"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1666.000s" clip-end="npt=1667.201s" id="audio_0387"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1667.201s" clip-end="npt=1671.890s" id="audio_0388"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1671.890s" clip-end="npt=1677.951s" id="audio_0389"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1677.951s" clip-end="npt=1685.017s" id="audio_0390"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1685.017s" clip-end="npt=1690.986s" id="audio_0391"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1690.986s" clip-end="npt=1696.929s" id="audio_0392"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1696.929s" clip-end="npt=1701.082s" id="audio_0393"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ykik_0001" system-required="pagenumber-on">
+				<text src="ncc.html#iime_001e" id="ykik_0002"/>
+			</par>
+			<par endsync="last" id="xlhb_0108">
+				<text src="ncc.html#jjoy_00d4" id="ykik_0003"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1701.082s" clip-end="npt=1712.498s" id="audio_0394"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1712.498s" clip-end="npt=1714.979s" id="audio_0395"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1714.979s" clip-end="npt=1728.484s" id="audio_0396"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1728.484s" clip-end="npt=1734.989s" id="audio_0397"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1734.989s" clip-end="npt=1738.241s" id="audio_0398"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1738.241s" clip-end="npt=1739.704s" id="audio_0399"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1739.704s" clip-end="npt=1757.089s" id="audio_0400"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1757.089s" clip-end="npt=1761.085s" id="audio_0401"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1761.085s" clip-end="npt=1770.228s" id="audio_0402"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1770.228s" clip-end="npt=1779.515s" id="audio_0403"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1779.515s" clip-end="npt=1785.471s" id="audio_0404"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1785.471s" clip-end="npt=1795.854s" id="audio_0405"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1795.854s" clip-end="npt=1798.994s" id="audio_0406"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1798.994s" clip-end="npt=1804.180s" id="audio_0407"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1804.180s" clip-end="npt=1817.581s" id="audio_0408"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1817.581s" clip-end="npt=1826.501s" id="audio_0409"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1826.501s" clip-end="npt=1829.806s" id="audio_0410"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1829.806s" clip-end="npt=1831.399s" id="audio_0411"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1831.399s" clip-end="npt=1836.768s" id="audio_0412"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1836.768s" clip-end="npt=1840.020s" id="audio_0413"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1840.020s" clip-end="npt=1843.102s" id="audio_0414"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1843.102s" clip-end="npt=1845.297s" id="audio_0415"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ykik_0004" system-required="pagenumber-on">
+				<text src="ncc.html#iime_001f" id="ykik_0005"/>
+			</par>
+			<par endsync="last" id="xlhb_0135">
+				<text src="ncc.html#jjoy_00d4" id="ykik_0006"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1845.297s" clip-end="npt=1846.407s" id="audio_0416"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1846.407s" clip-end="npt=1853.918s" id="audio_0417"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1853.918s" clip-end="npt=1856.687s" id="audio_0418"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1856.687s" clip-end="npt=1863.583s" id="audio_0419"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1863.583s" clip-end="npt=1873.928s" id="audio_0420"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1873.928s" clip-end="npt=1924.893s" id="audio_0421"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1924.893s" clip-end="npt=1966.968s" id="audio_0422"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=1966.968s" clip-end="npt=2000.588s" id="audio_0423"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2000.588s" clip-end="npt=2010.737s" id="audio_0424"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2010.737s" clip-end="npt=2017.045s" id="audio_0425"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2017.045s" clip-end="npt=2018.443s" id="audio_0426"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2018.443s" clip-end="npt=2024.960s" id="audio_0427"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2024.960s" clip-end="npt=2027.977s" id="audio_0428"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2027.977s" clip-end="npt=2029.532s" id="audio_0429"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2029.532s" clip-end="npt=2030.864s" id="audio_0430"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2030.864s" clip-end="npt=2032.862s" id="audio_0431"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2032.862s" clip-end="npt=2037.447s" id="audio_0432"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2037.447s" clip-end="npt=2041.966s" id="audio_0433"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2041.966s" clip-end="npt=2048.875s" id="audio_0434"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2048.875s" clip-end="npt=2053.499s" id="audio_0435"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2053.499s" clip-end="npt=2056.151s" id="audio_0436"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ykik_0008" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0020" id="ykik_0009"/>
+			</par>
+			<par endsync="last" id="xlhb_0160">
+				<text src="ncc.html#jjoy_00d4" id="ykik_000a"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2056.151s" clip-end="npt=2070.032s" id="audio_0437"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2070.032s" clip-end="npt=2081.866s" id="audio_0438"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2081.866s" clip-end="npt=2098.388s" id="audio_0439"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2098.388s" clip-end="npt=2104.423s" id="audio_0440"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2104.423s" clip-end="npt=2133.523s" id="audio_0441"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2133.523s" clip-end="npt=2153.402s" id="audio_0442"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2153.402s" clip-end="npt=2165.314s" id="audio_0443"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2165.314s" clip-end="npt=2170.787s" id="audio_0444"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2170.787s" clip-end="npt=2179.616s" id="audio_0445"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2179.616s" clip-end="npt=2198.281s" id="audio_0446"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2198.281s" clip-end="npt=2200.044s" id="audio_0447"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2200.044s" clip-end="npt=2213.327s" id="audio_0448"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2213.327s" clip-end="npt=2217.716s" id="audio_0449"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2217.716s" clip-end="npt=2221.112s" id="audio_0450"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2221.112s" clip-end="npt=2232.214s" id="audio_0451"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2232.214s" clip-end="npt=2234.499s" id="audio_0452"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2234.499s" clip-end="npt=2236.772s" id="audio_0453"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ykik_000b" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0021" id="ykik_000c"/>
+			</par>
+			<par endsync="last" id="xlhb_0183">
+				<text src="ncc.html#jjoy_00d4" id="ykik_000d"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2236.772s" clip-end="npt=2238.737s" id="audio_0454"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2238.737s" clip-end="npt=2240.383s" id="audio_0455"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2240.383s" clip-end="npt=2251.119s" id="audio_0456"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2251.119s" clip-end="npt=2258.434s" id="audio_0457"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2258.434s" clip-end="npt=2260.604s" id="audio_0458"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2260.604s" clip-end="npt=2271.418s" id="audio_0459"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2271.418s" clip-end="npt=2276.486s" id="audio_0460"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2276.486s" clip-end="npt=2280.966s" id="audio_0461"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2280.966s" clip-end="npt=2288.333s" id="audio_0462"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2288.333s" clip-end="npt=2292.003s" id="audio_0463"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2292.003s" clip-end="npt=2296.313s" id="audio_0464"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2296.313s" clip-end="npt=2301.198s" id="audio_0465"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2301.198s" clip-end="npt=2306.840s" id="audio_0466"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2306.840s" clip-end="npt=2313.737s" id="audio_0467"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2313.737s" clip-end="npt=2318.818s" id="audio_0468"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2318.818s" clip-end="npt=2324.316s" id="audio_0469"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2324.316s" clip-end="npt=2326.070s" id="audio_0470"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2326.070s" clip-end="npt=2338.452s" id="audio_0471"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2338.452s" clip-end="npt=2340.960s" id="audio_0472"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2340.960s" clip-end="npt=2355.823s" id="audio_0473"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2355.823s" clip-end="npt=2375.820s" id="audio_0474"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2375.820s" clip-end="npt=2391.833s" id="audio_0475"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2391.833s" clip-end="npt=2396.823s" id="audio_0476"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2396.823s" clip-end="npt=2404.163s" id="audio_0477"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2404.163s" clip-end="npt=2416.819s" id="audio_0478"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2416.819s" clip-end="npt=2423.402s" id="audio_0479"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2423.402s" clip-end="npt=2427.556s" id="audio_0480"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2427.556s" clip-end="npt=2435.915s" id="audio_0481"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2435.915s" clip-end="npt=2446.703s" id="audio_0482"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2446.703s" clip-end="npt=2450.112s" id="audio_0483"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ykik_000e" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0022" id="ykik_000f"/>
+			</par>
+			<par endsync="last" id="xlhb_01c0">
+				<text src="ncc.html#jjoy_00d4" id="ykik_0010"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2450.112s" clip-end="npt=2451.502s" id="audio_0484"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2451.502s" clip-end="npt=2453.592s" id="audio_0485"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2453.592s" clip-end="npt=2455.342s" id="audio_0486"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2455.342s" clip-end="npt=2467.097s" id="audio_0487"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2467.097s" clip-end="npt=2470.036s" id="audio_0488"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2470.036s" clip-end="npt=2471.211s" id="audio_0489"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2471.211s" clip-end="npt=2477.820s" id="audio_0490"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2477.820s" clip-end="npt=2480.250s" id="audio_0491"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2480.250s" clip-end="npt=2486.793s" id="audio_0492"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2486.793s" clip-end="npt=2492.919s" id="audio_0493"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2492.919s" clip-end="npt=2495.374s" id="audio_0494"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2495.374s" clip-end="npt=2497.712s" id="audio_0495"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2497.712s" clip-end="npt=2502.793s" id="audio_0496"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2502.793s" clip-end="npt=2505.379s" id="audio_0497"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2505.379s" clip-end="npt=2510.878s" id="audio_0498"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2510.878s" clip-end="npt=2514.718s" id="audio_0499"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2514.718s" clip-end="npt=2517.082s" id="audio_0500"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2517.082s" clip-end="npt=2524.279s" id="audio_0501"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2524.279s" clip-end="npt=2540.018s" id="audio_0502"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2540.018s" clip-end="npt=2549.213s" id="audio_0503"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2549.213s" clip-end="npt=2555.203s" id="audio_0504"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2555.203s" clip-end="npt=2558.324s" id="audio_0505"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2558.324s" clip-end="npt=2571.020s" id="audio_0506"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2571.020s" clip-end="npt=2574.442s" id="audio_0507"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2574.442s" clip-end="npt=2577.312s" id="audio_0508"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ykik_0011" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0023" id="ykik_0012"/>
+			</par>
+			<par endsync="last" id="xlhb_01f3">
+				<text src="ncc.html#jjoy_00d4" id="ykik_0013"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2577.312s" clip-end="npt=2578.997s" id="audio_0509"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2578.997s" clip-end="npt=2581.204s" id="audio_0510"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2581.204s" clip-end="npt=2587.447s" id="audio_0511"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2587.447s" clip-end="npt=2592.528s" id="audio_0512"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2592.528s" clip-end="npt=2594.174s" id="audio_0513"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2594.174s" clip-end="npt=2598.628s" id="audio_0514"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2598.628s" clip-end="npt=2608.907s" id="audio_0515"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2608.907s" clip-end="npt=2614.758s" id="audio_0516"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2614.758s" clip-end="npt=2626.827s" id="audio_0517"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2626.827s" clip-end="npt=2641.129s" id="audio_0518"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2641.129s" clip-end="npt=2643.336s" id="audio_0519"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2643.336s" clip-end="npt=2648.130s" id="audio_0520"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2648.130s" clip-end="npt=2651.304s" id="audio_0521"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2651.304s" clip-end="npt=2652.492s" id="audio_0522"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2652.492s" clip-end="npt=2655.209s" id="audio_0523"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2655.209s" clip-end="npt=2659.036s" id="audio_0524"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2659.036s" clip-end="npt=2664.456s" id="audio_0525"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2664.456s" clip-end="npt=2668.192s" id="audio_0526"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2668.192s" clip-end="npt=2675.323s" id="audio_0527"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2675.323s" clip-end="npt=2681.789s" id="audio_0528"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2681.789s" clip-end="npt=2685.994s" id="audio_0529"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2685.994s" clip-end="npt=2689.638s" id="audio_0530"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2689.638s" clip-end="npt=2695.333s" id="audio_0531"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2695.333s" clip-end="npt=2699.057s" id="audio_0532"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2699.057s" clip-end="npt=2702.789s" id="audio_0533"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ykik_0014" system-required="pagenumber-on">
+				<text src="ncc.html#iime_0024" id="ykik_0015"/>
+			</par>
+			<par endsync="last" id="xlhb_0226">
+				<text src="ncc.html#jjoy_00d4" id="ykik_0016"/>
+				<seq>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2702.789s" clip-end="npt=2705.074s" id="audio_0534"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2705.074s" clip-end="npt=2706.629s" id="audio_0535"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2706.629s" clip-end="npt=2710.312s" id="audio_0536"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2710.312s" clip-end="npt=2720.552s" id="audio_0537"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2720.552s" clip-end="npt=2722.772s" id="audio_0538"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2722.772s" clip-end="npt=2728.545s" id="audio_0539"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2728.545s" clip-end="npt=2731.706s" id="audio_0540"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2731.706s" clip-end="npt=2740.039s" id="audio_0541"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2740.039s" clip-end="npt=2753.009s" id="audio_0542"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2753.009s" clip-end="npt=2764.020s" id="audio_0543"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2764.020s" clip-end="npt=2771.086s" id="audio_0544"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2771.086s" clip-end="npt=2805.450s" id="audio_0545"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2805.450s" clip-end="npt=2831.063s" id="audio_0546"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2831.063s" clip-end="npt=2836.209s" id="audio_0547"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2836.209s" clip-end="npt=2841.107s" id="audio_0548"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2841.107s" clip-end="npt=2844.059s" id="audio_0549"/>
+					<audio src="38_Questions_for_Practice.mp3" clip-begin="npt=2844.059s" clip-end="npt=2846.684s" id="audio_0550"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

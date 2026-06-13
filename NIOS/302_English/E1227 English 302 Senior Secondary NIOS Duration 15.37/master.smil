@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+    <head>
+        <meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+        <meta name="dc:format" content="Daisy 2.02"/>
+        <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+        <meta name="dc:identifier" content="Unknown"/>
+        <meta name="ncc:timeInThisSmil" content="15:37:29.347"/>
+        <layout>
+            <region id="txtView"/>
+        </layout>
+    </head>
+    <body>
+        <ref title="NIOS English Subject Code 302" src="jjoy0001.smil#jjoy0001" id="smil_0001"/>
+        <ref title="Lesson 1: My First Step" src="jjoy0002.smil#jjoy_00ef" id="smil_0002"/>
+        <ref title="Lesson 2: Leisure" src="jjoy00cd.smil#jjoy_00ee" id="smil_0003"/>
+        <ref title="Lesson 3: Reading with Understanding" src="jjoy00ce.smil#jjoy_00f2" id="smil_0004"/>
+        <ref title="Lesson 4: Father Dear Father" src="jjoy00cf.smil#jjoy_00fa" id="smil_0005"/>
+        <ref title="Lesson 5: Fuel of the Future" src="jjoy00d0.smil#jjoy_0106" id="smil_0006"/>
+        <ref title="Lesson 6: My Grand Mother's House" src="jjoy0035.smil#jjoy_0113" id="smil_0007"/>
+        <ref title="Lesson 7: Reading with understanding" src="jjoy00da.smil#jjoy_0115" id="smil_0008"/>
+        <ref title="Lesson 8: A case of suspicion" src="jjoy00db.smil#jjoy_011b" id="smil_0009"/>
+        <ref title="Lesson 9: My son will not a beggar be" src="jjoy00dc.smil#jjoy_012c" id="smil_0010"/>
+        <ref title="Lesson 10: Where the Mind is Without Fear" src="jjoy00dd.smil#jjoy_013b" id="smil_0011"/>
+        <ref title="Lesson 11: Reading with Understanding" src="jjoy00de.smil#jjoy_0140" id="smil_0012"/>
+        <ref title="Lesson 12: If I were You" src="jjoy0065.smil#jjoy_0156" id="smil_0013"/>
+        <ref title="Lesson 13: The Tiger in the Tunnel" src="jjoy00df.smil#jjoy_0155" id="smil_0014"/>
+        <ref title="Lesson 14: The Road Not Taken" src="jjoy00e0.smil#jjoy_0166" id="smil_0015"/>
+        <ref title="Lesson 15: Reading with understanding" src="jjoy00e1.smil#jjoy_016c" id="smil_0016"/>
+        <ref title="Lesson 16: I must know the truth" src="jjoy00e2.smil#jjoy_0171" id="smil_0017"/>
+        <ref title="Lesson 17: India her past and future" src="jjoy009e.smil#oirb_0004" id="smil_0018"/>
+        <ref title="Lesson 18: Night of the scorpion" src="jjoy00a8.smil#wxde_02db" id="smil_0019"/>
+        <ref title="Lesson 19: Reading with understanding" src="jjoy00ae.smil#pwfd_014e" id="smil_0020"/>
+        <ref title="Lesson 20: Reading with understanding" src="jjoy00b4.smil#pwfd_014f" id="smil_0021"/>
+        <ref title="Lesson 21: Reading with understanding" src="jjoy00e3.smil#jjoy_01a0" id="smil_0022"/>
+        <ref title="Lesson 22: Reading with understanding" src="jjoy00e4.smil#jjoy_01a9" id="smil_0023"/>
+        <ref title="Lesson 23: Reading with understanding" src="jjoy00e5.smil#jjoy_01b0" id="smil_0024"/>
+        <ref title="Lesson 24: Reading with understanding" src="jjoy00e6.smil#jjoy_01b6" id="smil_0025"/>
+        <ref title="Lesson 25: Bholi" src="jjoy00e7.smil#jjoy_01bb" id="smil_0026"/>
+        <ref title="Lesson 26 A: The Reception Desk and you" src="jjoy00f7.smil#ybue_051c" id="smil_0027"/>
+        <ref title="Lesson 26 B: Face to Face Communication in Business" src="jjoy00f8.smil#ybue_0522" id="smil_0028"/>
+        <ref title="Lesson 27 A: Managing the Telephone" src="jjoy00f9.smil#ybue_052f" id="smil_0029"/>
+        <ref title="Lesson 27 B: Writing memos and letters" src="jjoy00f6.smil#mvfc_000b" id="smil_0030"/>
+        <ref title="Lesson 28 A: Analysing terms in telephone" src="jjoy00fa.smil#tdkd_000c" id="smil_0031"/>
+        <ref title="Lesson 28 B: Writing Email" src="jjoy00fb.smil#cfpr_0009" id="smil_0032"/>
+        <ref title="Lesson 29 A: Controlling Starategies on Outgoing Calls" src="jjoy00fc.smil#ybue_0538" id="smil_0033"/>
+        <ref title="Lesson 29 B: Writing Reports" src="jjoy00fd.smil#vgyi_00c3" id="smil_0034"/>
+        <ref title="Lesson 30 A: Aids for receptionalist" src="jjoy00fe.smil#snld_000d" id="smil_0035"/>
+        <ref title="Lesson 30 B: Writing Job Applications" src="jjoy00ff.smil#ybue_054b" id="smil_0036"/>
+        <ref title="Lesson 31 B: Appearing for an Interview" src="jjoy00f4.smil#ybue_0557" id="smil_0037"/>
+        <ref title="Questions for Practice" src="jjoy00d5.smil#jjoy_00d4" id="smil_0038"/>
+        <ref title="Question Paper Design" src="jjoy00d8.smil#jjoy_00d7" id="smil_0039"/>
+    </body>
+</smil>

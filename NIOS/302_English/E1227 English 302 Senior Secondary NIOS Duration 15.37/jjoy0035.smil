@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:10:58.328"/>
+		<meta name="ncc:totalElapsedTime" content="02:10:42.486"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 6: My Grand Mother's House"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="658.328s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_0113" id="jjoy_0113"/>
+				<seq>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=0.000s" clip-end="npt=1.802s" id="audio_0001"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=1.802s" clip-end="npt=5.094s" id="audio_0002"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=5.094s" clip-end="npt=9.600s" id="audio_0003"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=9.600s" clip-end="npt=15.125s" id="audio_0004"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=15.125s" clip-end="npt=18.978s" id="audio_0005"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=18.978s" clip-end="npt=30.419s" id="audio_0006"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=30.419s" clip-end="npt=35.814s" id="audio_0007"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=35.814s" clip-end="npt=37.721s" id="audio_0008"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=37.721s" clip-end="npt=42.893s" id="audio_0009"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=42.893s" clip-end="npt=49.410s" id="audio_0010"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=49.410s" clip-end="npt=57.979s" id="audio_0011"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=57.979s" clip-end="npt=69.237s" id="audio_0012"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=69.237s" clip-end="npt=77.100s" id="audio_0013"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=77.100s" clip-end="npt=89.208s" id="audio_0014"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=89.208s" clip-end="npt=95.647s" id="audio_0015"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=95.647s" clip-end="npt=100.754s" id="audio_0016"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=100.754s" clip-end="npt=103.614s" id="audio_0017"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=103.614s" clip-end="npt=107.688s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_010f" id="par_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_0113" id="par_0007"/>
+				<seq>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=107.688s" clip-end="npt=110.000s" id="audio_0019"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=110.000s" clip-end="npt=113.331s" id="audio_0020"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=113.331s" clip-end="npt=118.555s" id="audio_0021"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=118.555s" clip-end="npt=125.269s" id="audio_0022"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=125.269s" clip-end="npt=133.510s" id="audio_0023"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=133.510s" clip-end="npt=136.501s" id="audio_0024"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=136.501s" clip-end="npt=138.709s" id="audio_0025"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=138.709s" clip-end="npt=140.224s" id="audio_0026"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=140.224s" clip-end="npt=144.103s" id="audio_0027"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=144.103s" clip-end="npt=152.345s" id="audio_0028"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=152.345s" clip-end="npt=154.278s" id="audio_0029"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=154.278s" clip-end="npt=159.789s" id="audio_0030"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=159.789s" clip-end="npt=164.191s" id="audio_0031"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=164.191s" clip-end="npt=168.776s" id="audio_0032"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=168.776s" clip-end="npt=173.373s" id="audio_0033"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=173.373s" clip-end="npt=175.816s" id="audio_0034"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=175.816s" clip-end="npt=182.843s" id="audio_0035"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=182.843s" clip-end="npt=184.188s" id="audio_0036"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=184.188s" clip-end="npt=187.963s" id="audio_0037"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=187.963s" clip-end="npt=193.187s" id="audio_0038"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=193.187s" clip-end="npt=201.860s" id="audio_0039"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=201.860s" clip-end="npt=205.569s" id="audio_0040"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=205.569s" clip-end="npt=211.995s" id="audio_0041"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=211.995s" clip-end="npt=223.685s" id="audio_0042"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=223.685s" clip-end="npt=224.991s" id="audio_0043"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=224.991s" clip-end="npt=228.478s" id="audio_0044"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=228.478s" clip-end="npt=229.863s" id="audio_0045"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=229.863s" clip-end="npt=232.802s" id="audio_0046"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=232.802s" clip-end="npt=238.914s" id="audio_0047"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=238.914s" clip-end="npt=243.933s" id="audio_0048"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0008" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0110" id="par_0009"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_0113" id="par_000a"/>
+				<seq>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=243.933s" clip-end="npt=245.906s" id="audio_0049"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=245.906s" clip-end="npt=249.354s" id="audio_0050"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=249.354s" clip-end="npt=250.712s" id="audio_0051"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=250.712s" clip-end="npt=253.246s" id="audio_0052"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=253.246s" clip-end="npt=256.955s" id="audio_0053"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=256.955s" clip-end="npt=260.221s" id="audio_0054"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=260.221s" clip-end="npt=263.486s" id="audio_0055"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=263.486s" clip-end="npt=268.906s" id="audio_0056"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=268.906s" clip-end="npt=272.198s" id="audio_0057"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=272.198s" clip-end="npt=275.933s" id="audio_0058"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=275.933s" clip-end="npt=285.220s" id="audio_0059"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=285.220s" clip-end="npt=289.073s" id="audio_0060"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=289.073s" clip-end="npt=293.226s" id="audio_0061"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=293.226s" clip-end="npt=300.671s" id="audio_0062"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=300.671s" clip-end="npt=308.417s" id="audio_0063"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=308.417s" clip-end="npt=309.853s" id="audio_0064"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=309.853s" clip-end="npt=314.568s" id="audio_0065"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=314.568s" clip-end="npt=315.914s" id="audio_0066"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=315.914s" clip-end="npt=320.328s" id="audio_0067"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=320.328s" clip-end="npt=323.071s" id="audio_0068"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=323.071s" clip-end="npt=326.493s" id="audio_0069"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=326.493s" clip-end="npt=327.473s" id="audio_0070"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=327.473s" clip-end="npt=329.184s" id="audio_0071"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=329.184s" clip-end="npt=334.800s" id="audio_0072"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=334.800s" clip-end="npt=336.564s" id="audio_0073"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=336.564s" clip-end="npt=343.695s" id="audio_0074"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=343.695s" clip-end="npt=348.815s" id="audio_0075"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=348.815s" clip-end="npt=354.066s" id="audio_0076"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=354.066s" clip-end="npt=361.093s" id="audio_0077"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=361.093s" clip-end="npt=364.332s" id="audio_0078"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=364.332s" clip-end="npt=370.627s" id="audio_0079"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=370.627s" clip-end="npt=387.816s" id="audio_0080"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=387.816s" clip-end="npt=389.605s" id="audio_0081"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=389.605s" clip-end="npt=392.566s" id="audio_0082"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0111" id="par_000d"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_0113" id="par_000e"/>
+				<seq>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=392.566s" clip-end="npt=395.599s" id="audio_0083"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=395.599s" clip-end="npt=397.806s" id="audio_0084"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=397.806s" clip-end="npt=401.751s" id="audio_0085"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=401.751s" clip-end="npt=403.292s" id="audio_0086"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=403.292s" clip-end="npt=404.716s" id="audio_0087"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=404.716s" clip-end="npt=408.921s" id="audio_0088"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=408.921s" clip-end="npt=413.845s" id="audio_0089"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=413.845s" clip-end="npt=415.530s" id="audio_0090"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=415.530s" clip-end="npt=422.035s" id="audio_0091"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=422.035s" clip-end="npt=424.921s" id="audio_0092"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=424.921s" clip-end="npt=429.793s" id="audio_0093"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=429.793s" clip-end="npt=433.058s" id="audio_0094"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=433.058s" clip-end="npt=435.240s" id="audio_0095"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=435.240s" clip-end="npt=439.981s" id="audio_0096"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=439.981s" clip-end="npt=444.174s" id="audio_0097"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=444.174s" clip-end="npt=452.507s" id="audio_0098"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=452.507s" clip-end="npt=461.062s" id="audio_0099"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=461.062s" clip-end="npt=465.920s" id="audio_0100"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=465.920s" clip-end="npt=467.174s" id="audio_0101"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=467.174s" clip-end="npt=474.711s" id="audio_0102"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=474.711s" clip-end="npt=476.317s" id="audio_0103"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=476.317s" clip-end="npt=486.701s" id="audio_0104"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=486.701s" clip-end="npt=495.752s" id="audio_0105"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=495.752s" clip-end="npt=498.116s" id="audio_0106"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=498.116s" clip-end="npt=502.479s" id="audio_0107"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=502.479s" clip-end="npt=506.423s" id="audio_0108"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=506.423s" clip-end="npt=511.465s" id="audio_0109"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=511.465s" clip-end="npt=515.958s" id="audio_0110"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=515.958s" clip-end="npt=517.917s" id="audio_0111"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=517.917s" clip-end="npt=518.988s" id="audio_0112"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=518.988s" clip-end="npt=525.049s" id="audio_0113"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=525.049s" clip-end="npt=526.342s" id="audio_0114"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=526.342s" clip-end="npt=529.307s" id="audio_0115"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=529.307s" clip-end="npt=531.840s" id="audio_0116"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=531.840s" clip-end="npt=534.767s" id="audio_0117"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=534.767s" clip-end="npt=538.292s" id="audio_0118"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0010" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0112" id="par_0011"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_0113" id="par_0012"/>
+				<seq>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=538.292s" clip-end="npt=541.714s" id="audio_0119"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=541.714s" clip-end="npt=543.517s" id="audio_0120"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=543.517s" clip-end="npt=550.870s" id="audio_0121"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=550.870s" clip-end="npt=559.699s" id="audio_0122"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=559.699s" clip-end="npt=564.976s" id="audio_0123"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=564.976s" clip-end="npt=572.369s" id="audio_0124"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=572.369s" clip-end="npt=577.463s" id="audio_0125"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=577.463s" clip-end="npt=579.278s" id="audio_0126"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=579.278s" clip-end="npt=580.375s" id="audio_0127"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=580.375s" clip-end="npt=583.118s" id="audio_0128"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=583.118s" clip-end="npt=588.669s" id="audio_0129"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=588.669s" clip-end="npt=591.634s" id="audio_0130"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=591.634s" clip-end="npt=592.718s" id="audio_0131"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=592.718s" clip-end="npt=595.017s" id="audio_0132"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=595.017s" clip-end="npt=602.619s" id="audio_0133"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=602.619s" clip-end="npt=605.871s" id="audio_0134"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=605.871s" clip-end="npt=607.660s" id="audio_0135"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=607.660s" clip-end="npt=615.484s" id="audio_0136"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=615.484s" clip-end="npt=630.047s" id="audio_0137"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=630.047s" clip-end="npt=632.934s" id="audio_0138"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=632.934s" clip-end="npt=636.147s" id="audio_0139"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=636.147s" clip-end="npt=639.869s" id="audio_0140"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=639.869s" clip-end="npt=644.388s" id="audio_0141"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=644.388s" clip-end="npt=650.449s" id="audio_0142"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=650.449s" clip-end="npt=654.994s" id="audio_0143"/>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=654.994s" clip-end="npt=656.875s" id="audio_0144"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0114" id="par_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_0113" id="par_0004"/>
+				<seq>
+					<audio src="07_Lesson_6__My_Grand_Mother_s_House.mp3" clip-begin="npt=656.875s" clip-end="npt=658.328s" id="audio_0145"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

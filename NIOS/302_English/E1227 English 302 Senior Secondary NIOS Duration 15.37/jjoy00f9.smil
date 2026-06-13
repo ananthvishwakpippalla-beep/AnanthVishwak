@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:18:54.033"/>
+		<meta name="ncc:totalElapsedTime" content="10:58:26.060"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 27 A: Managing the Telephone"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="1134.033s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#ybue_052f" id="ybue_052f"/>
+				<seq>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=0.000s" clip-end="npt=2.276s" id="audio_0001"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=2.276s" clip-end="npt=5.228s" id="audio_0002"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=5.228s" clip-end="npt=14.449s" id="audio_0003"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=14.449s" clip-end="npt=21.607s" id="audio_0004"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=21.607s" clip-end="npt=27.523s" id="audio_0005"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=27.523s" clip-end="npt=34.420s" id="audio_0006"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=34.420s" clip-end="npt=41.185s" id="audio_0007"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=41.185s" clip-end="npt=46.854s" id="audio_0008"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=46.854s" clip-end="npt=60.542s" id="audio_0009"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=60.542s" clip-end="npt=65.832s" id="audio_0010"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=65.832s" clip-end="npt=76.163s" id="audio_0011"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=76.163s" clip-end="npt=80.918s" id="audio_0012"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=80.918s" clip-end="npt=88.494s" id="audio_0013"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=88.494s" clip-end="npt=96.984s" id="audio_0014"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=96.984s" clip-end="npt=105.121s" id="audio_0015"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=105.121s" clip-end="npt=107.425s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0530" system-required="pagenumber-on">
+				<text src="ncc.html#mvfc_0003" id="ybue_0531"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#ybue_052f" id="ybue_0532"/>
+				<seq>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=107.425s" clip-end="npt=108.708s" id="audio_0017"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=108.708s" clip-end="npt=109.565s" id="audio_0018"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=109.565s" clip-end="npt=111.538s" id="audio_0019"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=111.538s" clip-end="npt=114.738s" id="audio_0020"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=114.738s" clip-end="npt=116.135s" id="audio_0021"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=116.135s" clip-end="npt=122.600s" id="audio_0022"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=122.600s" clip-end="npt=129.131s" id="audio_0023"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=129.131s" clip-end="npt=132.880s" id="audio_0024"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=132.880s" clip-end="npt=134.395s" id="audio_0025"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=134.395s" clip-end="npt=135.975s" id="audio_0026"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=135.975s" clip-end="npt=138.352s" id="audio_0027"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=138.352s" clip-end="npt=141.487s" id="audio_0028"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=141.487s" clip-end="npt=150.160s" id="audio_0029"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=150.160s" clip-end="npt=152.576s" id="audio_0030"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=152.576s" clip-end="npt=156.011s" id="audio_0031"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=156.011s" clip-end="npt=158.480s" id="audio_0032"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=158.480s" clip-end="npt=160.465s" id="audio_0033"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=160.465s" clip-end="npt=163.782s" id="audio_0034"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=163.782s" clip-end="npt=165.389s" id="audio_0035"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=165.389s" clip-end="npt=166.382s" id="audio_0036"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=166.382s" clip-end="npt=175.577s" id="audio_0037"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=175.577s" clip-end="npt=180.736s" id="audio_0038"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=180.736s" clip-end="npt=182.643s" id="audio_0039"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=182.643s" clip-end="npt=185.281s" id="audio_0040"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=185.281s" clip-end="npt=186.927s" id="audio_0041"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=186.927s" clip-end="npt=190.911s" id="audio_0042"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=190.911s" clip-end="npt=192.073s" id="audio_0043"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=192.073s" clip-end="npt=201.738s" id="audio_0044"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=201.738s" clip-end="npt=204.586s" id="audio_0045"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=204.586s" clip-end="npt=207.381s" id="audio_0046"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=207.381s" clip-end="npt=208.387s" id="audio_0047"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=208.387s" clip-end="npt=209.876s" id="audio_0048"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=209.876s" clip-end="npt=211.743s" id="audio_0049"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=211.743s" clip-end="npt=214.081s" id="audio_0050"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=214.081s" clip-end="npt=215.636s" id="audio_0051"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=215.636s" clip-end="npt=219.018s" id="audio_0052"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=219.018s" clip-end="npt=220.338s" id="audio_0053"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=220.338s" clip-end="npt=227.064s" id="audio_0054"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=227.064s" clip-end="npt=232.171s" id="audio_0055"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=232.171s" clip-end="npt=234.248s" id="audio_0056"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=234.248s" clip-end="npt=242.085s" id="audio_0057"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=242.085s" clip-end="npt=243.064s" id="audio_0058"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=243.064s" clip-end="npt=249.255s" id="audio_0059"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=249.255s" clip-end="npt=252.155s" id="audio_0060"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=252.155s" clip-end="npt=253.278s" id="audio_0061"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=253.278s" clip-end="npt=255.812s" id="audio_0062"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=255.812s" clip-end="npt=258.738s" id="audio_0063"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=258.738s" clip-end="npt=266.509s" id="audio_0064"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=266.509s" clip-end="npt=267.462s" id="audio_0065"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=267.462s" clip-end="npt=275.051s" id="audio_0066"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=275.051s" clip-end="npt=281.020s" id="audio_0067"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=281.020s" clip-end="npt=285.239s" id="audio_0068"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=285.239s" clip-end="npt=287.420s" id="audio_0069"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=287.420s" clip-end="npt=293.624s" id="audio_0070"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=293.624s" clip-end="npt=294.382s" id="audio_0071"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=294.382s" clip-end="npt=299.489s" id="audio_0072"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=299.489s" clip-end="npt=300.847s" id="audio_0073"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=300.847s" clip-end="npt=302.493s" id="audio_0074"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=302.493s" clip-end="npt=303.877s" id="audio_0075"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=303.877s" clip-end="npt=306.071s" id="audio_0076"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=306.071s" clip-end="npt=308.971s" id="audio_0077"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=308.971s" clip-end="npt=313.347s" id="audio_0078"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=313.347s" clip-end="npt=315.567s" id="audio_0079"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=315.567s" clip-end="npt=320.282s" id="audio_0080"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=320.282s" clip-end="npt=323.495s" id="audio_0081"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=323.495s" clip-end="npt=325.115s" id="audio_0082"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=325.115s" clip-end="npt=328.746s" id="audio_0083"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=328.746s" clip-end="npt=330.104s" id="audio_0084"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=330.104s" clip-end="npt=337.523s" id="audio_0085"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=337.523s" clip-end="npt=341.872s" id="audio_0086"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=341.872s" clip-end="npt=345.830s" id="audio_0087"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=345.830s" clip-end="npt=348.925s" id="audio_0088"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=348.925s" clip-end="npt=351.877s" id="audio_0089"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=351.877s" clip-end="npt=353.314s" id="audio_0090"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=353.314s" clip-end="npt=358.747s" id="audio_0091"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=358.747s" clip-end="npt=360.938s" id="audio_0092"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0533" system-required="pagenumber-on">
+				<text src="ncc.html#mvfc_0004" id="ybue_0535"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#ybue_052f" id="ybue_0536"/>
+				<seq>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=360.938s" clip-end="npt=362.248s" id="audio_0093"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=362.248s" clip-end="npt=363.105s" id="audio_0094"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=363.105s" clip-end="npt=365.286s" id="audio_0095"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=365.286s" clip-end="npt=375.330s" id="audio_0096"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=375.330s" clip-end="npt=383.154s" id="audio_0097"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=383.154s" clip-end="npt=387.503s" id="audio_0098"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=387.503s" clip-end="npt=390.416s" id="audio_0099"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=390.416s" clip-end="npt=395.327s" id="audio_0100"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=395.327s" clip-end="npt=397.221s" id="audio_0101"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=397.221s" clip-end="npt=403.999s" id="audio_0102"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=403.999s" clip-end="npt=407.369s" id="audio_0103"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=407.369s" clip-end="npt=412.292s" id="audio_0104"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=412.292s" clip-end="npt=414.499s" id="audio_0105"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=414.499s" clip-end="npt=419.162s" id="audio_0106"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=419.162s" clip-end="npt=421.095s" id="audio_0107"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=421.095s" clip-end="npt=432.759s" id="audio_0108"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=432.759s" clip-end="npt=436.912s" id="audio_0109"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=436.912s" clip-end="npt=442.712s" id="audio_0110"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=442.712s" clip-end="npt=445.951s" id="audio_0111"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=445.951s" clip-end="npt=448.354s" id="audio_0112"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=448.354s" clip-end="npt=451.920s" id="audio_0113"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=451.920s" clip-end="npt=458.085s" id="audio_0114"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=458.085s" clip-end="npt=459.978s" id="audio_0115"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=459.978s" clip-end="npt=471.289s" id="audio_0116"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=471.289s" clip-end="npt=472.831s" id="audio_0117"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=472.831s" clip-end="npt=474.881s" id="audio_0118"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=474.881s" clip-end="npt=478.865s" id="audio_0119"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=478.865s" clip-end="npt=480.445s" id="audio_0120"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=480.445s" clip-end="npt=489.562s" id="audio_0121"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=489.562s" clip-end="npt=490.842s" id="audio_0122"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=490.842s" clip-end="npt=494.669s" id="audio_0123"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=494.669s" clip-end="npt=495.949s" id="audio_0124"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=495.949s" clip-end="npt=499.162s" id="audio_0125"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=499.162s" clip-end="npt=501.866s" id="audio_0126"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=501.866s" clip-end="npt=503.799s" id="audio_0127"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=503.799s" clip-end="npt=508.436s" id="audio_0128"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=508.436s" clip-end="npt=512.876s" id="audio_0129"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=512.876s" clip-end="npt=519.316s" id="audio_0130"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=519.316s" clip-end="npt=523.260s" id="audio_0131"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=523.260s" clip-end="npt=525.729s" id="audio_0132"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=525.729s" clip-end="npt=536.243s" id="audio_0133"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=536.243s" clip-end="npt=538.228s" id="audio_0134"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=538.228s" clip-end="npt=545.085s" id="audio_0135"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=545.085s" clip-end="npt=547.109s" id="audio_0136"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0538" system-required="pagenumber-on">
+				<text src="ncc.html#mvfc_0005" id="ybue_0539"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#ybue_052f" id="ybue_053a"/>
+				<seq>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=547.109s" clip-end="npt=548.339s" id="audio_0137"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=548.339s" clip-end="npt=549.196s" id="audio_0138"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=549.196s" clip-end="npt=551.573s" id="audio_0139"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=551.573s" clip-end="npt=553.806s" id="audio_0140"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=553.806s" clip-end="npt=556.079s" id="audio_0141"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=556.079s" clip-end="npt=560.454s" id="audio_0142"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=560.454s" clip-end="npt=566.867s" id="audio_0143"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=566.867s" clip-end="npt=571.361s" id="audio_0144"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=571.361s" clip-end="npt=572.823s" id="audio_0145"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=572.823s" clip-end="npt=579.798s" id="audio_0146"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=579.798s" clip-end="npt=584.330s" id="audio_0147"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=584.330s" clip-end="npt=585.715s" id="audio_0148"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=585.715s" clip-end="npt=591.906s" id="audio_0149"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=591.906s" clip-end="npt=598.084s" id="audio_0150"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=598.084s" clip-end="npt=599.573s" id="audio_0151"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=599.573s" clip-end="npt=601.192s" id="audio_0152"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=601.192s" clip-end="npt=602.681s" id="audio_0153"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=602.681s" clip-end="npt=605.659s" id="audio_0154"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=605.659s" clip-end="npt=612.072s" id="audio_0155"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=612.072s" clip-end="npt=617.637s" id="audio_0156"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=617.637s" clip-end="npt=619.975s" id="audio_0157"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=619.975s" clip-end="npt=621.398s" id="audio_0158"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=621.398s" clip-end="npt=626.035s" id="audio_0159"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=626.035s" clip-end="npt=627.132s" id="audio_0160"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=627.132s" clip-end="npt=630.319s" id="audio_0161"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=630.319s" clip-end="npt=631.873s" id="audio_0162"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=631.873s" clip-end="npt=634.682s" id="audio_0163"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=634.682s" clip-end="npt=636.092s" id="audio_0164"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=636.092s" clip-end="npt=638.796s" id="audio_0165"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=638.796s" clip-end="npt=644.138s" id="audio_0166"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=644.138s" clip-end="npt=645.771s" id="audio_0167"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=645.771s" clip-end="npt=650.982s" id="audio_0168"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=650.982s" clip-end="npt=655.762s" id="audio_0169"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=655.762s" clip-end="npt=656.957s" id="audio_0170"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=656.957s" clip-end="npt=664.846s" id="audio_0171"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=664.846s" clip-end="npt=666.113s" id="audio_0172"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=666.113s" clip-end="npt=670.933s" id="audio_0173"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=670.933s" clip-end="npt=673.745s" id="audio_0174"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_053c" system-required="pagenumber-on">
+				<text src="ncc.html#mvfc_0006" id="ybue_053d"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#ybue_052f" id="ybue_053e"/>
+				<seq>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=673.745s" clip-end="npt=675.085s" id="audio_0175"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=675.085s" clip-end="npt=675.942s" id="audio_0176"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=675.942s" clip-end="npt=678.202s" id="audio_0177"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=678.202s" clip-end="npt=682.355s" id="audio_0178"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=682.355s" clip-end="npt=685.163s" id="audio_0179"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=685.163s" clip-end="npt=688.559s" id="audio_0180"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=688.559s" clip-end="npt=699.361s" id="audio_0181"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=699.361s" clip-end="npt=706.688s" id="audio_0182"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=706.688s" clip-end="npt=708.465s" id="audio_0183"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=708.465s" clip-end="npt=709.927s" id="audio_0184"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=709.927s" clip-end="npt=713.245s" id="audio_0185"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=713.245s" clip-end="npt=716.014s" id="audio_0186"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=716.014s" clip-end="npt=727.847s" id="audio_0187"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=727.847s" clip-end="npt=731.047s" id="audio_0188"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=731.047s" clip-end="npt=736.938s" id="audio_0189"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=736.938s" clip-end="npt=742.829s" id="audio_0190"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=742.829s" clip-end="npt=747.387s" id="audio_0191"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=747.387s" clip-end="npt=755.328s" id="audio_0192"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=755.328s" clip-end="npt=756.360s" id="audio_0193"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=756.360s" clip-end="npt=762.198s" id="audio_0194"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=762.198s" clip-end="npt=764.040s" id="audio_0195"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=764.040s" clip-end="npt=768.677s" id="audio_0196"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=768.677s" clip-end="npt=777.467s" id="audio_0197"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=777.467s" clip-end="npt=792.461s" id="audio_0198"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=792.461s" clip-end="npt=795.400s" id="audio_0199"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=795.400s" clip-end="npt=798.169s" id="audio_0200"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=798.169s" clip-end="npt=799.828s" id="audio_0201"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=799.828s" clip-end="npt=805.745s" id="audio_0202"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=805.745s" clip-end="npt=807.260s" id="audio_0203"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=807.260s" clip-end="npt=813.046s" id="audio_0204"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=813.046s" clip-end="npt=819.145s" id="audio_0205"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=819.145s" clip-end="npt=821.627s" id="audio_0206"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=821.627s" clip-end="npt=828.523s" id="audio_0207"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=828.523s" clip-end="npt=830.025s" id="audio_0208"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=830.025s" clip-end="npt=834.257s" id="audio_0209"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=834.257s" clip-end="npt=839.665s" id="audio_0210"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=839.665s" clip-end="npt=843.844s" id="audio_0211"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=843.844s" clip-end="npt=846.339s" id="audio_0212"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=846.339s" clip-end="npt=848.840s" id="audio_0213"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_053f" system-required="pagenumber-on">
+				<text src="ncc.html#mvfc_0007" id="ybue_0540"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#ybue_052f" id="ybue_0541"/>
+				<seq>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=848.840s" clip-end="npt=849.728s" id="audio_0214"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=849.728s" clip-end="npt=850.585s" id="audio_0215"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=850.585s" clip-end="npt=852.427s" id="audio_0216"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=852.427s" clip-end="npt=856.005s" id="audio_0217"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=856.005s" clip-end="npt=857.220s" id="audio_0218"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=857.220s" clip-end="npt=863.659s" id="audio_0219"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=863.659s" clip-end="npt=867.734s" id="audio_0220"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=867.734s" clip-end="npt=872.032s" id="audio_0221"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=872.032s" clip-end="npt=880.103s" id="audio_0222"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=880.103s" clip-end="npt=886.112s" id="audio_0223"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=886.112s" clip-end="npt=889.651s" id="audio_0224"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=889.651s" clip-end="npt=894.275s" id="audio_0225"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=894.275s" clip-end="npt=901.811s" id="audio_0226"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=901.811s" clip-end="npt=903.561s" id="audio_0227"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=903.561s" clip-end="npt=908.133s" id="audio_0228"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=908.133s" clip-end="npt=911.006s" id="audio_0229"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=911.006s" clip-end="npt=912.717s" id="audio_0230"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=912.717s" clip-end="npt=915.003s" id="audio_0231"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=915.003s" clip-end="npt=918.425s" id="audio_0232"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=918.425s" clip-end="npt=923.062s" id="audio_0233"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=923.062s" clip-end="npt=924.342s" id="audio_0234"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=924.342s" clip-end="npt=926.963s" id="audio_0235"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=926.963s" clip-end="npt=938.484s" id="audio_0236"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=938.484s" clip-end="npt=940.173s" id="audio_0237"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=940.173s" clip-end="npt=942.799s" id="audio_0238"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0543" system-required="pagenumber-on">
+				<text src="ncc.html#mvfc_0008" id="ybue_0544"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#ybue_052f" id="ybue_0545"/>
+				<seq>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=942.799s" clip-end="npt=944.051s" id="audio_0239"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=944.051s" clip-end="npt=944.908s" id="audio_0240"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=944.908s" clip-end="npt=947.050s" id="audio_0241"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=947.050s" clip-end="npt=948.931s" id="audio_0242"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=948.931s" clip-end="npt=955.161s" id="audio_0243"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=955.161s" clip-end="npt=957.303s" id="audio_0244"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=957.303s" clip-end="npt=959.745s" id="audio_0245"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=959.745s" clip-end="npt=961.652s" id="audio_0246"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=961.652s" clip-end="npt=965.166s" id="audio_0247"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=965.166s" clip-end="npt=967.464s" id="audio_0248"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=967.464s" clip-end="npt=968.731s" id="audio_0249"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=968.731s" clip-end="npt=971.004s" id="audio_0250"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=971.004s" clip-end="npt=972.153s" id="audio_0251"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=972.153s" clip-end="npt=973.799s" id="audio_0252"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=973.799s" clip-end="npt=975.040s" id="audio_0253"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=975.040s" clip-end="npt=976.673s" id="audio_0254"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=976.673s" clip-end="npt=978.162s" id="audio_0255"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=978.162s" clip-end="npt=980.291s" id="audio_0256"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=980.291s" clip-end="npt=983.373s" id="audio_0257"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=983.373s" clip-end="npt=985.267s" id="audio_0258"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=985.267s" clip-end="npt=988.036s" id="audio_0259"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=988.036s" clip-end="npt=989.577s" id="audio_0260"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=989.577s" clip-end="npt=991.366s" id="audio_0261"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=991.366s" clip-end="npt=992.581s" id="audio_0262"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=992.581s" clip-end="npt=994.475s" id="audio_0263"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=994.475s" clip-end="npt=996.460s" id="audio_0264"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=996.460s" clip-end="npt=1000.222s" id="audio_0265"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1000.222s" clip-end="npt=1001.384s" id="audio_0266"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1001.384s" clip-end="npt=1005.329s" id="audio_0267"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1005.329s" clip-end="npt=1008.189s" id="audio_0268"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1008.189s" clip-end="npt=1010.162s" id="audio_0269"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1010.162s" clip-end="npt=1011.899s" id="audio_0270"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1011.899s" clip-end="npt=1014.158s" id="audio_0271"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1014.158s" clip-end="npt=1018.155s" id="audio_0272"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1018.155s" clip-end="npt=1020.558s" id="audio_0273"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1020.558s" clip-end="npt=1024.372s" id="audio_0274"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1024.372s" clip-end="npt=1027.794s" id="audio_0275"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1027.794s" clip-end="npt=1031.817s" id="audio_0276"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1031.817s" clip-end="npt=1037.499s" id="audio_0277"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1037.499s" clip-end="npt=1038.949s" id="audio_0278"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1038.949s" clip-end="npt=1045.727s" id="audio_0279"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1045.727s" clip-end="npt=1047.269s" id="audio_0280"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1047.269s" clip-end="npt=1055.432s" id="audio_0281"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1055.432s" clip-end="npt=1056.333s" id="audio_0282"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1056.333s" clip-end="npt=1064.771s" id="audio_0283"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1064.771s" clip-end="npt=1066.312s" id="audio_0284"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1066.312s" clip-end="npt=1069.851s" id="audio_0285"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1069.851s" clip-end="npt=1076.931s" id="audio_0286"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1076.931s" clip-end="npt=1080.022s" id="audio_0287"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0547" system-required="pagenumber-on">
+				<text src="ncc.html#mvfc_0009" id="ybue_0548"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#ybue_052f" id="ybue_0549"/>
+				<seq>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1080.022s" clip-end="npt=1081.811s" id="audio_0288"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1081.811s" clip-end="npt=1082.668s" id="audio_0289"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1082.668s" clip-end="npt=1084.797s" id="audio_0290"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1084.797s" clip-end="npt=1086.978s" id="audio_0291"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1086.978s" clip-end="npt=1090.714s" id="audio_0292"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1090.714s" clip-end="npt=1094.337s" id="audio_0293"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1094.337s" clip-end="npt=1095.930s" id="audio_0294"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1095.930s" clip-end="npt=1097.367s" id="audio_0295"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1097.367s" clip-end="npt=1099.692s" id="audio_0296"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1099.692s" clip-end="npt=1102.944s" id="audio_0297"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1102.944s" clip-end="npt=1107.489s" id="audio_0298"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1107.489s" clip-end="npt=1108.665s" id="audio_0299"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1108.665s" clip-end="npt=1111.277s" id="audio_0300"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1111.277s" clip-end="npt=1114.804s" id="audio_0301"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1114.804s" clip-end="npt=1116.646s" id="audio_0302"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1116.646s" clip-end="npt=1124.234s" id="audio_0303"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1124.234s" clip-end="npt=1128.022s" id="audio_0304"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1128.022s" clip-end="npt=1131.509s" id="audio_0305"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yvib_0153" system-required="pagenumber-on">
+				<text src="ncc.html#mvfc_000a" id="yvib_0154"/>
+			</par>
+			<par endsync="last" id="tdkd_0001">
+				<text src="ncc.html#ybue_052f" id="yvib_0155"/>
+				<seq>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1131.509s" clip-end="npt=1132.366s" id="audio_0306"/>
+					<audio src="29_Lesson_27_A__Managing_the_Telephone.mp3" clip-begin="npt=1132.366s" clip-end="npt=1134.033s" id="audio_0307"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

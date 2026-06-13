@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:45:17.011"/>
+		<meta name="ncc:totalElapsedTime" content="12:43:38.020"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 30 A: Aids for receptionalist"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="2717.011s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#snld_000d" id="snld_000d"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=0.000s" clip-end="npt=5.109s" id="audio_0001"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=5.109s" clip-end="npt=9.132s" id="audio_0002"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=9.132s" clip-end="npt=17.152s" id="audio_0003"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=17.152s" clip-end="npt=26.700s" id="audio_0004"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=26.700s" clip-end="npt=32.303s" id="audio_0005"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=32.303s" clip-end="npt=42.647s" id="audio_0006"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=42.647s" clip-end="npt=48.577s" id="audio_0007"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=48.577s" clip-end="npt=65.034s" id="audio_0008"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=65.034s" clip-end="npt=84.796s" id="audio_0009"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=84.796s" clip-end="npt=92.437s" id="audio_0010"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=92.437s" clip-end="npt=95.245s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="snld_000e" system-required="pagenumber-on">
+				<text src="ncc.html#zibe_0004" id="snld_000f"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#snld_000d" id="snld_0010"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=95.245s" clip-end="npt=96.102s" id="audio_0012"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=96.102s" clip-end="npt=99.223s" id="audio_0013"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=99.223s" clip-end="npt=102.005s" id="audio_0014"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=102.005s" clip-end="npt=109.881s" id="audio_0015"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=109.881s" clip-end="npt=116.112s" id="audio_0016"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=116.112s" clip-end="npt=124.327s" id="audio_0017"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=124.327s" clip-end="npt=126.090s" id="audio_0018"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=126.090s" clip-end="npt=141.333s" id="audio_0019"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=141.333s" clip-end="npt=151.730s" id="audio_0020"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=151.730s" clip-end="npt=155.047s" id="audio_0021"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=155.047s" clip-end="npt=164.242s" id="audio_0022"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=164.242s" clip-end="npt=169.232s" id="audio_0023"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=169.232s" clip-end="npt=170.577s" id="audio_0024"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=170.577s" clip-end="npt=177.787s" id="audio_0025"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=177.787s" clip-end="npt=184.618s" id="audio_0026"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=184.618s" clip-end="npt=191.423s" id="audio_0027"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=191.423s" clip-end="npt=201.284s" id="audio_0028"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=201.284s" clip-end="npt=203.374s" id="audio_0029"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=203.374s" clip-end="npt=208.246s" id="audio_0030"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=208.246s" clip-end="npt=213.287s" id="audio_0031"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=213.287s" clip-end="npt=215.482s" id="audio_0032"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=215.482s" clip-end="npt=221.268s" id="audio_0033"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=221.268s" clip-end="npt=227.681s" id="audio_0034"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=227.681s" clip-end="npt=232.788s" id="audio_0035"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=232.788s" clip-end="npt=237.777s" id="audio_0036"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=237.777s" clip-end="npt=244.321s" id="audio_0037"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=244.321s" clip-end="npt=247.536s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="snld_0011" system-required="pagenumber-on">
+				<text src="ncc.html#zibe_0005" id="snld_0012"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#snld_000d" id="snld_0013"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=247.536s" clip-end="npt=249.022s" id="audio_0039"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=249.022s" clip-end="npt=249.879s" id="audio_0040"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=249.879s" clip-end="npt=252.322s" id="audio_0041"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=252.322s" clip-end="npt=254.242s" id="audio_0042"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=254.242s" clip-end="npt=256.580s" id="audio_0043"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=256.580s" clip-end="npt=263.829s" id="audio_0044"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=263.829s" clip-end="npt=270.686s" id="audio_0045"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=270.686s" clip-end="npt=274.709s" id="audio_0046"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=274.709s" clip-end="npt=283.734s" id="audio_0047"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=283.734s" clip-end="npt=300.113s" id="audio_0048"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=300.113s" clip-end="npt=307.309s" id="audio_0049"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=307.309s" clip-end="npt=313.004s" id="audio_0050"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=313.004s" clip-end="npt=319.587s" id="audio_0051"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=319.587s" clip-end="npt=322.251s" id="audio_0052"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=322.251s" clip-end="npt=330.506s" id="audio_0053"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=330.506s" clip-end="npt=341.229s" id="audio_0054"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=341.229s" clip-end="npt=344.194s" id="audio_0055"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=344.194s" clip-end="npt=358.418s" id="audio_0056"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=358.418s" clip-end="npt=361.592s" id="audio_0057"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=361.592s" clip-end="npt=370.630s" id="audio_0058"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=370.630s" clip-end="npt=372.838s" id="audio_0059"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=372.838s" clip-end="npt=374.745s" id="audio_0060"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=374.745s" clip-end="npt=379.408s" id="audio_0061"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=379.408s" clip-end="npt=381.719s" id="audio_0062"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=381.719s" clip-end="npt=382.869s" id="audio_0063"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=382.869s" clip-end="npt=387.179s" id="audio_0064"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=387.179s" clip-end="npt=389.608s" id="audio_0065"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=389.608s" clip-end="npt=395.081s" id="audio_0066"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=395.081s" clip-end="npt=398.595s" id="audio_0067"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=398.595s" clip-end="npt=401.468s" id="audio_0068"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=401.468s" clip-end="npt=405.008s" id="audio_0069"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=405.008s" clip-end="npt=409.161s" id="audio_0070"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=409.161s" clip-end="npt=413.001s" id="audio_0071"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=413.001s" clip-end="npt=416.932s" id="audio_0072"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=416.932s" clip-end="npt=420.851s" id="audio_0073"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=420.851s" clip-end="npt=425.749s" id="audio_0074"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=425.749s" clip-end="npt=429.288s" id="audio_0075"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=429.288s" clip-end="npt=432.580s" id="audio_0076"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=432.580s" clip-end="npt=438.092s" id="audio_0077"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=438.092s" clip-end="npt=442.154s" id="audio_0078"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=442.154s" clip-end="npt=446.608s" id="audio_0079"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=446.608s" clip-end="npt=450.604s" id="audio_0080"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=450.604s" clip-end="npt=452.655s" id="audio_0081"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=452.655s" clip-end="npt=454.417s" id="audio_0082"/>
+				</seq>
+			</par>
+			<par endsync="last" id="snld_0014" system-required="pagenumber-on">
+				<text src="ncc.html#zibe_0006" id="snld_0015"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#snld_000d" id="snld_0016"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=454.417s" clip-end="npt=455.274s" id="audio_0083"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=455.274s" clip-end="npt=457.037s" id="audio_0084"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=457.037s" clip-end="npt=460.068s" id="audio_0085"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=460.068s" clip-end="npt=466.899s" id="audio_0086"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=466.899s" clip-end="npt=470.752s" id="audio_0087"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=470.752s" clip-end="npt=475.284s" id="audio_0088"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=475.284s" clip-end="npt=479.451s" id="audio_0089"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=479.451s" clip-end="npt=483.317s" id="audio_0090"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=483.317s" clip-end="npt=485.785s" id="audio_0091"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=485.785s" clip-end="npt=487.274s" id="audio_0092"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=487.274s" clip-end="npt=490.265s" id="audio_0093"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=490.265s" clip-end="npt=491.898s" id="audio_0094"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=491.898s" clip-end="npt=494.641s" id="audio_0095"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=494.641s" clip-end="npt=498.468s" id="audio_0096"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=498.468s" clip-end="npt=509.426s" id="audio_0097"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=509.426s" clip-end="npt=510.902s" id="audio_0098"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=510.902s" clip-end="npt=518.922s" id="audio_0099"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=518.922s" clip-end="npt=523.075s" id="audio_0100"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=523.075s" clip-end="npt=527.072s" id="audio_0101"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=527.072s" clip-end="npt=528.770s" id="audio_0102"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=528.770s" clip-end="npt=532.518s" id="audio_0103"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=532.518s" clip-end="npt=540.891s" id="audio_0104"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=540.891s" clip-end="npt=543.712s" id="audio_0105"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=543.712s" clip-end="npt=550.895s" id="audio_0106"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=550.895s" clip-end="npt=562.899s" id="audio_0107"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=562.899s" clip-end="npt=567.039s" id="audio_0108"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=567.039s" clip-end="npt=569.024s" id="audio_0109"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=569.024s" clip-end="npt=571.284s" id="audio_0110"/>
+				</seq>
+			</par>
+			<par endsync="last" id="snld_0017" system-required="pagenumber-on">
+				<text src="ncc.html#zibe_0007" id="snld_0018"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#snld_000d" id="snld_0019"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=571.284s" clip-end="npt=572.141s" id="audio_0111"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=572.141s" clip-end="npt=574.048s" id="audio_0112"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=574.048s" clip-end="npt=575.916s" id="audio_0113"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=575.916s" clip-end="npt=579.978s" id="audio_0114"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=579.978s" clip-end="npt=588.507s" id="audio_0115"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=588.507s" clip-end="npt=595.325s" id="audio_0116"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=595.325s" clip-end="npt=596.487s" id="audio_0117"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=596.487s" clip-end="npt=599.739s" id="audio_0118"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=599.739s" clip-end="npt=604.206s" id="audio_0119"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=604.206s" clip-end="npt=605.956s" id="audio_0120"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=605.956s" clip-end="npt=607.289s" id="audio_0121"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=607.289s" clip-end="npt=610.175s" id="audio_0122"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=610.175s" clip-end="npt=623.471s" id="audio_0123"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=623.471s" clip-end="npt=626.410s" id="audio_0124"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=626.410s" clip-end="npt=627.690s" id="audio_0125"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=627.690s" clip-end="npt=632.653s" id="audio_0126"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=632.653s" clip-end="npt=635.919s" id="audio_0127"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=635.919s" clip-end="npt=637.460s" id="audio_0128"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=637.460s" clip-end="npt=640.046s" id="audio_0129"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=640.046s" clip-end="npt=644.526s" id="audio_0130"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=644.526s" clip-end="npt=647.053s" id="audio_0131"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=647.053s" clip-end="npt=654.628s" id="audio_0132"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=654.628s" clip-end="npt=656.130s" id="audio_0133"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=656.130s" clip-end="npt=660.192s" id="audio_0134"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=660.192s" clip-end="npt=664.555s" id="audio_0135"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=664.555s" clip-end="npt=668.617s" id="audio_0136"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=668.617s" clip-end="npt=674.142s" id="audio_0137"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=674.142s" clip-end="npt=678.852s" id="audio_0138"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=678.852s" clip-end="npt=680.629s" id="audio_0139"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=680.629s" clip-end="npt=687.447s" id="audio_0140"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=687.447s" clip-end="npt=711.310s" id="audio_0141"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=711.310s" clip-end="npt=718.298s" id="audio_0142"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=718.298s" clip-end="npt=720.123s" id="audio_0143"/>
+				</seq>
+			</par>
+			<par endsync="last" id="snld_001a" system-required="pagenumber-on">
+				<text src="ncc.html#zibe_0008" id="snld_001c"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#snld_000d" id="snld_001d"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=720.123s" clip-end="npt=721.195s" id="audio_0144"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=721.195s" clip-end="npt=722.052s" id="audio_0145"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=722.052s" clip-end="npt=723.671s" id="audio_0146"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=723.671s" clip-end="npt=726.231s" id="audio_0147"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=726.231s" clip-end="npt=729.653s" id="audio_0148"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=729.653s" clip-end="npt=734.551s" id="audio_0149"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=734.551s" clip-end="npt=739.149s" id="audio_0150"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=739.149s" clip-end="npt=743.185s" id="audio_0151"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=743.185s" clip-end="npt=753.359s" id="audio_0152"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=753.359s" clip-end="npt=759.302s" id="audio_0153"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=759.302s" clip-end="npt=760.425s" id="audio_0154"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=760.425s" clip-end="npt=765.049s" id="audio_0155"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=765.049s" clip-end="npt=768.915s" id="audio_0156"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=768.915s" clip-end="npt=783.322s" id="audio_0157"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=783.322s" clip-end="npt=791.603s" id="audio_0158"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=791.603s" clip-end="npt=795.299s" id="audio_0159"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=795.299s" clip-end="npt=801.621s" id="audio_0160"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=801.621s" clip-end="npt=813.049s" id="audio_0161"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=813.049s" clip-end="npt=823.328s" id="audio_0162"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=823.328s" clip-end="npt=835.423s" id="audio_0163"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=835.423s" clip-end="npt=840.909s" id="audio_0164"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=840.909s" clip-end="npt=848.301s" id="audio_0165"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=848.301s" clip-end="npt=866.848s" id="audio_0166"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=866.848s" clip-end="npt=872.465s" id="audio_0167"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=872.465s" clip-end="npt=876.409s" id="audio_0168"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=876.409s" clip-end="npt=881.738s" id="audio_0169"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=881.738s" clip-end="npt=884.729s" id="audio_0170"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=884.729s" clip-end="npt=891.665s" id="audio_0171"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=891.665s" clip-end="npt=901.304s" id="audio_0172"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=901.304s" clip-end="npt=902.950s" id="audio_0173"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=902.950s" clip-end="npt=905.052s" id="audio_0174"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=905.052s" clip-end="npt=908.331s" id="audio_0175"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=908.331s" clip-end="npt=911.126s" id="audio_0176"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=911.126s" clip-end="npt=917.944s" id="audio_0177"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=917.944s" clip-end="npt=920.734s" id="audio_0178"/>
+				</seq>
+			</par>
+			<par endsync="last" id="snld_001e" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_053c" id="snld_0020"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#snld_000d" id="snld_0021"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=920.734s" clip-end="npt=921.806s" id="audio_0179"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=921.806s" clip-end="npt=922.663s" id="audio_0180"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=922.663s" clip-end="npt=924.661s" id="audio_0181"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=924.661s" clip-end="npt=929.154s" id="audio_0182"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=929.154s" clip-end="npt=960.540s" id="audio_0183"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=960.540s" clip-end="npt=966.183s" id="audio_0184"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=966.183s" clip-end="npt=967.215s" id="audio_0185"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=967.215s" clip-end="npt=969.487s" id="audio_0186"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=969.487s" clip-end="npt=977.063s" id="audio_0187"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=977.063s" clip-end="npt=986.728s" id="audio_0188"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=986.728s" clip-end="npt=991.156s" id="audio_0189"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=991.156s" clip-end="npt=996.981s" id="audio_0190"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=996.981s" clip-end="npt=1007.339s" id="audio_0191"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1007.339s" clip-end="npt=1009.507s" id="audio_0192"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1009.507s" clip-end="npt=1018.715s" id="audio_0193"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1018.715s" clip-end="npt=1026.278s" id="audio_0194"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1026.278s" clip-end="npt=1028.720s" id="audio_0195"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1028.720s" clip-end="npt=1031.398s" id="audio_0196"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1031.398s" clip-end="npt=1039.038s" id="audio_0197"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1039.038s" clip-end="npt=1042.800s" id="audio_0198"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1042.800s" clip-end="npt=1047.357s" id="audio_0199"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1047.357s" clip-end="npt=1052.359s" id="audio_0200"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1052.359s" clip-end="npt=1055.677s" id="audio_0201"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1055.677s" clip-end="npt=1059.974s" id="audio_0202"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1059.974s" clip-end="npt=1062.351s" id="audio_0203"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1062.351s" clip-end="npt=1070.358s" id="audio_0204"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1070.358s" clip-end="npt=1073.205s" id="audio_0205"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1073.205s" clip-end="npt=1084.621s" id="audio_0206"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1084.621s" clip-end="npt=1087.492s" id="audio_0207"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1087.492s" clip-end="npt=1088.349s" id="audio_0208"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1088.349s" clip-end="npt=1090.883s" id="audio_0209"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1090.883s" clip-end="npt=1093.705s" id="audio_0210"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1093.705s" clip-end="npt=1104.441s" id="audio_0211"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1104.441s" clip-end="npt=1108.999s" id="audio_0212"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1108.999s" clip-end="npt=1112.421s" id="audio_0213"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1112.421s" clip-end="npt=1114.916s" id="audio_0214"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1114.916s" clip-end="npt=1119.017s" id="audio_0215"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1119.017s" clip-end="npt=1120.937s" id="audio_0216"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1120.937s" clip-end="npt=1123.497s" id="audio_0217"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1123.497s" clip-end="npt=1127.847s" id="audio_0218"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1127.847s" clip-end="npt=1131.203s" id="audio_0219"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1131.203s" clip-end="npt=1135.344s" id="audio_0220"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1135.344s" clip-end="npt=1137.838s" id="audio_0221"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1137.838s" clip-end="npt=1140.307s" id="audio_0222"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1140.307s" clip-end="npt=1147.034s" id="audio_0223"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1147.034s" clip-end="npt=1149.829s" id="audio_0224"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1149.829s" clip-end="npt=1158.136s" id="audio_0225"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1158.136s" clip-end="npt=1171.863s" id="audio_0226"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1171.863s" clip-end="npt=1181.293s" id="audio_0227"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1181.293s" clip-end="npt=1184.579s" id="audio_0228"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1184.579s" clip-end="npt=1185.941s" id="audio_0229"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1185.941s" clip-end="npt=1188.096s" id="audio_0230"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1188.096s" clip-end="npt=1190.943s" id="audio_0231"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1190.943s" clip-end="npt=1194.183s" id="audio_0232"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1194.183s" clip-end="npt=1195.645s" id="audio_0233"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1195.645s" clip-end="npt=1203.234s" id="audio_0234"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1203.234s" clip-end="npt=1206.943s" id="audio_0235"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1206.943s" clip-end="npt=1211.541s" id="audio_0236"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1211.541s" clip-end="npt=1222.343s" id="audio_0237"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1222.343s" clip-end="npt=1226.117s" id="audio_0238"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1226.117s" clip-end="npt=1233.445s" id="audio_0239"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1233.445s" clip-end="npt=1236.592s" id="audio_0240"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1236.592s" clip-end="npt=1245.056s" id="audio_0241"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1245.056s" clip-end="npt=1249.275s" id="audio_0242"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1249.275s" clip-end="npt=1255.766s" id="audio_0243"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1255.766s" clip-end="npt=1261.004s" id="audio_0244"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1261.004s" clip-end="npt=1275.737s" id="audio_0245"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1275.737s" clip-end="npt=1279.943s" id="audio_0246"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1279.943s" clip-end="npt=1290.000s" id="audio_0247"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1290.000s" clip-end="npt=1293.709s" id="audio_0248"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1293.709s" clip-end="npt=1301.245s" id="audio_0249"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1301.245s" clip-end="npt=1303.975s" id="audio_0250"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1303.975s" clip-end="npt=1307.319s" id="audio_0251"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1307.319s" clip-end="npt=1308.808s" id="audio_0252"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1308.808s" clip-end="npt=1315.952s" id="audio_0253"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1315.952s" clip-end="npt=1318.943s" id="audio_0254"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1318.943s" clip-end="npt=1325.134s" id="audio_0255"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1325.134s" clip-end="npt=1332.266s" id="audio_0256"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1332.266s" clip-end="npt=1335.662s" id="audio_0257"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1335.662s" clip-end="npt=1336.942s" id="audio_0258"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1336.942s" clip-end="npt=1339.946s" id="audio_0259"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1339.946s" clip-end="npt=1343.133s" id="audio_0260"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1343.133s" clip-end="npt=1349.076s" id="audio_0261"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1349.076s" clip-end="npt=1353.220s" id="audio_0262"/>
+				</seq>
+			</par>
+			<par endsync="last" id="voly_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0555" id="voly_0003"/>
+			</par>
+			<par endsync="last" id="hdvn_006f">
+				<text src="ncc.html#snld_000d" id="voly_0004"/>
+			</par>
+			<par endsync="last" id="hdvn_0071" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_053d" id="hdvn_0070"/>
+			</par>
+			<par endsync="last" id="hdvn_0072">
+				<text src="ncc.html#snld_000d" id="hdvn_0073"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1353.220s" clip-end="npt=1354.553s" id="audio_0263"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1354.553s" clip-end="npt=1356.773s" id="audio_0264"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1356.773s" clip-end="npt=1358.380s" id="audio_0265"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1358.380s" clip-end="npt=1361.162s" id="audio_0266"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1361.162s" clip-end="npt=1371.571s" id="audio_0267"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1371.571s" clip-end="npt=1372.806s" id="audio_0268"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1372.806s" clip-end="npt=1382.641s" id="audio_0269"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1382.641s" clip-end="npt=1388.923s" id="audio_0270"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1388.923s" clip-end="npt=1394.174s" id="audio_0271"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1394.174s" clip-end="npt=1399.464s" id="audio_0272"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1399.464s" clip-end="npt=1409.429s" id="audio_0273"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1409.429s" clip-end="npt=1413.139s" id="audio_0274"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1413.139s" clip-end="npt=1418.971s" id="audio_0275"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1418.971s" clip-end="npt=1430.478s" id="audio_0276"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1430.478s" clip-end="npt=1435.258s" id="audio_0277"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1435.258s" clip-end="npt=1439.475s" id="audio_0278"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1439.475s" clip-end="npt=1441.565s" id="audio_0279"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1441.565s" clip-end="npt=1444.164s" id="audio_0280"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1444.164s" clip-end="npt=1450.447s" id="audio_0281"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1450.447s" clip-end="npt=1465.715s" id="audio_0282"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1465.715s" clip-end="npt=1467.805s" id="audio_0283"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1467.805s" clip-end="npt=1481.415s" id="audio_0284"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1481.415s" clip-end="npt=1488.063s" id="audio_0285"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1488.063s" clip-end="npt=1490.153s" id="audio_0286"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1490.153s" clip-end="npt=1502.417s" id="audio_0287"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1502.417s" clip-end="npt=1506.284s" id="audio_0288"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1506.284s" clip-end="npt=1509.536s" id="audio_0289"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1509.536s" clip-end="npt=1511.913s" id="audio_0290"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1511.913s" clip-end="npt=1513.415s" id="audio_0291"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1513.415s" clip-end="npt=1516.406s" id="audio_0292"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1516.406s" clip-end="npt=1525.405s" id="audio_0293"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1525.405s" clip-end="npt=1529.768s" id="audio_0294"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1529.768s" clip-end="npt=1532.092s" id="audio_0295"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1532.092s" clip-end="npt=1537.970s" id="audio_0296"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1537.970s" clip-end="npt=1541.484s" id="audio_0297"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1541.484s" clip-end="npt=1545.441s" id="audio_0298"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1545.441s" clip-end="npt=1547.766s" id="audio_0299"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1547.766s" clip-end="npt=1549.262s" id="audio_0300"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hdvn_00c0" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_053f" id="par_000a"/>
+			</par>
+			<par endsync="last" id="hdvn_00c1">
+				<text src="ncc.html#snld_000d" id="hdvn_00c2"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1549.262s" clip-end="npt=1550.811s" id="audio_0301"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1550.811s" clip-end="npt=1552.823s" id="audio_0302"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1552.823s" clip-end="npt=1565.362s" id="audio_0303"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1565.362s" clip-end="npt=1573.473s" id="audio_0304"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1573.473s" clip-end="npt=1578.971s" id="audio_0305"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1578.971s" clip-end="npt=1584.248s" id="audio_0306"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1584.248s" clip-end="npt=1591.040s" id="audio_0307"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1591.040s" clip-end="npt=1593.065s" id="audio_0308"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1593.065s" clip-end="npt=1599.478s" id="audio_0309"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1599.478s" clip-end="npt=1609.979s" id="audio_0310"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1609.979s" clip-end="npt=1614.067s" id="audio_0311"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1614.067s" clip-end="npt=1618.560s" id="audio_0312"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1618.560s" clip-end="npt=1619.605s" id="audio_0313"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1619.605s" clip-end="npt=1623.850s" id="audio_0314"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1623.850s" clip-end="npt=1634.116s" id="audio_0315"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1634.116s" clip-end="npt=1639.262s" id="audio_0316"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1639.262s" clip-end="npt=1645.845s" id="audio_0317"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1645.845s" clip-end="npt=1650.730s" id="audio_0318"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1650.730s" clip-end="npt=1654.583s" id="audio_0319"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1654.583s" clip-end="npt=1662.354s" id="audio_0320"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1662.354s" clip-end="npt=1667.905s" id="audio_0321"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1667.905s" clip-end="npt=1673.221s" id="audio_0322"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1673.221s" clip-end="npt=1676.322s" id="audio_0323"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hdvn_00f1" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0540" id="hdvn_00f2"/>
+			</par>
+			<par endsync="last" id="hdvn_00f3">
+				<text src="ncc.html#snld_000d" id="hdvn_00f4"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1676.322s" clip-end="npt=1677.623s" id="audio_0324"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1677.623s" clip-end="npt=1680.405s" id="audio_0325"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1680.405s" clip-end="npt=1683.435s" id="audio_0326"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1683.435s" clip-end="npt=1693.009s" id="audio_0327"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1693.009s" clip-end="npt=1700.898s" id="audio_0328"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1700.898s" clip-end="npt=1709.179s" id="audio_0329"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1709.179s" clip-end="npt=1712.340s" id="audio_0330"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1712.340s" clip-end="npt=1720.020s" id="audio_0331"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1720.020s" clip-end="npt=1723.664s" id="audio_0332"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1723.664s" clip-end="npt=1734.126s" id="audio_0333"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1734.126s" clip-end="npt=1738.096s" id="audio_0334"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1738.096s" clip-end="npt=1743.086s" id="audio_0335"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1743.086s" clip-end="npt=1744.849s" id="audio_0336"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1744.849s" clip-end="npt=1750.713s" id="audio_0337"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1750.713s" clip-end="npt=1757.140s" id="audio_0338"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1757.140s" clip-end="npt=1759.112s" id="audio_0339"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1759.112s" clip-end="npt=1761.345s" id="audio_0340"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1761.345s" clip-end="npt=1774.341s" id="audio_0341"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1774.341s" clip-end="npt=1777.443s" id="audio_0342"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hdvn_011b" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0541" id="hdvn_011c"/>
+			</par>
+			<par endsync="last" id="hdvn_011d">
+				<text src="ncc.html#snld_000d" id="hdvn_011e"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1777.443s" clip-end="npt=1778.634s" id="audio_0343"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1778.634s" clip-end="npt=1782.187s" id="audio_0344"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1782.187s" clip-end="npt=1793.276s" id="audio_0345"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1793.276s" clip-end="npt=1794.856s" id="audio_0346"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1794.856s" clip-end="npt=1803.960s" id="audio_0347"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1803.960s" clip-end="npt=1816.224s" id="audio_0348"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1816.224s" clip-end="npt=1827.875s" id="audio_0349"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1827.875s" clip-end="npt=1829.364s" id="audio_0350"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1829.364s" clip-end="npt=1835.359s" id="audio_0351"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1835.359s" clip-end="npt=1843.705s" id="audio_0352"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1843.705s" clip-end="npt=1847.218s" id="audio_0353"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1847.218s" clip-end="npt=1851.463s" id="audio_0354"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1851.463s" clip-end="npt=1856.466s" id="audio_0355"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1856.466s" clip-end="npt=1859.450s" id="audio_0356"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0019" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0543" id="par_001a"/>
+			</par>
+			<par endsync="last" id="hdvn_013b">
+				<text src="ncc.html#snld_000d" id="par_001b"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1859.450s" clip-end="npt=1861.121s" id="audio_0357"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1861.121s" clip-end="npt=1863.525s" id="audio_0358"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1863.525s" clip-end="npt=1871.479s" id="audio_0359"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1871.479s" clip-end="npt=1873.190s" id="audio_0360"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1873.190s" clip-end="npt=1875.632s" id="audio_0361"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1875.632s" clip-end="npt=1879.263s" id="audio_0362"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1879.263s" clip-end="npt=1882.620s" id="audio_0363"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1882.620s" clip-end="npt=1886.186s" id="audio_0364"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1886.186s" clip-end="npt=1888.994s" id="audio_0365"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1888.994s" clip-end="npt=1893.213s" id="audio_0366"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1893.213s" clip-end="npt=1900.396s" id="audio_0367"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1900.396s" clip-end="npt=1909.931s" id="audio_0368"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1909.931s" clip-end="npt=1912.347s" id="audio_0369"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1912.347s" clip-end="npt=1915.639s" id="audio_0370"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1915.639s" clip-end="npt=1917.389s" id="audio_0371"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1917.389s" clip-end="npt=1922.666s" id="audio_0372"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1922.666s" clip-end="npt=1924.625s" id="audio_0373"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1924.625s" clip-end="npt=1926.153s" id="audio_0374"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1926.153s" clip-end="npt=1928.700s" id="audio_0375"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1928.700s" clip-end="npt=1931.247s" id="audio_0376"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1931.247s" clip-end="npt=1935.361s" id="audio_0377"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1935.361s" clip-end="npt=1939.763s" id="audio_0378"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1939.763s" clip-end="npt=1952.315s" id="audio_0379"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1952.315s" clip-end="npt=1957.004s" id="audio_0380"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1957.004s" clip-end="npt=1960.504s" id="audio_0381"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1960.504s" clip-end="npt=1963.303s" id="audio_0382"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_001c" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0544" id="par_001d"/>
+			</par>
+			<par endsync="last" id="hdvn_0170">
+				<text src="ncc.html#snld_000d" id="par_001e"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1963.303s" clip-end="npt=1965.680s" id="audio_0383"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1965.680s" clip-end="npt=1970.017s" id="audio_0384"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1970.017s" clip-end="npt=1981.733s" id="audio_0385"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1981.733s" clip-end="npt=1985.899s" id="audio_0386"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1985.899s" clip-end="npt=1987.924s" id="audio_0387"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1987.924s" clip-end="npt=1993.880s" id="audio_0388"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1993.880s" clip-end="npt=1999.953s" id="audio_0389"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=1999.953s" clip-end="npt=2003.166s" id="audio_0390"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2003.166s" clip-end="npt=2008.600s" id="audio_0391"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2008.600s" clip-end="npt=2012.622s" id="audio_0392"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2012.622s" clip-end="npt=2016.815s" id="audio_0393"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2016.815s" clip-end="npt=2018.631s" id="audio_0394"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2018.631s" clip-end="npt=2031.352s" id="audio_0395"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2031.352s" clip-end="npt=2032.916s" id="audio_0396"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2032.916s" clip-end="npt=2039.983s" id="audio_0397"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2039.983s" clip-end="npt=2041.537s" id="audio_0398"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2041.537s" clip-end="npt=2052.652s" id="audio_0399"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2052.652s" clip-end="npt=2057.419s" id="audio_0400"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2057.419s" clip-end="npt=2059.326s" id="audio_0401"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2059.326s" clip-end="npt=2062.487s" id="audio_0402"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2062.487s" clip-end="npt=2063.793s" id="audio_0403"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2063.793s" clip-end="npt=2066.314s" id="audio_0404"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2066.314s" clip-end="npt=2068.952s" id="audio_0405"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2068.952s" clip-end="npt=2080.681s" id="audio_0406"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2080.681s" clip-end="npt=2082.196s" id="audio_0407"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2082.196s" clip-end="npt=2084.469s" id="audio_0408"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2084.469s" clip-end="npt=2090.320s" id="audio_0409"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2090.320s" clip-end="npt=2100.574s" id="audio_0410"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2100.574s" clip-end="npt=2111.844s" id="audio_0411"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2111.844s" clip-end="npt=2120.935s" id="audio_0412"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2120.935s" clip-end="npt=2123.795s" id="audio_0413"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0545" id="hdvn_01b0"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2123.795s" clip-end="npt=2124.652s" id="audio_0414"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hdvn_01b3">
+				<text src="ncc.html#snld_000d" id="par_0004"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2124.652s" clip-end="npt=2127.538s" id="audio_0415"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2127.538s" clip-end="npt=2131.940s" id="audio_0416"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2131.940s" clip-end="npt=2135.336s" id="audio_0417"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2135.336s" clip-end="npt=2142.128s" id="audio_0418"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2142.128s" clip-end="npt=2144.740s" id="audio_0419"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2144.740s" clip-end="npt=2148.763s" id="audio_0420"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2148.763s" clip-end="npt=2158.624s" id="audio_0421"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2158.624s" clip-end="npt=2161.745s" id="audio_0422"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2161.745s" clip-end="npt=2167.179s" id="audio_0423"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2167.179s" clip-end="npt=2170.144s" id="audio_0424"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2170.144s" clip-end="npt=2174.402s" id="audio_0425"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2174.402s" clip-end="npt=2180.018s" id="audio_0426"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2180.018s" clip-end="npt=2181.128s" id="audio_0427"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2181.128s" clip-end="npt=2185.830s" id="audio_0428"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2185.830s" clip-end="npt=2194.020s" id="audio_0429"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2194.020s" clip-end="npt=2196.710s" id="audio_0430"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2196.710s" clip-end="npt=2198.147s" id="audio_0431"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2198.147s" clip-end="npt=2200.211s" id="audio_0432"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2200.211s" clip-end="npt=2204.209s" id="audio_0433"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2204.209s" clip-end="npt=2208.454s" id="audio_0434"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2208.454s" clip-end="npt=2212.999s" id="audio_0435"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2212.999s" clip-end="npt=2222.051s" id="audio_0436"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2222.051s" clip-end="npt=2230.214s" id="audio_0437"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2230.214s" clip-end="npt=2231.207s" id="audio_0438"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2231.207s" clip-end="npt=2239.918s" id="audio_0439"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2239.918s" clip-end="npt=2244.150s" id="audio_0440"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2244.150s" clip-end="npt=2251.386s" id="audio_0441"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2251.386s" clip-end="npt=2255.383s" id="audio_0442"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2255.383s" clip-end="npt=2260.059s" id="audio_0443"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2260.059s" clip-end="npt=2269.985s" id="audio_0444"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2269.985s" clip-end="npt=2275.105s" id="audio_0445"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2275.105s" clip-end="npt=2282.106s" id="audio_0446"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2282.106s" clip-end="npt=2287.997s" id="audio_0447"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2287.997s" clip-end="npt=2289.935s" id="audio_0448"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hdvn_01f8" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0546" id="hdvn_01f9"/>
+			</par>
+			<par endsync="last" id="hdvn_01fa">
+				<text src="ncc.html#snld_000d" id="par_0008"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2289.935s" clip-end="npt=2291.068s" id="audio_0449"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2291.068s" clip-end="npt=2291.925s" id="audio_0450"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2291.925s" clip-end="npt=2294.120s" id="audio_0451"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2294.120s" clip-end="npt=2305.013s" id="audio_0452"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2305.013s" clip-end="npt=2316.520s" id="audio_0453"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2316.520s" clip-end="npt=2325.728s" id="audio_0454"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2325.728s" clip-end="npt=2329.228s" id="audio_0455"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2329.228s" clip-end="npt=2334.387s" id="audio_0456"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2334.387s" clip-end="npt=2337.509s" id="audio_0457"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2337.509s" clip-end="npt=2340.487s" id="audio_0458"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2340.487s" clip-end="npt=2345.829s" id="audio_0459"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2345.829s" clip-end="npt=2350.623s" id="audio_0460"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2350.623s" clip-end="npt=2358.081s" id="audio_0461"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2358.081s" clip-end="npt=2360.575s" id="audio_0462"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2360.575s" clip-end="npt=2362.626s" id="audio_0463"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2362.626s" clip-end="npt=2366.610s" id="audio_0464"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2366.610s" clip-end="npt=2378.822s" id="audio_0465"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2378.822s" clip-end="npt=2382.962s" id="audio_0466"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2382.962s" clip-end="npt=2390.734s" id="audio_0467"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2390.734s" clip-end="npt=2394.378s" id="audio_0468"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2394.378s" clip-end="npt=2398.845s" id="audio_0469"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2398.845s" clip-end="npt=2404.552s" id="audio_0470"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2404.552s" clip-end="npt=2410.730s" id="audio_0471"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2410.730s" clip-end="npt=2413.024s" id="audio_0472"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hdvn_022b" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0547" id="par_000b"/>
+			</par>
+			<par endsync="last" id="hdvn_022c">
+				<text src="ncc.html#snld_000d" id="par_000c"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2413.024s" clip-end="npt=2414.157s" id="audio_0473"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2414.157s" clip-end="npt=2415.014s" id="audio_0474"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2415.014s" clip-end="npt=2419.611s" id="audio_0475"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2419.611s" clip-end="npt=2422.850s" id="audio_0476"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2422.850s" clip-end="npt=2423.686s" id="audio_0477"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2423.686s" clip-end="npt=2430.805s" id="audio_0478"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2430.805s" clip-end="npt=2433.939s" id="audio_0479"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2433.939s" clip-end="npt=2435.755s" id="audio_0480"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2435.755s" clip-end="npt=2439.386s" id="audio_0481"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2439.386s" clip-end="npt=2443.618s" id="audio_0482"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2443.618s" clip-end="npt=2446.805s" id="audio_0483"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2446.805s" clip-end="npt=2449.299s" id="audio_0484"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2449.299s" clip-end="npt=2452.108s" id="audio_0485"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2452.108s" clip-end="npt=2454.968s" id="audio_0486"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2454.968s" clip-end="npt=2456.810s" id="audio_0487"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2456.810s" clip-end="npt=2459.043s" id="audio_0488"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2459.043s" clip-end="npt=2460.780s" id="audio_0489"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2460.780s" clip-end="npt=2462.113s" id="audio_0490"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2462.113s" clip-end="npt=2463.693s" id="audio_0491"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2463.693s" clip-end="npt=2468.262s" id="audio_0492"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2468.262s" clip-end="npt=2476.008s" id="audio_0493"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2476.008s" clip-end="npt=2478.816s" id="audio_0494"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2478.816s" clip-end="npt=2480.174s" id="audio_0495"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2480.174s" clip-end="npt=2482.904s" id="audio_0496"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2482.904s" clip-end="npt=2484.302s" id="audio_0497"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2484.302s" clip-end="npt=2495.600s" id="audio_0498"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2495.600s" clip-end="npt=2499.648s" id="audio_0499"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2499.648s" clip-end="npt=2509.640s" id="audio_0500"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2509.640s" clip-end="npt=2514.460s" id="audio_0501"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2514.460s" clip-end="npt=2523.459s" id="audio_0502"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2523.459s" clip-end="npt=2527.573s" id="audio_0503"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2527.573s" clip-end="npt=2535.684s" id="audio_0504"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2535.684s" clip-end="npt=2539.889s" id="audio_0505"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2539.889s" clip-end="npt=2542.784s" id="audio_0506"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000d" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0548" id="par_000e"/>
+			</par>
+			<par endsync="last" id="hdvn_0271">
+				<text src="ncc.html#snld_000d" id="par_000f"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2542.784s" clip-end="npt=2543.641s" id="audio_0507"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2543.641s" clip-end="npt=2546.423s" id="audio_0508"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2546.423s" clip-end="npt=2551.478s" id="audio_0509"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2551.478s" clip-end="npt=2554.169s" id="audio_0510"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2554.169s" clip-end="npt=2558.858s" id="audio_0511"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2558.858s" clip-end="npt=2564.030s" id="audio_0512"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2564.030s" clip-end="npt=2569.711s" id="audio_0513"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2569.711s" clip-end="npt=2573.068s" id="audio_0514"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2573.068s" clip-end="npt=2578.097s" id="audio_0515"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2578.097s" clip-end="npt=2581.610s" id="audio_0516"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2581.610s" clip-end="npt=2585.228s" id="audio_0517"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2585.228s" clip-end="npt=2588.506s" id="audio_0518"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2588.506s" clip-end="npt=2591.419s" id="audio_0519"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2591.419s" clip-end="npt=2595.546s" id="audio_0520"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2595.546s" clip-end="npt=2598.903s" id="audio_0521"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2598.903s" clip-end="npt=2607.066s" id="audio_0522"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2607.066s" clip-end="npt=2609.729s" id="audio_0523"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hdvn_0294" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0549" id="par_0012"/>
+			</par>
+			<par endsync="last" id="hdvn_0295">
+				<text src="ncc.html#snld_000d" id="hdvn_0296"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2609.729s" clip-end="npt=2611.280s" id="audio_0524"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2611.280s" clip-end="npt=2612.137s" id="audio_0525"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2612.137s" clip-end="npt=2613.626s" id="audio_0526"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2613.626s" clip-end="npt=2615.363s" id="audio_0527"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2615.363s" clip-end="npt=2622.129s" id="audio_0528"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2622.129s" clip-end="npt=2632.108s" id="audio_0529"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2632.108s" clip-end="npt=2638.338s" id="audio_0530"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2638.338s" clip-end="npt=2640.101s" id="audio_0531"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2640.101s" clip-end="npt=2641.773s" id="audio_0532"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2641.773s" clip-end="npt=2647.481s" id="audio_0533"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2647.481s" clip-end="npt=2652.105s" id="audio_0534"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2652.105s" clip-end="npt=2654.782s" id="audio_0535"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2654.782s" clip-end="npt=2657.316s" id="audio_0536"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2657.316s" clip-end="npt=2660.216s" id="audio_0537"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2660.216s" clip-end="npt=2661.809s" id="audio_0538"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2661.809s" clip-end="npt=2667.909s" id="audio_0539"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2667.909s" clip-end="npt=2669.359s" id="audio_0540"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2669.359s" clip-end="npt=2672.167s" id="audio_0541"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2672.167s" clip-end="npt=2673.264s" id="audio_0542"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2673.264s" clip-end="npt=2676.712s" id="audio_0543"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2676.712s" clip-end="npt=2678.240s" id="audio_0544"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2678.240s" clip-end="npt=2684.679s" id="audio_0545"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2684.679s" clip-end="npt=2689.107s" id="audio_0546"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2689.107s" clip-end="npt=2691.667s" id="audio_0547"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2691.667s" clip-end="npt=2692.986s" id="audio_0548"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2692.986s" clip-end="npt=2697.728s" id="audio_0549"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2697.728s" clip-end="npt=2700.288s" id="audio_0550"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2700.288s" clip-end="npt=2702.234s" id="audio_0551"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2702.234s" clip-end="npt=2704.101s" id="audio_0552"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2704.101s" clip-end="npt=2706.296s" id="audio_0553"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2706.296s" clip-end="npt=2710.411s" id="audio_0554"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2710.411s" clip-end="npt=2711.181s" id="audio_0555"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2711.181s" clip-end="npt=2713.637s" id="audio_0556"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vfba_0001" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_054a" id="vfba_0002"/>
+			</par>
+			<par endsync="last" id="cxhc_0001">
+				<text src="ncc.html#snld_000d" id="vfba_0003"/>
+				<seq>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2713.637s" clip-end="npt=2714.016s" id="audio_0557"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2714.016s" clip-end="npt=2714.747s" id="audio_0558"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2714.747s" clip-end="npt=2715.604s" id="audio_0559"/>
+					<audio src="35_Lesson_30_A__Aids_for_receptionalist.mp3" clip-begin="npt=2715.604s" clip-end="npt=2717.011s" id="audio_0560"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

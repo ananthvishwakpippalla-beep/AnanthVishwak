@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:51:23.746"/>
+		<meta name="ncc:totalElapsedTime" content="05:03:40.945"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 13: The Tiger in the Tunnel"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="3083.746s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_0155" id="jjoy_0155"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=0.000s" clip-end="npt=5.133s" id="audio_0001"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=5.133s" clip-end="npt=12.721s" id="audio_0002"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=12.721s" clip-end="npt=17.972s" id="audio_0003"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=17.972s" clip-end="npt=21.538s" id="audio_0004"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=21.538s" clip-end="npt=22.883s" id="audio_0005"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=22.883s" clip-end="npt=28.852s" id="audio_0006"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=28.852s" clip-end="npt=31.686s" id="audio_0007"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=31.686s" clip-end="npt=37.851s" id="audio_0008"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=37.851s" clip-end="npt=44.682s" id="audio_0009"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=44.682s" clip-end="npt=48.705s" id="audio_0010"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=48.705s" clip-end="npt=57.325s" id="audio_0011"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=57.325s" clip-end="npt=60.551s" id="audio_0012"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=60.551s" clip-end="npt=65.671s" id="audio_0013"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=65.671s" clip-end="npt=73.639s" id="audio_0014"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=73.639s" clip-end="npt=82.873s" id="audio_0015"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=82.873s" clip-end="npt=89.417s" id="audio_0016"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=89.417s" clip-end="npt=91.689s" id="audio_0017"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=91.689s" clip-end="npt=99.631s" id="audio_0018"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=99.631s" clip-end="npt=102.439s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0157" id="par_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_0155" id="par_0004"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=102.439s" clip-end="npt=104.707s" id="audio_0020"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=104.707s" clip-end="npt=108.260s" id="audio_0021"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=108.260s" clip-end="npt=115.535s" id="audio_0022"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=115.535s" clip-end="npt=120.942s" id="audio_0023"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=120.942s" clip-end="npt=128.335s" id="audio_0024"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=128.335s" clip-end="npt=130.621s" id="audio_0025"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=130.621s" clip-end="npt=138.196s" id="audio_0026"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=138.196s" clip-end="npt=144.740s" id="audio_0027"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=144.740s" clip-end="npt=154.327s" id="audio_0028"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=154.327s" clip-end="npt=161.641s" id="audio_0029"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=161.641s" clip-end="npt=165.024s" id="audio_0030"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=165.024s" clip-end="npt=167.140s" id="audio_0031"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=167.140s" clip-end="npt=173.736s" id="audio_0032"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=173.736s" clip-end="npt=179.378s" id="audio_0033"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=179.378s" clip-end="npt=180.867s" id="audio_0034"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=180.867s" clip-end="npt=182.082s" id="audio_0035"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=182.082s" clip-end="npt=192.714s" id="audio_0036"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=192.714s" clip-end="npt=199.819s" id="audio_0037"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=199.819s" clip-end="npt=210.960s" id="audio_0038"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=210.960s" clip-end="npt=216.864s" id="audio_0039"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=216.864s" clip-end="npt=219.763s" id="audio_0040"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=219.763s" clip-end="npt=228.749s" id="audio_0041"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=228.749s" clip-end="npt=234.078s" id="audio_0042"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=234.078s" clip-end="npt=238.637s" id="audio_0043"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=238.637s" clip-end="npt=239.316s" id="audio_0044"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=239.316s" clip-end="npt=240.230s" id="audio_0045"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=240.230s" clip-end="npt=244.031s" id="audio_0046"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=244.031s" clip-end="npt=256.034s" id="audio_0047"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=256.034s" clip-end="npt=265.269s" id="audio_0048"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=265.269s" clip-end="npt=304.191s" id="audio_0049"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0158" id="par_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_0155" id="par_0007"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=304.191s" clip-end="npt=306.435s" id="audio_0050"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=306.435s" clip-end="npt=332.518s" id="audio_0051"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=332.518s" clip-end="npt=368.045s" id="audio_0052"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=368.045s" clip-end="npt=388.420s" id="audio_0053"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=388.420s" clip-end="npt=396.923s" id="audio_0054"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=396.923s" clip-end="npt=409.449s" id="audio_0055"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=409.449s" clip-end="npt=415.904s" id="audio_0056"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=415.904s" clip-end="npt=452.411s" id="audio_0057"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=452.411s" clip-end="npt=465.759s" id="audio_0058"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=465.759s" clip-end="npt=478.402s" id="audio_0059"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=478.402s" clip-end="npt=494.520s" id="audio_0060"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=494.520s" clip-end="npt=499.483s" id="audio_0061"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=499.483s" clip-end="npt=503.415s" id="audio_0062"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=503.415s" clip-end="npt=511.434s" id="audio_0063"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=511.434s" clip-end="npt=519.310s" id="audio_0064"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=519.310s" clip-end="npt=522.092s" id="audio_0065"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=522.092s" clip-end="npt=524.913s" id="audio_0066"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=524.913s" clip-end="npt=531.810s" id="audio_0067"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=531.810s" clip-end="npt=551.741s" id="audio_0068"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=551.741s" clip-end="npt=553.674s" id="audio_0069"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=553.674s" clip-end="npt=559.058s" id="audio_0070"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0008" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0159" id="par_0009"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_0155" id="par_000a"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=559.058s" clip-end="npt=561.866s" id="audio_0071"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=561.866s" clip-end="npt=562.885s" id="audio_0072"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=562.885s" clip-end="npt=572.759s" id="audio_0073"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=572.759s" clip-end="npt=586.369s" id="audio_0074"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=586.369s" clip-end="npt=589.608s" id="audio_0075"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=589.608s" clip-end="npt=596.766s" id="audio_0076"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=596.766s" clip-end="npt=599.039s" id="audio_0077"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=599.039s" clip-end="npt=601.220s" id="audio_0078"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=601.220s" clip-end="npt=605.974s" id="audio_0079"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=605.974s" clip-end="npt=608.338s" id="audio_0080"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=608.338s" clip-end="npt=611.721s" id="audio_0081"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=611.721s" clip-end="npt=618.160s" id="audio_0082"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=618.160s" clip-end="npt=631.653s" id="audio_0083"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=631.653s" clip-end="npt=636.185s" id="audio_0084"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=636.185s" clip-end="npt=639.555s" id="audio_0085"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=639.555s" clip-end="npt=642.337s" id="audio_0086"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=642.337s" clip-end="npt=643.264s" id="audio_0087"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=643.264s" clip-end="npt=645.563s" id="audio_0088"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=645.563s" clip-end="npt=650.226s" id="audio_0089"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=650.226s" clip-end="npt=652.211s" id="audio_0090"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=652.211s" clip-end="npt=656.338s" id="audio_0091"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=656.338s" clip-end="npt=661.719s" id="audio_0092"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=661.719s" clip-end="npt=666.473s" id="audio_0093"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=666.473s" clip-end="npt=673.670s" id="audio_0094"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=673.670s" clip-end="npt=677.732s" id="audio_0095"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=677.732s" clip-end="npt=682.982s" id="audio_0096"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=682.982s" clip-end="npt=686.496s" id="audio_0097"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=686.496s" clip-end="npt=698.381s" id="audio_0098"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=698.381s" clip-end="npt=701.686s" id="audio_0099"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=701.686s" clip-end="npt=706.283s" id="audio_0100"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=706.283s" clip-end="npt=707.864s" id="audio_0101"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=707.864s" clip-end="npt=717.712s" id="audio_0102"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=717.712s" clip-end="npt=721.858s" id="audio_0103"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000b" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_015a" id="par_000d"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_0155" id="par_000e"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=721.858s" clip-end="npt=724.478s" id="audio_0104"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=724.478s" clip-end="npt=727.900s" id="audio_0105"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=727.900s" clip-end="npt=741.327s" id="audio_0106"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=741.327s" clip-end="npt=751.358s" id="audio_0107"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=751.358s" clip-end="npt=757.628s" id="audio_0108"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=757.628s" clip-end="npt=768.390s" id="audio_0109"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=768.390s" clip-end="npt=781.686s" id="audio_0110"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=781.686s" clip-end="npt=794.395s" id="audio_0111"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=794.395s" clip-end="npt=803.708s" id="audio_0112"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=803.708s" clip-end="npt=814.326s" id="audio_0113"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=814.326s" clip-end="npt=819.015s" id="audio_0114"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=819.015s" clip-end="npt=826.512s" id="audio_0115"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=826.512s" clip-end="npt=835.068s" id="audio_0116"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=835.068s" clip-end="npt=842.395s" id="audio_0117"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=842.395s" clip-end="npt=846.444s" id="audio_0118"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=846.444s" clip-end="npt=850.192s" id="audio_0119"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=850.192s" clip-end="npt=865.004s" id="audio_0120"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=865.004s" clip-end="npt=870.607s" id="audio_0121"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=870.607s" clip-end="npt=876.694s" id="audio_0122"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=876.694s" clip-end="npt=883.342s" id="audio_0123"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=883.342s" clip-end="npt=886.137s" id="audio_0124"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=886.137s" clip-end="npt=890.891s" id="audio_0125"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=890.891s" clip-end="npt=895.254s" id="audio_0126"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=895.254s" clip-end="npt=900.948s" id="audio_0127"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=900.948s" clip-end="npt=904.005s" id="audio_0128"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=904.005s" clip-end="npt=907.440s" id="audio_0129"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=907.440s" clip-end="npt=909.530s" id="audio_0130"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=909.530s" clip-end="npt=919.156s" id="audio_0131"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=919.156s" clip-end="npt=926.170s" id="audio_0132"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=926.170s" clip-end="npt=934.738s" id="audio_0133"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=934.738s" clip-end="npt=951.482s" id="audio_0134"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=951.482s" clip-end="npt=956.240s" id="audio_0135"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0010" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_015b" id="par_0011"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_0155" id="par_0012"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=956.240s" clip-end="npt=958.989s" id="audio_0136"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=958.989s" clip-end="npt=961.954s" id="audio_0137"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=961.954s" clip-end="npt=968.589s" id="audio_0138"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=968.589s" clip-end="npt=976.883s" id="audio_0139"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=976.883s" clip-end="npt=985.595s" id="audio_0140"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=985.595s" clip-end="npt=993.301s" id="audio_0141"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=993.301s" clip-end="npt=997.311s" id="audio_0142"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=997.311s" clip-end="npt=1008.099s" id="audio_0143"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1008.099s" clip-end="npt=1014.760s" id="audio_0144"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1014.760s" clip-end="npt=1031.596s" id="audio_0145"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1031.596s" clip-end="npt=1046.826s" id="audio_0146"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1046.826s" clip-end="npt=1059.587s" id="audio_0147"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1059.587s" clip-end="npt=1064.602s" id="audio_0148"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1064.602s" clip-end="npt=1078.891s" id="audio_0149"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1078.891s" clip-end="npt=1087.224s" id="audio_0150"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1087.224s" clip-end="npt=1093.977s" id="audio_0151"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1093.977s" clip-end="npt=1096.654s" id="audio_0152"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1096.654s" clip-end="npt=1099.476s" id="audio_0153"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1099.476s" clip-end="npt=1107.391s" id="audio_0154"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1107.391s" clip-end="npt=1111.304s" id="audio_0155"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1111.304s" clip-end="npt=1114.791s" id="audio_0156"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1114.791s" clip-end="npt=1119.402s" id="audio_0157"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1119.402s" clip-end="npt=1123.438s" id="audio_0158"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1123.438s" clip-end="npt=1128.388s" id="audio_0159"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1128.388s" clip-end="npt=1132.803s" id="audio_0160"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1132.803s" clip-end="npt=1137.792s" id="audio_0161"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1137.792s" clip-end="npt=1146.413s" id="audio_0162"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1146.413s" clip-end="npt=1149.456s" id="audio_0163"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sssh_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_015c" id="sssh_0002"/>
+			</par>
+			<par endsync="last" id="efgd_0001">
+				<text src="ncc.html#jjoy_0155" id="sssh_0003"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1149.456s" clip-end="npt=1152.173s" id="audio_0164"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1152.173s" clip-end="npt=1154.302s" id="audio_0165"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1154.302s" clip-end="npt=1156.091s" id="audio_0166"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1156.091s" clip-end="npt=1162.883s" id="audio_0167"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1162.883s" clip-end="npt=1167.572s" id="audio_0168"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1167.572s" clip-end="npt=1171.334s" id="audio_0169"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1171.334s" clip-end="npt=1179.771s" id="audio_0170"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1179.771s" clip-end="npt=1182.645s" id="audio_0171"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1182.645s" clip-end="npt=1184.095s" id="audio_0172"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1184.095s" clip-end="npt=1191.539s" id="audio_0173"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1191.539s" clip-end="npt=1198.828s" id="audio_0174"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1198.828s" clip-end="npt=1205.293s" id="audio_0175"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1205.293s" clip-end="npt=1212.960s" id="audio_0176"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1212.960s" clip-end="npt=1217.466s" id="audio_0177"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1217.466s" clip-end="npt=1225.499s" id="audio_0178"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1225.499s" clip-end="npt=1227.262s" id="audio_0179"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1227.262s" clip-end="npt=1233.126s" id="audio_0180"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1233.126s" clip-end="npt=1241.224s" id="audio_0181"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1241.224s" clip-end="npt=1248.003s" id="audio_0182"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1248.003s" clip-end="npt=1249.845s" id="audio_0183"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1249.845s" clip-end="npt=1256.545s" id="audio_0184"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1256.545s" clip-end="npt=1264.238s" id="audio_0185"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1264.238s" clip-end="npt=1265.701s" id="audio_0186"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1265.701s" clip-end="npt=1272.610s" id="audio_0187"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1272.610s" clip-end="npt=1273.812s" id="audio_0188"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1273.812s" clip-end="npt=1280.852s" id="audio_0189"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1280.852s" clip-end="npt=1282.263s" id="audio_0190"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1282.263s" clip-end="npt=1287.984s" id="audio_0191"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1287.984s" clip-end="npt=1295.755s" id="audio_0192"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1295.755s" clip-end="npt=1297.061s" id="audio_0193"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1297.061s" clip-end="npt=1300.692s" id="audio_0194"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1300.692s" clip-end="npt=1305.956s" id="audio_0195"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1305.956s" clip-end="npt=1310.723s" id="audio_0196"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1310.723s" clip-end="npt=1320.885s" id="audio_0197"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1320.885s" clip-end="npt=1322.152s" id="audio_0198"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1322.152s" clip-end="npt=1328.604s" id="audio_0199"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1328.604s" clip-end="npt=1333.841s" id="audio_0200"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1333.841s" clip-end="npt=1343.507s" id="audio_0201"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1343.507s" clip-end="npt=1346.680s" id="audio_0202"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sssh_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_015d" id="sssh_0006"/>
+			</par>
+			<par endsync="last" id="efgd_0050">
+				<text src="ncc.html#jjoy_0155" id="sssh_0007"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1346.680s" clip-end="npt=1349.463s" id="audio_0203"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1349.463s" clip-end="npt=1350.704s" id="audio_0204"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1350.704s" clip-end="npt=1357.287s" id="audio_0205"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1357.287s" clip-end="npt=1358.253s" id="audio_0206"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1358.253s" clip-end="npt=1363.321s" id="audio_0207"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1363.321s" clip-end="npt=1370.060s" id="audio_0208"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1370.060s" clip-end="npt=1371.458s" id="audio_0209"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1371.458s" clip-end="npt=1376.552s" id="audio_0210"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1376.552s" clip-end="npt=1381.097s" id="audio_0211"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1381.097s" clip-end="npt=1391.468s" id="audio_0212"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1391.468s" clip-end="npt=1392.748s" id="audio_0213"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1392.748s" clip-end="npt=1399.017s" id="audio_0214"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1399.017s" clip-end="npt=1403.758s" id="audio_0215"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1403.758s" clip-end="npt=1408.630s" id="audio_0216"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1408.630s" clip-end="npt=1410.485s" id="audio_0217"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1410.485s" clip-end="npt=1412.483s" id="audio_0218"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1412.483s" clip-end="npt=1418.374s" id="audio_0219"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1418.374s" clip-end="npt=1419.994s" id="audio_0220"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1419.994s" clip-end="npt=1425.714s" id="audio_0221"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1425.714s" clip-end="npt=1427.125s" id="audio_0222"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1427.125s" clip-end="npt=1432.585s" id="audio_0223"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1432.585s" clip-end="npt=1433.839s" id="audio_0224"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1433.839s" clip-end="npt=1441.336s" id="audio_0225"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1441.336s" clip-end="npt=1442.917s" id="audio_0226"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1442.917s" clip-end="npt=1447.710s" id="audio_0227"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1447.710s" clip-end="npt=1449.330s" id="audio_0228"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1449.330s" clip-end="npt=1456.840s" id="audio_0229"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1456.840s" clip-end="npt=1460.210s" id="audio_0230"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1460.210s" clip-end="npt=1463.018s" id="audio_0231"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1463.018s" clip-end="npt=1464.076s" id="audio_0232"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1464.076s" clip-end="npt=1469.444s" id="audio_0233"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1469.444s" clip-end="npt=1476.341s" id="audio_0234"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1476.341s" clip-end="npt=1477.438s" id="audio_0235"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1477.438s" clip-end="npt=1479.750s" id="audio_0236"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1479.750s" clip-end="npt=1484.922s" id="audio_0237"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1484.922s" clip-end="npt=1485.941s" id="audio_0238"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1485.941s" clip-end="npt=1491.949s" id="audio_0239"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1491.949s" clip-end="npt=1493.085s" id="audio_0240"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1493.085s" clip-end="npt=1499.159s" id="audio_0241"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1499.159s" clip-end="npt=1500.216s" id="audio_0242"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1500.216s" clip-end="npt=1506.329s" id="audio_0243"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1506.329s" clip-end="npt=1507.596s" id="audio_0244"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1507.596s" clip-end="npt=1513.879s" id="audio_0245"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1513.879s" clip-end="npt=1515.211s" id="audio_0246"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1515.211s" clip-end="npt=1520.474s" id="audio_0247"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1520.474s" clip-end="npt=1521.859s" id="audio_0248"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1521.859s" clip-end="npt=1529.421s" id="audio_0249"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1529.421s" clip-end="npt=1533.900s" id="audio_0250"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sssh_0008" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_015e" id="sssh_0009"/>
+			</par>
+			<par endsync="last" id="efgd_00b1">
+				<text src="ncc.html#jjoy_0155" id="sssh_000a"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1533.900s" clip-end="npt=1537.335s" id="audio_0251"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1537.335s" clip-end="npt=1539.124s" id="audio_0252"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1539.124s" clip-end="npt=1541.906s" id="audio_0253"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1541.906s" clip-end="npt=1543.892s" id="audio_0254"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1543.892s" clip-end="npt=1547.366s" id="audio_0255"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1547.366s" clip-end="npt=1552.303s" id="audio_0256"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1552.303s" clip-end="npt=1553.426s" id="audio_0257"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1553.426s" clip-end="npt=1558.808s" id="audio_0258"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1558.808s" clip-end="npt=1562.008s" id="audio_0259"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1562.008s" clip-end="npt=1563.209s" id="audio_0260"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1563.209s" clip-end="npt=1567.807s" id="audio_0261"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1567.807s" clip-end="npt=1570.811s" id="audio_0262"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1570.811s" clip-end="npt=1573.985s" id="audio_0263"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1573.985s" clip-end="npt=1580.215s" id="audio_0264"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1580.215s" clip-end="npt=1581.795s" id="audio_0265"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1581.795s" clip-end="npt=1585.766s" id="audio_0266"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1585.766s" clip-end="npt=1589.750s" id="audio_0267"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1589.750s" clip-end="npt=1596.045s" id="audio_0268"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1596.045s" clip-end="npt=1597.260s" id="audio_0269"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1597.260s" clip-end="npt=1606.481s" id="audio_0270"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1606.481s" clip-end="npt=1613.116s" id="audio_0271"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1613.116s" clip-end="npt=1614.697s" id="audio_0272"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1614.697s" clip-end="npt=1622.128s" id="audio_0273"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1622.128s" clip-end="npt=1627.301s" id="audio_0274"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1627.301s" clip-end="npt=1632.800s" id="audio_0275"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1632.800s" clip-end="npt=1636.810s" id="audio_0276"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1636.810s" clip-end="npt=1642.531s" id="audio_0277"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1642.531s" clip-end="npt=1644.124s" id="audio_0278"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1644.124s" clip-end="npt=1649.871s" id="audio_0279"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1649.871s" clip-end="npt=1652.301s" id="audio_0280"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1652.301s" clip-end="npt=1653.515s" id="audio_0281"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1653.515s" clip-end="npt=1654.874s" id="audio_0282"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1654.874s" clip-end="npt=1656.036s" id="audio_0283"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1656.036s" clip-end="npt=1657.355s" id="audio_0284"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1657.355s" clip-end="npt=1658.949s" id="audio_0285"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1658.949s" clip-end="npt=1660.503s" id="audio_0286"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1660.503s" clip-end="npt=1661.809s" id="audio_0287"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1661.809s" clip-end="npt=1663.429s" id="audio_0288"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1663.429s" clip-end="npt=1664.800s" id="audio_0289"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1664.800s" clip-end="npt=1667.608s" id="audio_0290"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1667.608s" clip-end="npt=1668.888s" id="audio_0291"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1668.888s" clip-end="npt=1673.055s" id="audio_0292"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1673.055s" clip-end="npt=1677.796s" id="audio_0293"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1677.796s" clip-end="npt=1682.054s" id="audio_0294"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1682.054s" clip-end="npt=1686.560s" id="audio_0295"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1686.560s" clip-end="npt=1689.577s" id="audio_0296"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1689.577s" clip-end="npt=1694.998s" id="audio_0297"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1694.998s" clip-end="npt=1696.134s" id="audio_0298"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1696.134s" clip-end="npt=1700.301s" id="audio_0299"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1700.301s" clip-end="npt=1705.799s" id="audio_0300"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1705.799s" clip-end="npt=1706.805s" id="audio_0301"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1706.805s" clip-end="npt=1711.298s" id="audio_0302"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1711.298s" clip-end="npt=1716.000s" id="audio_0303"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1716.000s" clip-end="npt=1723.301s" id="audio_0304"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1723.301s" clip-end="npt=1726.628s" id="audio_0305"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sssh_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_015f" id="sssh_000d"/>
+			</par>
+			<par endsync="last" id="efgd_0120">
+				<text src="ncc.html#jjoy_0155" id="sssh_000e"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1726.628s" clip-end="npt=1729.600s" id="audio_0306"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1729.600s" clip-end="npt=1732.852s" id="audio_0307"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1732.852s" clip-end="npt=1734.119s" id="audio_0308"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1734.119s" clip-end="npt=1736.261s" id="audio_0309"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1736.261s" clip-end="npt=1742.139s" id="audio_0310"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1742.139s" clip-end="npt=1743.262s" id="audio_0311"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1743.262s" clip-end="npt=1746.240s" id="audio_0312"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1746.240s" clip-end="npt=1749.505s" id="audio_0313"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1749.505s" clip-end="npt=1753.397s" id="audio_0314"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1753.397s" clip-end="npt=1759.797s" id="audio_0315"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1759.797s" clip-end="npt=1765.623s" id="audio_0316"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1765.623s" clip-end="npt=1772.676s" id="audio_0317"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1772.676s" clip-end="npt=1776.921s" id="audio_0318"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1776.921s" clip-end="npt=1780.225s" id="audio_0319"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1780.225s" clip-end="npt=1784.757s" id="audio_0320"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1784.757s" clip-end="npt=1790.047s" id="audio_0321"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1790.047s" clip-end="npt=1793.521s" id="audio_0322"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1793.521s" clip-end="npt=1797.531s" id="audio_0323"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1797.531s" clip-end="npt=1801.855s" id="audio_0324"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1801.855s" clip-end="npt=1808.895s" id="audio_0325"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1808.895s" clip-end="npt=1811.141s" id="audio_0326"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1811.141s" clip-end="npt=1817.724s" id="audio_0327"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1817.724s" clip-end="npt=1819.278s" id="audio_0328"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1819.278s" clip-end="npt=1820.832s" id="audio_0329"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1820.832s" clip-end="npt=1822.687s" id="audio_0330"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1822.687s" clip-end="npt=1826.148s" id="audio_0331"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1826.148s" clip-end="npt=1827.350s" id="audio_0332"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1827.350s" clip-end="npt=1828.735s" id="audio_0333"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1828.735s" clip-end="npt=1835.487s" id="audio_0334"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1835.487s" clip-end="npt=1839.288s" id="audio_0335"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1839.288s" clip-end="npt=1842.292s" id="audio_0336"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1842.292s" clip-end="npt=1849.554s" id="audio_0337"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1849.554s" clip-end="npt=1853.512s" id="audio_0338"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1853.512s" clip-end="npt=1857.613s" id="audio_0339"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1857.613s" clip-end="npt=1858.697s" id="audio_0340"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1858.697s" clip-end="npt=1865.319s" id="audio_0341"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1865.319s" clip-end="npt=1873.861s" id="audio_0342"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1873.861s" clip-end="npt=1880.588s" id="audio_0343"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1880.588s" clip-end="npt=1881.750s" id="audio_0344"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1881.750s" clip-end="npt=1884.415s" id="audio_0345"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1884.415s" clip-end="npt=1887.014s" id="audio_0346"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1887.014s" clip-end="npt=1891.990s" id="audio_0347"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1891.990s" clip-end="npt=1895.804s" id="audio_0348"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1895.804s" clip-end="npt=1899.857s" id="audio_0349"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sssh_0010" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0160" id="sssh_0011"/>
+			</par>
+			<par endsync="last" id="efgd_0162">
+				<text src="ncc.html#jjoy_0155" id="sssh_0012"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1899.857s" clip-end="npt=1902.080s" id="audio_0350"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1902.080s" clip-end="npt=1905.006s" id="audio_0351"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1905.006s" clip-end="npt=1905.946s" id="audio_0352"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1905.946s" clip-end="npt=1909.904s" id="audio_0353"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1909.904s" clip-end="npt=1915.716s" id="audio_0354"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1915.716s" clip-end="npt=1919.203s" id="audio_0355"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1919.203s" clip-end="npt=1923.683s" id="audio_0356"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1923.683s" clip-end="npt=1927.014s" id="audio_0357"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1927.014s" clip-end="npt=1928.046s" id="audio_0358"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1928.046s" clip-end="npt=1931.167s" id="audio_0359"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1931.167s" clip-end="npt=1936.235s" id="audio_0360"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1936.235s" clip-end="npt=1943.680s" id="audio_0361"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1943.680s" clip-end="npt=1945.665s" id="audio_0362"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1945.665s" clip-end="npt=1949.662s" id="audio_0363"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1949.662s" clip-end="npt=1954.443s" id="audio_0364"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1954.443s" clip-end="npt=1958.740s" id="audio_0365"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1958.740s" clip-end="npt=1959.758s" id="audio_0366"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1959.758s" clip-end="npt=1966.093s" id="audio_0367"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1966.093s" clip-end="npt=1971.997s" id="audio_0368"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1971.997s" clip-end="npt=1973.760s" id="audio_0369"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1973.760s" clip-end="npt=1978.070s" id="audio_0370"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1978.070s" clip-end="npt=1980.369s" id="audio_0371"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1980.369s" clip-end="npt=1981.871s" id="audio_0372"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1981.871s" clip-end="npt=1983.334s" id="audio_0373"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1983.334s" clip-end="npt=1984.745s" id="audio_0374"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1984.745s" clip-end="npt=1986.064s" id="audio_0375"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1986.064s" clip-end="npt=1987.357s" id="audio_0376"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1987.357s" clip-end="npt=1993.195s" id="audio_0377"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1993.195s" clip-end="npt=1994.671s" id="audio_0378"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1994.671s" clip-end="npt=1999.047s" id="audio_0379"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=1999.047s" clip-end="npt=2004.467s" id="audio_0380"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2004.467s" clip-end="npt=2010.240s" id="audio_0381"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2010.240s" clip-end="npt=2015.543s" id="audio_0382"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2015.543s" clip-end="npt=2016.418s" id="audio_0383"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2016.418s" clip-end="npt=2020.088s" id="audio_0384"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2020.088s" clip-end="npt=2028.356s" id="audio_0385"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2028.356s" clip-end="npt=2032.784s" id="audio_0386"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2032.784s" clip-end="npt=2035.174s" id="audio_0387"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2035.174s" clip-end="npt=2040.046s" id="audio_0388"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2040.046s" clip-end="npt=2043.860s" id="audio_0389"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2043.860s" clip-end="npt=2047.347s" id="audio_0390"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2047.347s" clip-end="npt=2051.239s" id="audio_0391"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2051.239s" clip-end="npt=2055.523s" id="audio_0392"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2055.523s" clip-end="npt=2059.664s" id="audio_0393"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2059.664s" clip-end="npt=2061.558s" id="audio_0394"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2061.558s" clip-end="npt=2070.322s" id="audio_0395"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2070.322s" clip-end="npt=2073.835s" id="audio_0396"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2073.835s" clip-end="npt=2077.492s" id="audio_0397"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2077.492s" clip-end="npt=2082.769s" id="audio_0398"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2082.769s" clip-end="npt=2085.172s" id="audio_0399"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2085.172s" clip-end="npt=2096.366s" id="audio_0400"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2096.366s" clip-end="npt=2100.415s" id="audio_0401"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sssh_0013" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0161" id="sssh_0014"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_0155" id="sssh_0015"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2100.415s" clip-end="npt=2102.452s" id="audio_0402"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2102.452s" clip-end="npt=2124.918s" id="audio_0403"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2124.918s" clip-end="npt=2145.424s" id="audio_0404"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2145.424s" clip-end="npt=2149.956s" id="audio_0405"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2149.956s" clip-end="npt=2159.334s" id="audio_0406"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2159.334s" clip-end="npt=2166.622s" id="audio_0407"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2166.622s" clip-end="npt=2178.273s" id="audio_0408"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2178.273s" clip-end="npt=2181.603s" id="audio_0409"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2181.603s" clip-end="npt=2189.518s" id="audio_0410"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2189.518s" clip-end="npt=2267.977s" id="audio_0411"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2267.977s" clip-end="npt=2274.638s" id="audio_0412"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2274.638s" clip-end="npt=2277.159s" id="audio_0413"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2277.159s" clip-end="npt=2291.331s" id="audio_0414"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2291.331s" clip-end="npt=2300.043s" id="audio_0415"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2300.043s" clip-end="npt=2325.917s" id="audio_0416"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2325.917s" clip-end="npt=2331.037s" id="audio_0417"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2331.037s" clip-end="npt=2340.402s" id="audio_0418"/>
+				</seq>
+			</par>
+			<par endsync="last" id="efgd_01a9" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0162" id="efgd_01aa"/>
+			</par>
+			<par endsync="last" id="efgd_01ab">
+				<text src="ncc.html#jjoy_0155" id="efgd_01ac"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2340.402s" clip-end="npt=2343.067s" id="audio_0419"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2343.067s" clip-end="npt=2346.358s" id="audio_0420"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2346.358s" clip-end="npt=2382.577s" id="audio_0421"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2382.577s" clip-end="npt=2385.960s" id="audio_0422"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2385.960s" clip-end="npt=2389.852s" id="audio_0423"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2389.852s" clip-end="npt=2392.582s" id="audio_0424"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2392.582s" clip-end="npt=2396.278s" id="audio_0425"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2396.278s" clip-end="npt=2398.956s" id="audio_0426"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2398.956s" clip-end="npt=2410.071s" id="audio_0427"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2410.071s" clip-end="npt=2415.400s" id="audio_0428"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2415.400s" clip-end="npt=2424.216s" id="audio_0429"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2424.216s" clip-end="npt=2431.125s" id="audio_0430"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2431.125s" clip-end="npt=2460.278s" id="audio_0431"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2460.278s" clip-end="npt=2462.211s" id="audio_0432"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2462.211s" clip-end="npt=2464.027s" id="audio_0433"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2464.027s" clip-end="npt=2469.734s" id="audio_0434"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2469.734s" clip-end="npt=2473.849s" id="audio_0435"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2473.849s" clip-end="npt=2489.849s" id="audio_0436"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2489.849s" clip-end="npt=2501.420s" id="audio_0437"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2501.420s" clip-end="npt=2502.922s" id="audio_0438"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2502.922s" clip-end="npt=2510.733s" id="audio_0439"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2510.733s" clip-end="npt=2512.418s" id="audio_0440"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2512.418s" clip-end="npt=2514.181s" id="audio_0441"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2514.181s" clip-end="npt=2518.609s" id="audio_0442"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2518.609s" clip-end="npt=2526.824s" id="audio_0443"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2526.824s" clip-end="npt=2528.339s" id="audio_0444"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2528.339s" clip-end="npt=2537.482s" id="audio_0445"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2537.482s" clip-end="npt=2541.061s" id="audio_0446"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2541.061s" clip-end="npt=2550.452s" id="audio_0447"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2550.452s" clip-end="npt=2559.072s" id="audio_0448"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2559.072s" clip-end="npt=2563.351s" id="audio_0449"/>
+				</seq>
+			</par>
+			<par endsync="last" id="efgd_01eb" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0163" id="efgd_01ec"/>
+			</par>
+			<par endsync="last" id="efgd_01ed">
+				<text src="ncc.html#jjoy_0155" id="efgd_01ee"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2563.351s" clip-end="npt=2569.490s" id="audio_0450"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2569.490s" clip-end="npt=2572.207s" id="audio_0451"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2572.207s" clip-end="npt=2573.447s" id="audio_0452"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2573.447s" clip-end="npt=2576.582s" id="audio_0453"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2576.582s" clip-end="npt=2586.861s" id="audio_0454"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2586.861s" clip-end="npt=2589.774s" id="audio_0455"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2589.774s" clip-end="npt=2593.353s" id="audio_0456"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2593.353s" clip-end="npt=2596.709s" id="audio_0457"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2596.709s" clip-end="npt=2602.874s" id="audio_0458"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2602.874s" clip-end="npt=2611.717s" id="audio_0459"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2611.717s" clip-end="npt=2619.867s" id="audio_0460"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2619.867s" clip-end="npt=2623.955s" id="audio_0461"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2623.955s" clip-end="npt=2629.219s" id="audio_0462"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2629.219s" clip-end="npt=2635.828s" id="audio_0463"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2635.828s" clip-end="npt=2637.473s" id="audio_0464"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2637.473s" clip-end="npt=2645.023s" id="audio_0465"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2645.023s" clip-end="npt=2649.294s" id="audio_0466"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2649.294s" clip-end="npt=2653.709s" id="audio_0467"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2653.709s" clip-end="npt=2657.431s" id="audio_0468"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2657.431s" clip-end="npt=2663.922s" id="audio_0469"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2663.922s" clip-end="npt=2672.216s" id="audio_0470"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2672.216s" clip-end="npt=2679.831s" id="audio_0471"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2679.831s" clip-end="npt=2681.411s" id="audio_0472"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2681.411s" clip-end="npt=2685.095s" id="audio_0473"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2685.095s" clip-end="npt=2692.592s" id="audio_0474"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2692.592s" clip-end="npt=2695.282s" id="audio_0475"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2695.282s" clip-end="npt=2698.234s" id="audio_0476"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2698.234s" clip-end="npt=2704.869s" id="audio_0477"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2704.869s" clip-end="npt=2706.593s" id="audio_0478"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2706.593s" clip-end="npt=2716.024s" id="audio_0479"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2716.024s" clip-end="npt=2717.539s" id="audio_0480"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2717.539s" clip-end="npt=2725.624s" id="audio_0481"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2725.624s" clip-end="npt=2727.087s" id="audio_0482"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2727.087s" clip-end="npt=2738.424s" id="audio_0483"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2738.424s" clip-end="npt=2741.996s" id="audio_0484"/>
+				</seq>
+			</par>
+			<par endsync="last" id="efgd_0235" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0164" id="efgd_0236"/>
+			</par>
+			<par endsync="last" id="efgd_0237">
+				<text src="ncc.html#jjoy_0155" id="efgd_0238"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2741.996s" clip-end="npt=2744.340s" id="audio_0485"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2744.340s" clip-end="npt=2746.978s" id="audio_0486"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2746.978s" clip-end="npt=2750.165s" id="audio_0487"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2750.165s" clip-end="npt=2751.654s" id="audio_0488"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2751.654s" clip-end="npt=2754.214s" id="audio_0489"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2754.214s" clip-end="npt=2757.075s" id="audio_0490"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2757.075s" clip-end="npt=2760.967s" id="audio_0491"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2760.967s" clip-end="npt=2764.245s" id="audio_0492"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2764.245s" clip-end="npt=2771.573s" id="audio_0493"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2771.573s" clip-end="npt=2773.061s" id="audio_0494"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2773.061s" clip-end="npt=2780.728s" id="audio_0495"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2780.728s" clip-end="npt=2787.455s" id="audio_0496"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2787.455s" clip-end="npt=2792.079s" id="audio_0497"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2792.079s" clip-end="npt=2796.284s" id="audio_0498"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2796.284s" clip-end="npt=2798.871s" id="audio_0499"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2798.871s" clip-end="npt=2804.056s" id="audio_0500"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2804.056s" clip-end="npt=2805.401s" id="audio_0501"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2805.401s" clip-end="npt=2808.353s" id="audio_0502"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2808.353s" clip-end="npt=2811.723s" id="audio_0503"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2811.723s" clip-end="npt=2819.243s" id="audio_0504"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2819.243s" clip-end="npt=2820.811s" id="audio_0505"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2820.811s" clip-end="npt=2823.919s" id="audio_0506"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2823.919s" clip-end="npt=2826.414s" id="audio_0507"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2826.414s" clip-end="npt=2828.608s" id="audio_0508"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2828.608s" clip-end="npt=2830.567s" id="audio_0509"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2830.567s" clip-end="npt=2832.474s" id="audio_0510"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2832.474s" clip-end="npt=2834.564s" id="audio_0511"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2834.564s" clip-end="npt=2836.758s" id="audio_0512"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2836.758s" clip-end="npt=2838.718s" id="audio_0513"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2838.718s" clip-end="npt=2842.320s" id="audio_0514"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2842.320s" clip-end="npt=2846.030s" id="audio_0515"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2846.030s" clip-end="npt=2847.754s" id="audio_0516"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2847.754s" clip-end="npt=2851.085s" id="audio_0517"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2851.085s" clip-end="npt=2853.749s" id="audio_0518"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2853.749s" clip-end="npt=2856.074s" id="audio_0519"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2856.074s" clip-end="npt=2857.981s" id="audio_0520"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2857.981s" clip-end="npt=2858.782s" id="audio_0521"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2858.782s" clip-end="npt=2865.874s" id="audio_0522"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2865.874s" clip-end="npt=2867.899s" id="audio_0523"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2867.899s" clip-end="npt=2870.119s" id="audio_0524"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2870.119s" clip-end="npt=2872.601s" id="audio_0525"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2872.601s" clip-end="npt=2874.677s" id="audio_0526"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2874.677s" clip-end="npt=2877.015s" id="audio_0527"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2877.015s" clip-end="npt=2881.077s" id="audio_0528"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2881.077s" clip-end="npt=2883.520s" id="audio_0529"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2883.520s" clip-end="npt=2885.649s" id="audio_0530"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2885.649s" clip-end="npt=2890.045s" id="audio_0531"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2890.045s" clip-end="npt=2894.773s" id="audio_0532"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2894.773s" clip-end="npt=2897.281s" id="audio_0533"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2897.281s" clip-end="npt=2898.862s" id="audio_0534"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2898.862s" clip-end="npt=2904.269s" id="audio_0535"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2904.269s" clip-end="npt=2908.031s" id="audio_0536"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2908.031s" clip-end="npt=2910.512s" id="audio_0537"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2910.512s" clip-end="npt=2912.354s" id="audio_0538"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2912.354s" clip-end="npt=2914.509s" id="audio_0539"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2914.509s" clip-end="npt=2918.009s" id="audio_0540"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2918.009s" clip-end="npt=2919.786s" id="audio_0541"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2919.786s" clip-end="npt=2923.417s" id="audio_0542"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2923.417s" clip-end="npt=2926.917s" id="audio_0543"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2926.917s" clip-end="npt=2932.037s" id="audio_0544"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2932.037s" clip-end="npt=2934.706s" id="audio_0545"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0165" id="efgd_02b3"/>
+			</par>
+			<par endsync="last" id="efgd_02b4">
+				<text src="ncc.html#jjoy_0155" id="efgd_02b5"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2934.706s" clip-end="npt=2937.383s" id="audio_0546"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2937.383s" clip-end="npt=2939.329s" id="audio_0547"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2939.329s" clip-end="npt=2942.164s" id="audio_0548"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2942.164s" clip-end="npt=2944.345s" id="audio_0549"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2944.345s" clip-end="npt=2946.304s" id="audio_0550"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2946.304s" clip-end="npt=2949.765s" id="audio_0551"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2949.765s" clip-end="npt=2952.952s" id="audio_0552"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2952.952s" clip-end="npt=2955.068s" id="audio_0553"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2955.068s" clip-end="npt=2957.236s" id="audio_0554"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2957.236s" clip-end="npt=2959.535s" id="audio_0555"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2959.535s" clip-end="npt=2961.546s" id="audio_0556"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2961.546s" clip-end="npt=2969.031s" id="audio_0557"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2969.031s" clip-end="npt=2971.525s" id="audio_0558"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2971.525s" clip-end="npt=2974.164s" id="audio_0559"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2974.164s" clip-end="npt=2978.866s" id="audio_0560"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2978.866s" clip-end="npt=2980.903s" id="audio_0561"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2980.903s" clip-end="npt=2985.671s" id="audio_0562"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2985.671s" clip-end="npt=2991.535s" id="audio_0563"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2991.535s" clip-end="npt=2995.702s" id="audio_0564"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2995.702s" clip-end="npt=2999.320s" id="audio_0565"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=2999.320s" clip-end="npt=3006.268s" id="audio_0566"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3006.268s" clip-end="npt=3013.517s" id="audio_0567"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3013.517s" clip-end="npt=3030.849s" id="audio_0568"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3030.849s" clip-end="npt=3035.264s" id="audio_0569"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3035.264s" clip-end="npt=3039.822s" id="audio_0570"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3039.822s" clip-end="npt=3043.203s" id="audio_0571"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3043.203s" clip-end="npt=3046.703s" id="audio_0572"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3046.703s" clip-end="npt=3053.887s" id="audio_0573"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3053.887s" clip-end="npt=3057.009s" id="audio_0574"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3057.009s" clip-end="npt=3061.711s" id="audio_0575"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3061.711s" clip-end="npt=3065.329s" id="audio_0576"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3065.329s" clip-end="npt=3066.321s" id="audio_0577"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3066.321s" clip-end="npt=3077.622s" id="audio_0578"/>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3077.622s" clip-end="npt=3081.552s" id="audio_0579"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zsyk_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0167" id="zsyk_0002"/>
+			</par>
+			<par endsync="last" id="efgd_02fb">
+				<text src="ncc.html#jjoy_0155" id="zsyk_0003"/>
+				<seq>
+					<audio src="14_Lesson_13__The_Tiger_in_the_Tunnel.mp3" clip-begin="npt=3081.552s" clip-end="npt=3083.746s" id="audio_0580"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

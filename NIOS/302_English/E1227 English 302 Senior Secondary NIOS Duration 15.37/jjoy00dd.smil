@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:08:10.618"/>
+		<meta name="ncc:totalElapsedTime" content="04:02:01.439"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 10: Where the Mind is Without Fear"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="490.618s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_013b" id="jjoy_013b"/>
+				<seq>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=0.000s" clip-end="npt=2.320s" id="audio_0001"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=2.320s" clip-end="npt=5.494s" id="audio_0002"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=5.494s" clip-end="npt=11.998s" id="audio_0003"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=11.998s" clip-end="npt=20.396s" id="audio_0004"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=20.396s" clip-end="npt=25.908s" id="audio_0005"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=25.908s" clip-end="npt=30.023s" id="audio_0006"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=30.023s" clip-end="npt=35.352s" id="audio_0007"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=35.352s" clip-end="npt=42.183s" id="audio_0008"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=42.183s" clip-end="npt=48.726s" id="audio_0009"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=48.726s" clip-end="npt=57.099s" id="audio_0010"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=57.099s" clip-end="npt=65.001s" id="audio_0011"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=65.001s" clip-end="npt=69.154s" id="audio_0012"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=69.154s" clip-end="npt=78.336s" id="audio_0013"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=78.336s" clip-end="npt=82.685s" id="audio_0014"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=82.685s" clip-end="npt=86.055s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="slwg_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_013c" id="slwg_0002"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_013b" id="slwg_0003"/>
+				<seq>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=86.055s" clip-end="npt=87.468s" id="audio_0016"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=87.468s" clip-end="npt=89.649s" id="audio_0017"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=89.649s" clip-end="npt=91.569s" id="audio_0018"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=91.569s" clip-end="npt=98.557s" id="audio_0019"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=98.557s" clip-end="npt=102.632s" id="audio_0020"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=102.632s" clip-end="npt=104.578s" id="audio_0021"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=104.578s" clip-end="npt=110.404s" id="audio_0022"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=110.404s" clip-end="npt=113.917s" id="audio_0023"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=113.917s" clip-end="npt=120.892s" id="audio_0024"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=120.892s" clip-end="npt=124.562s" id="audio_0025"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=124.562s" clip-end="npt=126.312s" id="audio_0026"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=126.312s" clip-end="npt=131.746s" id="audio_0027"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=131.746s" clip-end="npt=133.757s" id="audio_0028"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=133.757s" clip-end="npt=135.181s" id="audio_0029"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=135.181s" clip-end="npt=139.360s" id="audio_0030"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=139.360s" clip-end="npt=140.170s" id="audio_0031"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=140.170s" clip-end="npt=143.057s" id="audio_0032"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=143.057s" clip-end="npt=148.751s" id="audio_0033"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=148.751s" clip-end="npt=150.097s" id="audio_0034"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=150.097s" clip-end="npt=155.060s" id="audio_0035"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=155.060s" clip-end="npt=159.135s" id="audio_0036"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=159.135s" clip-end="npt=168.644s" id="audio_0037"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=168.644s" clip-end="npt=173.137s" id="audio_0038"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=173.137s" clip-end="npt=179.066s" id="audio_0039"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=179.066s" clip-end="npt=183.873s" id="audio_0040"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=183.873s" clip-end="npt=190.181s" id="audio_0041"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=190.181s" clip-end="npt=191.566s" id="audio_0042"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=191.566s" clip-end="npt=197.065s" id="audio_0043"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=197.065s" clip-end="npt=198.606s" id="audio_0044"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=198.606s" clip-end="npt=203.857s" id="audio_0045"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=203.857s" clip-end="npt=206.936s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="slwg_0004" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_013d" id="slwg_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_013b" id="slwg_0007"/>
+				<seq>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=206.936s" clip-end="npt=209.199s" id="audio_0047"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=209.199s" clip-end="npt=211.576s" id="audio_0048"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=211.576s" clip-end="npt=213.888s" id="audio_0049"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=213.888s" clip-end="npt=216.056s" id="audio_0050"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=216.056s" clip-end="npt=224.010s" id="audio_0051"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=224.010s" clip-end="npt=236.601s" id="audio_0052"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=236.601s" clip-end="npt=242.296s" id="audio_0053"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=242.296s" clip-end="npt=246.606s" id="audio_0054"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=246.606s" clip-end="npt=251.165s" id="audio_0055"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=251.165s" clip-end="npt=268.288s" id="audio_0056"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=268.288s" clip-end="npt=269.790s" id="audio_0057"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=269.790s" clip-end="npt=271.292s" id="audio_0058"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=271.292s" clip-end="npt=274.296s" id="audio_0059"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=274.296s" clip-end="npt=283.086s" id="audio_0060"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=283.086s" clip-end="npt=286.704s" id="audio_0061"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=286.704s" clip-end="npt=289.617s" id="audio_0062"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=289.617s" clip-end="npt=293.718s" id="audio_0063"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=293.718s" clip-end="npt=298.668s" id="audio_0064"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=298.668s" clip-end="npt=300.353s" id="audio_0065"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=300.353s" clip-end="npt=305.395s" id="audio_0066"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=305.395s" clip-end="npt=308.660s" id="audio_0067"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=308.660s" clip-end="npt=309.836s" id="audio_0068"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=309.836s" clip-end="npt=313.885s" id="audio_0069"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=313.885s" clip-end="npt=316.497s" id="audio_0070"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=316.497s" clip-end="npt=318.482s" id="audio_0071"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=318.482s" clip-end="npt=321.787s" id="audio_0072"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=321.787s" clip-end="npt=328.415s" id="audio_0073"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=328.415s" clip-end="npt=330.544s" id="audio_0074"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=330.544s" clip-end="npt=331.903s" id="audio_0075"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=331.903s" clip-end="npt=336.200s" id="audio_0076"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=336.200s" clip-end="npt=337.584s" id="audio_0077"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=337.584s" clip-end="npt=343.997s" id="audio_0078"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=343.997s" clip-end="npt=345.917s" id="audio_0079"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=345.917s" clip-end="npt=350.201s" id="audio_0080"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=350.201s" clip-end="npt=351.207s" id="audio_0081"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=351.207s" clip-end="npt=357.921s" id="audio_0082"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=357.921s" clip-end="npt=358.704s" id="audio_0083"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=358.704s" clip-end="npt=366.058s" id="audio_0084"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=366.058s" clip-end="npt=370.198s" id="audio_0085"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=370.198s" clip-end="npt=371.413s" id="audio_0086"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=371.413s" clip-end="npt=376.337s" id="audio_0087"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=376.337s" clip-end="npt=379.746s" id="audio_0088"/>
+				</seq>
+			</par>
+			<par endsync="last" id="slwg_0009" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_013e" id="slwg_000a"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_013b" id="slwg_000b"/>
+				<seq>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=379.746s" clip-end="npt=381.308s" id="audio_0089"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=381.308s" clip-end="npt=383.450s" id="audio_0090"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=383.450s" clip-end="npt=385.932s" id="audio_0091"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=385.932s" clip-end="npt=390.281s" id="audio_0092"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=390.281s" clip-end="npt=392.045s" id="audio_0093"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=392.045s" clip-end="npt=396.877s" id="audio_0094"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=396.877s" clip-end="npt=398.275s" id="audio_0095"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=398.275s" clip-end="npt=403.186s" id="audio_0096"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=403.186s" clip-end="npt=404.518s" id="audio_0097"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=404.518s" clip-end="npt=409.586s" id="audio_0098"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=409.586s" clip-end="npt=413.622s" id="audio_0099"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=413.622s" clip-end="npt=415.411s" id="audio_0100"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=415.411s" clip-end="npt=422.151s" id="audio_0101"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=422.151s" clip-end="npt=425.808s" id="audio_0102"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=425.808s" clip-end="npt=427.493s" id="audio_0103"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=427.493s" clip-end="npt=428.290s" id="audio_0104"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=428.290s" clip-end="npt=431.777s" id="audio_0105"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=431.777s" clip-end="npt=436.544s" id="audio_0106"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=436.544s" clip-end="npt=438.151s" id="audio_0107"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=438.151s" clip-end="npt=439.078s" id="audio_0108"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=439.078s" clip-end="npt=447.790s" id="audio_0109"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=447.790s" clip-end="npt=450.585s" id="audio_0110"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=450.585s" clip-end="npt=452.270s" id="audio_0111"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=452.270s" clip-end="npt=459.362s" id="audio_0112"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=459.362s" clip-end="npt=462.419s" id="audio_0113"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=462.419s" clip-end="npt=464.874s" id="audio_0114"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=464.874s" clip-end="npt=468.858s" id="audio_0115"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=468.858s" clip-end="npt=474.474s" id="audio_0116"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=474.474s" clip-end="npt=476.603s" id="audio_0117"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=476.603s" clip-end="npt=478.902s" id="audio_0118"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=478.902s" clip-end="npt=482.037s" id="audio_0119"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=482.037s" clip-end="npt=485.623s" id="audio_0120"/>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=485.623s" clip-end="npt=489.189s" id="audio_0121"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_013f" id="lhll_0001"/>
+			</par>
+			<par endsync="last" id="lhll_0002">
+				<text src="ncc.html#jjoy_013b" id="par_0004"/>
+				<seq>
+					<audio src="11_Lesson_10__Where_the_Mind_is_Without_Fear.mp3" clip-begin="npt=489.189s" clip-end="npt=490.618s" id="audio_0122"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

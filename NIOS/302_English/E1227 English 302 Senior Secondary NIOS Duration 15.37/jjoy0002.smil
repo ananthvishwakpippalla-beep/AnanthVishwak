@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:49:17.814"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:58.152"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 1: My First Step"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="2957.814s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_00ef" id="jjoy_00ef"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=0.000s" clip-end="npt=0.829s" id="audio_0001"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=0.829s" clip-end="npt=6.105s" id="audio_0002"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=6.105s" clip-end="npt=8.352s" id="audio_0003"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=8.352s" clip-end="npt=15.092s" id="audio_0004"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=15.092s" clip-end="npt=16.776s" id="audio_0005"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=16.776s" clip-end="npt=22.811s" id="audio_0006"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=22.811s" clip-end="npt=32.620s" id="audio_0007"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=32.620s" clip-end="npt=36.956s" id="audio_0008"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=36.956s" clip-end="npt=51.454s" id="audio_0009"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=51.454s" clip-end="npt=52.577s" id="audio_0010"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=52.577s" clip-end="npt=55.751s" id="audio_0011"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=55.751s" clip-end="npt=59.630s" id="audio_0012"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=59.630s" clip-end="npt=69.139s" id="audio_0013"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=69.139s" clip-end="npt=76.100s" id="audio_0014"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=76.100s" clip-end="npt=83.088s" id="audio_0015"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=83.088s" clip-end="npt=93.890s" id="audio_0016"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=93.890s" clip-end="npt=99.127s" id="audio_0017"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=99.127s" clip-end="npt=100.943s" id="audio_0018"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=100.943s" clip-end="npt=107.094s" id="audio_0019"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=107.094s" clip-end="npt=110.334s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zrom_0006" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00da" id="zrom_0007"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_00ef" id="zrom_0008"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=110.334s" clip-end="npt=111.407s" id="audio_0021"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=111.407s" clip-end="npt=113.928s" id="audio_0022"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=113.928s" clip-end="npt=121.360s" id="audio_0023"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=121.360s" clip-end="npt=138.222s" id="audio_0024"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=138.222s" clip-end="npt=151.296s" id="audio_0025"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=151.296s" clip-end="npt=165.986s" id="audio_0026"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=165.986s" clip-end="npt=169.395s" id="audio_0027"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=169.395s" clip-end="npt=170.884s" id="audio_0028"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=170.884s" clip-end="npt=174.149s" id="audio_0029"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=174.149s" clip-end="npt=175.403s" id="audio_0030"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=175.403s" clip-end="npt=183.749s" id="audio_0031"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=183.749s" clip-end="npt=189.927s" id="audio_0032"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=189.927s" clip-end="npt=191.573s" id="audio_0033"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=191.573s" clip-end="npt=194.982s" id="audio_0034"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=194.982s" clip-end="npt=203.459s" id="audio_0035"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=203.459s" clip-end="npt=209.375s" id="audio_0036"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=209.375s" clip-end="npt=215.253s" id="audio_0037"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=215.253s" clip-end="npt=218.884s" id="audio_0038"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=218.884s" clip-end="npt=222.907s" id="audio_0039"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=222.907s" clip-end="npt=226.008s" id="audio_0040"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=226.008s" clip-end="npt=227.528s" id="audio_0041"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=227.528s" clip-end="npt=231.238s" id="audio_0042"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=231.238s" clip-end="npt=233.876s" id="audio_0043"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=233.876s" clip-end="npt=240.694s" id="audio_0044"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=240.694s" clip-end="npt=256.355s" id="audio_0045"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=256.355s" clip-end="npt=263.251s" id="audio_0046"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=263.251s" clip-end="npt=268.057s" id="audio_0047"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=268.057s" clip-end="npt=276.469s" id="audio_0048"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=276.469s" clip-end="npt=279.734s" id="audio_0049"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=279.734s" clip-end="npt=290.353s" id="audio_0050"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=290.353s" clip-end="npt=294.781s" id="audio_0051"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=294.781s" clip-end="npt=300.998s" id="audio_0052"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=300.998s" clip-end="npt=304.015s" id="audio_0053"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zrom_0009" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00db" id="zrom_000a"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_00ef" id="zrom_000b"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=304.015s" clip-end="npt=306.088s" id="audio_0054"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=306.088s" clip-end="npt=337.944s" id="audio_0055"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=337.944s" clip-end="npt=369.840s" id="audio_0056"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=369.840s" clip-end="npt=386.441s" id="audio_0057"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=386.441s" clip-end="npt=412.850s" id="audio_0058"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=412.850s" clip-end="npt=435.603s" id="audio_0059"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=435.603s" clip-end="npt=441.624s" id="audio_0060"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=441.624s" clip-end="npt=445.582s" id="audio_0061"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=445.582s" clip-end="npt=452.204s" id="audio_0062"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=452.204s" clip-end="npt=459.583s" id="audio_0063"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=459.583s" clip-end="npt=464.821s" id="audio_0064"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=464.821s" clip-end="npt=477.987s" id="audio_0065"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=477.987s" clip-end="npt=500.308s" id="audio_0066"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=500.308s" clip-end="npt=503.775s" id="audio_0067"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=503.775s" clip-end="npt=507.654s" id="audio_0068"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=507.654s" clip-end="npt=509.313s" id="audio_0069"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=509.313s" clip-end="npt=514.120s" id="audio_0070"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=514.120s" clip-end="npt=515.465s" id="audio_0071"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=515.465s" clip-end="npt=516.510s" id="audio_0072"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=516.510s" clip-end="npt=529.754s" id="audio_0073"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=529.754s" clip-end="npt=530.916s" id="audio_0074"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=530.916s" clip-end="npt=534.012s" id="audio_0075"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=534.012s" clip-end="npt=535.292s" id="audio_0076"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=535.292s" clip-end="npt=537.264s" id="audio_0077"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=537.264s" clip-end="npt=541.156s" id="audio_0078"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=541.156s" clip-end="npt=543.494s" id="audio_0079"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zrom_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00dc" id="zrom_000d"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_00ef" id="zrom_000e"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=543.494s" clip-end="npt=545.775s" id="audio_0080"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=545.775s" clip-end="npt=548.714s" id="audio_0081"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=548.714s" clip-end="npt=550.399s" id="audio_0082"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=550.399s" clip-end="npt=551.979s" id="audio_0083"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=551.979s" clip-end="npt=556.904s" id="audio_0084"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=556.904s" clip-end="npt=564.153s" id="audio_0085"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=564.153s" clip-end="npt=568.267s" id="audio_0086"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=568.267s" clip-end="npt=573.400s" id="audio_0087"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=573.400s" clip-end="npt=578.507s" id="audio_0088"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=578.507s" clip-end="npt=586.657s" id="audio_0089"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=586.657s" clip-end="npt=591.281s" id="audio_0090"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=591.281s" clip-end="npt=597.942s" id="audio_0091"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=597.942s" clip-end="npt=603.415s" id="audio_0092"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=603.415s" clip-end="npt=607.659s" id="audio_0093"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=607.659s" clip-end="npt=612.440s" id="audio_0094"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=612.440s" clip-end="npt=617.691s" id="audio_0095"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=617.691s" clip-end="npt=619.402s" id="audio_0096"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=619.402s" clip-end="npt=621.060s" id="audio_0097"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=621.060s" clip-end="npt=625.997s" id="audio_0098"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=625.997s" clip-end="npt=631.509s" id="audio_0099"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=631.509s" clip-end="npt=635.480s" id="audio_0100"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=635.480s" clip-end="npt=639.163s" id="audio_0101"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=639.163s" clip-end="npt=645.707s" id="audio_0102"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=645.707s" clip-end="npt=647.666s" id="audio_0103"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=647.666s" clip-end="npt=651.911s" id="audio_0104"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=651.911s" clip-end="npt=653.008s" id="audio_0105"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=653.008s" clip-end="npt=654.249s" id="audio_0106"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=654.249s" clip-end="npt=656.652s" id="audio_0107"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=656.652s" clip-end="npt=661.302s" id="audio_0108"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=661.302s" clip-end="npt=667.388s" id="audio_0109"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=667.388s" clip-end="npt=670.053s" id="audio_0110"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=670.053s" clip-end="npt=672.652s" id="audio_0111"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=672.652s" clip-end="npt=674.572s" id="audio_0112"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=674.572s" clip-end="npt=679.078s" id="audio_0113"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=679.078s" clip-end="npt=682.696s" id="audio_0114"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=682.696s" clip-end="npt=683.872s" id="audio_0115"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=683.872s" clip-end="npt=686.079s" id="audio_0116"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zrom_0010" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00dd" id="zrom_0011"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_00ef" id="zrom_0012"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=686.079s" clip-end="npt=688.874s" id="audio_0117"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=688.874s" clip-end="npt=691.356s" id="audio_0118"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=691.356s" clip-end="npt=694.961s" id="audio_0119"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=694.961s" clip-end="npt=696.202s" id="audio_0120"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=696.202s" clip-end="npt=702.589s" id="audio_0121"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=702.589s" clip-end="npt=708.453s" id="audio_0122"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=708.453s" clip-end="npt=712.646s" id="audio_0123"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=712.646s" clip-end="npt=723.565s" id="audio_0124"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=723.565s" clip-end="npt=726.190s" id="audio_0125"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=726.190s" clip-end="npt=737.292s" id="audio_0126"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=737.292s" clip-end="npt=743.810s" id="audio_0127"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=743.810s" clip-end="npt=746.540s" id="audio_0128"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=746.540s" clip-end="npt=751.202s" id="audio_0129"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=751.202s" clip-end="npt=754.938s" id="audio_0130"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=754.938s" clip-end="npt=757.028s" id="audio_0131"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=757.028s" clip-end="npt=758.817s" id="audio_0132"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=758.817s" clip-end="npt=760.868s" id="audio_0133"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=760.868s" clip-end="npt=763.585s" id="audio_0134"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=763.585s" clip-end="npt=766.040s" id="audio_0135"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=766.040s" clip-end="npt=769.175s" id="audio_0136"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=769.175s" clip-end="npt=770.533s" id="audio_0137"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=770.533s" clip-end="npt=772.649s" id="audio_0138"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=772.649s" clip-end="npt=782.301s" id="audio_0139"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=782.301s" clip-end="npt=785.031s" id="audio_0140"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=785.031s" clip-end="npt=790.033s" id="audio_0141"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=790.033s" clip-end="npt=792.567s" id="audio_0142"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=792.567s" clip-end="npt=797.335s" id="audio_0143"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=797.335s" clip-end="npt=803.787s" id="audio_0144"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=803.787s" clip-end="npt=805.629s" id="audio_0145"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=805.629s" clip-end="npt=809.312s" id="audio_0146"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=809.312s" clip-end="npt=819.382s" id="audio_0147"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=819.382s" clip-end="npt=823.183s" id="audio_0148"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=823.183s" clip-end="npt=830.275s" id="audio_0149"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=830.275s" clip-end="npt=836.231s" id="audio_0150"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=836.231s" clip-end="npt=846.171s" id="audio_0151"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=846.171s" clip-end="npt=853.942s" id="audio_0152"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=853.942s" clip-end="npt=857.730s" id="audio_0153"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=857.730s" clip-end="npt=858.696s" id="audio_0154"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=858.696s" clip-end="npt=862.863s" id="audio_0155"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=862.863s" clip-end="npt=868.793s" id="audio_0156"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=868.793s" clip-end="npt=874.030s" id="audio_0157"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=874.030s" clip-end="npt=875.872s" id="audio_0158"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=875.872s" clip-end="npt=880.326s" id="audio_0159"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=880.326s" clip-end="npt=882.337s" id="audio_0160"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=882.337s" clip-end="npt=883.656s" id="audio_0161"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zrom_0013" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00de" id="zrom_0015"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_00ef" id="zrom_0016"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=883.656s" clip-end="npt=885.567s" id="audio_0162"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=885.567s" clip-end="npt=888.375s" id="audio_0163"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=888.375s" clip-end="npt=889.446s" id="audio_0164"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=889.446s" clip-end="npt=894.736s" id="audio_0165"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=894.736s" clip-end="npt=899.699s" id="audio_0166"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=899.699s" clip-end="npt=905.041s" id="audio_0167"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=905.041s" clip-end="npt=910.017s" id="audio_0168"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=910.017s" clip-end="npt=911.206s" id="audio_0169"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=911.206s" clip-end="npt=914.941s" id="audio_0170"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=914.941s" clip-end="npt=925.351s" id="audio_0171"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=925.351s" clip-end="npt=928.460s" id="audio_0172"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=928.460s" clip-end="npt=929.766s" id="audio_0173"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=929.766s" clip-end="npt=932.718s" id="audio_0174"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=932.718s" clip-end="npt=937.315s" id="audio_0175"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=937.315s" clip-end="npt=939.653s" id="audio_0176"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=939.653s" clip-end="npt=946.327s" id="audio_0177"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=946.327s" clip-end="npt=952.166s" id="audio_0178"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=952.166s" clip-end="npt=956.476s" id="audio_0179"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=956.476s" clip-end="npt=957.691s" id="audio_0180"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=957.691s" clip-end="npt=969.289s" id="audio_0181"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=969.289s" clip-end="npt=970.164s" id="audio_0182"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=970.164s" clip-end="npt=975.219s" id="audio_0183"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=975.219s" clip-end="npt=981.658s" id="audio_0184"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=981.658s" clip-end="npt=986.438s" id="audio_0185"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=986.438s" clip-end="npt=1001.811s" id="audio_0186"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1001.811s" clip-end="npt=1004.541s" id="audio_0187"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1004.541s" clip-end="npt=1005.965s" id="audio_0188"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1005.965s" clip-end="npt=1007.545s" id="audio_0189"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1007.545s" clip-end="npt=1009.087s" id="audio_0190"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1009.087s" clip-end="npt=1010.719s" id="audio_0191"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1010.719s" clip-end="npt=1012.300s" id="audio_0192"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1012.300s" clip-end="npt=1013.945s" id="audio_0193"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1013.945s" clip-end="npt=1015.591s" id="audio_0194"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1015.591s" clip-end="npt=1017.446s" id="audio_0195"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1017.446s" clip-end="npt=1019.052s" id="audio_0196"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1019.052s" clip-end="npt=1021.220s" id="audio_0197"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1021.220s" clip-end="npt=1023.036s" id="audio_0198"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1023.036s" clip-end="npt=1024.486s" id="audio_0199"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1024.486s" clip-end="npt=1026.040s" id="audio_0200"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1026.040s" clip-end="npt=1027.620s" id="audio_0201"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1027.620s" clip-end="npt=1029.305s" id="audio_0202"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1029.305s" clip-end="npt=1030.742s" id="audio_0203"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1030.742s" clip-end="npt=1032.336s" id="audio_0204"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1032.336s" clip-end="npt=1036.110s" id="audio_0205"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1036.110s" clip-end="npt=1038.775s" id="audio_0206"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1038.775s" clip-end="npt=1040.551s" id="audio_0207"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1040.551s" clip-end="npt=1042.641s" id="audio_0208"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1042.641s" clip-end="npt=1044.496s" id="audio_0209"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1044.496s" clip-end="npt=1046.246s" id="audio_0210"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1046.246s" clip-end="npt=1048.153s" id="audio_0211"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1048.153s" clip-end="npt=1049.785s" id="audio_0212"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1049.785s" clip-end="npt=1051.954s" id="audio_0213"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1051.954s" clip-end="npt=1053.795s" id="audio_0214"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1053.795s" clip-end="npt=1055.493s" id="audio_0215"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1055.493s" clip-end="npt=1057.335s" id="audio_0216"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1057.335s" clip-end="npt=1059.020s" id="audio_0217"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1059.020s" clip-end="npt=1060.809s" id="audio_0218"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1060.809s" clip-end="npt=1062.690s" id="audio_0219"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1062.690s" clip-end="npt=1064.479s" id="audio_0220"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1064.479s" clip-end="npt=1066.177s" id="audio_0221"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1066.177s" clip-end="npt=1068.437s" id="audio_0222"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1068.437s" clip-end="npt=1069.939s" id="audio_0223"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1069.939s" clip-end="npt=1075.712s" id="audio_0224"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1075.712s" clip-end="npt=1079.271s" id="audio_0225"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zrom_0018" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00df" id="zrom_0019"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#jjoy_00ef" id="zrom_001a"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1079.271s" clip-end="npt=1082.041s" id="audio_0226"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1082.041s" clip-end="npt=1084.301s" id="audio_0227"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1084.301s" clip-end="npt=1088.559s" id="audio_0228"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1088.559s" clip-end="npt=1095.298s" id="audio_0229"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1095.298s" clip-end="npt=1101.568s" id="audio_0230"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1101.568s" clip-end="npt=1105.081s" id="audio_0231"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1105.081s" clip-end="npt=1110.018s" id="audio_0232"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1110.018s" clip-end="npt=1114.289s" id="audio_0233"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1114.289s" clip-end="npt=1117.215s" id="audio_0234"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1117.215s" clip-end="npt=1130.903s" id="audio_0235"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1130.903s" clip-end="npt=1132.719s" id="audio_0236"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1132.719s" clip-end="npt=1135.997s" id="audio_0237"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1135.997s" clip-end="npt=1137.212s" id="audio_0238"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1137.212s" clip-end="npt=1141.300s" id="audio_0239"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1141.300s" clip-end="npt=1142.567s" id="audio_0240"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1142.567s" clip-end="npt=1146.799s" id="audio_0241"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1146.799s" clip-end="npt=1150.299s" id="audio_0242"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1150.299s" clip-end="npt=1154.792s" id="audio_0243"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1154.792s" clip-end="npt=1157.927s" id="audio_0244"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1157.927s" clip-end="npt=1159.063s" id="audio_0245"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1159.063s" clip-end="npt=1160.382s" id="audio_0246"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1160.382s" clip-end="npt=1163.687s" id="audio_0247"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1163.687s" clip-end="npt=1166.456s" id="audio_0248"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1166.456s" clip-end="npt=1171.158s" id="audio_0249"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1171.158s" clip-end="npt=1174.945s" id="audio_0250"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1174.945s" clip-end="npt=1184.545s" id="audio_0251"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1184.545s" clip-end="npt=1203.001s" id="audio_0252"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1203.001s" clip-end="npt=1206.723s" id="audio_0253"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1206.723s" clip-end="npt=1208.134s" id="audio_0254"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1208.134s" clip-end="npt=1212.640s" id="audio_0255"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1212.640s" clip-end="npt=1215.422s" id="audio_0256"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1215.422s" clip-end="npt=1219.001s" id="audio_0257"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1219.001s" clip-end="npt=1220.020s" id="audio_0258"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1220.020s" clip-end="npt=1235.066s" id="audio_0259"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1235.066s" clip-end="npt=1238.580s" id="audio_0260"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1238.580s" clip-end="npt=1247.461s" id="audio_0261"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1247.461s" clip-end="npt=1252.163s" id="audio_0262"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1252.163s" clip-end="npt=1255.181s" id="audio_0263"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1255.181s" clip-end="npt=1257.453s" id="audio_0264"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1257.453s" clip-end="npt=1260.523s" id="audio_0265"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1260.523s" clip-end="npt=1262.377s" id="audio_0266"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1262.377s" clip-end="npt=1266.544s" id="audio_0267"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1266.544s" clip-end="npt=1268.947s" id="audio_0268"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1268.947s" clip-end="npt=1274.289s" id="audio_0269"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1274.289s" clip-end="npt=1277.659s" id="audio_0270"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1277.659s" clip-end="npt=1281.029s" id="audio_0271"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1281.029s" clip-end="npt=1285.052s" id="audio_0272"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1285.052s" clip-end="npt=1287.729s" id="audio_0273"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1287.729s" clip-end="npt=1291.883s" id="audio_0274"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1291.883s" clip-end="npt=1294.795s" id="audio_0275"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1294.795s" clip-end="npt=1298.531s" id="audio_0276"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1298.531s" clip-end="npt=1305.074s" id="audio_0277"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1305.074s" clip-end="npt=1307.621s" id="audio_0278"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_020c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e0" id="par_020d"/>
+			</par>
+			<par endsync="last" id="lrvd_0001">
+				<text src="ncc.html#jjoy_00ef" id="par_020e"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1307.621s" clip-end="npt=1309.881s" id="audio_0279"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1309.881s" clip-end="npt=1313.668s" id="audio_0280"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1313.668s" clip-end="npt=1325.828s" id="audio_0281"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1325.828s" clip-end="npt=1328.100s" id="audio_0282"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1328.100s" clip-end="npt=1329.485s" id="audio_0283"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1329.485s" clip-end="npt=1333.103s" id="audio_0284"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1333.103s" clip-end="npt=1339.934s" id="audio_0285"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1339.934s" clip-end="npt=1347.588s" id="audio_0286"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1347.588s" clip-end="npt=1352.290s" id="audio_0287"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1352.290s" clip-end="npt=1361.054s" id="audio_0288"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1361.054s" clip-end="npt=1370.223s" id="audio_0289"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1370.223s" clip-end="npt=1380.424s" id="audio_0290"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1380.424s" clip-end="npt=1382.082s" id="audio_0291"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1382.082s" clip-end="npt=1384.838s" id="audio_0292"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1384.838s" clip-end="npt=1387.777s" id="audio_0293"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1387.777s" clip-end="npt=1396.724s" id="audio_0294"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1396.724s" clip-end="npt=1404.078s" id="audio_0295"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1404.078s" clip-end="npt=1409.968s" id="audio_0296"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1409.968s" clip-end="npt=1416.590s" id="audio_0297"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1416.590s" clip-end="npt=1418.197s" id="audio_0298"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1418.197s" clip-end="npt=1428.776s" id="audio_0299"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1428.776s" clip-end="npt=1432.669s" id="audio_0300"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1432.669s" clip-end="npt=1444.620s" id="audio_0301"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1444.620s" clip-end="npt=1448.185s" id="audio_0302"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1448.185s" clip-end="npt=1451.189s" id="audio_0303"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1451.189s" clip-end="npt=1458.425s" id="audio_0304"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1458.425s" clip-end="npt=1463.624s" id="audio_0305"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1463.624s" clip-end="npt=1470.272s" id="audio_0306"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1470.272s" clip-end="npt=1474.778s" id="audio_0307"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1474.778s" clip-end="npt=1481.504s" id="audio_0308"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1481.504s" clip-end="npt=1489.459s" id="audio_0309"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1489.459s" clip-end="npt=1492.305s" id="audio_0310"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_020f" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e1" id="par_0211"/>
+			</par>
+			<par endsync="last" id="lrvd_0042">
+				<text src="ncc.html#jjoy_00ef" id="par_0212"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1492.305s" clip-end="npt=1494.422s" id="audio_0311"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1494.422s" clip-end="npt=1496.147s" id="audio_0312"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1496.147s" clip-end="npt=1507.079s" id="audio_0313"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1507.079s" clip-end="npt=1510.814s" id="audio_0314"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1510.814s" clip-end="npt=1514.667s" id="audio_0315"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1514.667s" clip-end="npt=1518.677s" id="audio_0316"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1518.677s" clip-end="npt=1523.196s" id="audio_0317"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1523.196s" clip-end="npt=1524.555s" id="audio_0318"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1524.555s" clip-end="npt=1536.480s" id="audio_0319"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1536.480s" clip-end="npt=1543.167s" id="audio_0320"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1543.167s" clip-end="npt=1546.824s" id="audio_0321"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1546.824s" clip-end="npt=1553.407s" id="audio_0322"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1553.407s" clip-end="npt=1554.478s" id="audio_0323"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1554.478s" clip-end="npt=1562.406s" id="audio_0324"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1562.406s" clip-end="npt=1572.607s" id="audio_0325"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1572.607s" clip-end="npt=1586.413s" id="audio_0326"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1586.413s" clip-end="npt=1599.670s" id="audio_0327"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1599.670s" clip-end="npt=1603.314s" id="audio_0328"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1603.314s" clip-end="npt=1605.926s" id="audio_0329"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1605.926s" clip-end="npt=1610.040s" id="audio_0330"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1610.040s" clip-end="npt=1617.511s" id="audio_0331"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1617.511s" clip-end="npt=1621.965s" id="audio_0332"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1621.965s" clip-end="npt=1626.236s" id="audio_0333"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0213" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e2" id="par_0214"/>
+			</par>
+			<par endsync="last" id="lrvd_0071">
+				<text src="ncc.html#jjoy_00ef" id="par_0215"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1626.236s" clip-end="npt=1628.260s" id="audio_0334"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1628.260s" clip-end="npt=1630.206s" id="audio_0335"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1630.206s" clip-end="npt=1634.099s" id="audio_0336"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1634.099s" clip-end="npt=1641.112s" id="audio_0337"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1641.112s" clip-end="npt=1642.314s" id="audio_0338"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1642.314s" clip-end="npt=1644.926s" id="audio_0339"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1644.926s" clip-end="npt=1650.164s" id="audio_0340"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1650.164s" clip-end="npt=1651.418s" id="audio_0341"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1651.418s" clip-end="npt=1655.062s" id="audio_0342"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1655.062s" clip-end="npt=1658.497s" id="audio_0343"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1658.497s" clip-end="npt=1664.283s" id="audio_0344"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1664.283s" clip-end="npt=1674.928s" id="audio_0345"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1674.928s" clip-end="npt=1677.475s" id="audio_0346"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1677.475s" clip-end="npt=1682.308s" id="audio_0347"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1682.308s" clip-end="npt=1685.560s" id="audio_0348"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1685.560s" clip-end="npt=1690.432s" id="audio_0349"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1690.432s" clip-end="npt=1692.730s" id="audio_0350"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1692.730s" clip-end="npt=1697.498s" id="audio_0351"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1697.498s" clip-end="npt=1699.692s" id="audio_0352"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1699.692s" clip-end="npt=1708.169s" id="audio_0353"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1708.169s" clip-end="npt=1719.963s" id="audio_0354"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1719.963s" clip-end="npt=1722.340s" id="audio_0355"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1722.340s" clip-end="npt=1727.303s" id="audio_0356"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1727.303s" clip-end="npt=1733.259s" id="audio_0357"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1733.259s" clip-end="npt=1738.693s" id="audio_0358"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1738.693s" clip-end="npt=1740.926s" id="audio_0359"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1740.926s" clip-end="npt=1743.251s" id="audio_0360"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1743.251s" clip-end="npt=1745.432s" id="audio_0361"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1745.432s" clip-end="npt=1747.914s" id="audio_0362"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1747.914s" clip-end="npt=1753.674s" id="audio_0363"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1753.674s" clip-end="npt=1760.322s" id="audio_0364"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1760.322s" clip-end="npt=1768.133s" id="audio_0365"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1768.133s" clip-end="npt=1770.575s" id="audio_0366"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1770.575s" clip-end="npt=1779.535s" id="audio_0367"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1779.535s" clip-end="npt=1782.696s" id="audio_0368"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1782.696s" clip-end="npt=1786.196s" id="audio_0369"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1786.196s" clip-end="npt=1789.462s" id="audio_0370"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1789.462s" clip-end="npt=1791.917s" id="audio_0371"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1791.917s" clip-end="npt=1798.082s" id="audio_0372"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1798.082s" clip-end="npt=1800.932s" id="audio_0373"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1800.932s" clip-end="npt=1802.251s" id="audio_0374"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0217" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e3" id="par_0219"/>
+			</par>
+			<par endsync="last" id="lrvd_00c4">
+				<text src="ncc.html#jjoy_00ef" id="par_021a"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1802.251s" clip-end="npt=1804.010s" id="audio_0375"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1804.010s" clip-end="npt=1807.432s" id="audio_0376"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1807.432s" clip-end="npt=1810.736s" id="audio_0377"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1810.736s" clip-end="npt=1826.123s" id="audio_0378"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1826.123s" clip-end="npt=1837.316s" id="audio_0379"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1837.316s" clip-end="npt=1841.365s" id="audio_0380"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1841.365s" clip-end="npt=1845.296s" id="audio_0381"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1845.296s" clip-end="npt=1860.108s" id="audio_0382"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1860.108s" clip-end="npt=1874.697s" id="audio_0383"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1874.697s" clip-end="npt=1879.399s" id="audio_0384"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1879.399s" clip-end="npt=1883.435s" id="audio_0385"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1883.435s" clip-end="npt=1893.205s" id="audio_0386"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1893.205s" clip-end="npt=1906.136s" id="audio_0387"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1906.136s" clip-end="npt=1910.093s" id="audio_0388"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1910.093s" clip-end="npt=1921.208s" id="audio_0389"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1921.208s" clip-end="npt=1928.470s" id="audio_0390"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1928.470s" clip-end="npt=1933.172s" id="audio_0391"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1933.172s" clip-end="npt=1942.172s" id="audio_0392"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1942.172s" clip-end="npt=1943.138s" id="audio_0393"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1943.138s" clip-end="npt=1954.083s" id="audio_0394"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1954.083s" clip-end="npt=1955.337s" id="audio_0395"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1955.337s" clip-end="npt=1956.186s" id="audio_0396"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1956.186s" clip-end="npt=1958.459s" id="audio_0397"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1958.459s" clip-end="npt=1970.919s" id="audio_0398"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1970.919s" clip-end="npt=1974.224s" id="audio_0399"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1974.224s" clip-end="npt=1982.204s" id="audio_0400"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1982.204s" clip-end="npt=1986.671s" id="audio_0401"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1986.671s" clip-end="npt=1999.928s" id="audio_0402"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=1999.928s" clip-end="npt=2004.278s" id="audio_0403"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_021b" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e4" id="par_021c"/>
+			</par>
+			<par endsync="last" id="lrvd_00ff">
+				<text src="ncc.html#jjoy_00ef" id="par_021d"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2004.278s" clip-end="npt=2006.917s" id="audio_0404"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2006.917s" clip-end="npt=2007.922s" id="audio_0405"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2007.922s" clip-end="npt=2012.089s" id="audio_0406"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2012.089s" clip-end="npt=2017.979s" id="audio_0407"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2017.979s" clip-end="npt=2025.437s" id="audio_0408"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2025.437s" clip-end="npt=2040.654s" id="audio_0409"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2040.654s" clip-end="npt=2044.925s" id="audio_0410"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2044.925s" clip-end="npt=2050.136s" id="audio_0411"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2050.136s" clip-end="npt=2051.273s" id="audio_0412"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2051.273s" clip-end="npt=2060.415s" id="audio_0413"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2060.415s" clip-end="npt=2069.049s" id="audio_0414"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2069.049s" clip-end="npt=2076.781s" id="audio_0415"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2076.781s" clip-end="npt=2077.917s" id="audio_0416"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2077.917s" clip-end="npt=2079.916s" id="audio_0417"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2079.916s" clip-end="npt=2085.428s" id="audio_0418"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2085.428s" clip-end="npt=2092.964s" id="audio_0419"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2092.964s" clip-end="npt=2097.418s" id="audio_0420"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2097.418s" clip-end="npt=2105.059s" id="audio_0421"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2105.059s" clip-end="npt=2107.501s" id="audio_0422"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2107.501s" clip-end="npt=2112.491s" id="audio_0423"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2112.491s" clip-end="npt=2113.470s" id="audio_0424"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2113.470s" clip-end="npt=2123.488s" id="audio_0425"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2123.488s" clip-end="npt=2128.412s" id="audio_0426"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2128.412s" clip-end="npt=2134.172s" id="audio_0427"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2134.172s" clip-end="npt=2138.979s" id="audio_0428"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2138.979s" clip-end="npt=2139.736s" id="audio_0429"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2139.736s" clip-end="npt=2140.415s" id="audio_0430"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2140.415s" clip-end="npt=2142.022s" id="audio_0431"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2142.022s" clip-end="npt=2145.144s" id="audio_0432"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2145.144s" clip-end="npt=2152.797s" id="audio_0433"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2152.797s" clip-end="npt=2163.756s" id="audio_0434"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2163.756s" clip-end="npt=2167.322s" id="audio_0435"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2167.322s" clip-end="npt=2170.326s" id="audio_0436"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2170.326s" clip-end="npt=2175.017s" id="audio_0437"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_021e" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e5" id="par_0220"/>
+			</par>
+			<par endsync="last" id="lrvd_0144">
+				<text src="ncc.html#jjoy_00ef" id="par_0221"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2175.017s" clip-end="npt=2177.090s" id="audio_0438"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2177.090s" clip-end="npt=2178.539s" id="audio_0439"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2178.539s" clip-end="npt=2179.624s" id="audio_0440"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2179.624s" clip-end="npt=2185.775s" id="audio_0441"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2185.775s" clip-end="npt=2201.023s" id="audio_0442"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2201.023s" clip-end="npt=2211.224s" id="audio_0443"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2211.224s" clip-end="npt=2214.215s" id="audio_0444"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2214.215s" clip-end="npt=2221.751s" id="audio_0445"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2221.751s" clip-end="npt=2224.037s" id="audio_0446"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2224.037s" clip-end="npt=2232.279s" id="audio_0447"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2232.279s" clip-end="npt=2236.706s" id="audio_0448"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2236.706s" clip-end="npt=2241.813s" id="audio_0449"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2241.813s" clip-end="npt=2246.790s" id="audio_0450"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2246.790s" clip-end="npt=2258.362s" id="audio_0451"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2258.362s" clip-end="npt=2270.600s" id="audio_0452"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2270.600s" clip-end="npt=2274.479s" id="audio_0453"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2274.479s" clip-end="npt=2285.999s" id="audio_0454"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2285.999s" clip-end="npt=2292.817s" id="audio_0455"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2292.817s" clip-end="npt=2297.532s" id="audio_0456"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2297.532s" clip-end="npt=2300.706s" id="audio_0457"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2300.706s" clip-end="npt=2304.011s" id="audio_0458"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2304.011s" clip-end="npt=2309.967s" id="audio_0459"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2309.967s" clip-end="npt=2314.329s" id="audio_0460"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2314.329s" clip-end="npt=2321.578s" id="audio_0461"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2321.578s" clip-end="npt=2327.443s" id="audio_0462"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2327.443s" clip-end="npt=2332.471s" id="audio_0463"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0222" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e6" id="par_0223"/>
+			</par>
+			<par endsync="last" id="lrvd_0179">
+				<text src="ncc.html#jjoy_00ef" id="par_0224"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2332.471s" clip-end="npt=2335.264s" id="audio_0464"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2335.264s" clip-end="npt=2337.301s" id="audio_0465"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2337.301s" clip-end="npt=2341.533s" id="audio_0466"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2341.533s" clip-end="npt=2344.224s" id="audio_0467"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2344.224s" clip-end="npt=2346.679s" id="audio_0468"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2346.679s" clip-end="npt=2351.042s" id="audio_0469"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2351.042s" clip-end="npt=2354.372s" id="audio_0470"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2354.372s" clip-end="npt=2356.945s" id="audio_0471"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2356.945s" clip-end="npt=2359.074s" id="audio_0472"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2359.074s" clip-end="npt=2362.640s" id="audio_0473"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2362.640s" clip-end="npt=2365.122s" id="audio_0474"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2365.122s" clip-end="npt=2369.040s" id="audio_0475"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2369.040s" clip-end="npt=2373.533s" id="audio_0476"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2373.533s" clip-end="npt=2375.753s" id="audio_0477"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2375.753s" clip-end="npt=2378.209s" id="audio_0478"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2378.209s" clip-end="npt=2379.855s" id="audio_0479"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2379.855s" clip-end="npt=2381.944s" id="audio_0480"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2381.944s" clip-end="npt=2385.131s" id="audio_0481"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2385.131s" clip-end="npt=2388.919s" id="audio_0482"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2388.919s" clip-end="npt=2391.309s" id="audio_0483"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2391.309s" clip-end="npt=2395.463s" id="audio_0484"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2395.463s" clip-end="npt=2398.924s" id="audio_0485"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2398.924s" clip-end="npt=2401.824s" id="audio_0486"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2401.824s" clip-end="npt=2404.697s" id="audio_0487"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2404.697s" clip-end="npt=2406.774s" id="audio_0488"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2406.774s" clip-end="npt=2409.086s" id="audio_0489"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2409.086s" clip-end="npt=2411.424s" id="audio_0490"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2411.424s" clip-end="npt=2415.459s" id="audio_0491"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2415.459s" clip-end="npt=2417.628s" id="audio_0492"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2417.628s" clip-end="npt=2420.540s" id="audio_0493"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2420.540s" clip-end="npt=2424.929s" id="audio_0494"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2424.929s" clip-end="npt=2427.580s" id="audio_0495"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2427.580s" clip-end="npt=2430.362s" id="audio_0496"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2430.362s" clip-end="npt=2437.167s" id="audio_0497"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2437.167s" clip-end="npt=2441.164s" id="audio_0498"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2441.164s" clip-end="npt=2445.879s" id="audio_0499"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0225" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e7" id="par_0226"/>
+			</par>
+			<par endsync="last" id="par_0017">
+				<text src="ncc.html#jjoy_00ef" id="par_0227"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2445.879s" clip-end="npt=2447.816s" id="audio_0500"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2447.816s" clip-end="npt=2450.324s" id="audio_0501"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2450.324s" clip-end="npt=2452.910s" id="audio_0502"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2452.910s" clip-end="npt=2455.509s" id="audio_0503"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2455.509s" clip-end="npt=2459.819s" id="audio_0504"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2459.819s" clip-end="npt=2461.034s" id="audio_0505"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2461.034s" clip-end="npt=2465.553s" id="audio_0506"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2465.553s" clip-end="npt=2469.171s" id="audio_0507"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2469.171s" clip-end="npt=2471.823s" id="audio_0508"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2471.823s" clip-end="npt=2477.583s" id="audio_0509"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2477.583s" clip-end="npt=2489.024s" id="audio_0510"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2489.024s" clip-end="npt=2492.185s" id="audio_0511"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2492.185s" clip-end="npt=2493.831s" id="audio_0512"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2493.831s" clip-end="npt=2500.936s" id="audio_0513"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2500.936s" clip-end="npt=2502.151s" id="audio_0514"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2502.151s" clip-end="npt=2506.618s" id="audio_0515"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2506.618s" clip-end="npt=2516.309s" id="audio_0516"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2516.309s" clip-end="npt=2518.891s" id="audio_0517"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2518.891s" clip-end="npt=2537.765s" id="audio_0518"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2537.765s" clip-end="npt=2554.888s" id="audio_0519"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2554.888s" clip-end="npt=2560.465s" id="audio_0520"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0228" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e8" id="par_0229"/>
+			</par>
+			<par endsync="last" id="par_0019">
+				<text src="ncc.html#jjoy_00ef" id="par_022a"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2560.465s" clip-end="npt=2582.891s" id="audio_0521"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2582.891s" clip-end="npt=2600.746s" id="audio_0522"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2600.746s" clip-end="npt=2612.592s" id="audio_0523"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2612.592s" clip-end="npt=2625.014s" id="audio_0524"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2625.014s" clip-end="npt=2635.880s" id="audio_0525"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2635.880s" clip-end="npt=2679.962s" id="audio_0526"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2679.962s" clip-end="npt=2681.203s" id="audio_0527"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2681.203s" clip-end="npt=2683.959s" id="audio_0528"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2683.959s" clip-end="npt=2688.844s" id="audio_0529"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2688.844s" clip-end="npt=2690.881s" id="audio_0530"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2690.881s" clip-end="npt=2697.046s" id="audio_0531"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2697.046s" clip-end="npt=2702.271s" id="audio_0532"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2702.271s" clip-end="npt=2704.191s" id="audio_0533"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vyby_0051" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00e9" id="vyby_0052"/>
+			</par>
+			<par endsync="last" id="lrvd_0207">
+				<text src="ncc.html#jjoy_00ef" id="vyby_0053"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2704.191s" clip-end="npt=2710.735s" id="audio_0534"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2710.735s" clip-end="npt=2713.073s" id="audio_0535"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2713.073s" clip-end="npt=2723.652s" id="audio_0536"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2723.652s" clip-end="npt=2732.168s" id="audio_0537"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2732.168s" clip-end="npt=2733.840s" id="audio_0538"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2733.840s" clip-end="npt=2746.287s" id="audio_0539"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2746.287s" clip-end="npt=2767.721s" id="audio_0540"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2767.721s" clip-end="npt=2783.198s" id="audio_0541"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2783.198s" clip-end="npt=2790.944s" id="audio_0542"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2790.944s" clip-end="npt=2794.758s" id="audio_0543"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2794.758s" clip-end="npt=2798.480s" id="audio_0544"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2798.480s" clip-end="npt=2816.230s" id="audio_0545"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2816.230s" clip-end="npt=2825.726s" id="audio_0546"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2825.726s" clip-end="npt=2827.620s" id="audio_0547"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2827.620s" clip-end="npt=2829.448s" id="audio_0548"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2829.448s" clip-end="npt=2833.223s" id="audio_0549"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2833.223s" clip-end="npt=2838.186s" id="audio_0550"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vyby_0054" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00ea" id="vyby_0055"/>
+			</par>
+			<par endsync="last" id="lrvd_022a">
+				<text src="ncc.html#jjoy_00ef" id="vyby_0056"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2838.186s" clip-end="npt=2842.418s" id="audio_0551"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2842.418s" clip-end="npt=2853.951s" id="audio_0552"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2853.951s" clip-end="npt=2858.131s" id="audio_0553"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2858.131s" clip-end="npt=2864.387s" id="audio_0554"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2864.387s" clip-end="npt=2866.686s" id="audio_0555"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2866.686s" clip-end="npt=2881.432s" id="audio_0556"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2881.432s" clip-end="npt=2883.966s" id="audio_0557"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2883.966s" clip-end="npt=2892.207s" id="audio_0558"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2892.207s" clip-end="npt=2894.232s" id="audio_0559"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2894.232s" clip-end="npt=2899.300s" id="audio_0560"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2899.300s" clip-end="npt=2900.906s" id="audio_0561"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2900.906s" clip-end="npt=2911.251s" id="audio_0562"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2911.251s" clip-end="npt=2915.182s" id="audio_0563"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2915.182s" clip-end="npt=2918.918s" id="audio_0564"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2918.918s" clip-end="npt=2923.672s" id="audio_0565"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2923.672s" clip-end="npt=2930.242s" id="audio_0566"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2930.242s" clip-end="npt=2931.143s" id="audio_0567"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2931.143s" clip-end="npt=2934.278s" id="audio_0568"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2934.278s" clip-end="npt=2938.235s" id="audio_0569"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2938.235s" clip-end="npt=2946.176s" id="audio_0570"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2946.176s" clip-end="npt=2952.132s" id="audio_0571"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2952.132s" clip-end="npt=2954.131s" id="audio_0572"/>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2954.131s" clip-end="npt=2956.495s" id="audio_0573"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ytuq_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_00eb" id="ytuq_0002"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_00ef" id="ytuq_0003"/>
+				<seq>
+					<audio src="02_Lesson_1__My_First_Step.mp3" clip-begin="npt=2956.495s" clip-end="npt=2957.814s" id="audio_0574"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

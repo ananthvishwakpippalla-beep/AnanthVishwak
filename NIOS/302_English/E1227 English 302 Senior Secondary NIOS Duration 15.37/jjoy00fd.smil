@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:16:39.801"/>
+		<meta name="ncc:totalElapsedTime" content="12:26:58.219"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 29 B: Writing Reports"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="999.801s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#vgyi_00c3" id="vgyi_00c3"/>
+				<seq>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=0.000s" clip-end="npt=2.416s" id="audio_0001"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=2.416s" clip-end="npt=5.891s" id="audio_0002"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=5.891s" clip-end="npt=7.980s" id="audio_0003"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=7.980s" clip-end="npt=10.240s" id="audio_0004"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=10.240s" clip-end="npt=18.090s" id="audio_0005"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=18.090s" clip-end="npt=21.394s" id="audio_0006"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=21.394s" clip-end="npt=27.729s" id="audio_0007"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=27.729s" clip-end="npt=30.811s" id="audio_0008"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=30.811s" clip-end="npt=36.898s" id="audio_0009"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=36.898s" clip-end="npt=41.522s" id="audio_0010"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=41.522s" clip-end="npt=64.888s" id="audio_0011"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=64.888s" clip-end="npt=69.068s" id="audio_0012"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=69.068s" clip-end="npt=89.509s" id="audio_0013"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=89.509s" clip-end="npt=92.181s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vgyi_00c4" system-required="pagenumber-on">
+				<text src="ncc.html#snld_0005" id="vgyi_00c6"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#vgyi_00c3" id="vgyi_00c7"/>
+				<seq>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=92.181s" clip-end="npt=93.848s" id="audio_0015"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=93.848s" clip-end="npt=94.705s" id="audio_0016"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=94.705s" clip-end="npt=96.952s" id="audio_0017"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=96.952s" clip-end="npt=107.832s" id="audio_0018"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=107.832s" clip-end="npt=120.579s" id="audio_0019"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=120.579s" clip-end="npt=128.939s" id="audio_0020"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=128.939s" clip-end="npt=133.954s" id="audio_0021"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=133.954s" clip-end="npt=138.238s" id="audio_0022"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=138.238s" clip-end="npt=141.974s" id="audio_0023"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=141.974s" clip-end="npt=145.252s" id="audio_0024"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=145.252s" clip-end="npt=158.313s" id="audio_0025"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=158.313s" clip-end="npt=169.494s" id="audio_0026"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=169.494s" clip-end="npt=175.423s" id="audio_0027"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=175.423s" clip-end="npt=180.687s" id="audio_0028"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=180.687s" clip-end="npt=185.872s" id="audio_0029"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=185.872s" clip-end="npt=191.188s" id="audio_0030"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=191.188s" clip-end="npt=193.761s" id="audio_0031"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=193.761s" clip-end="npt=198.372s" id="audio_0032"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=198.372s" clip-end="npt=202.447s" id="audio_0033"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=202.447s" clip-end="npt=203.440s" id="audio_0034"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=203.440s" clip-end="npt=206.888s" id="audio_0035"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=206.888s" clip-end="npt=209.187s" id="audio_0036"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=209.187s" clip-end="npt=216.057s" id="audio_0037"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=216.057s" clip-end="npt=219.205s" id="audio_0038"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=219.205s" clip-end="npt=223.685s" id="audio_0039"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=223.685s" clip-end="npt=225.950s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vgyi_00c9" system-required="pagenumber-on">
+				<text src="ncc.html#snld_0006" id="vgyi_00ca"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#vgyi_00c3" id="vgyi_00cb"/>
+				<seq>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=225.950s" clip-end="npt=227.528s" id="audio_0041"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=227.528s" clip-end="npt=228.385s" id="audio_0042"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=228.385s" clip-end="npt=231.232s" id="audio_0043"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=231.232s" clip-end="npt=243.771s" id="audio_0044"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=243.771s" clip-end="npt=247.494s" id="audio_0045"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=247.494s" clip-end="npt=250.511s" id="audio_0046"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=250.511s" clip-end="npt=254.429s" id="audio_0047"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=254.429s" clip-end="npt=267.033s" id="audio_0048"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=267.033s" clip-end="npt=272.950s" id="audio_0049"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=272.950s" clip-end="npt=277.626s" id="audio_0050"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=277.626s" clip-end="npt=290.282s" id="audio_0051"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=290.282s" clip-end="npt=292.725s" id="audio_0052"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=292.725s" clip-end="npt=297.231s" id="audio_0053"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=297.231s" clip-end="npt=304.532s" id="audio_0054"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=304.532s" clip-end="npt=306.818s" id="audio_0055"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=306.818s" clip-end="npt=309.926s" id="audio_0056"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=309.926s" clip-end="npt=315.425s" id="audio_0057"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=315.425s" clip-end="npt=322.230s" id="audio_0058"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=322.230s" clip-end="npt=323.745s" id="audio_0059"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=323.745s" clip-end="npt=329.348s" id="audio_0060"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=329.348s" clip-end="npt=331.412s" id="audio_0061"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=331.412s" clip-end="npt=341.652s" id="audio_0062"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=341.652s" clip-end="npt=346.837s" id="audio_0063"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=346.837s" clip-end="npt=348.761s" id="audio_0064"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vgyi_00cc" system-required="pagenumber-on">
+				<text src="ncc.html#snld_0007" id="vgyi_00ce"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#vgyi_00c3" id="vgyi_00cf"/>
+				<seq>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=348.761s" clip-end="npt=350.310s" id="audio_0065"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=350.310s" clip-end="npt=351.167s" id="audio_0066"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=351.167s" clip-end="npt=354.498s" id="audio_0067"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=354.498s" clip-end="npt=359.056s" id="audio_0068"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=359.056s" clip-end="npt=368.160s" id="audio_0069"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=368.160s" clip-end="npt=373.371s" id="audio_0070"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=373.371s" clip-end="npt=387.660s" id="audio_0071"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=387.660s" clip-end="npt=390.168s" id="audio_0072"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=390.168s" clip-end="npt=400.395s" id="audio_0073"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=400.395s" clip-end="npt=403.869s" id="audio_0074"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=403.869s" clip-end="npt=408.545s" id="audio_0075"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=408.545s" clip-end="npt=420.980s" id="audio_0076"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=420.980s" clip-end="npt=434.994s" id="audio_0077"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=434.994s" clip-end="npt=446.867s" id="audio_0078"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=446.867s" clip-end="npt=454.978s" id="audio_0079"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=454.978s" clip-end="npt=462.201s" id="audio_0080"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=462.201s" clip-end="npt=470.273s" id="audio_0081"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=470.273s" clip-end="npt=471.670s" id="audio_0082"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=471.670s" clip-end="npt=477.169s" id="audio_0083"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=477.169s" clip-end="npt=481.074s" id="audio_0084"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=481.074s" clip-end="npt=492.751s" id="audio_0085"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=492.751s" clip-end="npt=508.503s" id="audio_0086"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=508.503s" clip-end="npt=511.037s" id="audio_0087"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=511.037s" clip-end="npt=517.672s" id="audio_0088"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=517.672s" clip-end="npt=521.355s" id="audio_0089"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=521.355s" clip-end="npt=525.038s" id="audio_0090"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=525.038s" clip-end="npt=527.191s" id="audio_0091"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vgyi_00d0" system-required="pagenumber-on">
+				<text src="ncc.html#snld_0008" id="vgyi_00d2"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#vgyi_00c3" id="vgyi_00d3"/>
+				<seq>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=527.191s" clip-end="npt=528.740s" id="audio_0092"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=528.740s" clip-end="npt=529.597s" id="audio_0093"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=529.597s" clip-end="npt=532.379s" id="audio_0094"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=532.379s" clip-end="npt=536.781s" id="audio_0095"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=536.781s" clip-end="npt=540.242s" id="audio_0096"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=540.242s" clip-end="npt=551.736s" id="audio_0097"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=551.736s" clip-end="npt=555.132s" id="audio_0098"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=555.132s" clip-end="npt=560.748s" id="audio_0099"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=560.748s" clip-end="npt=564.614s" id="audio_0100"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=564.614s" clip-end="npt=570.126s" id="audio_0101"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=570.126s" clip-end="npt=574.188s" id="audio_0102"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=574.188s" clip-end="npt=577.297s" id="audio_0103"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=577.297s" clip-end="npt=580.575s" id="audio_0104"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=580.575s" clip-end="npt=584.075s" id="audio_0105"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=584.075s" clip-end="npt=589.078s" id="audio_0106"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=589.078s" clip-end="npt=592.123s" id="audio_0107"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=592.123s" clip-end="npt=594.369s" id="audio_0108"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=594.369s" clip-end="npt=600.090s" id="audio_0109"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=600.090s" clip-end="npt=601.605s" id="audio_0110"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=601.605s" clip-end="npt=610.174s" id="audio_0111"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=610.174s" clip-end="npt=614.092s" id="audio_0112"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=614.092s" clip-end="npt=617.840s" id="audio_0113"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=617.840s" clip-end="npt=618.885s" id="audio_0114"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=618.885s" clip-end="npt=620.662s" id="audio_0115"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=620.662s" clip-end="npt=622.151s" id="audio_0116"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=622.151s" clip-end="npt=624.658s" id="audio_0117"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=624.658s" clip-end="npt=628.551s" id="audio_0118"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=628.551s" clip-end="npt=630.948s" id="audio_0119"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vgyi_00d4" system-required="pagenumber-on">
+				<text src="ncc.html#snld_0009" id="vgyi_00d6"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#vgyi_00c3" id="vgyi_00d7"/>
+				<seq>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=630.948s" clip-end="npt=632.258s" id="audio_0120"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=632.258s" clip-end="npt=633.115s" id="audio_0121"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=633.115s" clip-end="npt=635.596s" id="audio_0122"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=635.596s" clip-end="npt=638.927s" id="audio_0123"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=638.927s" clip-end="npt=643.041s" id="audio_0124"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=643.041s" clip-end="npt=647.195s" id="audio_0125"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=647.195s" clip-end="npt=652.537s" id="audio_0126"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=652.537s" clip-end="npt=657.291s" id="audio_0127"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=657.291s" clip-end="npt=658.512s" id="audio_0128"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=658.512s" clip-end="npt=665.095s" id="audio_0129"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=665.095s" clip-end="npt=668.700s" id="audio_0130"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=668.700s" clip-end="npt=675.035s" id="audio_0131"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=675.035s" clip-end="npt=685.014s" id="audio_0132"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=685.014s" clip-end="npt=691.779s" id="audio_0133"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=691.779s" clip-end="npt=697.879s" id="audio_0134"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=697.879s" clip-end="npt=701.275s" id="audio_0135"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=701.275s" clip-end="npt=706.865s" id="audio_0136"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=706.865s" clip-end="npt=712.507s" id="audio_0137"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=712.507s" clip-end="npt=719.417s" id="audio_0138"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=719.417s" clip-end="npt=721.089s" id="audio_0139"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=721.089s" clip-end="npt=728.860s" id="audio_0140"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=728.860s" clip-end="npt=737.572s" id="audio_0141"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=737.572s" clip-end="npt=747.734s" id="audio_0142"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=747.734s" clip-end="npt=761.069s" id="audio_0143"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=761.069s" clip-end="npt=766.777s" id="audio_0144"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=766.777s" clip-end="npt=770.186s" id="audio_0145"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=770.186s" clip-end="npt=779.564s" id="audio_0146"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=779.564s" clip-end="npt=782.462s" id="audio_0147"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vgyi_00d9" system-required="pagenumber-on">
+				<text src="ncc.html#snld_000a" id="vgyi_00da"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#vgyi_00c3" id="vgyi_00db"/>
+				<seq>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=782.462s" clip-end="npt=783.782s" id="audio_0148"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=783.782s" clip-end="npt=784.639s" id="audio_0149"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=784.639s" clip-end="npt=787.081s" id="audio_0150"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=787.081s" clip-end="npt=789.223s" id="audio_0151"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=789.223s" clip-end="npt=791.888s" id="audio_0152"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=791.888s" clip-end="npt=795.362s" id="audio_0153"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=795.362s" clip-end="npt=797.269s" id="audio_0154"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=797.269s" clip-end="npt=798.902s" id="audio_0155"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=798.902s" clip-end="npt=800.535s" id="audio_0156"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=800.535s" clip-end="npt=801.932s" id="audio_0157"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=801.932s" clip-end="npt=803.434s" id="audio_0158"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=803.434s" clip-end="npt=805.145s" id="audio_0159"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=805.145s" clip-end="npt=807.274s" id="audio_0160"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=807.274s" clip-end="npt=808.802s" id="audio_0161"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=808.802s" clip-end="npt=810.735s" id="audio_0162"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=810.735s" clip-end="npt=812.734s" id="audio_0163"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=812.734s" clip-end="npt=814.379s" id="audio_0164"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=814.379s" clip-end="npt=816.221s" id="audio_0165"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=816.221s" clip-end="npt=819.996s" id="audio_0166"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=819.996s" clip-end="npt=821.446s" id="audio_0167"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=821.446s" clip-end="npt=827.754s" id="audio_0168"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=827.754s" clip-end="npt=830.340s" id="audio_0169"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=830.340s" clip-end="npt=855.222s" id="audio_0170"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=855.222s" clip-end="npt=868.988s" id="audio_0171"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=868.988s" clip-end="npt=878.850s" id="audio_0172"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=878.850s" clip-end="npt=886.922s" id="audio_0173"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=886.922s" clip-end="npt=894.040s" id="audio_0174"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=894.040s" clip-end="npt=903.405s" id="audio_0175"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=903.405s" clip-end="npt=906.030s" id="audio_0176"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=906.030s" clip-end="npt=912.352s" id="audio_0177"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=912.352s" clip-end="npt=920.790s" id="audio_0178"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=920.790s" clip-end="npt=944.783s" id="audio_0179"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=944.783s" clip-end="npt=948.976s" id="audio_0180"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=948.976s" clip-end="npt=952.450s" id="audio_0181"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=952.450s" clip-end="npt=955.191s" id="audio_0182"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vgyi_00dd" system-required="pagenumber-on">
+				<text src="ncc.html#snld_000b" id="vgyi_00de"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#vgyi_00c3" id="vgyi_00df"/>
+				<seq>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=955.191s" clip-end="npt=956.345s" id="audio_0183"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=956.345s" clip-end="npt=957.202s" id="audio_0184"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=957.202s" clip-end="npt=959.292s" id="audio_0185"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=959.292s" clip-end="npt=961.865s" id="audio_0186"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=961.865s" clip-end="npt=964.595s" id="audio_0187"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=964.595s" clip-end="npt=968.657s" id="audio_0188"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=968.657s" clip-end="npt=970.629s" id="audio_0189"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=970.629s" clip-end="npt=972.419s" id="audio_0190"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=972.419s" clip-end="npt=974.521s" id="audio_0191"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=974.521s" clip-end="npt=976.428s" id="audio_0192"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=976.428s" clip-end="npt=978.440s" id="audio_0193"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=978.440s" clip-end="npt=980.334s" id="audio_0194"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=980.334s" clip-end="npt=982.711s" id="audio_0195"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=982.711s" clip-end="npt=984.631s" id="audio_0196"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=984.631s" clip-end="npt=986.616s" id="audio_0197"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=986.616s" clip-end="npt=988.836s" id="audio_0198"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=988.836s" clip-end="npt=990.783s" id="audio_0199"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=990.783s" clip-end="npt=993.087s" id="audio_0200"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=993.087s" clip-end="npt=997.515s" id="audio_0201"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qibx_0001" system-required="pagenumber-on">
+				<text src="ncc.html#snld_000c" id="qibx_0002"/>
+			</par>
+			<par endsync="last" id="zibe_0001">
+				<text src="ncc.html#vgyi_00c3" id="qibx_0003"/>
+				<seq>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=997.515s" clip-end="npt=998.372s" id="audio_0202"/>
+					<audio src="34_Lesson_29_B__Writing_Reports.mp3" clip-begin="npt=998.372s" clip-end="npt=999.801s" id="audio_0203"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

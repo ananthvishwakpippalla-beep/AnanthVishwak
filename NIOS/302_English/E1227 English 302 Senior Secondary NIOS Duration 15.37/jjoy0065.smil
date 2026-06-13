@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:44:15.590"/>
+		<meta name="ncc:totalElapsedTime" content="04:19:25.355"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 12: If I were You"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="2655.590s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_0156" id="jjoy_0156"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=0.000s" clip-end="npt=1.864s" id="audio_0001"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1.864s" clip-end="npt=4.960s" id="audio_0002"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=4.960s" clip-end="npt=7.951s" id="audio_0003"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=7.951s" clip-end="npt=11.386s" id="audio_0004"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=11.386s" clip-end="npt=14.468s" id="audio_0005"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=14.468s" clip-end="npt=19.131s" id="audio_0006"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=19.131s" clip-end="npt=20.712s" id="audio_0007"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=20.712s" clip-end="npt=24.055s" id="audio_0008"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=24.055s" clip-end="npt=27.961s" id="audio_0009"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=27.961s" clip-end="npt=31.735s" id="audio_0010"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=31.735s" clip-end="npt=34.322s" id="audio_0011"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=34.322s" clip-end="npt=40.944s" id="audio_0012"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=40.944s" clip-end="npt=45.763s" id="audio_0013"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=45.763s" clip-end="npt=53.587s" id="audio_0014"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=53.587s" clip-end="npt=57.283s" id="audio_0015"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=57.283s" clip-end="npt=67.170s" id="audio_0016"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=67.170s" clip-end="npt=72.290s" id="audio_0017"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=72.290s" clip-end="npt=77.619s" id="audio_0018"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=77.619s" clip-end="npt=82.478s" id="audio_0019"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=82.478s" clip-end="npt=86.605s" id="audio_0020"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=86.605s" clip-end="npt=91.007s" id="audio_0021"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=91.007s" clip-end="npt=95.278s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0145" id="par_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_0156" id="par_0007"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=95.278s" clip-end="npt=98.151s" id="audio_0023"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=98.151s" clip-end="npt=104.081s" id="audio_0024"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=104.081s" clip-end="npt=105.949s" id="audio_0025"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=105.949s" clip-end="npt=113.342s" id="audio_0026"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=113.342s" clip-end="npt=115.562s" id="audio_0027"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=115.562s" clip-end="npt=120.565s" id="audio_0028"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=120.565s" clip-end="npt=128.153s" id="audio_0029"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=128.153s" clip-end="npt=129.812s" id="audio_0030"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=129.812s" clip-end="npt=131.784s" id="audio_0031"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=131.784s" clip-end="npt=136.878s" id="audio_0032"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=136.878s" clip-end="npt=138.171s" id="audio_0033"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=138.171s" clip-end="npt=143.474s" id="audio_0034"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=143.474s" clip-end="npt=146.138s" id="audio_0035"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=146.138s" clip-end="npt=147.654s" id="audio_0036"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=147.654s" clip-end="npt=149.978s" id="audio_0037"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=149.978s" clip-end="npt=154.328s" id="audio_0038"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=154.328s" clip-end="npt=156.026s" id="audio_0039"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=156.026s" clip-end="npt=160.284s" id="audio_0040"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=160.284s" clip-end="npt=162.008s" id="audio_0041"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=162.008s" clip-end="npt=165.626s" id="audio_0042"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=165.626s" clip-end="npt=167.049s" id="audio_0043"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=167.049s" clip-end="npt=168.421s" id="audio_0044"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=168.421s" clip-end="npt=170.876s" id="audio_0045"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=170.876s" clip-end="npt=177.420s" id="audio_0046"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=177.420s" clip-end="npt=178.948s" id="audio_0047"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=178.948s" clip-end="npt=180.581s" id="audio_0048"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=180.581s" clip-end="npt=182.475s" id="audio_0049"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=182.475s" clip-end="npt=190.664s" id="audio_0050"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=190.664s" clip-end="npt=192.297s" id="audio_0051"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=192.297s" clip-end="npt=196.489s" id="audio_0052"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=196.489s" clip-end="npt=201.505s" id="audio_0053"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=201.505s" clip-end="npt=202.785s" id="audio_0054"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=202.785s" clip-end="npt=207.056s" id="audio_0055"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=207.056s" clip-end="npt=208.858s" id="audio_0056"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=208.858s" clip-end="npt=211.980s" id="audio_0057"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=211.980s" clip-end="npt=214.658s" id="audio_0058"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=214.658s" clip-end="npt=224.597s" id="audio_0059"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=224.597s" clip-end="npt=226.987s" id="audio_0060"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=226.987s" clip-end="npt=228.672s" id="audio_0061"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=228.672s" clip-end="npt=232.865s" id="audio_0062"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=232.865s" clip-end="npt=234.419s" id="audio_0063"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=234.419s" clip-end="npt=237.332s" id="audio_0064"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=237.332s" clip-end="npt=239.056s" id="audio_0065"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=239.056s" clip-end="npt=245.103s" id="audio_0066"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=245.103s" clip-end="npt=251.516s" id="audio_0067"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=251.516s" clip-end="npt=254.860s" id="audio_0068"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=254.860s" clip-end="npt=258.504s" id="audio_0069"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=258.504s" clip-end="npt=260.307s" id="audio_0070"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=260.307s" clip-end="npt=263.128s" id="audio_0071"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=263.128s" clip-end="npt=264.551s" id="audio_0072"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=264.551s" clip-end="npt=270.037s" id="audio_0073"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=270.037s" clip-end="npt=271.670s" id="audio_0074"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=271.670s" clip-end="npt=278.932s" id="audio_0075"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=278.932s" clip-end="npt=283.046s" id="audio_0076"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=283.046s" clip-end="npt=284.783s" id="audio_0077"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=284.783s" clip-end="npt=286.677s" id="audio_0078"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=286.677s" clip-end="npt=288.584s" id="audio_0079"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=288.584s" clip-end="npt=290.569s" id="audio_0080"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=290.569s" clip-end="npt=293.965s" id="audio_0081"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=293.965s" clip-end="npt=295.598s" id="audio_0082"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=295.598s" clip-end="npt=301.880s" id="audio_0083"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=301.880s" clip-end="npt=304.888s" id="audio_0084"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0008" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0146" id="par_0009"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_0156" id="par_000a"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=304.888s" clip-end="npt=306.625s" id="audio_0085"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=306.625s" clip-end="npt=309.851s" id="audio_0086"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=309.851s" clip-end="npt=315.324s" id="audio_0087"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=315.324s" clip-end="npt=319.229s" id="audio_0088"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=319.229s" clip-end="npt=324.741s" id="audio_0089"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=324.741s" clip-end="npt=326.099s" id="audio_0090"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=326.099s" clip-end="npt=331.324s" id="audio_0091"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=331.324s" clip-end="npt=332.970s" id="audio_0092"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=332.970s" clip-end="npt=340.623s" id="audio_0093"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=340.623s" clip-end="npt=344.072s" id="audio_0094"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=344.072s" clip-end="npt=349.048s" id="audio_0095"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=349.048s" clip-end="npt=352.379s" id="audio_0096"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=352.379s" clip-end="npt=354.664s" id="audio_0097"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=354.664s" clip-end="npt=356.754s" id="audio_0098"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=356.754s" clip-end="npt=359.105s" id="audio_0099"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=359.105s" clip-end="npt=360.516s" id="audio_0100"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=360.516s" clip-end="npt=361.979s" id="audio_0101"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=361.979s" clip-end="npt=369.541s" id="audio_0102"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=369.541s" clip-end="npt=372.075s" id="audio_0103"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=372.075s" clip-end="npt=375.379s" id="audio_0104"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=375.379s" clip-end="npt=380.970s" id="audio_0105"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=380.970s" clip-end="npt=382.223s" id="audio_0106"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=382.223s" clip-end="npt=387.461s" id="audio_0107"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=387.461s" clip-end="npt=392.973s" id="audio_0108"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=392.973s" clip-end="npt=394.383s" id="audio_0109"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=394.383s" clip-end="npt=395.964s" id="audio_0110"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=395.964s" clip-end="npt=399.203s" id="audio_0111"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=399.203s" clip-end="npt=400.274s" id="audio_0112"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=400.274s" clip-end="npt=405.890s" id="audio_0113"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=405.890s" clip-end="npt=413.570s" id="audio_0114"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=413.570s" clip-end="npt=415.072s" id="audio_0115"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=415.072s" clip-end="npt=419.801s" id="audio_0116"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=419.801s" clip-end="npt=421.590s" id="audio_0117"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=421.590s" clip-end="npt=425.195s" id="audio_0118"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=425.195s" clip-end="npt=430.263s" id="audio_0119"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=430.263s" clip-end="npt=433.567s" id="audio_0120"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=433.567s" clip-end="npt=435.787s" id="audio_0121"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=435.787s" clip-end="npt=438.008s" id="audio_0122"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=438.008s" clip-end="npt=441.770s" id="audio_0123"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=441.770s" clip-end="npt=444.630s" id="audio_0124"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=444.630s" clip-end="npt=448.496s" id="audio_0125"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=448.496s" clip-end="npt=450.103s" id="audio_0126"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=450.103s" clip-end="npt=453.799s" id="audio_0127"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=453.799s" clip-end="npt=459.742s" id="audio_0128"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=459.742s" clip-end="npt=461.387s" id="audio_0129"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=461.387s" clip-end="npt=465.293s" id="audio_0130"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=465.293s" clip-end="npt=466.991s" id="audio_0131"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=466.991s" clip-end="npt=471.627s" id="audio_0132"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=471.627s" clip-end="npt=475.673s" id="audio_0133"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000b" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0147" id="par_000c"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_0156" id="par_000d"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=475.673s" clip-end="npt=478.246s" id="audio_0134"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=478.246s" clip-end="npt=480.740s" id="audio_0135"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=480.740s" clip-end="npt=489.570s" id="audio_0136"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=489.570s" clip-end="npt=493.397s" id="audio_0137"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=493.397s" clip-end="npt=495.095s" id="audio_0138"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=495.095s" clip-end="npt=500.371s" id="audio_0139"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=500.371s" clip-end="npt=503.676s" id="audio_0140"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=503.676s" clip-end="npt=504.956s" id="audio_0141"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=504.956s" clip-end="npt=511.578s" id="audio_0142"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=511.578s" clip-end="npt=513.080s" id="audio_0143"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=513.080s" clip-end="npt=514.856s" id="audio_0144"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=514.856s" clip-end="npt=519.127s" id="audio_0145"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=519.127s" clip-end="npt=520.460s" id="audio_0146"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=520.460s" clip-end="npt=523.202s" id="audio_0147"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=523.202s" clip-end="npt=525.514s" id="audio_0148"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=525.514s" clip-end="npt=528.558s" id="audio_0149"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=528.558s" clip-end="npt=530.334s" id="audio_0150"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=530.334s" clip-end="npt=532.293s" id="audio_0151"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=532.293s" clip-end="npt=535.480s" id="audio_0152"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=535.480s" clip-end="npt=536.721s" id="audio_0153"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=536.721s" clip-end="npt=538.771s" id="audio_0154"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=538.771s" clip-end="npt=540.561s" id="audio_0155"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=540.561s" clip-end="npt=545.563s" id="audio_0156"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=545.563s" clip-end="npt=547.509s" id="audio_0157"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=547.509s" clip-end="npt=550.749s" id="audio_0158"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=550.749s" clip-end="npt=552.159s" id="audio_0159"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=552.159s" clip-end="npt=554.354s" id="audio_0160"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=554.354s" clip-end="npt=555.555s" id="audio_0161"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=555.555s" clip-end="npt=559.578s" id="audio_0162"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=559.578s" clip-end="npt=563.340s" id="audio_0163"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=563.340s" clip-end="npt=565.194s" id="audio_0164"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=565.194s" clip-end="npt=571.176s" id="audio_0165"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=571.176s" clip-end="npt=573.096s" id="audio_0166"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=573.096s" clip-end="npt=575.304s" id="audio_0167"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=575.304s" clip-end="npt=577.825s" id="audio_0168"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=577.825s" clip-end="npt=580.463s" id="audio_0169"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=580.463s" clip-end="npt=586.719s" id="audio_0170"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=586.719s" clip-end="npt=590.220s" id="audio_0171"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=590.220s" clip-end="npt=591.682s" id="audio_0172"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=591.682s" clip-end="npt=595.875s" id="audio_0173"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=595.875s" clip-end="npt=598.631s" id="audio_0174"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=598.631s" clip-end="npt=599.963s" id="audio_0175"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=599.963s" clip-end="npt=602.145s" id="audio_0176"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=602.145s" clip-end="npt=604.548s" id="audio_0177"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=604.548s" clip-end="npt=613.325s" id="audio_0178"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=613.325s" clip-end="npt=616.512s" id="audio_0179"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=616.512s" clip-end="npt=625.955s" id="audio_0180"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=625.955s" clip-end="npt=629.247s" id="audio_0181"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=629.247s" clip-end="npt=633.191s" id="audio_0182"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=633.191s" clip-end="npt=641.655s" id="audio_0183"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=641.655s" clip-end="npt=643.470s" id="audio_0184"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=643.470s" clip-end="npt=646.958s" id="audio_0185"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=646.958s" clip-end="npt=649.779s" id="audio_0186"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=649.779s" clip-end="npt=653.958s" id="audio_0187"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=653.958s" clip-end="npt=655.382s" id="audio_0188"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=655.382s" clip-end="npt=661.691s" id="audio_0189"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=661.691s" clip-end="npt=667.320s" id="audio_0190"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=667.320s" clip-end="npt=676.463s" id="audio_0191"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=676.463s" clip-end="npt=680.281s" id="audio_0192"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000e" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0148" id="par_000f"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_0156" id="par_0010"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=680.281s" clip-end="npt=683.402s" id="audio_0193"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=683.402s" clip-end="npt=685.440s" id="audio_0194"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=685.440s" clip-end="npt=692.010s" id="audio_0195"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=692.010s" clip-end="npt=695.040s" id="audio_0196"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=695.040s" clip-end="npt=696.424s" id="audio_0197"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=696.424s" clip-end="npt=697.691s" id="audio_0198"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=697.691s" clip-end="npt=699.964s" id="audio_0199"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=699.964s" clip-end="npt=703.778s" id="audio_0200"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=703.778s" clip-end="npt=707.905s" id="audio_0201"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=707.905s" clip-end="npt=710.988s" id="audio_0202"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=710.988s" clip-end="npt=715.402s" id="audio_0203"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=715.402s" clip-end="npt=720.901s" id="audio_0204"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=720.901s" clip-end="npt=722.703s" id="audio_0205"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=722.703s" clip-end="npt=724.441s" id="audio_0206"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=724.441s" clip-end="npt=726.295s" id="audio_0207"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=726.295s" clip-end="npt=728.450s" id="audio_0208"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=728.450s" clip-end="npt=730.919s" id="audio_0209"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=730.919s" clip-end="npt=735.229s" id="audio_0210"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=735.229s" clip-end="npt=737.254s" id="audio_0211"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=737.254s" clip-end="npt=740.989s" id="audio_0212"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=740.989s" clip-end="npt=742.570s" id="audio_0213"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=742.570s" clip-end="npt=745.913s" id="audio_0214"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=745.913s" clip-end="npt=753.019s" id="audio_0215"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=753.019s" clip-end="npt=754.638s" id="audio_0216"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=754.638s" clip-end="npt=760.268s" id="audio_0217"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=760.268s" clip-end="npt=762.031s" id="audio_0218"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=762.031s" clip-end="npt=763.703s" id="audio_0219"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=763.703s" clip-end="npt=766.824s" id="audio_0220"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=766.824s" clip-end="npt=768.522s" id="audio_0221"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=768.522s" clip-end="npt=773.694s" id="audio_0222"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=773.694s" clip-end="npt=778.331s" id="audio_0223"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=778.331s" clip-end="npt=782.093s" id="audio_0224"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=782.093s" clip-end="npt=786.625s" id="audio_0225"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=786.625s" clip-end="npt=791.680s" id="audio_0226"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=791.680s" clip-end="npt=793.325s" id="audio_0227"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=793.325s" clip-end="npt=799.503s" id="audio_0228"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=799.503s" clip-end="npt=800.953s" id="audio_0229"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=800.953s" clip-end="npt=807.680s" id="audio_0230"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=807.680s" clip-end="npt=809.600s" id="audio_0231"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=809.600s" clip-end="npt=816.718s" id="audio_0232"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=816.718s" clip-end="npt=817.972s" id="audio_0233"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=817.972s" clip-end="npt=821.133s" id="audio_0234"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=821.133s" clip-end="npt=826.070s" id="audio_0235"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=826.070s" clip-end="npt=827.781s" id="audio_0236"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=827.781s" clip-end="npt=831.477s" id="audio_0237"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=831.477s" clip-end="npt=836.650s" id="audio_0238"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=836.650s" clip-end="npt=840.908s" id="audio_0239"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=840.908s" clip-end="npt=842.527s" id="audio_0240"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=842.527s" clip-end="npt=846.602s" id="audio_0241"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=846.602s" clip-end="npt=848.535s" id="audio_0242"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=848.535s" clip-end="npt=852.845s" id="audio_0243"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=852.845s" clip-end="npt=857.482s" id="audio_0244"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=857.482s" clip-end="npt=863.111s" id="audio_0245"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=863.111s" clip-end="npt=864.600s" id="audio_0246"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=864.600s" clip-end="npt=868.506s" id="audio_0247"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=868.506s" clip-end="npt=873.508s" id="audio_0248"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0011" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0149" id="par_0012"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_0156" id="par_0013"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=873.508s" clip-end="npt=876.356s" id="audio_0249"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=876.356s" clip-end="npt=879.634s" id="audio_0250"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=879.634s" clip-end="npt=880.953s" id="audio_0251"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=880.953s" clip-end="npt=884.440s" id="audio_0252"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=884.440s" clip-end="npt=891.036s" id="audio_0253"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=891.036s" clip-end="npt=898.050s" id="audio_0254"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=898.050s" clip-end="npt=899.565s" id="audio_0255"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=899.565s" clip-end="npt=905.534s" id="audio_0256"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=905.534s" clip-end="npt=906.906s" id="audio_0257"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=906.906s" clip-end="npt=910.289s" id="audio_0258"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=910.289s" clip-end="npt=917.642s" id="audio_0259"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=917.642s" clip-end="npt=919.262s" id="audio_0260"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=919.262s" clip-end="npt=926.563s" id="audio_0261"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=926.563s" clip-end="npt=927.974s" id="audio_0262"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=927.974s" clip-end="npt=931.043s" id="audio_0263"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=931.043s" clip-end="npt=934.831s" id="audio_0264"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=934.831s" clip-end="npt=936.137s" id="audio_0265"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=936.137s" clip-end="npt=937.169s" id="audio_0266"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=937.169s" clip-end="npt=941.393s" id="audio_0267"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=941.393s" clip-end="npt=945.585s" id="audio_0268"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=945.585s" clip-end="npt=947.819s" id="audio_0269"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=947.819s" clip-end="npt=950.588s" id="audio_0270"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=950.588s" clip-end="npt=953.318s" id="audio_0271"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=953.318s" clip-end="npt=958.986s" id="audio_0272"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=958.986s" clip-end="npt=963.087s" id="audio_0273"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=963.087s" clip-end="npt=970.088s" id="audio_0274"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=970.088s" clip-end="npt=972.844s" id="audio_0275"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=972.844s" clip-end="npt=977.716s" id="audio_0276"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=977.716s" clip-end="npt=979.453s" id="audio_0277"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=979.453s" clip-end="npt=987.590s" id="audio_0278"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=987.590s" clip-end="npt=988.923s" id="audio_0279"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=988.923s" clip-end="npt=991.156s" id="audio_0280"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=991.156s" clip-end="npt=996.015s" id="audio_0281"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=996.015s" clip-end="npt=997.647s" id="audio_0282"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=997.647s" clip-end="npt=1002.101s" id="audio_0283"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1002.101s" clip-end="npt=1007.679s" id="audio_0284"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1007.679s" clip-end="npt=1009.089s" id="audio_0285"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1009.089s" clip-end="npt=1013.243s" id="audio_0286"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1013.243s" clip-end="npt=1016.900s" id="audio_0287"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0014" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_014a" id="par_0015"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#jjoy_0156" id="par_0016"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1016.900s" clip-end="npt=1020.688s" id="audio_0288"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1020.688s" clip-end="npt=1023.065s" id="audio_0289"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1023.065s" clip-end="npt=1028.864s" id="audio_0290"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1028.864s" clip-end="npt=1034.716s" id="audio_0291"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1034.716s" clip-end="npt=1038.778s" id="audio_0292"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1038.778s" clip-end="npt=1042.892s" id="audio_0293"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1042.892s" clip-end="npt=1044.525s" id="audio_0294"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1044.525s" clip-end="npt=1047.085s" id="audio_0295"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1047.085s" clip-end="npt=1048.626s" id="audio_0296"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1048.626s" clip-end="npt=1055.470s" id="audio_0297"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1055.470s" clip-end="npt=1058.474s" id="audio_0298"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1058.474s" clip-end="npt=1066.011s" id="audio_0299"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1066.011s" clip-end="npt=1073.782s" id="audio_0300"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1073.782s" clip-end="npt=1075.480s" id="audio_0301"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1075.480s" clip-end="npt=1082.011s" id="audio_0302"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1082.011s" clip-end="npt=1083.695s" id="audio_0303"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1083.695s" clip-end="npt=1086.138s" id="audio_0304"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1086.138s" clip-end="npt=1089.168s" id="audio_0305"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1089.168s" clip-end="npt=1092.473s" id="audio_0306"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1092.473s" clip-end="npt=1095.568s" id="audio_0307"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1095.568s" clip-end="npt=1097.828s" id="audio_0308"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1097.828s" clip-end="npt=1099.199s" id="audio_0309"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1099.199s" clip-end="npt=1105.573s" id="audio_0310"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1105.573s" clip-end="npt=1113.762s" id="audio_0311"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1113.762s" clip-end="npt=1115.095s" id="audio_0312"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1115.095s" clip-end="npt=1117.994s" id="audio_0313"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1117.994s" clip-end="npt=1119.392s" id="audio_0314"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1119.392s" clip-end="npt=1121.599s" id="audio_0315"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1121.599s" clip-end="npt=1125.295s" id="audio_0316"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1125.295s" clip-end="npt=1126.980s" id="audio_0317"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1126.980s" clip-end="npt=1131.513s" id="audio_0318"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1131.513s" clip-end="npt=1133.472s" id="audio_0319"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1133.472s" clip-end="npt=1143.738s" id="audio_0320"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1143.738s" clip-end="npt=1146.716s" id="audio_0321"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1146.716s" clip-end="npt=1153.325s" id="audio_0322"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1153.325s" clip-end="npt=1155.232s" id="audio_0323"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1155.232s" clip-end="npt=1157.269s" id="audio_0324"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1157.269s" clip-end="npt=1158.680s" id="audio_0325"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1158.680s" clip-end="npt=1163.251s" id="audio_0326"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1163.251s" clip-end="npt=1166.073s" id="audio_0327"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1166.073s" clip-end="npt=1173.243s" id="audio_0328"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1173.243s" clip-end="npt=1180.571s" id="audio_0329"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1180.571s" clip-end="npt=1190.797s" id="audio_0330"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1190.797s" clip-end="npt=1194.637s" id="audio_0331"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1194.637s" clip-end="npt=1197.485s" id="audio_0332"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1197.485s" clip-end="npt=1199.183s" id="audio_0333"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1199.183s" clip-end="npt=1200.254s" id="audio_0334"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1200.254s" clip-end="npt=1202.474s" id="audio_0335"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1202.474s" clip-end="npt=1208.482s" id="audio_0336"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1208.482s" clip-end="npt=1213.145s" id="audio_0337"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1213.145s" clip-end="npt=1218.709s" id="audio_0338"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1218.709s" clip-end="npt=1224.731s" id="audio_0339"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1224.731s" clip-end="npt=1228.335s" id="audio_0340"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kslu_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_014b" id="kslu_0002"/>
+			</par>
+			<par endsync="last" id="kslu_0003">
+				<text src="ncc.html#jjoy_0156" id="kslu_0004"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1228.335s" clip-end="npt=1230.412s" id="audio_0341"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1230.412s" clip-end="npt=1233.351s" id="audio_0342"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1233.351s" clip-end="npt=1236.106s" id="audio_0343"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1236.106s" clip-end="npt=1240.717s" id="audio_0344"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1240.717s" clip-end="npt=1242.219s" id="audio_0345"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1242.219s" clip-end="npt=1248.149s" id="audio_0346"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1248.149s" clip-end="npt=1251.297s" id="audio_0347"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1251.297s" clip-end="npt=1255.633s" id="audio_0348"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1255.633s" clip-end="npt=1257.344s" id="audio_0349"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1257.344s" clip-end="npt=1261.315s" id="audio_0350"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1261.315s" clip-end="npt=1264.084s" id="audio_0351"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1264.084s" clip-end="npt=1268.342s" id="audio_0352"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1268.342s" clip-end="npt=1270.771s" id="audio_0353"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1270.771s" clip-end="npt=1272.103s" id="audio_0354"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1272.103s" clip-end="npt=1281.533s" id="audio_0355"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1281.533s" clip-end="npt=1283.976s" id="audio_0356"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1283.976s" clip-end="npt=1287.032s" id="audio_0357"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1287.032s" clip-end="npt=1290.846s" id="audio_0358"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1290.846s" clip-end="npt=1292.270s" id="audio_0359"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1292.270s" clip-end="npt=1295.535s" id="audio_0360"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1295.535s" clip-end="npt=1300.720s" id="audio_0361"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1300.720s" clip-end="npt=1302.066s" id="audio_0362"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1302.066s" clip-end="npt=1307.473s" id="audio_0363"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1307.473s" clip-end="npt=1310.255s" id="audio_0364"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1310.255s" clip-end="npt=1313.455s" id="audio_0365"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1313.455s" clip-end="npt=1317.334s" id="audio_0366"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1317.334s" clip-end="npt=1325.798s" id="audio_0367"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1325.798s" clip-end="npt=1327.718s" id="audio_0368"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1327.718s" clip-end="npt=1329.716s" id="audio_0369"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1329.716s" clip-end="npt=1333.504s" id="audio_0370"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1333.504s" clip-end="npt=1341.406s" id="audio_0371"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1341.406s" clip-end="npt=1347.101s" id="audio_0372"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1347.101s" clip-end="npt=1348.224s" id="audio_0373"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1348.224s" clip-end="npt=1358.359s" id="audio_0374"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1358.359s" clip-end="npt=1363.897s" id="audio_0375"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1363.897s" clip-end="npt=1368.142s" id="audio_0376"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1368.142s" clip-end="npt=1372.061s" id="audio_0377"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1372.061s" clip-end="npt=1374.725s" id="audio_0378"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1374.725s" clip-end="npt=1376.227s" id="audio_0379"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1376.227s" clip-end="npt=1382.418s" id="audio_0380"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1382.418s" clip-end="npt=1383.973s" id="audio_0381"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1383.973s" clip-end="npt=1386.611s" id="audio_0382"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1386.611s" clip-end="npt=1388.714s" id="audio_0383"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1388.714s" clip-end="npt=1391.548s" id="audio_0384"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1391.548s" clip-end="npt=1397.713s" id="audio_0385"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1397.713s" clip-end="npt=1400.260s" id="audio_0386"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1400.260s" clip-end="npt=1401.723s" id="audio_0387"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1401.723s" clip-end="npt=1403.042s" id="audio_0388"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1403.042s" clip-end="npt=1404.322s" id="audio_0389"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1404.322s" clip-end="npt=1405.981s" id="audio_0390"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1405.981s" clip-end="npt=1407.470s" id="audio_0391"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1407.470s" clip-end="npt=1408.724s" id="audio_0392"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1408.724s" clip-end="npt=1413.844s" id="audio_0393"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1413.844s" clip-end="npt=1419.842s" id="audio_0394"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kslu_0071" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_014c" id="kslu_0072"/>
+			</par>
+			<par endsync="last" id="kslu_0073">
+				<text src="ncc.html#jjoy_0156" id="kslu_0074"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1419.842s" clip-end="npt=1422.833s" id="audio_0395"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1422.833s" clip-end="npt=1425.693s" id="audio_0396"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1425.693s" clip-end="npt=1427.404s" id="audio_0397"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1427.404s" clip-end="npt=1430.892s" id="audio_0398"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1430.892s" clip-end="npt=1433.243s" id="audio_0399"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1433.243s" clip-end="npt=1435.202s" id="audio_0400"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1435.202s" clip-end="npt=1440.335s" id="audio_0401"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1440.335s" clip-end="npt=1444.567s" id="audio_0402"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1444.567s" clip-end="npt=1445.912s" id="audio_0403"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1445.912s" clip-end="npt=1457.641s" id="audio_0404"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1457.641s" clip-end="npt=1458.621s" id="audio_0405"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1458.621s" clip-end="npt=1465.008s" id="audio_0406"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1465.008s" clip-end="npt=1466.954s" id="audio_0407"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1466.954s" clip-end="npt=1471.695s" id="audio_0408"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1471.695s" clip-end="npt=1474.359s" id="audio_0409"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1474.359s" clip-end="npt=1475.679s" id="audio_0410"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1475.679s" clip-end="npt=1482.340s" id="audio_0411"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1482.340s" clip-end="npt=1486.663s" id="audio_0412"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1486.663s" clip-end="npt=1487.577s" id="audio_0413"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1487.577s" clip-end="npt=1489.210s" id="audio_0414"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1489.210s" clip-end="npt=1494.983s" id="audio_0415"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1494.983s" clip-end="npt=1497.713s" id="audio_0416"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1497.713s" clip-end="npt=1504.596s" id="audio_0417"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1504.596s" clip-end="npt=1508.227s" id="audio_0418"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1508.227s" clip-end="npt=1509.337s" id="audio_0419"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1509.337s" clip-end="npt=1510.356s" id="audio_0420"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1510.356s" clip-end="npt=1515.907s" id="audio_0421"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1515.907s" clip-end="npt=1518.637s" id="audio_0422"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1518.637s" clip-end="npt=1519.839s" id="audio_0423"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1519.839s" clip-end="npt=1525.573s" id="audio_0424"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1525.573s" clip-end="npt=1529.870s" id="audio_0425"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1529.870s" clip-end="npt=1531.267s" id="audio_0426"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1531.267s" clip-end="npt=1532.443s" id="audio_0427"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1532.443s" clip-end="npt=1535.878s" id="audio_0428"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1535.878s" clip-end="npt=1539.013s" id="audio_0429"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1539.013s" clip-end="npt=1540.136s" id="audio_0430"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1540.136s" clip-end="npt=1547.097s" id="audio_0431"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1547.097s" clip-end="npt=1552.361s" id="audio_0432"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1552.361s" clip-end="npt=1553.432s" id="audio_0433"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1553.432s" clip-end="npt=1562.118s" id="audio_0434"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1562.118s" clip-end="npt=1564.103s" id="audio_0435"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1564.103s" clip-end="npt=1570.843s" id="audio_0436"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1570.843s" clip-end="npt=1577.191s" id="audio_0437"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1577.191s" clip-end="npt=1578.601s" id="audio_0438"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1578.601s" clip-end="npt=1582.859s" id="audio_0439"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1582.859s" clip-end="npt=1584.844s" id="audio_0440"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1584.844s" clip-end="npt=1587.888s" id="audio_0441"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1587.888s" clip-end="npt=1594.340s" id="audio_0442"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1594.340s" clip-end="npt=1595.489s" id="audio_0443"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1595.489s" clip-end="npt=1599.159s" id="audio_0444"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1599.159s" clip-end="npt=1604.345s" id="audio_0445"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1604.345s" clip-end="npt=1607.140s" id="audio_0446"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1607.140s" clip-end="npt=1608.838s" id="audio_0447"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1608.838s" clip-end="npt=1612.391s" id="audio_0448"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1612.391s" clip-end="npt=1618.399s" id="audio_0449"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1618.399s" clip-end="npt=1620.423s" id="audio_0450"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1620.423s" clip-end="npt=1622.683s" id="audio_0451"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1622.683s" clip-end="npt=1624.224s" id="audio_0452"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1624.224s" clip-end="npt=1628.573s" id="audio_0453"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1628.573s" clip-end="npt=1630.023s" id="audio_0454"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1630.023s" clip-end="npt=1636.384s" id="audio_0455"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1636.384s" clip-end="npt=1638.121s" id="audio_0456"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1638.121s" clip-end="npt=1640.916s" id="audio_0457"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1640.916s" clip-end="npt=1644.756s" id="audio_0458"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1644.756s" clip-end="npt=1648.508s" id="audio_0459"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kslu_00f7" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_014d" id="kslu_00f8"/>
+			</par>
+			<par endsync="last" id="kslu_00f9">
+				<text src="ncc.html#jjoy_0156" id="kslu_00fa"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1648.508s" clip-end="npt=1651.421s" id="audio_0460"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1651.421s" clip-end="npt=1652.283s" id="audio_0461"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1652.283s" clip-end="npt=1660.616s" id="audio_0462"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1660.616s" clip-end="npt=1666.193s" id="audio_0463"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1666.193s" clip-end="npt=1669.876s" id="audio_0464"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1669.876s" clip-end="npt=1672.946s" id="audio_0465"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1672.946s" clip-end="npt=1676.747s" id="audio_0466"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1676.747s" clip-end="npt=1682.193s" id="audio_0467"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1682.193s" clip-end="npt=1690.369s" id="audio_0468"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1690.369s" clip-end="npt=1694.236s" id="audio_0469"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1694.236s" clip-end="npt=1696.600s" id="audio_0470"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1696.600s" clip-end="npt=1701.432s" id="audio_0471"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1701.432s" clip-end="npt=1703.927s" id="audio_0472"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1703.927s" clip-end="npt=1707.885s" id="audio_0473"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1707.885s" clip-end="npt=1710.209s" id="audio_0474"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1710.209s" clip-end="npt=1712.613s" id="audio_0475"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1712.613s" clip-end="npt=1716.609s" id="audio_0476"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1716.609s" clip-end="npt=1721.651s" id="audio_0477"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1721.651s" clip-end="npt=1723.545s" id="audio_0478"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1723.545s" clip-end="npt=1727.045s" id="audio_0479"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1727.045s" clip-end="npt=1733.602s" id="audio_0480"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1733.602s" clip-end="npt=1739.127s" id="audio_0481"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1739.127s" clip-end="npt=1742.497s" id="audio_0482"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1742.497s" clip-end="npt=1747.996s" id="audio_0483"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1747.996s" clip-end="npt=1755.623s" id="audio_0484"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1755.623s" clip-end="npt=1756.799s" id="audio_0485"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1756.799s" clip-end="npt=1765.289s" id="audio_0486"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1765.289s" clip-end="npt=1769.416s" id="audio_0487"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1769.416s" clip-end="npt=1779.578s" id="audio_0488"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1779.578s" clip-end="npt=1783.182s" id="audio_0489"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1783.182s" clip-end="npt=1787.715s" id="audio_0490"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1787.715s" clip-end="npt=1790.706s" id="audio_0491"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1790.706s" clip-end="npt=1793.880s" id="audio_0492"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1793.880s" clip-end="npt=1795.473s" id="audio_0493"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1795.473s" clip-end="npt=1798.712s" id="audio_0494"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1798.712s" clip-end="npt=1802.565s" id="audio_0495"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1802.565s" clip-end="npt=1806.118s" id="audio_0496"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1806.118s" clip-end="npt=1808.090s" id="audio_0497"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1808.090s" clip-end="npt=1811.969s" id="audio_0498"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1811.969s" clip-end="npt=1814.464s" id="audio_0499"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1814.464s" clip-end="npt=1822.431s" id="audio_0500"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1822.431s" clip-end="npt=1823.920s" id="audio_0501"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1823.920s" clip-end="npt=1825.671s" id="audio_0502"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1825.671s" clip-end="npt=1830.882s" id="audio_0503"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1830.882s" clip-end="npt=1834.069s" id="audio_0504"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1834.069s" clip-end="npt=1837.569s" id="audio_0505"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1837.569s" clip-end="npt=1843.878s" id="audio_0506"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1843.878s" clip-end="npt=1846.882s" id="audio_0507"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1846.882s" clip-end="npt=1861.654s" id="audio_0508"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1861.654s" clip-end="npt=1866.455s" id="audio_0509"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kslu_015f" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_014e" id="kslu_0160"/>
+			</par>
+			<par endsync="last" id="kslu_0161">
+				<text src="ncc.html#jjoy_0156" id="kslu_0162"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1866.455s" clip-end="npt=1869.498s" id="audio_0510"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1869.498s" clip-end="npt=1871.731s" id="audio_0511"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1871.731s" clip-end="npt=1875.493s" id="audio_0512"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1875.493s" clip-end="npt=1877.073s" id="audio_0513"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1877.073s" clip-end="npt=1880.117s" id="audio_0514"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1880.117s" clip-end="npt=1882.768s" id="audio_0515"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1882.768s" clip-end="npt=1886.255s" id="audio_0516"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1886.255s" clip-end="npt=1891.467s" id="audio_0517"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1891.467s" clip-end="npt=1894.144s" id="audio_0518"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1894.144s" clip-end="npt=1895.764s" id="audio_0519"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1895.764s" clip-end="npt=1897.958s" id="audio_0520"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1897.958s" clip-end="npt=1903.248s" id="audio_0521"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1903.248s" clip-end="npt=1909.047s" id="audio_0522"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1909.047s" clip-end="npt=1915.186s" id="audio_0523"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1915.186s" clip-end="npt=1918.856s" id="audio_0524"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1918.856s" clip-end="npt=1924.995s" id="audio_0525"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1924.995s" clip-end="npt=1932.048s" id="audio_0526"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1932.048s" clip-end="npt=1937.436s" id="audio_0527"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kslu_0187" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_014f" id="kslu_0188"/>
+			</par>
+			<par endsync="last" id="kslu_0189">
+				<text src="ncc.html#jjoy_0156" id="kslu_018a"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1937.436s" clip-end="npt=1939.580s" id="audio_0528"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1939.580s" clip-end="npt=1942.662s" id="audio_0529"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1942.662s" clip-end="npt=1947.455s" id="audio_0530"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1947.455s" clip-end="npt=1951.870s" id="audio_0531"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1951.870s" clip-end="npt=1956.167s" id="audio_0532"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1956.167s" clip-end="npt=1957.682s" id="audio_0533"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1957.682s" clip-end="npt=1959.877s" id="audio_0534"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1959.877s" clip-end="npt=1964.344s" id="audio_0535"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1964.344s" clip-end="npt=1972.285s" id="audio_0536"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1972.285s" clip-end="npt=1978.528s" id="audio_0537"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1978.528s" clip-end="npt=1984.197s" id="audio_0538"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1984.197s" clip-end="npt=1989.695s" id="audio_0539"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1989.695s" clip-end="npt=1994.998s" id="audio_0540"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1994.998s" clip-end="npt=1999.086s" id="audio_0541"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=1999.086s" clip-end="npt=2006.166s" id="audio_0542"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2006.166s" clip-end="npt=2012.239s" id="audio_0543"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2012.239s" clip-end="npt=2016.171s" id="audio_0544"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2016.171s" clip-end="npt=2023.002s" id="audio_0545"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2023.002s" clip-end="npt=2027.325s" id="audio_0546"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2027.325s" clip-end="npt=2031.191s" id="audio_0547"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2031.191s" clip-end="npt=2034.025s" id="audio_0548"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2034.025s" clip-end="npt=2039.237s" id="audio_0549"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2039.237s" clip-end="npt=2044.735s" id="audio_0550"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kslu_01b9" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0150" id="kslu_01ba"/>
+			</par>
+			<par endsync="last" id="kslu_01bb">
+				<text src="ncc.html#jjoy_0156" id="kslu_01bc"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2044.735s" clip-end="npt=2047.857s" id="audio_0551"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2047.857s" clip-end="npt=2050.652s" id="audio_0552"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2050.652s" clip-end="npt=2052.010s" id="audio_0553"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2052.010s" clip-end="npt=2055.328s" id="audio_0554"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2055.328s" clip-end="npt=2059.638s" id="audio_0555"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2059.638s" clip-end="npt=2069.081s" id="audio_0556"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2069.081s" clip-end="npt=2072.438s" id="audio_0557"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2072.438s" clip-end="npt=2076.095s" id="audio_0558"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2076.095s" clip-end="npt=2078.969s" id="audio_0559"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2078.969s" clip-end="npt=2086.401s" id="audio_0560"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2086.401s" clip-end="npt=2090.737s" id="audio_0561"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2090.737s" clip-end="npt=2093.963s" id="audio_0562"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2093.963s" clip-end="npt=2102.570s" id="audio_0563"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2102.570s" clip-end="npt=2109.506s" id="audio_0564"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2109.506s" clip-end="npt=2115.018s" id="audio_0565"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2115.018s" clip-end="npt=2120.464s" id="audio_0566"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2120.464s" clip-end="npt=2124.226s" id="audio_0567"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2124.226s" clip-end="npt=2127.243s" id="audio_0568"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2127.243s" clip-end="npt=2131.997s" id="audio_0569"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2131.997s" clip-end="npt=2136.334s" id="audio_0570"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2136.334s" clip-end="npt=2137.731s" id="audio_0571"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2137.731s" clip-end="npt=2148.089s" id="audio_0572"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2148.089s" clip-end="npt=2150.792s" id="audio_0573"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2150.792s" clip-end="npt=2151.602s" id="audio_0574"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2151.602s" clip-end="npt=2155.495s" id="audio_0575"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2155.495s" clip-end="npt=2164.729s" id="audio_0576"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2164.729s" clip-end="npt=2171.560s" id="audio_0577"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2171.560s" clip-end="npt=2181.134s" id="audio_0578"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2181.134s" clip-end="npt=2187.064s" id="audio_0579"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2187.064s" clip-end="npt=2193.150s" id="audio_0580"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2193.150s" clip-end="npt=2200.255s" id="audio_0581"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2200.255s" clip-end="npt=2204.563s" id="audio_0582"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kslu_01fd" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0151" id="kslu_01fe"/>
+			</par>
+			<par endsync="last" id="kslu_01ff">
+				<text src="ncc.html#jjoy_0156" id="par_0017"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2204.563s" clip-end="npt=2207.437s" id="audio_0583"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2207.437s" clip-end="npt=2210.937s" id="audio_0584"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2210.937s" clip-end="npt=2215.613s" id="audio_0585"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2215.613s" clip-end="npt=2224.926s" id="audio_0586"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2224.926s" clip-end="npt=2229.079s" id="audio_0587"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2229.079s" clip-end="npt=2236.981s" id="audio_0588"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2236.981s" clip-end="npt=2241.108s" id="audio_0589"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2241.108s" clip-end="npt=2242.937s" id="audio_0590"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2242.937s" clip-end="npt=2245.432s" id="audio_0591"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2245.432s" clip-end="npt=2259.930s" id="audio_0592"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2259.930s" clip-end="npt=2267.114s" id="audio_0593"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2267.114s" clip-end="npt=2270.693s" id="audio_0594"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2270.693s" clip-end="npt=2273.083s" id="audio_0595"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2273.083s" clip-end="npt=2281.090s" id="audio_0596"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2281.090s" clip-end="npt=2286.523s" id="audio_0597"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2286.523s" clip-end="npt=2290.096s" id="audio_0598"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0019" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0152" id="par_001a"/>
+			</par>
+			<par endsync="last" id="par_0017">
+				<text src="ncc.html#jjoy_0156" id="par_001b"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2290.096s" clip-end="npt=2292.529s" id="audio_0599"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2292.529s" clip-end="npt=2296.473s" id="audio_0600"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2296.473s" clip-end="npt=2298.432s" id="audio_0601"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2298.432s" clip-end="npt=2299.934s" id="audio_0602"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2299.934s" clip-end="npt=2304.584s" id="audio_0603"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2304.584s" clip-end="npt=2307.510s" id="audio_0604"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2307.510s" clip-end="npt=2308.607s" id="audio_0605"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2308.607s" clip-end="npt=2311.755s" id="audio_0606"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2311.755s" clip-end="npt=2312.617s" id="audio_0607"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2312.617s" clip-end="npt=2316.561s" id="audio_0608"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2316.561s" clip-end="npt=2322.334s" id="audio_0609"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2322.334s" clip-end="npt=2331.556s" id="audio_0610"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2331.556s" clip-end="npt=2332.757s" id="audio_0611"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2332.757s" clip-end="npt=2338.449s" id="audio_0612"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2338.449s" clip-end="npt=2340.892s" id="audio_0613"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2340.892s" clip-end="npt=2345.176s" id="audio_0614"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2345.176s" clip-end="npt=2347.370s" id="audio_0615"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2347.370s" clip-end="npt=2349.447s" id="audio_0616"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2349.447s" clip-end="npt=2353.235s" id="audio_0617"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2353.235s" clip-end="npt=2359.387s" id="audio_0618"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2359.387s" clip-end="npt=2365.591s" id="audio_0619"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2365.591s" clip-end="npt=2369.561s" id="audio_0620"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2369.561s" clip-end="npt=2371.024s" id="audio_0621"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2371.024s" clip-end="npt=2373.662s" id="audio_0622"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2373.662s" clip-end="npt=2376.092s" id="audio_0623"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2376.092s" clip-end="npt=2378.247s" id="audio_0624"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2378.247s" clip-end="npt=2379.566s" id="audio_0625"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2379.566s" clip-end="npt=2383.458s" id="audio_0626"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2383.458s" clip-end="npt=2386.828s" id="audio_0627"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2386.828s" clip-end="npt=2392.066s" id="audio_0628"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2392.066s" clip-end="npt=2397.486s" id="audio_0629"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2397.486s" clip-end="npt=2407.831s" id="audio_0630"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2407.831s" clip-end="npt=2413.133s" id="audio_0631"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2413.133s" clip-end="npt=2421.336s" id="audio_0632"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2421.336s" clip-end="npt=2433.143s" id="audio_0633"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2433.143s" clip-end="npt=2436.187s" id="audio_0634"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2436.187s" clip-end="npt=2437.832s" id="audio_0635"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2437.832s" clip-end="npt=2439.922s" id="audio_0636"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2439.922s" clip-end="npt=2445.839s" id="audio_0637"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2445.839s" clip-end="npt=2450.162s" id="audio_0638"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_001c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0153" id="par_001d"/>
+			</par>
+			<par endsync="last" id="par_0019">
+				<text src="ncc.html#jjoy_0156" id="par_001e"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2450.162s" clip-end="npt=2452.696s" id="audio_0639"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2452.696s" clip-end="npt=2456.575s" id="audio_0640"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2456.575s" clip-end="npt=2459.579s" id="audio_0641"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2459.579s" clip-end="npt=2466.149s" id="audio_0642"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2466.149s" clip-end="npt=2470.511s" id="audio_0643"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2470.511s" clip-end="npt=2474.351s" id="audio_0644"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2474.351s" clip-end="npt=2475.853s" id="audio_0645"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2475.853s" clip-end="npt=2480.333s" id="audio_0646"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2480.333s" clip-end="npt=2488.431s" id="audio_0647"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2488.431s" clip-end="npt=2489.907s" id="audio_0648"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2489.907s" clip-end="npt=2491.932s" id="audio_0649"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2491.932s" clip-end="npt=2494.923s" id="audio_0650"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2494.923s" clip-end="npt=2496.268s" id="audio_0651"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2496.268s" clip-end="npt=2503.909s" id="audio_0652"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2503.909s" clip-end="npt=2505.777s" id="audio_0653"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2505.777s" clip-end="npt=2508.180s" id="audio_0654"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2508.180s" clip-end="npt=2512.516s" id="audio_0655"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2512.516s" clip-end="npt=2515.390s" id="audio_0656"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2515.390s" clip-end="npt=2520.236s" id="audio_0657"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2520.236s" clip-end="npt=2523.057s" id="audio_0658"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2523.057s" clip-end="npt=2524.676s" id="audio_0659"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2524.676s" clip-end="npt=2525.669s" id="audio_0660"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2525.669s" clip-end="npt=2527.654s" id="audio_0661"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2527.654s" clip-end="npt=2532.918s" id="audio_0662"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2532.918s" clip-end="npt=2534.342s" id="audio_0663"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2534.342s" clip-end="npt=2537.489s" id="audio_0664"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2537.489s" clip-end="npt=2539.018s" id="audio_0665"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2539.018s" clip-end="npt=2542.178s" id="audio_0666"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2542.178s" clip-end="npt=2547.050s" id="audio_0667"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2547.050s" clip-end="npt=2548.147s" id="audio_0668"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2548.147s" clip-end="npt=2549.336s" id="audio_0669"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2549.336s" clip-end="npt=2555.684s" id="audio_0670"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2555.684s" clip-end="npt=2556.859s" id="audio_0671"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2556.859s" clip-end="npt=2558.152s" id="audio_0672"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2558.152s" clip-end="npt=2562.567s" id="audio_0673"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2562.567s" clip-end="npt=2564.382s" id="audio_0674"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2564.382s" clip-end="npt=2569.973s" id="audio_0675"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2569.973s" clip-end="npt=2573.095s" id="audio_0676"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2573.095s" clip-end="npt=2574.597s" id="audio_0677"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2574.597s" clip-end="npt=2577.810s" id="audio_0678"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2577.810s" clip-end="npt=2581.715s" id="audio_0679"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2581.715s" clip-end="npt=2583.975s" id="audio_0680"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2583.975s" clip-end="npt=2585.803s" id="audio_0681"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2585.803s" clip-end="npt=2588.690s" id="audio_0682"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2588.690s" clip-end="npt=2590.205s" id="audio_0683"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2590.205s" clip-end="npt=2594.254s" id="audio_0684"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2594.254s" clip-end="npt=2598.473s" id="audio_0685"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2598.473s" clip-end="npt=2603.292s" id="audio_0686"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2603.292s" clip-end="npt=2605.748s" id="audio_0687"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2605.748s" clip-end="npt=2607.642s" id="audio_0688"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2607.642s" clip-end="npt=2609.745s" id="audio_0689"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2609.745s" clip-end="npt=2610.999s" id="audio_0690"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2610.999s" clip-end="npt=2612.174s" id="audio_0691"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2612.174s" clip-end="npt=2613.781s" id="audio_0692"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2613.781s" clip-end="npt=2615.139s" id="audio_0693"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2615.139s" clip-end="npt=2616.693s" id="audio_0694"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2616.693s" clip-end="npt=2618.130s" id="audio_0695"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2618.130s" clip-end="npt=2619.345s" id="audio_0696"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2619.345s" clip-end="npt=2622.166s" id="audio_0697"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2622.166s" clip-end="npt=2624.478s" id="audio_0698"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2624.478s" clip-end="npt=2625.980s" id="audio_0699"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2625.980s" clip-end="npt=2627.194s" id="audio_0700"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2627.194s" clip-end="npt=2628.762s" id="audio_0701"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2628.762s" clip-end="npt=2631.322s" id="audio_0702"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2631.322s" clip-end="npt=2632.510s" id="audio_0703"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2632.510s" clip-end="npt=2633.725s" id="audio_0704"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2633.725s" clip-end="npt=2635.149s" id="audio_0705"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2635.149s" clip-end="npt=2637.709s" id="audio_0706"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2637.709s" clip-end="npt=2639.106s" id="audio_0707"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2639.106s" clip-end="npt=2640.399s" id="audio_0708"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2640.399s" clip-end="npt=2642.254s" id="audio_0709"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2642.254s" clip-end="npt=2646.473s" id="audio_0710"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2646.473s" clip-end="npt=2651.841s" id="audio_0711"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0154" id="par_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_0156" id="par_0004"/>
+				<seq>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2651.841s" clip-end="npt=2653.121s" id="audio_0712"/>
+					<audio src="13_Lesson_12__If_I_were_You.mp3" clip-begin="npt=2653.121s" clip-end="npt=2655.590s" id="audio_0713"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

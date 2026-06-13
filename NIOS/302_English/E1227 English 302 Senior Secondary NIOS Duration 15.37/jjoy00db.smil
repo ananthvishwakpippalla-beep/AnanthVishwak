@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:46:38.780"/>
+		<meta name="ncc:totalElapsedTime" content="02:36:20.955"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 8: A case of suspicion"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="2798.780s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_011b" id="jjoy_011b"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=0.000s" clip-end="npt=1.999s" id="audio_0001"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1.999s" clip-end="npt=6.178s" id="audio_0002"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=6.178s" clip-end="npt=18.182s" id="audio_0003"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=18.182s" clip-end="npt=19.749s" id="audio_0004"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=19.749s" clip-end="npt=28.591s" id="audio_0005"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=28.591s" clip-end="npt=31.883s" id="audio_0006"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=31.883s" clip-end="npt=41.470s" id="audio_0007"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=41.470s" clip-end="npt=45.532s" id="audio_0008"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=45.532s" clip-end="npt=53.173s" id="audio_0009"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=53.173s" clip-end="npt=57.640s" id="audio_0010"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=57.640s" clip-end="npt=63.321s" id="audio_0011"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=63.321s" clip-end="npt=69.003s" id="audio_0012"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=69.003s" clip-end="npt=73.363s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_011c" id="par_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_011b" id="par_0004"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=73.363s" clip-end="npt=76.158s" id="audio_0014"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=76.158s" clip-end="npt=79.385s" id="audio_0015"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=79.385s" clip-end="npt=85.432s" id="audio_0016"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=85.432s" clip-end="npt=87.848s" id="audio_0017"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=87.848s" clip-end="npt=91.923s" id="audio_0018"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=91.923s" clip-end="npt=96.678s" id="audio_0019"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=96.678s" clip-end="npt=98.141s" id="audio_0020"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=98.141s" clip-end="npt=106.147s" id="audio_0021"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=106.147s" clip-end="npt=108.433s" id="audio_0022"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=108.433s" clip-end="npt=119.731s" id="audio_0023"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=119.731s" clip-end="npt=122.043s" id="audio_0024"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=122.043s" clip-end="npt=123.349s" id="audio_0025"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=123.349s" clip-end="npt=128.260s" id="audio_0026"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=128.260s" clip-end="npt=138.343s" id="audio_0027"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=138.343s" clip-end="npt=140.981s" id="audio_0028"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=140.981s" clip-end="npt=154.408s" id="audio_0029"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=154.408s" clip-end="npt=156.916s" id="audio_0030"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=156.916s" clip-end="npt=162.728s" id="audio_0031"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=162.728s" clip-end="npt=170.539s" id="audio_0032"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=170.539s" clip-end="npt=180.243s" id="audio_0033"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=180.243s" clip-end="npt=182.503s" id="audio_0034"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=182.503s" clip-end="npt=190.078s" id="audio_0035"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=190.078s" clip-end="npt=193.474s" id="audio_0036"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=193.474s" clip-end="npt=198.712s" id="audio_0037"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=198.712s" clip-end="npt=199.965s" id="audio_0038"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=199.965s" clip-end="npt=203.479s" id="audio_0039"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=203.479s" clip-end="npt=207.528s" id="audio_0040"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=207.528s" clip-end="npt=211.799s" id="audio_0041"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=211.799s" clip-end="npt=215.939s" id="audio_0042"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=215.939s" clip-end="npt=217.494s" id="audio_0043"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=217.494s" clip-end="npt=222.365s" id="audio_0044"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=222.365s" clip-end="npt=226.297s" id="audio_0045"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=226.297s" clip-end="npt=227.329s" id="audio_0046"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=227.329s" clip-end="npt=230.947s" id="audio_0047"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=230.947s" clip-end="npt=234.826s" id="audio_0048"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=234.826s" clip-end="npt=238.849s" id="audio_0049"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=238.849s" clip-end="npt=243.054s" id="audio_0050"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=243.054s" clip-end="npt=247.169s" id="audio_0051"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=247.169s" clip-end="npt=251.532s" id="audio_0052"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0006" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_011d" id="par_0007"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_011b" id="par_0008"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=251.532s" clip-end="npt=254.188s" id="audio_0053"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=254.188s" clip-end="npt=256.996s" id="audio_0054"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=256.996s" clip-end="npt=261.006s" id="audio_0055"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=261.006s" clip-end="npt=270.071s" id="audio_0056"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=270.071s" clip-end="npt=274.799s" id="audio_0057"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=274.799s" clip-end="npt=287.677s" id="audio_0058"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=287.677s" clip-end="npt=296.089s" id="audio_0059"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=296.089s" clip-end="npt=301.183s" id="audio_0060"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=301.183s" clip-end="npt=303.677s" id="audio_0061"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=303.677s" clip-end="npt=304.722s" id="audio_0062"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=304.722s" clip-end="npt=308.680s" id="audio_0063"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=308.680s" clip-end="npt=318.489s" id="audio_0064"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=318.489s" clip-end="npt=321.845s" id="audio_0065"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=321.845s" clip-end="npt=328.206s" id="audio_0066"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=328.206s" clip-end="npt=334.737s" id="audio_0067"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=334.737s" clip-end="npt=340.471s" id="audio_0068"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=340.471s" clip-end="npt=345.682s" id="audio_0069"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=345.682s" clip-end="npt=352.004s" id="audio_0070"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=352.004s" clip-end="npt=356.588s" id="audio_0071"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=356.588s" clip-end="npt=358.730s" id="audio_0072"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=358.730s" clip-end="npt=360.964s" id="audio_0073"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=360.964s" clip-end="npt=369.845s" id="audio_0074"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=369.845s" clip-end="npt=373.685s" id="audio_0075"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=373.685s" clip-end="npt=376.794s" id="audio_0076"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=376.794s" clip-end="npt=382.567s" id="audio_0077"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=382.567s" clip-end="npt=385.858s" id="audio_0078"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=385.858s" clip-end="npt=387.334s" id="audio_0079"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=387.334s" clip-end="npt=394.100s" id="audio_0080"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=394.100s" clip-end="npt=397.052s" id="audio_0081"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=397.052s" clip-end="npt=397.914s" id="audio_0082"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=397.914s" clip-end="npt=402.198s" id="audio_0083"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=402.198s" clip-end="npt=406.103s" id="audio_0084"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=406.103s" clip-end="npt=409.186s" id="audio_0085"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=409.186s" clip-end="npt=415.847s" id="audio_0086"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=415.847s" clip-end="npt=420.366s" id="audio_0087"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=420.366s" clip-end="npt=423.305s" id="audio_0088"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=423.305s" clip-end="npt=428.673s" id="audio_0089"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=428.673s" clip-end="npt=433.754s" id="audio_0090"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0009" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_011e" id="par_000a"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_011b" id="par_000b"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=433.754s" clip-end="npt=436.562s" id="audio_0091"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=436.562s" clip-end="npt=444.072s" id="audio_0092"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=444.072s" clip-end="npt=450.224s" id="audio_0093"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=450.224s" clip-end="npt=452.641s" id="audio_0094"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=452.641s" clip-end="npt=457.787s" id="audio_0095"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=457.787s" clip-end="npt=462.946s" id="audio_0096"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=462.946s" clip-end="npt=467.569s" id="audio_0097"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=467.569s" clip-end="npt=478.110s" id="audio_0098"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=478.110s" clip-end="npt=481.075s" id="audio_0099"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=481.075s" clip-end="npt=481.571s" id="audio_0100"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=481.571s" clip-end="npt=486.822s" id="audio_0101"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=486.822s" clip-end="npt=487.632s" id="audio_0102"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=487.632s" clip-end="npt=491.589s" id="audio_0103"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=491.589s" clip-end="npt=496.343s" id="audio_0104"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=496.343s" clip-end="npt=502.900s" id="audio_0105"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=502.900s" clip-end="npt=506.596s" id="audio_0106"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=506.596s" clip-end="npt=512.735s" id="audio_0107"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=512.735s" clip-end="npt=514.655s" id="audio_0108"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=514.655s" clip-end="npt=519.997s" id="audio_0109"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=519.997s" clip-end="npt=521.068s" id="audio_0110"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=521.068s" clip-end="npt=524.569s" id="audio_0111"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=524.569s" clip-end="npt=527.952s" id="audio_0112"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=527.952s" clip-end="npt=529.845s" id="audio_0113"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=529.845s" clip-end="npt=532.392s" id="audio_0114"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=532.392s" clip-end="npt=537.160s" id="audio_0115"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=537.160s" clip-end="npt=540.425s" id="audio_0116"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=540.425s" clip-end="npt=543.103s" id="audio_0117"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=543.103s" clip-end="npt=544.187s" id="audio_0118"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=544.187s" clip-end="npt=551.292s" id="audio_0119"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=551.292s" clip-end="npt=552.311s" id="audio_0120"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=552.311s" clip-end="npt=555.563s" id="audio_0121"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=555.563s" clip-end="npt=557.431s" id="audio_0122"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=557.431s" clip-end="npt=561.858s" id="audio_0123"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=561.858s" clip-end="npt=569.565s" id="audio_0124"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=569.565s" clip-end="npt=573.573s" id="audio_0125"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_011f" id="par_000d"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_011b" id="par_000e"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=573.573s" clip-end="npt=576.133s" id="audio_0126"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=576.133s" clip-end="npt=580.339s" id="audio_0127"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=580.339s" clip-end="npt=586.007s" id="audio_0128"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=586.007s" clip-end="npt=589.338s" id="audio_0129"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=589.338s" clip-end="npt=594.066s" id="audio_0130"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=594.066s" clip-end="npt=606.866s" id="audio_0131"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=606.866s" clip-end="npt=613.175s" id="audio_0132"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=613.175s" clip-end="npt=620.032s" id="audio_0133"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=620.032s" clip-end="npt=630.024s" id="audio_0134"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=630.024s" clip-end="npt=636.332s" id="audio_0135"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=636.332s" clip-end="npt=642.053s" id="audio_0136"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=642.053s" clip-end="npt=650.739s" id="audio_0137"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=650.739s" clip-end="npt=655.571s" id="audio_0138"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=655.571s" clip-end="npt=660.757s" id="audio_0139"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=660.757s" clip-end="npt=669.220s" id="audio_0140"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=669.220s" clip-end="npt=673.648s" id="audio_0141"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=673.648s" clip-end="npt=678.624s" id="audio_0142"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=678.624s" clip-end="npt=680.466s" id="audio_0143"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=680.466s" clip-end="npt=686.566s" id="audio_0144"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=686.566s" clip-end="npt=694.337s" id="audio_0145"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=694.337s" clip-end="npt=707.007s" id="audio_0146"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=707.007s" clip-end="npt=724.678s" id="audio_0147"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=724.678s" clip-end="npt=734.135s" id="audio_0148"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=734.135s" clip-end="npt=737.374s" id="audio_0149"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=737.374s" clip-end="npt=742.429s" id="audio_0150"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=742.429s" clip-end="npt=746.517s" id="audio_0151"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=746.517s" clip-end="npt=752.930s" id="audio_0152"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=752.930s" clip-end="npt=756.744s" id="audio_0153"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000f" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0120" id="par_0010"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_011b" id="par_0011"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=756.744s" clip-end="npt=759.487s" id="audio_0154"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=759.487s" clip-end="npt=762.282s" id="audio_0155"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=762.282s" clip-end="npt=763.693s" id="audio_0156"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=763.693s" clip-end="npt=765.796s" id="audio_0157"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=765.796s" clip-end="npt=768.055s" id="audio_0158"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=768.055s" clip-end="npt=773.201s" id="audio_0159"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=773.201s" clip-end="npt=779.092s" id="audio_0160"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=779.092s" clip-end="npt=785.727s" id="audio_0161"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=785.727s" clip-end="npt=787.386s" id="audio_0162"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=787.386s" clip-end="npt=797.574s" id="audio_0163"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=797.574s" clip-end="npt=802.041s" id="audio_0164"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=802.041s" clip-end="npt=806.547s" id="audio_0165"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=806.547s" clip-end="npt=810.478s" id="audio_0166"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=810.478s" clip-end="npt=816.016s" id="audio_0167"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=816.016s" clip-end="npt=821.959s" id="audio_0168"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=821.959s" clip-end="npt=825.812s" id="audio_0169"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=825.812s" clip-end="npt=835.216s" id="audio_0170"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=835.216s" clip-end="npt=841.512s" id="audio_0171"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=841.512s" clip-end="npt=845.469s" id="audio_0172"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=845.469s" clip-end="npt=850.955s" id="audio_0173"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=850.955s" clip-end="npt=855.957s" id="audio_0174"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=855.957s" clip-end="npt=859.170s" id="audio_0175"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=859.170s" clip-end="npt=864.826s" id="audio_0176"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=864.826s" clip-end="npt=867.791s" id="audio_0177"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=867.791s" clip-end="npt=871.592s" id="audio_0178"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=871.592s" clip-end="npt=875.327s" id="audio_0179"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=875.327s" clip-end="npt=879.964s" id="audio_0180"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=879.964s" clip-end="npt=884.718s" id="audio_0181"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=884.718s" clip-end="npt=897.453s" id="audio_0182"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=897.453s" clip-end="npt=905.459s" id="audio_0183"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=905.459s" clip-end="npt=912.852s" id="audio_0184"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=912.852s" clip-end="npt=916.953s" id="audio_0185"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=916.953s" clip-end="npt=927.063s" id="audio_0186"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=927.063s" clip-end="npt=933.959s" id="audio_0187"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=933.959s" clip-end="npt=939.836s" id="audio_0188"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=939.836s" clip-end="npt=948.104s" id="audio_0189"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=948.104s" clip-end="npt=952.301s" id="audio_0190"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0013" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0121" id="par_0014"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_011b" id="par_0015"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=952.301s" clip-end="npt=954.766s" id="audio_0191"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=954.766s" clip-end="npt=957.601s" id="audio_0192"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=957.601s" clip-end="npt=960.004s" id="audio_0193"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=960.004s" clip-end="npt=962.681s" id="audio_0194"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=962.681s" clip-end="npt=966.169s" id="audio_0195"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=966.169s" clip-end="npt=970.975s" id="audio_0196"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=970.975s" clip-end="npt=975.743s" id="audio_0197"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=975.743s" clip-end="npt=977.166s" id="audio_0198"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=977.166s" clip-end="npt=978.211s" id="audio_0199"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=978.211s" clip-end="npt=981.868s" id="audio_0200"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=981.868s" clip-end="npt=987.289s" id="audio_0201"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=987.289s" clip-end="npt=988.634s" id="audio_0202"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=988.634s" clip-end="npt=993.637s" id="audio_0203"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=993.637s" clip-end="npt=1001.094s" id="audio_0204"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1001.094s" clip-end="npt=1009.049s" id="audio_0205"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1009.049s" clip-end="npt=1013.986s" id="audio_0206"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1013.986s" clip-end="npt=1021.313s" id="audio_0207"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1021.313s" clip-end="npt=1025.950s" id="audio_0208"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1025.950s" clip-end="npt=1028.353s" id="audio_0209"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1028.353s" clip-end="npt=1030.861s" id="audio_0210"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1030.861s" clip-end="npt=1034.231s" id="audio_0211"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1034.231s" clip-end="npt=1042.263s" id="audio_0212"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1042.263s" clip-end="npt=1044.823s" id="audio_0213"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1044.823s" clip-end="npt=1053.196s" id="audio_0214"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1053.196s" clip-end="npt=1057.062s" id="audio_0215"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1057.062s" clip-end="npt=1058.355s" id="audio_0216"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1058.355s" clip-end="npt=1059.583s" id="audio_0217"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1059.583s" clip-end="npt=1060.980s" id="audio_0218"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1060.980s" clip-end="npt=1066.074s" id="audio_0219"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1066.074s" clip-end="npt=1067.119s" id="audio_0220"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1067.119s" clip-end="npt=1072.853s" id="audio_0221"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1072.853s" clip-end="npt=1073.715s" id="audio_0222"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1073.715s" clip-end="npt=1078.952s" id="audio_0223"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1078.952s" clip-end="npt=1084.608s" id="audio_0224"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1084.608s" clip-end="npt=1085.574s" id="audio_0225"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1085.574s" clip-end="npt=1092.210s" id="audio_0226"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1092.210s" clip-end="npt=1093.803s" id="audio_0227"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1093.803s" clip-end="npt=1095.096s" id="audio_0228"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1095.096s" clip-end="npt=1098.701s" id="audio_0229"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1098.701s" clip-end="npt=1100.138s" id="audio_0230"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1100.138s" clip-end="npt=1106.237s" id="audio_0231"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1106.237s" clip-end="npt=1108.556s" id="audio_0232"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0016" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0122" id="par_0018"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#jjoy_011b" id="par_0019"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1108.556s" clip-end="npt=1110.700s" id="audio_0233"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1110.700s" clip-end="npt=1113.782s" id="audio_0234"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1113.782s" clip-end="npt=1117.035s" id="audio_0235"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1117.035s" clip-end="npt=1119.804s" id="audio_0236"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1119.804s" clip-end="npt=1129.156s" id="audio_0237"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1129.156s" clip-end="npt=1130.279s" id="audio_0238"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1130.279s" clip-end="npt=1134.445s" id="audio_0239"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1134.445s" clip-end="npt=1143.915s" id="audio_0240"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1143.915s" clip-end="npt=1144.960s" id="audio_0241"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1144.960s" clip-end="npt=1148.538s" id="audio_0242"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1148.538s" clip-end="npt=1156.062s" id="audio_0243"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1156.062s" clip-end="npt=1158.008s" id="audio_0244"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1158.008s" clip-end="npt=1169.123s" id="audio_0245"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1169.123s" clip-end="npt=1169.998s" id="audio_0246"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1169.998s" clip-end="npt=1179.533s" id="audio_0247"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1179.533s" clip-end="npt=1186.246s" id="audio_0248"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1186.246s" clip-end="npt=1187.722s" id="audio_0249"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1187.722s" clip-end="npt=1195.735s" id="audio_0250"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1195.735s" clip-end="npt=1199.075s" id="audio_0251"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1199.075s" clip-end="npt=1201.151s" id="audio_0252"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1201.151s" clip-end="npt=1203.019s" id="audio_0253"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1203.019s" clip-end="npt=1206.337s" id="audio_0254"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1206.337s" clip-end="npt=1211.640s" id="audio_0255"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1211.640s" clip-end="npt=1217.622s" id="audio_0256"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1217.622s" clip-end="npt=1220.456s" id="audio_0257"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1220.456s" clip-end="npt=1227.222s" id="audio_0258"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1227.222s" clip-end="npt=1228.684s" id="audio_0259"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1228.684s" clip-end="npt=1235.019s" id="audio_0260"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1235.019s" clip-end="npt=1240.779s" id="audio_0261"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1240.779s" clip-end="npt=1247.571s" id="audio_0262"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1247.571s" clip-end="npt=1252.663s" id="audio_0263"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_001b" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0123" id="par_001c"/>
+			</par>
+			<par endsync="last" id="par_0017">
+				<text src="ncc.html#jjoy_011b" id="par_001d"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1252.663s" clip-end="npt=1256.046s" id="audio_0264"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1256.046s" clip-end="npt=1262.524s" id="audio_0265"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1262.524s" clip-end="npt=1268.741s" id="audio_0266"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1268.741s" clip-end="npt=1270.139s" id="audio_0267"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1270.139s" clip-end="npt=1271.628s" id="audio_0268"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1271.628s" clip-end="npt=1276.735s" id="audio_0269"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1276.735s" clip-end="npt=1280.235s" id="audio_0270"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1280.235s" clip-end="npt=1285.290s" id="audio_0271"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1285.290s" clip-end="npt=1288.764s" id="audio_0272"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1288.764s" clip-end="npt=1297.045s" id="audio_0273"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1297.045s" clip-end="npt=1298.455s" id="audio_0274"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1298.455s" clip-end="npt=1302.622s" id="audio_0275"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1302.622s" clip-end="npt=1305.966s" id="audio_0276"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1305.966s" clip-end="npt=1311.843s" id="audio_0277"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1311.843s" clip-end="npt=1318.086s" id="audio_0278"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1318.086s" clip-end="npt=1324.434s" id="audio_0279"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1324.434s" clip-end="npt=1327.935s" id="audio_0280"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1327.935s" clip-end="npt=1329.567s" id="audio_0281"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1329.567s" clip-end="npt=1337.169s" id="audio_0282"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1337.169s" clip-end="npt=1341.884s" id="audio_0283"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1341.884s" clip-end="npt=1348.245s" id="audio_0284"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1348.245s" clip-end="npt=1350.739s" id="audio_0285"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1350.739s" clip-end="npt=1353.234s" id="audio_0286"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1353.234s" clip-end="npt=1354.971s" id="audio_0287"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1354.971s" clip-end="npt=1356.264s" id="audio_0288"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1356.264s" clip-end="npt=1358.263s" id="audio_0289"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1358.263s" clip-end="npt=1360.353s" id="audio_0290"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1360.353s" clip-end="npt=1363.252s" id="audio_0291"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1363.252s" clip-end="npt=1365.773s" id="audio_0292"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1365.773s" clip-end="npt=1369.313s" id="audio_0293"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1369.313s" clip-end="npt=1371.415s" id="audio_0294"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1371.415s" clip-end="npt=1374.498s" id="audio_0295"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1374.498s" clip-end="npt=1376.966s" id="audio_0296"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1376.966s" clip-end="npt=1377.907s" id="audio_0297"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1377.907s" clip-end="npt=1383.941s" id="audio_0298"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1383.941s" clip-end="npt=1387.272s" id="audio_0299"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1387.272s" clip-end="npt=1391.386s" id="audio_0300"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1391.386s" clip-end="npt=1393.267s" id="audio_0301"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1393.267s" clip-end="npt=1394.024s" id="audio_0302"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1394.024s" clip-end="npt=1397.172s" id="audio_0303"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1397.172s" clip-end="npt=1402.514s" id="audio_0304"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1402.514s" clip-end="npt=1406.916s" id="audio_0305"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1406.916s" clip-end="npt=1413.407s" id="audio_0306"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1413.407s" clip-end="npt=1418.880s" id="audio_0307"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1418.880s" clip-end="npt=1427.357s" id="audio_0308"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1427.357s" clip-end="npt=1431.092s" id="audio_0309"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1431.092s" clip-end="npt=1433.012s" id="audio_0310"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kedd_0003" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0124" id="kedd_0004"/>
+			</par>
+			<par endsync="last" id="kedd_0005">
+				<text src="ncc.html#jjoy_011b" id="kedd_0006"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1433.012s" clip-end="npt=1436.970s" id="audio_0311"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1436.970s" clip-end="npt=1439.059s" id="audio_0312"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1439.059s" clip-end="npt=1442.978s" id="audio_0313"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1442.978s" clip-end="npt=1445.982s" id="audio_0314"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1445.982s" clip-end="npt=1447.497s" id="audio_0315"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1447.497s" clip-end="npt=1455.203s" id="audio_0316"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1455.203s" clip-end="npt=1461.551s" id="audio_0317"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1461.551s" clip-end="npt=1468.121s" id="audio_0318"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1468.121s" clip-end="npt=1477.616s" id="audio_0319"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1477.616s" clip-end="npt=1481.064s" id="audio_0320"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1481.064s" clip-end="npt=1488.470s" id="audio_0321"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1488.470s" clip-end="npt=1490.194s" id="audio_0322"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1490.194s" clip-end="npt=1502.041s" id="audio_0323"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1502.041s" clip-end="npt=1503.686s" id="audio_0324"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1503.686s" clip-end="npt=1504.979s" id="audio_0325"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1504.979s" clip-end="npt=1506.325s" id="audio_0326"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1506.325s" clip-end="npt=1507.526s" id="audio_0327"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1507.526s" clip-end="npt=1508.780s" id="audio_0328"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1508.780s" clip-end="npt=1510.230s" id="audio_0329"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1510.230s" clip-end="npt=1511.575s" id="audio_0330"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1511.575s" clip-end="npt=1512.908s" id="audio_0331"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1512.908s" clip-end="npt=1514.475s" id="audio_0332"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1514.475s" clip-end="npt=1516.029s" id="audio_0333"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1516.029s" clip-end="npt=1517.479s" id="audio_0334"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1517.479s" clip-end="npt=1518.798s" id="audio_0335"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1518.798s" clip-end="npt=1520.130s" id="audio_0336"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1520.130s" clip-end="npt=1521.476s" id="audio_0337"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1521.476s" clip-end="npt=1522.847s" id="audio_0338"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1522.847s" clip-end="npt=1526.792s" id="audio_0339"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1526.792s" clip-end="npt=1527.980s" id="audio_0340"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1527.980s" clip-end="npt=1528.986s" id="audio_0341"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1528.986s" clip-end="npt=1530.723s" id="audio_0342"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1530.723s" clip-end="npt=1534.054s" id="audio_0343"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1534.054s" clip-end="npt=1535.190s" id="audio_0344"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1535.190s" clip-end="npt=1540.480s" id="audio_0345"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1540.480s" clip-end="npt=1541.276s" id="audio_0346"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1541.276s" clip-end="npt=1542.243s" id="audio_0347"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1542.243s" clip-end="npt=1543.588s" id="audio_0348"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1543.588s" clip-end="npt=1546.723s" id="audio_0349"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1546.723s" clip-end="npt=1551.778s" id="audio_0350"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1551.778s" clip-end="npt=1554.168s" id="audio_0351"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1554.168s" clip-end="npt=1560.006s" id="audio_0352"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1560.006s" clip-end="npt=1560.973s" id="audio_0353"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1560.973s" clip-end="npt=1566.485s" id="audio_0354"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1566.485s" clip-end="npt=1569.241s" id="audio_0355"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1569.241s" clip-end="npt=1575.836s" id="audio_0356"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1575.836s" clip-end="npt=1583.569s" id="audio_0357"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1583.569s" clip-end="npt=1584.823s" id="audio_0358"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1584.823s" clip-end="npt=1586.325s" id="audio_0359"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1586.325s" clip-end="npt=1588.898s" id="audio_0360"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1588.898s" clip-end="npt=1593.626s" id="audio_0361"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1593.626s" clip-end="npt=1594.540s" id="audio_0362"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1594.540s" clip-end="npt=1607.353s" id="audio_0363"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1607.353s" clip-end="npt=1610.253s" id="audio_0364"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1610.253s" clip-end="npt=1615.778s" id="audio_0365"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1615.778s" clip-end="npt=1619.343s" id="audio_0366"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1619.343s" clip-end="npt=1624.542s" id="audio_0367"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1624.542s" clip-end="npt=1631.895s" id="audio_0368"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1631.895s" clip-end="npt=1635.474s" id="audio_0369"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1635.474s" clip-end="npt=1637.263s" id="audio_0370"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1637.263s" clip-end="npt=1639.836s" id="audio_0371"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1639.836s" clip-end="npt=1641.743s" id="audio_0372"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1641.743s" clip-end="npt=1644.669s" id="audio_0373"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1644.669s" clip-end="npt=1646.681s" id="audio_0374"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1646.681s" clip-end="npt=1649.384s" id="audio_0375"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1649.384s" clip-end="npt=1657.639s" id="audio_0376"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1657.639s" clip-end="npt=1662.616s" id="audio_0377"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kedd_008d" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0125" id="kedd_008e"/>
+			</par>
+			<par endsync="last" id="kedd_008f">
+				<text src="ncc.html#jjoy_011b" id="kedd_0090"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1662.616s" clip-end="npt=1665.348s" id="audio_0378"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1665.348s" clip-end="npt=1667.216s" id="audio_0379"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1667.216s" clip-end="npt=1671.004s" id="audio_0380"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1671.004s" clip-end="npt=1674.217s" id="audio_0381"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1674.217s" clip-end="npt=1677.313s" id="audio_0382"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1677.313s" clip-end="npt=1687.187s" id="audio_0383"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1687.187s" clip-end="npt=1698.694s" id="audio_0384"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1698.694s" clip-end="npt=1700.379s" id="audio_0385"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1700.379s" clip-end="npt=1705.237s" id="audio_0386"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1705.237s" clip-end="npt=1706.531s" id="audio_0387"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1706.531s" clip-end="npt=1707.549s" id="audio_0388"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1707.549s" clip-end="npt=1711.102s" id="audio_0389"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1711.102s" clip-end="npt=1721.329s" id="audio_0390"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1721.329s" clip-end="npt=1723.797s" id="audio_0391"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1723.797s" clip-end="npt=1727.285s" id="audio_0392"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1727.285s" clip-end="npt=1734.821s" id="audio_0393"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1734.821s" clip-end="npt=1735.840s" id="audio_0394"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1735.840s" clip-end="npt=1743.220s" id="audio_0395"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1743.220s" clip-end="npt=1745.740s" id="audio_0396"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1745.740s" clip-end="npt=1748.183s" id="audio_0397"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1748.183s" clip-end="npt=1751.187s" id="audio_0398"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1751.187s" clip-end="npt=1753.185s" id="audio_0399"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1753.185s" clip-end="npt=1756.268s" id="audio_0400"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1756.268s" clip-end="npt=1757.744s" id="audio_0401"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1757.744s" clip-end="npt=1760.068s" id="audio_0402"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1760.068s" clip-end="npt=1765.424s" id="audio_0403"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1765.424s" clip-end="npt=1767.370s" id="audio_0404"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1767.370s" clip-end="npt=1768.232s" id="audio_0405"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1768.232s" clip-end="npt=1776.539s" id="audio_0406"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1776.539s" clip-end="npt=1780.771s" id="audio_0407"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1780.771s" clip-end="npt=1785.877s" id="audio_0408"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1785.877s" clip-end="npt=1787.079s" id="audio_0409"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1787.079s" clip-end="npt=1791.598s" id="audio_0410"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1791.598s" clip-end="npt=1792.826s" id="audio_0411"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1792.826s" clip-end="npt=1802.792s" id="audio_0412"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1802.792s" clip-end="npt=1804.607s" id="audio_0413"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1804.607s" clip-end="npt=1805.691s" id="audio_0414"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1805.691s" clip-end="npt=1811.229s" id="audio_0415"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1811.229s" clip-end="npt=1818.204s" id="audio_0416"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1818.204s" clip-end="npt=1828.771s" id="audio_0417"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1828.771s" clip-end="npt=1830.743s" id="audio_0418"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1830.743s" clip-end="npt=1832.506s" id="audio_0419"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1832.506s" clip-end="npt=1839.964s" id="audio_0420"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1839.964s" clip-end="npt=1841.688s" id="audio_0421"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1841.688s" clip-end="npt=1847.474s" id="audio_0422"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1847.474s" clip-end="npt=1849.055s" id="audio_0423"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1849.055s" clip-end="npt=1851.693s" id="audio_0424"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1851.693s" clip-end="npt=1858.472s" id="audio_0425"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1858.472s" clip-end="npt=1864.114s" id="audio_0426"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1864.114s" clip-end="npt=1865.185s" id="audio_0427"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1865.185s" clip-end="npt=1870.893s" id="audio_0428"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1870.893s" clip-end="npt=1879.448s" id="audio_0429"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1879.448s" clip-end="npt=1882.594s" id="audio_0430"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kedd_00fb" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0126" id="kedd_00fc"/>
+			</par>
+			<par endsync="last" id="kedd_00fd">
+				<text src="ncc.html#jjoy_011b" id="kedd_00fe"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1882.594s" clip-end="npt=1885.691s" id="audio_0431"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1885.691s" clip-end="npt=1888.120s" id="audio_0432"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1888.120s" clip-end="npt=1890.863s" id="audio_0433"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1890.863s" clip-end="npt=1894.259s" id="audio_0434"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1894.259s" clip-end="npt=1896.427s" id="audio_0435"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1896.427s" clip-end="npt=1900.568s" id="audio_0436"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1900.568s" clip-end="npt=1903.454s" id="audio_0437"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1903.454s" clip-end="npt=1911.369s" id="audio_0438"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1911.369s" clip-end="npt=1917.756s" id="audio_0439"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1917.756s" clip-end="npt=1926.390s" id="audio_0440"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1926.390s" clip-end="npt=1928.989s" id="audio_0441"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1928.989s" clip-end="npt=1933.704s" id="audio_0442"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1933.704s" clip-end="npt=1936.538s" id="audio_0443"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1936.538s" clip-end="npt=1941.867s" id="audio_0444"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1941.867s" clip-end="npt=1945.746s" id="audio_0445"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1945.746s" clip-end="npt=1948.345s" id="audio_0446"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1948.345s" clip-end="npt=1957.031s" id="audio_0447"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1957.031s" clip-end="npt=1971.986s" id="audio_0448"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1971.986s" clip-end="npt=1981.351s" id="audio_0449"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1981.351s" clip-end="npt=1988.600s" id="audio_0450"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1988.600s" clip-end="npt=1991.591s" id="audio_0451"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1991.591s" clip-end="npt=1993.302s" id="audio_0452"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=1993.302s" clip-end="npt=2004.339s" id="audio_0453"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2004.339s" clip-end="npt=2015.519s" id="audio_0454"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2015.519s" clip-end="npt=2018.671s" id="audio_0455"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kedd_0131" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0127" id="kedd_0132"/>
+			</par>
+			<par endsync="last" id="kedd_0133">
+				<text src="ncc.html#jjoy_011b" id="kedd_0134"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2018.671s" clip-end="npt=2020.815s" id="audio_0456"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2020.815s" clip-end="npt=2021.690s" id="audio_0457"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2021.690s" clip-end="npt=2024.956s" id="audio_0458"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2024.956s" clip-end="npt=2029.592s" id="audio_0459"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2029.592s" clip-end="npt=2039.388s" id="audio_0460"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2039.388s" clip-end="npt=2047.525s" id="audio_0461"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2047.525s" clip-end="npt=2051.183s" id="audio_0462"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2051.183s" clip-end="npt=2063.382s" id="audio_0463"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2063.382s" clip-end="npt=2070.787s" id="audio_0464"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2070.787s" clip-end="npt=2077.958s" id="audio_0465"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2077.958s" clip-end="npt=2082.869s" id="audio_0466"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2082.869s" clip-end="npt=2085.507s" id="audio_0467"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2085.507s" clip-end="npt=2094.663s" id="audio_0468"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2094.663s" clip-end="npt=2098.190s" id="audio_0469"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2098.190s" clip-end="npt=2102.396s" id="audio_0470"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2102.396s" clip-end="npt=2105.504s" id="audio_0471"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2105.504s" clip-end="npt=2107.751s" id="audio_0472"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2107.751s" clip-end="npt=2110.167s" id="audio_0473"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2110.167s" clip-end="npt=2112.740s" id="audio_0474"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2112.740s" clip-end="npt=2114.752s" id="audio_0475"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2114.752s" clip-end="npt=2125.840s" id="audio_0476"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2125.840s" clip-end="npt=2127.147s" id="audio_0477"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2127.147s" clip-end="npt=2132.763s" id="audio_0478"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2132.763s" clip-end="npt=2135.075s" id="audio_0479"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2135.075s" clip-end="npt=2138.223s" id="audio_0480"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2138.223s" clip-end="npt=2142.311s" id="audio_0481"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2142.311s" clip-end="npt=2158.454s" id="audio_0482"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2158.454s" clip-end="npt=2165.398s" id="audio_0483"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2165.398s" clip-end="npt=2170.727s" id="audio_0484"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2170.727s" clip-end="npt=2176.487s" id="audio_0485"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2176.487s" clip-end="npt=2178.237s" id="audio_0486"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2178.237s" clip-end="npt=2182.430s" id="audio_0487"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2182.430s" clip-end="npt=2185.447s" id="audio_0488"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2185.447s" clip-end="npt=2188.242s" id="audio_0489"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2188.242s" clip-end="npt=2191.495s" id="audio_0490"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2191.495s" clip-end="npt=2197.346s" id="audio_0491"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2197.346s" clip-end="npt=2199.371s" id="audio_0492"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2199.371s" clip-end="npt=2201.826s" id="audio_0493"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2201.826s" clip-end="npt=2204.804s" id="audio_0494"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2204.804s" clip-end="npt=2208.030s" id="audio_0495"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2208.030s" clip-end="npt=2210.394s" id="audio_0496"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2210.394s" clip-end="npt=2212.536s" id="audio_0497"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2212.536s" clip-end="npt=2214.025s" id="audio_0498"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2214.025s" clip-end="npt=2216.912s" id="audio_0499"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2216.912s" clip-end="npt=2218.779s" id="audio_0500"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2218.779s" clip-end="npt=2224.618s" id="audio_0501"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2224.618s" clip-end="npt=2236.673s" id="audio_0502"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2236.673s" clip-end="npt=2244.993s" id="audio_0503"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2244.993s" clip-end="npt=2248.622s" id="audio_0504"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kedd_0197" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0128" id="kedd_0198"/>
+			</par>
+			<par endsync="last" id="kedd_0199">
+				<text src="ncc.html#jjoy_011b" id="kedd_019a"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2248.622s" clip-end="npt=2250.766s" id="audio_0505"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2250.766s" clip-end="npt=2252.843s" id="audio_0506"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2252.843s" clip-end="npt=2254.841s" id="audio_0507"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2254.841s" clip-end="npt=2266.243s" id="audio_0508"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2266.243s" clip-end="npt=2267.954s" id="audio_0509"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2267.954s" clip-end="npt=2272.408s" id="audio_0510"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2272.408s" clip-end="npt=2277.541s" id="audio_0511"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2277.541s" clip-end="npt=2280.872s" id="audio_0512"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2280.872s" clip-end="npt=2284.738s" id="audio_0513"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2284.738s" clip-end="npt=2288.421s" id="audio_0514"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2288.421s" clip-end="npt=2290.054s" id="audio_0515"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2290.054s" clip-end="npt=2297.198s" id="audio_0516"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2297.198s" clip-end="npt=2298.256s" id="audio_0517"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2298.256s" clip-end="npt=2304.082s" id="audio_0518"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2304.082s" clip-end="npt=2308.836s" id="audio_0519"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2308.836s" clip-end="npt=2315.001s" id="audio_0520"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2315.001s" clip-end="npt=2320.238s" id="audio_0521"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2320.238s" clip-end="npt=2328.336s" id="audio_0522"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2328.336s" clip-end="npt=2334.123s" id="audio_0523"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2334.123s" clip-end="npt=2336.487s" id="audio_0524"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2336.487s" clip-end="npt=2342.495s" id="audio_0525"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2342.495s" clip-end="npt=2343.644s" id="audio_0526"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2343.644s" clip-end="npt=2344.741s" id="audio_0527"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2344.741s" clip-end="npt=2350.906s" id="audio_0528"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2350.906s" clip-end="npt=2356.679s" id="audio_0529"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2356.679s" clip-end="npt=2360.219s" id="audio_0530"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2360.219s" clip-end="npt=2362.060s" id="audio_0531"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2362.060s" clip-end="npt=2364.020s" id="audio_0532"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2364.020s" clip-end="npt=2366.123s" id="audio_0533"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2366.123s" clip-end="npt=2375.370s" id="audio_0534"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2375.370s" clip-end="npt=2380.137s" id="audio_0535"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2380.137s" clip-end="npt=2382.462s" id="audio_0536"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2382.462s" clip-end="npt=2384.095s" id="audio_0537"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2384.095s" clip-end="npt=2385.949s" id="audio_0538"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2385.949s" clip-end="npt=2390.142s" id="audio_0539"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2390.142s" clip-end="npt=2405.267s" id="audio_0540"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2405.267s" clip-end="npt=2409.995s" id="audio_0541"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kedd_01e5" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0129" id="kedd_01e6"/>
+			</par>
+			<par endsync="last" id="kedd_01e7">
+				<text src="ncc.html#jjoy_011b" id="kedd_01e8"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2409.995s" clip-end="npt=2412.986s" id="audio_0542"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2412.986s" clip-end="npt=2419.908s" id="audio_0543"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2419.908s" clip-end="npt=2424.493s" id="audio_0544"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2424.493s" clip-end="npt=2431.572s" id="audio_0545"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2431.572s" clip-end="npt=2444.490s" id="audio_0546"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2444.490s" clip-end="npt=2450.067s" id="audio_0547"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2450.067s" clip-end="npt=2455.553s" id="audio_0548"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2455.553s" clip-end="npt=2462.788s" id="audio_0549"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2462.788s" clip-end="npt=2471.082s" id="audio_0550"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2471.082s" clip-end="npt=2478.984s" id="audio_0551"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2478.984s" clip-end="npt=2483.373s" id="audio_0552"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2483.373s" clip-end="npt=2488.837s" id="audio_0553"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2488.837s" clip-end="npt=2491.140s" id="audio_0554"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2491.140s" clip-end="npt=2493.686s" id="audio_0555"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2493.686s" clip-end="npt=2498.114s" id="audio_0556"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2498.114s" clip-end="npt=2499.812s" id="audio_0557"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2499.812s" clip-end="npt=2505.350s" id="audio_0558"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2505.350s" clip-end="npt=2507.362s" id="audio_0559"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2507.362s" clip-end="npt=2509.530s" id="audio_0560"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2509.530s" clip-end="npt=2513.370s" id="audio_0561"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2513.370s" clip-end="npt=2516.922s" id="audio_0562"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2516.922s" clip-end="npt=2517.602s" id="audio_0563"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2517.602s" clip-end="npt=2524.433s" id="audio_0564"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2524.433s" clip-end="npt=2528.638s" id="audio_0565"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2528.638s" clip-end="npt=2530.963s" id="audio_0566"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2530.963s" clip-end="npt=2537.442s" id="audio_0567"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2537.442s" clip-end="npt=2539.035s" id="audio_0568"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2539.035s" clip-end="npt=2539.949s" id="audio_0569"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2539.949s" clip-end="npt=2543.006s" id="audio_0570"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2543.006s" clip-end="npt=2544.011s" id="audio_0571"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2544.011s" clip-end="npt=2545.422s" id="audio_0572"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2545.422s" clip-end="npt=2547.943s" id="audio_0573"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2547.943s" clip-end="npt=2550.686s" id="audio_0574"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2550.686s" clip-end="npt=2553.037s" id="audio_0575"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2553.037s" clip-end="npt=2555.610s" id="audio_0576"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2555.610s" clip-end="npt=2559.842s" id="audio_0577"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2559.842s" clip-end="npt=2565.301s" id="audio_0578"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2565.301s" clip-end="npt=2566.764s" id="audio_0579"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2566.764s" clip-end="npt=2572.746s" id="audio_0580"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2572.746s" clip-end="npt=2573.464s" id="audio_0581"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2573.464s" clip-end="npt=2575.881s" id="audio_0582"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2575.881s" clip-end="npt=2580.541s" id="audio_0583"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kedd_023d" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_012a" id="par_001a"/>
+			</par>
+			<par endsync="last" id="kedd_023e">
+				<text src="ncc.html#jjoy_011b" id="kedd_023f"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2580.541s" clip-end="npt=2583.440s" id="audio_0584"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2583.440s" clip-end="npt=2588.194s" id="audio_0585"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2588.194s" clip-end="npt=2594.699s" id="audio_0586"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2594.699s" clip-end="npt=2599.336s" id="audio_0587"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2599.336s" clip-end="npt=2604.051s" id="audio_0588"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2604.051s" clip-end="npt=2609.119s" id="audio_0589"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2609.119s" clip-end="npt=2610.751s" id="audio_0590"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2610.751s" clip-end="npt=2616.315s" id="audio_0591"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2616.315s" clip-end="npt=2622.924s" id="audio_0592"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2622.924s" clip-end="npt=2627.104s" id="audio_0593"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2627.104s" clip-end="npt=2630.761s" id="audio_0594"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2630.761s" clip-end="npt=2635.123s" id="audio_0595"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2635.123s" clip-end="npt=2636.443s" id="audio_0596"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2636.443s" clip-end="npt=2640.701s" id="audio_0597"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2640.701s" clip-end="npt=2646.291s" id="audio_0598"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2646.291s" clip-end="npt=2653.213s" id="audio_0599"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2653.213s" clip-end="npt=2655.760s" id="audio_0600"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2655.760s" clip-end="npt=2657.445s" id="audio_0601"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2657.445s" clip-end="npt=2659.483s" id="audio_0602"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2659.483s" clip-end="npt=2663.231s" id="audio_0603"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2663.231s" clip-end="npt=2666.849s" id="audio_0604"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2666.849s" clip-end="npt=2672.897s" id="audio_0605"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2672.897s" clip-end="npt=2674.190s" id="audio_0606"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2674.190s" clip-end="npt=2677.690s" id="audio_0607"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2677.690s" clip-end="npt=2678.996s" id="audio_0608"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2678.996s" clip-end="npt=2680.041s" id="audio_0609"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2680.041s" clip-end="npt=2684.194s" id="audio_0610"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2684.194s" clip-end="npt=2685.318s" id="audio_0611"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2685.318s" clip-end="npt=2692.475s" id="audio_0612"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2692.475s" clip-end="npt=2694.696s" id="audio_0613"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2694.696s" clip-end="npt=2696.354s" id="audio_0614"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2696.354s" clip-end="npt=2697.870s" id="audio_0615"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2697.870s" clip-end="npt=2699.476s" id="audio_0616"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2699.476s" clip-end="npt=2701.252s" id="audio_0617"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2701.252s" clip-end="npt=2702.885s" id="audio_0618"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2702.885s" clip-end="npt=2704.257s" id="audio_0619"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2704.257s" clip-end="npt=2708.188s" id="audio_0620"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2708.188s" clip-end="npt=2711.048s" id="audio_0621"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2711.048s" clip-end="npt=2714.692s" id="audio_0622"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2714.692s" clip-end="npt=2716.377s" id="audio_0623"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2716.377s" clip-end="npt=2718.193s" id="audio_0624"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2718.193s" clip-end="npt=2719.760s" id="audio_0625"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2719.760s" clip-end="npt=2724.815s" id="audio_0626"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2724.815s" clip-end="npt=2727.427s" id="audio_0627"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2727.427s" clip-end="npt=2729.347s" id="audio_0628"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2729.347s" clip-end="npt=2731.620s" id="audio_0629"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2731.620s" clip-end="npt=2733.697s" id="audio_0630"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2733.697s" clip-end="npt=2735.695s" id="audio_0631"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2735.695s" clip-end="npt=2739.208s" id="audio_0632"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2739.208s" clip-end="npt=2742.395s" id="audio_0633"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2742.395s" clip-end="npt=2743.688s" id="audio_0634"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2743.688s" clip-end="npt=2747.280s" id="audio_0635"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2747.280s" clip-end="npt=2754.359s" id="audio_0636"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2754.359s" clip-end="npt=2758.696s" id="audio_0637"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2758.696s" clip-end="npt=2763.476s" id="audio_0638"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2763.476s" clip-end="npt=2770.320s" id="audio_0639"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2770.320s" clip-end="npt=2771.809s" id="audio_0640"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2771.809s" clip-end="npt=2775.297s" id="audio_0641"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2775.297s" clip-end="npt=2777.217s" id="audio_0642"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2777.217s" clip-end="npt=2778.914s" id="audio_0643"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2778.914s" clip-end="npt=2780.495s" id="audio_0644"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2780.495s" clip-end="npt=2783.042s" id="audio_0645"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2783.042s" clip-end="npt=2784.883s" id="audio_0646"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2784.883s" clip-end="npt=2786.464s" id="audio_0647"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2786.464s" clip-end="npt=2788.188s" id="audio_0648"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2788.188s" clip-end="npt=2792.759s" id="audio_0649"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2792.759s" clip-end="npt=2796.756s" id="audio_0650"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kedd_02a7" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_012b" id="kedd_02a8"/>
+			</par>
+			<par endsync="last" id="kedd_02a9">
+				<text src="ncc.html#jjoy_011b" id="kedd_02aa"/>
+				<seq>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2796.756s" clip-end="npt=2797.247s" id="audio_0651"/>
+					<audio src="09_Lesson_8__A_case_of_suspicion.mp3" clip-begin="npt=2797.247s" clip-end="npt=2798.780s" id="audio_0652"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

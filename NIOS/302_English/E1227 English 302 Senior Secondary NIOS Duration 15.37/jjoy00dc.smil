@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:39:01.704"/>
+		<meta name="ncc:totalElapsedTime" content="03:22:59.735"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 9: My son will not a beggar be"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="2341.704s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_012c" id="jjoy_012c"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=0.000s" clip-end="npt=1.785s" id="audio_0001"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1.785s" clip-end="npt=6.774s" id="audio_0002"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=6.774s" clip-end="npt=11.045s" id="audio_0003"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=11.045s" clip-end="npt=17.158s" id="audio_0004"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=17.158s" clip-end="npt=24.289s" id="audio_0005"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=24.289s" clip-end="npt=26.026s" id="audio_0006"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=26.026s" clip-end="npt=28.495s" id="audio_0007"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=28.495s" clip-end="npt=34.346s" id="audio_0008"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=34.346s" clip-end="npt=38.003s" id="audio_0009"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=38.003s" clip-end="npt=45.004s" id="audio_0010"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=45.004s" clip-end="npt=49.014s" id="audio_0011"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=49.014s" clip-end="npt=57.935s" id="audio_0012"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=57.935s" clip-end="npt=64.936s" id="audio_0013"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=64.936s" clip-end="npt=73.974s" id="audio_0014"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=73.974s" clip-end="npt=75.212s" id="audio_0015"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=75.212s" clip-end="npt=83.989s" id="audio_0016"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=83.989s" clip-end="npt=88.090s" id="audio_0017"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=88.090s" clip-end="npt=95.753s" id="audio_0018"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=95.753s" clip-end="npt=100.517s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uucu_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_012d" id="uucu_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_012c" id="uucu_0004"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=100.517s" clip-end="npt=103.220s" id="audio_0020"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=103.220s" clip-end="npt=106.329s" id="audio_0021"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=106.329s" clip-end="npt=121.427s" id="audio_0022"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=121.427s" clip-end="npt=128.925s" id="audio_0023"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=128.925s" clip-end="npt=134.776s" id="audio_0024"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=134.776s" clip-end="npt=142.796s" id="audio_0025"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=142.796s" clip-end="npt=147.589s" id="audio_0026"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=147.589s" clip-end="npt=151.429s" id="audio_0027"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=151.429s" clip-end="npt=161.495s" id="audio_0028"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=161.495s" clip-end="npt=164.629s" id="audio_0029"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=164.629s" clip-end="npt=166.131s" id="audio_0030"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=166.131s" clip-end="npt=169.710s" id="audio_0031"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=169.710s" clip-end="npt=172.009s" id="audio_0032"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=172.009s" clip-end="npt=175.287s" id="audio_0033"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=175.287s" clip-end="npt=178.775s" id="audio_0034"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=178.775s" clip-end="npt=180.838s" id="audio_0035"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=180.838s" clip-end="npt=188.754s" id="audio_0036"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=188.754s" clip-end="npt=191.705s" id="audio_0037"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=191.705s" clip-end="npt=199.895s" id="audio_0038"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=199.895s" clip-end="npt=204.688s" id="audio_0039"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=204.688s" clip-end="npt=206.700s" id="audio_0040"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=206.700s" clip-end="npt=208.659s" id="audio_0041"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=208.659s" clip-end="npt=210.905s" id="audio_0042"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=210.905s" clip-end="npt=215.634s" id="audio_0043"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=215.634s" clip-end="npt=224.058s" id="audio_0044"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=224.058s" clip-end="npt=228.198s" id="audio_0045"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=228.198s" clip-end="npt=232.051s" id="audio_0046"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=232.051s" clip-end="npt=236.309s" id="audio_0047"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=236.309s" clip-end="npt=240.724s" id="audio_0048"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=240.724s" clip-end="npt=249.136s" id="audio_0049"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=249.136s" clip-end="npt=251.656s" id="audio_0050"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=251.656s" clip-end="npt=254.987s" id="audio_0051"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=254.987s" clip-end="npt=258.135s" id="audio_0052"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=258.135s" clip-end="npt=261.452s" id="audio_0053"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=261.452s" clip-end="npt=272.424s" id="audio_0054"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=272.424s" clip-end="npt=280.130s" id="audio_0055"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=280.130s" clip-end="npt=289.860s" id="audio_0056"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=289.860s" clip-end="npt=294.407s" id="audio_0057"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uucu_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_012e" id="uucu_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_012c" id="uucu_0007"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=294.407s" clip-end="npt=297.134s" id="audio_0058"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=297.134s" clip-end="npt=299.981s" id="audio_0059"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=299.981s" clip-end="npt=310.443s" id="audio_0060"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=310.443s" clip-end="npt=312.794s" id="audio_0061"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=312.794s" clip-end="npt=317.783s" id="audio_0062"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=317.783s" clip-end="npt=324.693s" id="audio_0063"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=324.693s" clip-end="npt=337.454s" id="audio_0064"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=337.454s" clip-end="npt=342.443s" id="audio_0065"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=342.443s" clip-end="npt=346.871s" id="audio_0066"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=346.871s" clip-end="npt=356.941s" id="audio_0067"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=356.941s" clip-end="npt=365.653s" id="audio_0068"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=365.653s" clip-end="npt=376.546s" id="audio_0069"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=376.546s" clip-end="npt=380.334s" id="audio_0070"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=380.334s" clip-end="npt=398.436s" id="audio_0071"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=398.436s" clip-end="npt=401.532s" id="audio_0072"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=401.532s" clip-end="npt=403.178s" id="audio_0073"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=403.178s" clip-end="npt=412.203s" id="audio_0074"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=412.203s" clip-end="npt=414.175s" id="audio_0075"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=414.175s" clip-end="npt=418.237s" id="audio_0076"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=418.237s" clip-end="npt=419.321s" id="audio_0077"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=419.321s" clip-end="npt=422.717s" id="audio_0078"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=422.717s" clip-end="npt=430.058s" id="audio_0079"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=430.058s" clip-end="npt=431.938s" id="audio_0080"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=431.938s" clip-end="npt=438.770s" id="audio_0081"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=438.770s" clip-end="npt=441.434s" id="audio_0082"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=441.434s" clip-end="npt=443.942s" id="audio_0083"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=443.942s" clip-end="npt=449.140s" id="audio_0084"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=449.140s" clip-end="npt=450.747s" id="audio_0085"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=450.747s" clip-end="npt=452.301s" id="audio_0086"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=452.301s" clip-end="npt=455.214s" id="audio_0087"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=455.214s" clip-end="npt=457.787s" id="audio_0088"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=457.787s" clip-end="npt=461.300s" id="audio_0089"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=461.300s" clip-end="npt=465.610s" id="audio_0090"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=465.610s" clip-end="npt=472.219s" id="audio_0091"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=472.219s" clip-end="npt=475.967s" id="audio_0092"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uucu_0008" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_012f" id="uucu_000a"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_012c" id="uucu_000b"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=475.967s" clip-end="npt=478.840s" id="audio_0093"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=478.840s" clip-end="npt=486.246s" id="audio_0094"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=486.246s" clip-end="npt=489.093s" id="audio_0095"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=489.093s" clip-end="npt=491.000s" id="audio_0096"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=491.000s" clip-end="npt=497.257s" id="audio_0097"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=497.257s" clip-end="npt=499.255s" id="audio_0098"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=499.255s" clip-end="npt=505.250s" id="audio_0099"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=505.250s" clip-end="npt=506.661s" id="audio_0100"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=506.661s" clip-end="npt=508.920s" id="audio_0101"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=508.920s" clip-end="npt=511.533s" id="audio_0102"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=511.533s" clip-end="npt=519.396s" id="audio_0103"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=519.396s" clip-end="npt=522.752s" id="audio_0104"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=522.752s" clip-end="npt=531.451s" id="audio_0105"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=531.451s" clip-end="npt=537.159s" id="audio_0106"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=537.159s" clip-end="npt=550.272s" id="audio_0107"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=550.272s" clip-end="npt=558.853s" id="audio_0108"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=558.853s" clip-end="npt=563.451s" id="audio_0109"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=563.451s" clip-end="npt=567.356s" id="audio_0110"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=567.356s" clip-end="npt=574.867s" id="audio_0111"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=574.867s" clip-end="npt=579.399s" id="audio_0112"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=579.399s" clip-end="npt=583.252s" id="audio_0113"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=583.252s" clip-end="npt=586.034s" id="audio_0114"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=586.034s" clip-end="npt=592.473s" id="audio_0115"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=592.473s" clip-end="npt=600.584s" id="audio_0116"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=600.584s" clip-end="npt=609.544s" id="audio_0117"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=609.544s" clip-end="npt=616.754s" id="audio_0118"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=616.754s" clip-end="npt=622.566s" id="audio_0119"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=622.566s" clip-end="npt=632.584s" id="audio_0120"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=632.584s" clip-end="npt=637.652s" id="audio_0121"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=637.652s" clip-end="npt=641.511s" id="audio_0122"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uucu_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0130" id="uucu_000d"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_012c" id="uucu_000e"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=641.511s" clip-end="npt=642.733s" id="audio_0123"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=642.733s" clip-end="npt=645.026s" id="audio_0124"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=645.026s" clip-end="npt=648.983s" id="audio_0125"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=648.983s" clip-end="npt=652.265s" id="audio_0126"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=652.265s" clip-end="npt=663.864s" id="audio_0127"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=663.864s" clip-end="npt=667.116s" id="audio_0128"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=667.116s" clip-end="npt=670.407s" id="audio_0129"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=670.407s" clip-end="npt=678.113s" id="audio_0130"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=678.113s" clip-end="npt=685.702s" id="audio_0131"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=685.702s" clip-end="npt=695.537s" id="audio_0132"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=695.537s" clip-end="npt=699.142s" id="audio_0133"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=699.142s" clip-end="npt=701.832s" id="audio_0134"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=701.832s" clip-end="npt=709.186s" id="audio_0135"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=709.186s" clip-end="npt=712.112s" id="audio_0136"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=712.112s" clip-end="npt=716.722s" id="audio_0137"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=716.722s" clip-end="npt=720.902s" id="audio_0138"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=720.902s" clip-end="npt=731.116s" id="audio_0139"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=731.116s" clip-end="npt=742.166s" id="audio_0140"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=742.166s" clip-end="npt=745.614s" id="audio_0141"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=745.614s" clip-end="npt=749.114s" id="audio_0142"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=749.114s" clip-end="npt=751.504s" id="audio_0143"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=751.504s" clip-end="npt=755.606s" id="audio_0144"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=755.606s" clip-end="npt=759.615s" id="audio_0145"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=759.615s" clip-end="npt=762.319s" id="audio_0146"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=762.319s" clip-end="npt=763.612s" id="audio_0147"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=763.612s" clip-end="npt=766.407s" id="audio_0148"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=766.407s" clip-end="npt=769.529s" id="audio_0149"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=769.529s" clip-end="npt=770.979s" id="audio_0150"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=770.979s" clip-end="npt=777.392s" id="audio_0151"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=777.392s" clip-end="npt=780.017s" id="audio_0152"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=780.017s" clip-end="npt=782.172s" id="audio_0153"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=782.172s" clip-end="npt=789.279s" id="audio_0154"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=789.279s" clip-end="npt=793.367s" id="audio_0155"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=793.367s" clip-end="npt=796.776s" id="audio_0156"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=796.776s" clip-end="npt=801.426s" id="audio_0157"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=801.426s" clip-end="npt=803.098s" id="audio_0158"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=803.098s" clip-end="npt=805.109s" id="audio_0159"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=805.109s" clip-end="npt=812.188s" id="audio_0160"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=812.188s" clip-end="npt=815.676s" id="audio_0161"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=815.676s" clip-end="npt=820.953s" id="audio_0162"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=820.953s" clip-end="npt=824.766s" id="audio_0163"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=824.766s" clip-end="npt=829.900s" id="audio_0164"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=829.900s" clip-end="npt=834.014s" id="audio_0165"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=834.014s" clip-end="npt=844.032s" id="audio_0166"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=844.032s" clip-end="npt=846.357s" id="audio_0167"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=846.357s" clip-end="npt=848.589s" id="audio_0168"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uucu_000f" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0131" id="uucu_0010"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_012c" id="uucu_0011"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=848.589s" clip-end="npt=850.705s" id="audio_0169"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=850.705s" clip-end="npt=855.812s" id="audio_0170"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=855.812s" clip-end="npt=862.513s" id="audio_0171"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=862.513s" clip-end="npt=871.512s" id="audio_0172"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=871.512s" clip-end="npt=874.359s" id="audio_0173"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=874.359s" clip-end="npt=880.890s" id="audio_0174"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=880.890s" clip-end="npt=890.869s" id="audio_0175"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=890.869s" clip-end="npt=894.722s" id="audio_0176"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=894.722s" clip-end="npt=900.691s" id="audio_0177"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=900.691s" clip-end="npt=909.768s" id="audio_0178"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=909.768s" clip-end="npt=918.963s" id="audio_0179"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=918.963s" clip-end="npt=928.198s" id="audio_0180"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=928.198s" clip-end="npt=932.573s" id="audio_0181"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=932.573s" clip-end="npt=940.358s" id="audio_0182"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=940.358s" clip-end="npt=951.538s" id="audio_0183"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=951.538s" clip-end="npt=954.033s" id="audio_0184"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=954.033s" clip-end="npt=958.552s" id="audio_0185"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=958.552s" clip-end="npt=966.480s" id="audio_0186"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=966.480s" clip-end="npt=969.980s" id="audio_0187"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=969.980s" clip-end="npt=977.334s" id="audio_0188"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=977.334s" clip-end="npt=989.468s" id="audio_0189"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=989.468s" clip-end="npt=997.017s" id="audio_0190"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=997.017s" clip-end="npt=1000.152s" id="audio_0191"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1000.152s" clip-end="npt=1011.842s" id="audio_0192"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1011.842s" clip-end="npt=1028.469s" id="audio_0193"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1028.469s" clip-end="npt=1036.828s" id="audio_0194"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1036.828s" clip-end="npt=1041.047s" id="audio_0195"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1041.047s" clip-end="npt=1043.966s" id="audio_0196"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1043.966s" clip-end="npt=1045.377s" id="audio_0197"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1045.377s" clip-end="npt=1048.498s" id="audio_0198"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1048.498s" clip-end="npt=1050.849s" id="audio_0199"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1050.849s" clip-end="npt=1052.965s" id="audio_0200"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1052.965s" clip-end="npt=1056.217s" id="audio_0201"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1056.217s" clip-end="npt=1058.281s" id="audio_0202"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1058.281s" clip-end="npt=1061.311s" id="audio_0203"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1061.311s" clip-end="npt=1075.718s" id="audio_0204"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1075.718s" clip-end="npt=1079.634s" id="audio_0205"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uucu_0012" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0132" id="uucu_0014"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_012c" id="uucu_0015"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1079.634s" clip-end="npt=1081.778s" id="audio_0206"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1081.778s" clip-end="npt=1085.697s" id="audio_0207"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1085.697s" clip-end="npt=1087.773s" id="audio_0208"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1087.773s" clip-end="npt=1089.563s" id="audio_0209"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1089.563s" clip-end="npt=1094.304s" id="audio_0210"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1094.304s" clip-end="npt=1096.694s" id="audio_0211"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1096.694s" clip-end="npt=1098.653s" id="audio_0212"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1098.653s" clip-end="npt=1102.519s" id="audio_0213"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1102.519s" clip-end="npt=1104.818s" id="audio_0214"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1104.818s" clip-end="npt=1111.035s" id="audio_0215"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1111.035s" clip-end="npt=1118.598s" id="audio_0216"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1118.598s" clip-end="npt=1120.152s" id="audio_0217"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1120.152s" clip-end="npt=1122.007s" id="audio_0218"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1122.007s" clip-end="npt=1123.796s" id="audio_0219"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1123.796s" clip-end="npt=1125.494s" id="audio_0220"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1125.494s" clip-end="npt=1130.366s" id="audio_0221"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1130.366s" clip-end="npt=1132.103s" id="audio_0222"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1132.103s" clip-end="npt=1134.493s" id="audio_0223"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1134.493s" clip-end="npt=1137.641s" id="audio_0224"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1137.641s" clip-end="npt=1141.794s" id="audio_0225"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1141.794s" clip-end="npt=1145.151s" id="audio_0226"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1145.151s" clip-end="npt=1150.519s" id="audio_0227"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1150.519s" clip-end="npt=1155.822s" id="audio_0228"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1155.822s" clip-end="npt=1158.239s" id="audio_0229"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1158.239s" clip-end="npt=1160.825s" id="audio_0230"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1160.825s" clip-end="npt=1162.758s" id="audio_0231"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1162.758s" clip-end="npt=1168.296s" id="audio_0232"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1168.296s" clip-end="npt=1169.132s" id="audio_0233"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1169.132s" clip-end="npt=1171.613s" id="audio_0234"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1171.613s" clip-end="npt=1173.089s" id="audio_0235"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1173.089s" clip-end="npt=1177.621s" id="audio_0236"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1177.621s" clip-end="npt=1180.861s" id="audio_0237"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1180.861s" clip-end="npt=1183.969s" id="audio_0238"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1183.969s" clip-end="npt=1189.181s" id="audio_0239"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1189.181s" clip-end="npt=1191.649s" id="audio_0240"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1191.649s" clip-end="npt=1198.141s" id="audio_0241"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1198.141s" clip-end="npt=1207.662s" id="audio_0242"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1207.662s" clip-end="npt=1210.879s" id="audio_0243"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uucu_0016" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0133" id="uucu_0018"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#jjoy_012c" id="uucu_0019"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1210.879s" clip-end="npt=1213.023s" id="audio_0244"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1213.023s" clip-end="npt=1215.530s" id="audio_0245"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1215.530s" clip-end="npt=1218.025s" id="audio_0246"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1218.025s" clip-end="npt=1220.350s" id="audio_0247"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1220.350s" clip-end="npt=1223.028s" id="audio_0248"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1223.028s" clip-end="npt=1224.934s" id="audio_0249"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1224.934s" clip-end="npt=1229.702s" id="audio_0250"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1229.702s" clip-end="npt=1233.529s" id="audio_0251"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1233.529s" clip-end="npt=1236.428s" id="audio_0252"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1236.428s" clip-end="npt=1240.725s" id="audio_0253"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1240.725s" clip-end="npt=1246.277s" id="audio_0254"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1246.277s" clip-end="npt=1248.797s" id="audio_0255"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1248.797s" clip-end="npt=1253.421s" id="audio_0256"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1253.421s" clip-end="npt=1260.435s" id="audio_0257"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1260.435s" clip-end="npt=1262.786s" id="audio_0258"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1262.786s" clip-end="npt=1266.704s" id="audio_0259"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1266.704s" clip-end="npt=1271.380s" id="audio_0260"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1271.380s" clip-end="npt=1275.703s" id="audio_0261"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1275.703s" clip-end="npt=1279.622s" id="audio_0262"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1279.622s" clip-end="npt=1284.128s" id="audio_0263"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1284.128s" clip-end="npt=1285.369s" id="audio_0264"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1285.369s" clip-end="npt=1288.595s" id="audio_0265"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1288.595s" clip-end="npt=1289.627s" id="audio_0266"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1289.627s" clip-end="npt=1292.657s" id="audio_0267"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1292.657s" clip-end="npt=1294.146s" id="audio_0268"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1294.146s" clip-end="npt=1299.605s" id="audio_0269"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1299.605s" clip-end="npt=1304.438s" id="audio_0270"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1304.438s" clip-end="npt=1308.226s" id="audio_0271"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1308.226s" clip-end="npt=1312.863s" id="audio_0272"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1312.863s" clip-end="npt=1317.042s" id="audio_0273"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1317.042s" clip-end="npt=1322.645s" id="audio_0274"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1322.645s" clip-end="npt=1325.571s" id="audio_0275"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1325.571s" clip-end="npt=1329.921s" id="audio_0276"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1329.921s" clip-end="npt=1333.865s" id="audio_0277"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1333.865s" clip-end="npt=1335.119s" id="audio_0278"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1335.119s" clip-end="npt=1339.504s" id="audio_0279"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1339.504s" clip-end="npt=1342.587s" id="audio_0280"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrle_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0134" id="wrle_0002"/>
+			</par>
+			<par endsync="last" id="uvvu_0001">
+				<text src="ncc.html#jjoy_012c" id="wrle_0003"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1342.587s" clip-end="npt=1344.664s" id="audio_0281"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1344.664s" clip-end="npt=1348.465s" id="audio_0282"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1348.465s" clip-end="npt=1353.898s" id="audio_0283"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1353.898s" clip-end="npt=1355.230s" id="audio_0284"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1355.230s" clip-end="npt=1367.011s" id="audio_0285"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1367.011s" clip-end="npt=1372.092s" id="audio_0286"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1372.092s" clip-end="npt=1376.494s" id="audio_0287"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1376.494s" clip-end="npt=1377.643s" id="audio_0288"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1377.643s" clip-end="npt=1381.183s" id="audio_0289"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1381.183s" clip-end="npt=1383.638s" id="audio_0290"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1383.638s" clip-end="npt=1393.108s" id="audio_0291"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1393.108s" clip-end="npt=1394.545s" id="audio_0292"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1394.545s" clip-end="npt=1398.280s" id="audio_0293"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1398.280s" clip-end="npt=1406.339s" id="audio_0294"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1406.339s" clip-end="npt=1412.334s" id="audio_0295"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1412.334s" clip-end="npt=1418.473s" id="audio_0296"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1418.473s" clip-end="npt=1420.967s" id="audio_0297"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1420.967s" clip-end="npt=1423.501s" id="audio_0298"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1423.501s" clip-end="npt=1432.030s" id="audio_0299"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1432.030s" clip-end="npt=1438.587s" id="audio_0300"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1438.587s" clip-end="npt=1444.778s" id="audio_0301"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1444.778s" clip-end="npt=1446.006s" id="audio_0302"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1446.006s" clip-end="npt=1447.103s" id="audio_0303"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1447.103s" clip-end="npt=1452.380s" id="audio_0304"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1452.380s" clip-end="npt=1453.699s" id="audio_0305"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1453.699s" clip-end="npt=1462.724s" id="audio_0306"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1462.724s" clip-end="npt=1464.762s" id="audio_0307"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1464.762s" clip-end="npt=1471.710s" id="audio_0308"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1471.710s" clip-end="npt=1472.820s" id="audio_0309"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1472.820s" clip-end="npt=1478.110s" id="audio_0310"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1478.110s" clip-end="npt=1483.766s" id="audio_0311"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1483.766s" clip-end="npt=1484.719s" id="audio_0312"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1484.719s" clip-end="npt=1488.611s" id="audio_0313"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1488.611s" clip-end="npt=1489.786s" id="audio_0314"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1489.786s" clip-end="npt=1496.800s" id="audio_0315"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1496.800s" clip-end="npt=1500.810s" id="audio_0316"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1500.810s" clip-end="npt=1507.301s" id="audio_0317"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1507.301s" clip-end="npt=1512.180s" id="audio_0318"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrle_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0135" id="wrle_0006"/>
+			</par>
+			<par endsync="last" id="uvvu_004e">
+				<text src="ncc.html#jjoy_012c" id="wrle_0007"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1512.180s" clip-end="npt=1514.993s" id="audio_0319"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1514.993s" clip-end="npt=1516.991s" id="audio_0320"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1516.991s" clip-end="npt=1518.375s" id="audio_0321"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1518.375s" clip-end="npt=1524.018s" id="audio_0322"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1524.018s" clip-end="npt=1528.981s" id="audio_0323"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1528.981s" clip-end="npt=1530.313s" id="audio_0324"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1530.313s" clip-end="npt=1535.995s" id="audio_0325"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1535.995s" clip-end="npt=1543.009s" id="audio_0326"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1543.009s" clip-end="npt=1546.927s" id="audio_0327"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1546.927s" clip-end="npt=1552.687s" id="audio_0328"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1552.687s" clip-end="npt=1555.770s" id="audio_0329"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1555.770s" clip-end="npt=1559.205s" id="audio_0330"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1559.205s" clip-end="npt=1562.614s" id="audio_0331"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1562.614s" clip-end="npt=1565.330s" id="audio_0332"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1565.330s" clip-end="npt=1571.273s" id="audio_0333"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1571.273s" clip-end="npt=1580.416s" id="audio_0334"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1580.416s" clip-end="npt=1584.322s" id="audio_0335"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1584.322s" clip-end="npt=1592.472s" id="audio_0336"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1592.472s" clip-end="npt=1593.699s" id="audio_0337"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1593.699s" clip-end="npt=1602.242s" id="audio_0338"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1602.242s" clip-end="npt=1605.442s" id="audio_0339"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1605.442s" clip-end="npt=1608.224s" id="audio_0340"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1608.224s" clip-end="npt=1615.185s" id="audio_0341"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1615.185s" clip-end="npt=1615.969s" id="audio_0342"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1615.969s" clip-end="npt=1616.831s" id="audio_0343"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1616.831s" clip-end="npt=1619.809s" id="audio_0344"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1619.809s" clip-end="npt=1629.788s" id="audio_0345"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1629.788s" clip-end="npt=1631.538s" id="audio_0346"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1631.538s" clip-end="npt=1632.596s" id="audio_0347"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1632.596s" clip-end="npt=1639.531s" id="audio_0348"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1639.531s" clip-end="npt=1642.823s" id="audio_0349"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1642.823s" clip-end="npt=1643.763s" id="audio_0350"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1643.763s" clip-end="npt=1649.810s" id="audio_0351"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1649.810s" clip-end="npt=1650.960s" id="audio_0352"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1650.960s" clip-end="npt=1655.335s" id="audio_0353"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1655.335s" clip-end="npt=1658.705s" id="audio_0354"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1658.705s" clip-end="npt=1666.725s" id="audio_0355"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1666.725s" clip-end="npt=1669.193s" id="audio_0356"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1669.193s" clip-end="npt=1672.798s" id="audio_0357"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1672.798s" clip-end="npt=1675.998s" id="audio_0358"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1675.998s" clip-end="npt=1676.834s" id="audio_0359"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1676.834s" clip-end="npt=1683.012s" id="audio_0360"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1683.012s" clip-end="npt=1686.538s" id="audio_0361"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrle_0009" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0136" id="wrle_000a"/>
+			</par>
+			<par endsync="last" id="uvvu_00a5">
+				<text src="ncc.html#jjoy_012c" id="wrle_000b"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1686.538s" clip-end="npt=1689.586s" id="audio_0362"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1689.586s" clip-end="npt=1692.250s" id="audio_0363"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1692.250s" clip-end="npt=1693.112s" id="audio_0364"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1693.112s" clip-end="npt=1699.042s" id="audio_0365"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1699.042s" clip-end="npt=1701.380s" id="audio_0366"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1701.380s" clip-end="npt=1702.556s" id="audio_0367"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1702.556s" clip-end="npt=1709.582s" id="audio_0368"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1709.582s" clip-end="npt=1721.233s" id="audio_0369"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1721.233s" clip-end="npt=1726.053s" id="audio_0370"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1726.053s" clip-end="npt=1730.859s" id="audio_0371"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1730.859s" clip-end="npt=1733.707s" id="audio_0372"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1733.707s" clip-end="npt=1735.966s" id="audio_0373"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1735.966s" clip-end="npt=1740.773s" id="audio_0374"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1740.773s" clip-end="npt=1743.098s" id="audio_0375"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1743.098s" clip-end="npt=1745.305s" id="audio_0376"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1745.305s" clip-end="npt=1748.727s" id="audio_0377"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1748.727s" clip-end="npt=1751.862s" id="audio_0378"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1751.862s" clip-end="npt=1757.648s" id="audio_0379"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1757.648s" clip-end="npt=1759.725s" id="audio_0380"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1759.725s" clip-end="npt=1767.796s" id="audio_0381"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1767.796s" clip-end="npt=1775.202s" id="audio_0382"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1775.202s" clip-end="npt=1781.602s" id="audio_0383"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1781.602s" clip-end="npt=1785.364s" id="audio_0384"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1785.364s" clip-end="npt=1791.751s" id="audio_0385"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1791.751s" clip-end="npt=1798.229s" id="audio_0386"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1798.229s" clip-end="npt=1799.966s" id="audio_0387"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1799.966s" clip-end="npt=1800.972s" id="audio_0388"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1800.972s" clip-end="npt=1802.226s" id="audio_0389"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1802.226s" clip-end="npt=1803.205s" id="audio_0390"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1803.205s" clip-end="npt=1804.472s" id="audio_0391"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1804.472s" clip-end="npt=1805.582s" id="audio_0392"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1805.582s" clip-end="npt=1806.640s" id="audio_0393"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1806.640s" clip-end="npt=1807.803s" id="audio_0394"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1807.803s" clip-end="npt=1808.978s" id="audio_0395"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1808.978s" clip-end="npt=1812.779s" id="audio_0396"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1812.779s" clip-end="npt=1814.111s" id="audio_0397"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1814.111s" clip-end="npt=1819.728s" id="audio_0398"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1819.728s" clip-end="npt=1820.838s" id="audio_0399"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1820.838s" clip-end="npt=1825.710s" id="audio_0400"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1825.710s" clip-end="npt=1830.751s" id="audio_0401"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1830.751s" clip-end="npt=1836.093s" id="audio_0402"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1836.093s" clip-end="npt=1841.253s" id="audio_0403"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1841.253s" clip-end="npt=1842.298s" id="audio_0404"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1842.298s" clip-end="npt=1846.987s" id="audio_0405"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1846.987s" clip-end="npt=1848.045s" id="audio_0406"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1848.045s" clip-end="npt=1851.976s" id="audio_0407"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1851.976s" clip-end="npt=1858.898s" id="audio_0408"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1858.898s" clip-end="npt=1860.231s" id="audio_0409"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1860.231s" clip-end="npt=1873.240s" id="audio_0410"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1873.240s" clip-end="npt=1876.140s" id="audio_0411"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrle_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0137" id="wrle_000e"/>
+			</par>
+			<par endsync="last" id="uvvu_010a">
+				<text src="ncc.html#jjoy_012c" id="wrle_000f"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1876.140s" clip-end="npt=1878.284s" id="audio_0412"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1878.284s" clip-end="npt=1880.165s" id="audio_0413"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1880.165s" clip-end="npt=1882.085s" id="audio_0414"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1882.085s" clip-end="npt=1884.671s" id="audio_0415"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1884.671s" clip-end="npt=1886.722s" id="audio_0416"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1886.722s" clip-end="npt=1891.907s" id="audio_0417"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1891.907s" clip-end="npt=1895.407s" id="audio_0418"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1895.407s" clip-end="npt=1898.176s" id="audio_0419"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1898.176s" clip-end="npt=1902.722s" id="audio_0420"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1902.722s" clip-end="npt=1904.812s" id="audio_0421"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1904.812s" clip-end="npt=1908.260s" id="audio_0422"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1908.260s" clip-end="npt=1909.827s" id="audio_0423"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1909.827s" clip-end="npt=1914.699s" id="audio_0424"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1914.699s" clip-end="npt=1930.333s" id="audio_0425"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1930.333s" clip-end="npt=1938.823s" id="audio_0426"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1938.823s" clip-end="npt=1947.535s" id="audio_0427"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1947.535s" clip-end="npt=1948.697s" id="audio_0428"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1948.697s" clip-end="npt=1956.991s" id="audio_0429"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1956.991s" clip-end="npt=1961.576s" id="audio_0430"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1961.576s" clip-end="npt=1969.282s" id="audio_0431"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1969.282s" clip-end="npt=1971.163s" id="audio_0432"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1971.163s" clip-end="npt=1972.534s" id="audio_0433"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1972.534s" clip-end="npt=1977.902s" id="audio_0434"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1977.902s" clip-end="npt=1979.731s" id="audio_0435"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1979.731s" clip-end="npt=1984.877s" id="audio_0436"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1984.877s" clip-end="npt=1985.687s" id="audio_0437"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1985.687s" clip-end="npt=1986.679s" id="audio_0438"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1986.679s" clip-end="npt=1990.441s" id="audio_0439"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1990.441s" clip-end="npt=1996.279s" id="audio_0440"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=1996.279s" clip-end="npt=2003.855s" id="audio_0441"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2003.855s" clip-end="npt=2005.056s" id="audio_0442"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2005.056s" clip-end="npt=2010.464s" id="audio_0443"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2010.464s" clip-end="npt=2014.292s" id="audio_0444"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrle_0011" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0138" id="wrle_0012"/>
+			</par>
+			<par endsync="last" id="uvvu_014d">
+				<text src="ncc.html#jjoy_012c" id="wrle_0013"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2014.292s" clip-end="npt=2017.588s" id="audio_0445"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2017.588s" clip-end="npt=2019.770s" id="audio_0446"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2019.770s" clip-end="npt=2022.813s" id="audio_0447"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2022.813s" clip-end="npt=2029.344s" id="audio_0448"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2029.344s" clip-end="npt=2032.818s" id="audio_0449"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2032.818s" clip-end="npt=2039.166s" id="audio_0450"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2039.166s" clip-end="npt=2051.900s" id="audio_0451"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2051.900s" clip-end="npt=2054.591s" id="audio_0452"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2054.591s" clip-end="npt=2057.752s" id="audio_0453"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2057.752s" clip-end="npt=2064.256s" id="audio_0454"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2064.256s" clip-end="npt=2076.952s" id="audio_0455"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2076.952s" clip-end="npt=2079.316s" id="audio_0456"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2079.316s" clip-end="npt=2081.928s" id="audio_0457"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2081.928s" clip-end="npt=2086.408s" id="audio_0458"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2086.408s" clip-end="npt=2089.726s" id="audio_0459"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2089.726s" clip-end="npt=2090.744s" id="audio_0460"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2090.744s" clip-end="npt=2094.101s" id="audio_0461"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2094.101s" clip-end="npt=2095.094s" id="audio_0462"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2095.094s" clip-end="npt=2099.952s" id="audio_0463"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2099.952s" clip-end="npt=2100.867s" id="audio_0464"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2100.867s" clip-end="npt=2106.914s" id="audio_0465"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2106.914s" clip-end="npt=2108.246s" id="audio_0466"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2108.246s" clip-end="npt=2119.662s" id="audio_0467"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2119.662s" clip-end="npt=2121.804s" id="audio_0468"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2121.804s" clip-end="npt=2125.592s" id="audio_0469"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2125.592s" clip-end="npt=2133.833s" id="audio_0470"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2133.833s" clip-end="npt=2138.391s" id="audio_0471"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrle_0014" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0139" id="wrle_0015"/>
+			</par>
+			<par endsync="last" id="uvvu_0184">
+				<text src="ncc.html#jjoy_012c" id="wrle_0016"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2138.391s" clip-end="npt=2141.481s" id="audio_0472"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2141.481s" clip-end="npt=2143.845s" id="audio_0473"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2143.845s" clip-end="npt=2147.110s" id="audio_0474"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2147.110s" clip-end="npt=2149.135s" id="audio_0475"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2149.135s" clip-end="npt=2151.042s" id="audio_0476"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2151.042s" clip-end="npt=2158.069s" id="audio_0477"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2158.069s" clip-end="npt=2160.707s" id="audio_0478"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2160.707s" clip-end="npt=2164.860s" id="audio_0479"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2164.860s" clip-end="npt=2169.471s" id="audio_0480"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2169.471s" clip-end="npt=2173.598s" id="audio_0481"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2173.598s" clip-end="npt=2179.554s" id="audio_0482"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2179.554s" clip-end="npt=2181.383s" id="audio_0483"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2181.383s" clip-end="npt=2184.491s" id="audio_0484"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2184.491s" clip-end="npt=2187.038s" id="audio_0485"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2187.038s" clip-end="npt=2191.335s" id="audio_0486"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2191.335s" clip-end="npt=2197.540s" id="audio_0487"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2197.540s" clip-end="npt=2201.040s" id="audio_0488"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2201.040s" clip-end="npt=2202.712s" id="audio_0489"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2202.712s" clip-end="npt=2208.198s" id="audio_0490"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2208.198s" clip-end="npt=2213.461s" id="audio_0491"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2213.461s" clip-end="npt=2215.629s" id="audio_0492"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2215.629s" clip-end="npt=2222.160s" id="audio_0493"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2222.160s" clip-end="npt=2223.793s" id="audio_0494"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2223.793s" clip-end="npt=2227.215s" id="audio_0495"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2227.215s" clip-end="npt=2230.310s" id="audio_0496"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2230.310s" clip-end="npt=2232.348s" id="audio_0497"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2232.348s" clip-end="npt=2236.606s" id="audio_0498"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2236.606s" clip-end="npt=2238.722s" id="audio_0499"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2238.722s" clip-end="npt=2240.968s" id="audio_0500"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2240.968s" clip-end="npt=2242.575s" id="audio_0501"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2242.575s" clip-end="npt=2244.142s" id="audio_0502"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2244.142s" clip-end="npt=2247.460s" id="audio_0503"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2247.460s" clip-end="npt=2254.970s" id="audio_0504"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2254.970s" clip-end="npt=2258.718s" id="audio_0505"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2258.718s" clip-end="npt=2261.879s" id="audio_0506"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2261.879s" clip-end="npt=2267.339s" id="audio_0507"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2267.339s" clip-end="npt=2270.082s" id="audio_0508"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2270.082s" clip-end="npt=2272.158s" id="audio_0509"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2272.158s" clip-end="npt=2273.020s" id="audio_0510"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2273.020s" clip-end="npt=2277.030s" id="audio_0511"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2277.030s" clip-end="npt=2278.519s" id="audio_0512"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2278.519s" clip-end="npt=2280.857s" id="audio_0513"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2280.857s" clip-end="npt=2282.712s" id="audio_0514"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2282.712s" clip-end="npt=2284.501s" id="audio_0515"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2284.501s" clip-end="npt=2286.186s" id="audio_0516"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2286.186s" clip-end="npt=2291.593s" id="audio_0517"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2291.593s" clip-end="npt=2294.232s" id="audio_0518"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2294.232s" clip-end="npt=2295.460s" id="audio_0519"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2295.460s" clip-end="npt=2296.557s" id="audio_0520"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2296.557s" clip-end="npt=2297.732s" id="audio_0521"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2297.732s" clip-end="npt=2298.960s" id="audio_0522"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2298.960s" clip-end="npt=2299.966s" id="audio_0523"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2299.966s" clip-end="npt=2302.970s" id="audio_0524"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2302.970s" clip-end="npt=2305.804s" id="audio_0525"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2305.804s" clip-end="npt=2307.593s" id="audio_0526"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2307.593s" clip-end="npt=2309.318s" id="audio_0527"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2309.318s" clip-end="npt=2311.055s" id="audio_0528"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2311.055s" clip-end="npt=2315.652s" id="audio_0529"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2315.652s" clip-end="npt=2317.794s" id="audio_0530"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2317.794s" clip-end="npt=2319.466s" id="audio_0531"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2319.466s" clip-end="npt=2321.164s" id="audio_0532"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2321.164s" clip-end="npt=2322.731s" id="audio_0533"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2322.731s" clip-end="npt=2324.469s" id="audio_0534"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2324.469s" clip-end="npt=2326.180s" id="audio_0535"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2326.180s" clip-end="npt=2329.484s" id="audio_0536"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2329.484s" clip-end="npt=2331.208s" id="audio_0537"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2331.208s" clip-end="npt=2333.050s" id="audio_0538"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2333.050s" clip-end="npt=2335.377s" id="audio_0539"/>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2335.377s" clip-end="npt=2340.275s" id="audio_0540"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vidq_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_013a" id="vidq_0002"/>
+			</par>
+			<par endsync="last" id="uvvu_0210">
+				<text src="ncc.html#jjoy_012c" id="vidq_0003"/>
+				<seq>
+					<audio src="10_Lesson_9__My_son_will_not_a_beggar_be.mp3" clip-begin="npt=2340.275s" clip-end="npt=2341.704s" id="audio_0541"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

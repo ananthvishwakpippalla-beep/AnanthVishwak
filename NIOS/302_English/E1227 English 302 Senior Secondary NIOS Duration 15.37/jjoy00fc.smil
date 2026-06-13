@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:17:42.485"/>
+		<meta name="ncc:totalElapsedTime" content="12:09:15.734"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 29 A: Controlling Starategies on Outgoing Calls"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="1062.485s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#ybue_0538" id="ybue_0538"/>
+				<seq>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=0.000s" clip-end="npt=2.124s" id="audio_0001"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=2.124s" clip-end="npt=6.552s" id="audio_0002"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=6.552s" clip-end="npt=15.773s" id="audio_0003"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=15.773s" clip-end="npt=19.717s" id="audio_0004"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=19.717s" clip-end="npt=26.587s" id="audio_0005"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=26.587s" clip-end="npt=34.646s" id="audio_0006"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=34.646s" clip-end="npt=39.139s" id="audio_0007"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=39.139s" clip-end="npt=50.960s" id="audio_0008"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=50.960s" clip-end="npt=59.214s" id="audio_0009"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=59.214s" clip-end="npt=65.392s" id="audio_0010"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=65.392s" clip-end="npt=70.016s" id="audio_0011"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=70.016s" clip-end="npt=73.085s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0539" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_0539" id="ybue_053a"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#ybue_0538" id="ybue_053b"/>
+				<seq>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=73.085s" clip-end="npt=73.942s" id="audio_0013"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=73.942s" clip-end="npt=76.005s" id="audio_0014"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=76.005s" clip-end="npt=77.272s" id="audio_0015"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=77.272s" clip-end="npt=80.720s" id="audio_0016"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=80.720s" clip-end="npt=87.212s" id="audio_0017"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=87.212s" clip-end="npt=96.629s" id="audio_0018"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=96.629s" clip-end="npt=99.084s" id="audio_0019"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=99.084s" clip-end="npt=100.717s" id="audio_0020"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=100.717s" clip-end="npt=105.432s" id="audio_0021"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=105.432s" clip-end="npt=107.000s" id="audio_0022"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=107.000s" clip-end="npt=119.133s" id="audio_0023"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=119.133s" clip-end="npt=124.227s" id="audio_0024"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=124.227s" clip-end="npt=128.146s" id="audio_0025"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=128.146s" clip-end="npt=129.295s" id="audio_0026"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=129.295s" clip-end="npt=133.723s" id="audio_0027"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=133.723s" clip-end="npt=135.512s" id="audio_0028"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=135.512s" clip-end="npt=136.962s" id="audio_0029"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=136.962s" clip-end="npt=140.332s" id="audio_0030"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=140.332s" clip-end="npt=141.468s" id="audio_0031"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=141.468s" clip-end="npt=147.437s" id="audio_0032"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=147.437s" clip-end="npt=151.512s" id="audio_0033"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=151.512s" clip-end="npt=159.597s" id="audio_0034"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=159.597s" clip-end="npt=167.434s" id="audio_0035"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=167.434s" clip-end="npt=168.440s" id="audio_0036"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=168.440s" clip-end="npt=174.278s" id="audio_0037"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=174.278s" clip-end="npt=177.517s" id="audio_0038"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=177.517s" clip-end="npt=181.501s" id="audio_0039"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=181.501s" clip-end="npt=182.507s" id="audio_0040"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=182.507s" clip-end="npt=185.772s" id="audio_0041"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=185.772s" clip-end="npt=189.429s" id="audio_0042"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=189.429s" clip-end="npt=190.618s" id="audio_0043"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=190.618s" clip-end="npt=197.357s" id="audio_0044"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=197.357s" clip-end="npt=204.933s" id="audio_0045"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=204.933s" clip-end="npt=222.539s" id="audio_0046"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=222.539s" clip-end="npt=225.354s" id="audio_0047"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_053c" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_053a" id="ybue_053e"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#ybue_0538" id="ybue_053f"/>
+				<seq>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=225.354s" clip-end="npt=226.664s" id="audio_0048"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=226.664s" clip-end="npt=227.521s" id="audio_0049"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=227.521s" clip-end="npt=229.781s" id="audio_0050"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=229.781s" clip-end="npt=230.865s" id="audio_0051"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=230.865s" clip-end="npt=234.940s" id="audio_0052"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=234.940s" clip-end="npt=245.885s" id="audio_0053"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=245.885s" clip-end="npt=262.368s" id="audio_0054"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=262.368s" clip-end="npt=268.063s" id="audio_0055"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=268.063s" clip-end="npt=272.439s" id="audio_0056"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=272.439s" clip-end="npt=276.540s" id="audio_0057"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=276.540s" clip-end="npt=281.059s" id="audio_0058"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=281.059s" clip-end="npt=283.645s" id="audio_0059"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=283.645s" clip-end="npt=287.524s" id="audio_0060"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=287.524s" clip-end="npt=288.425s" id="audio_0061"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=288.425s" clip-end="npt=292.213s" id="audio_0062"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=292.213s" clip-end="npt=297.072s" id="audio_0063"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=297.072s" clip-end="npt=298.365s" id="audio_0064"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=298.365s" clip-end="npt=304.870s" id="audio_0065"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=304.870s" clip-end="npt=309.245s" id="audio_0066"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=309.245s" clip-end="npt=316.951s" id="audio_0067"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=316.951s" clip-end="npt=331.998s" id="audio_0068"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=331.998s" clip-end="npt=333.408s" id="audio_0069"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=333.408s" clip-end="npt=338.933s" id="audio_0070"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=338.933s" clip-end="npt=340.958s" id="audio_0071"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=340.958s" clip-end="npt=353.274s" id="audio_0072"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=353.274s" clip-end="npt=359.113s" id="audio_0073"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=359.113s" clip-end="npt=360.432s" id="audio_0074"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=360.432s" clip-end="npt=362.679s" id="audio_0075"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=362.679s" clip-end="npt=367.106s" id="audio_0076"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=367.106s" clip-end="npt=368.360s" id="audio_0077"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=368.360s" clip-end="npt=372.161s" id="audio_0078"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=372.161s" clip-end="npt=374.605s" id="audio_0079"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0541" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_053b" id="ybue_0542"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#ybue_0538" id="ybue_0543"/>
+				<seq>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=374.605s" clip-end="npt=375.662s" id="audio_0080"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=375.662s" clip-end="npt=376.519s" id="audio_0081"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=376.519s" clip-end="npt=378.674s" id="audio_0082"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=378.674s" clip-end="npt=380.594s" id="audio_0083"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=380.594s" clip-end="npt=381.299s" id="audio_0084"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=381.299s" clip-end="npt=383.036s" id="audio_0085"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=383.036s" clip-end="npt=386.824s" id="audio_0086"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=386.824s" clip-end="npt=391.356s" id="audio_0087"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=391.356s" clip-end="npt=393.511s" id="audio_0088"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=393.511s" clip-end="npt=395.810s" id="audio_0089"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=395.810s" clip-end="npt=400.264s" id="audio_0090"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=400.264s" clip-end="npt=401.714s" id="audio_0091"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=401.714s" clip-end="npt=406.308s" id="audio_0092"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=406.308s" clip-end="npt=407.680s" id="audio_0093"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=407.680s" clip-end="npt=412.852s" id="audio_0094"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=412.852s" clip-end="npt=421.554s" id="audio_0095"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=421.554s" clip-end="npt=426.269s" id="audio_0096"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=426.269s" clip-end="npt=429.159s" id="audio_0097"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=429.159s" clip-end="npt=431.144s" id="audio_0098"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=431.144s" clip-end="npt=436.526s" id="audio_0099"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=436.526s" clip-end="npt=443.030s" id="audio_0100"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=443.030s" clip-end="npt=444.441s" id="audio_0101"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=444.441s" clip-end="npt=446.152s" id="audio_0102"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=446.152s" clip-end="npt=448.790s" id="audio_0103"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=448.790s" clip-end="npt=450.645s" id="audio_0104"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=450.645s" clip-end="npt=455.151s" id="audio_0105"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=455.151s" clip-end="npt=456.640s" id="audio_0106"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=456.640s" clip-end="npt=459.866s" id="audio_0107"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=459.866s" clip-end="npt=462.152s" id="audio_0108"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=462.152s" clip-end="npt=470.642s" id="audio_0109"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=470.642s" clip-end="npt=471.752s" id="audio_0110"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=471.752s" clip-end="npt=478.844s" id="audio_0111"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=478.844s" clip-end="npt=483.520s" id="audio_0112"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=483.520s" clip-end="npt=485.335s" id="audio_0113"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=485.335s" clip-end="npt=490.730s" id="audio_0114"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=490.730s" clip-end="npt=494.282s" id="audio_0115"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=494.282s" clip-end="npt=500.839s" id="audio_0116"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=500.839s" clip-end="npt=502.145s" id="audio_0117"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=502.145s" clip-end="npt=505.541s" id="audio_0118"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=505.541s" clip-end="npt=506.978s" id="audio_0119"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=506.978s" clip-end="npt=515.024s" id="audio_0120"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=515.024s" clip-end="npt=516.486s" id="audio_0121"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=516.486s" clip-end="npt=520.470s" id="audio_0122"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=520.470s" clip-end="npt=522.038s" id="audio_0123"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=522.038s" clip-end="npt=528.646s" id="audio_0124"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=528.646s" clip-end="npt=529.770s" id="audio_0125"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=529.770s" clip-end="npt=533.140s" id="audio_0126"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=533.140s" clip-end="npt=534.877s" id="audio_0127"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=534.877s" clip-end="npt=539.226s" id="audio_0128"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=539.226s" clip-end="npt=544.424s" id="audio_0129"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=544.424s" clip-end="npt=550.655s" id="audio_0130"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=550.655s" clip-end="npt=555.461s" id="audio_0131"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=555.461s" clip-end="npt=559.654s" id="audio_0132"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=559.654s" clip-end="npt=562.326s" id="audio_0133"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0545" system-required="pagenumber-on">
+				<text src="ncc.html#fdrk_0004" id="ybue_0546"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#ybue_0538" id="ybue_0547"/>
+				<seq>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=562.326s" clip-end="npt=563.680s" id="audio_0134"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=563.680s" clip-end="npt=564.537s" id="audio_0135"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=564.537s" clip-end="npt=569.044s" id="audio_0136"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=569.044s" clip-end="npt=572.008s" id="audio_0137"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=572.008s" clip-end="npt=573.393s" id="audio_0138"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=573.393s" clip-end="npt=575.404s" id="audio_0139"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=575.404s" clip-end="npt=577.664s" id="audio_0140"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=577.664s" clip-end="npt=578.996s" id="audio_0141"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=578.996s" clip-end="npt=588.152s" id="audio_0142"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=588.152s" clip-end="npt=593.364s" id="audio_0143"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=593.364s" clip-end="npt=597.961s" id="audio_0144"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=597.961s" clip-end="npt=604.035s" id="audio_0145"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=604.035s" clip-end="npt=609.298s" id="audio_0146"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=609.298s" clip-end="npt=613.191s" id="audio_0147"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=613.191s" clip-end="npt=622.412s" id="audio_0148"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=622.412s" clip-end="npt=624.488s" id="audio_0149"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=624.488s" clip-end="npt=631.319s" id="audio_0150"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=631.319s" clip-end="npt=632.377s" id="audio_0151"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=632.377s" clip-end="npt=634.062s" id="audio_0152"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=634.062s" clip-end="npt=636.439s" id="audio_0153"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=636.439s" clip-end="npt=640.697s" id="audio_0154"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=640.697s" clip-end="npt=644.746s" id="audio_0155"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=644.746s" clip-end="npt=657.742s" id="audio_0156"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=657.742s" clip-end="npt=669.550s" id="audio_0157"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=669.550s" clip-end="npt=672.658s" id="audio_0158"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=672.658s" clip-end="npt=680.493s" id="audio_0159"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=680.493s" clip-end="npt=686.328s" id="audio_0160"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_0548" system-required="pagenumber-on">
+				<text src="ncc.html#fdrk_0005" id="ybue_0549"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#ybue_0538" id="ybue_054a"/>
+				<seq>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=686.328s" clip-end="npt=687.185s" id="audio_0161"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=687.185s" clip-end="npt=690.046s" id="audio_0162"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=690.046s" clip-end="npt=691.757s" id="audio_0163"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=691.757s" clip-end="npt=695.976s" id="audio_0164"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=695.976s" clip-end="npt=699.776s" id="audio_0165"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=699.776s" clip-end="npt=706.085s" id="audio_0166"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=706.085s" clip-end="npt=711.375s" id="audio_0167"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=711.375s" clip-end="npt=712.563s" id="audio_0168"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=712.563s" clip-end="npt=714.849s" id="audio_0169"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=714.849s" clip-end="npt=719.185s" id="audio_0170"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=719.185s" clip-end="npt=722.529s" id="audio_0171"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=722.529s" clip-end="npt=726.826s" id="audio_0172"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=726.826s" clip-end="npt=727.897s" id="audio_0173"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=727.897s" clip-end="npt=735.590s" id="audio_0174"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=735.590s" clip-end="npt=736.727s" id="audio_0175"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=736.727s" clip-end="npt=742.343s" id="audio_0176"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=742.343s" clip-end="npt=744.472s" id="audio_0177"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=744.472s" clip-end="npt=748.599s" id="audio_0178"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=748.599s" clip-end="npt=758.565s" id="audio_0179"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=758.565s" clip-end="npt=761.190s" id="audio_0180"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=761.190s" clip-end="npt=765.357s" id="audio_0181"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=765.357s" clip-end="npt=770.725s" id="audio_0182"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=770.725s" clip-end="npt=773.873s" id="audio_0183"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=773.873s" clip-end="npt=792.733s" id="audio_0184"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=792.733s" clip-end="npt=795.202s" id="audio_0185"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=795.202s" clip-end="npt=797.331s" id="audio_0186"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=797.331s" clip-end="npt=800.570s" id="audio_0187"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=800.570s" clip-end="npt=803.744s" id="audio_0188"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=803.744s" clip-end="npt=815.238s" id="audio_0189"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=815.238s" clip-end="npt=818.191s" id="audio_0190"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_054b" system-required="pagenumber-on">
+				<text src="ncc.html#fdrk_0006" id="ybue_054d"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#ybue_0538" id="ybue_054e"/>
+				<seq>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=818.191s" clip-end="npt=819.263s" id="audio_0191"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=819.263s" clip-end="npt=820.120s" id="audio_0192"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=820.120s" clip-end="npt=822.693s" id="audio_0193"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=822.693s" clip-end="npt=825.566s" id="audio_0194"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=825.566s" clip-end="npt=828.779s" id="audio_0195"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=828.779s" clip-end="npt=830.111s" id="audio_0196"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=830.111s" clip-end="npt=834.278s" id="audio_0197"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=834.278s" clip-end="npt=841.984s" id="audio_0198"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=841.984s" clip-end="npt=850.278s" id="audio_0199"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=850.278s" clip-end="npt=855.803s" id="audio_0200"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=855.803s" clip-end="npt=864.971s" id="audio_0201"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=864.971s" clip-end="npt=876.505s" id="audio_0202"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=876.505s" clip-end="npt=879.835s" id="audio_0203"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=879.835s" clip-end="npt=887.202s" id="audio_0204"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=887.202s" clip-end="npt=891.316s" id="audio_0205"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=891.316s" clip-end="npt=893.210s" id="audio_0206"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=893.210s" clip-end="npt=895.221s" id="audio_0207"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=895.221s" clip-end="npt=900.119s" id="audio_0208"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=900.119s" clip-end="npt=904.508s" id="audio_0209"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=904.508s" clip-end="npt=907.251s" id="audio_0210"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=907.251s" clip-end="npt=922.206s" id="audio_0211"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=922.206s" clip-end="npt=923.969s" id="audio_0212"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=923.969s" clip-end="npt=925.484s" id="audio_0213"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=925.484s" clip-end="npt=939.211s" id="audio_0214"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=939.211s" clip-end="npt=945.468s" id="audio_0215"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=945.468s" clip-end="npt=946.748s" id="audio_0216"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=946.748s" clip-end="npt=954.062s" id="audio_0217"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=954.062s" clip-end="npt=960.554s" id="audio_0218"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=960.554s" clip-end="npt=977.886s" id="audio_0219"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=977.886s" clip-end="npt=980.733s" id="audio_0220"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_054f" system-required="pagenumber-on">
+				<text src="ncc.html#fdrk_0007" id="ybue_0550"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#ybue_0538" id="ybue_0551"/>
+				<seq>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=980.733s" clip-end="npt=981.590s" id="audio_0221"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=981.590s" clip-end="npt=983.719s" id="audio_0222"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=983.719s" clip-end="npt=986.031s" id="audio_0223"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=986.031s" clip-end="npt=987.833s" id="audio_0224"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=987.833s" clip-end="npt=989.192s" id="audio_0225"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=989.192s" clip-end="npt=993.972s" id="audio_0226"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=993.972s" clip-end="npt=997.721s" id="audio_0227"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=997.721s" clip-end="npt=1001.717s" id="audio_0228"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1001.717s" clip-end="npt=1003.520s" id="audio_0229"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1003.520s" clip-end="npt=1014.661s" id="audio_0230"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1014.661s" clip-end="npt=1017.835s" id="audio_0231"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1017.835s" clip-end="npt=1021.753s" id="audio_0232"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1021.753s" clip-end="npt=1027.970s" id="audio_0233"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1027.970s" clip-end="npt=1030.792s" id="audio_0234"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1030.792s" clip-end="npt=1032.542s" id="audio_0235"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1032.542s" clip-end="npt=1033.979s" id="audio_0236"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1033.979s" clip-end="npt=1039.621s" id="audio_0237"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1039.621s" clip-end="npt=1046.125s" id="audio_0238"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1046.125s" clip-end="npt=1056.025s" id="audio_0239"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1056.025s" clip-end="npt=1059.682s" id="audio_0240"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#fdrk_0008" id="snld_0001"/>
+			</par>
+			<par endsync="last" id="snld_0002">
+				<text src="ncc.html#ybue_0538" id="par_0004"/>
+				<seq>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1059.682s" clip-end="npt=1060.539s" id="audio_0241"/>
+					<audio src="33_Lesson_29_A__Controlling_Starategies_on_Outgoing_Calls.mp3" clip-begin="npt=1060.539s" clip-end="npt=1062.485s" id="audio_0242"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

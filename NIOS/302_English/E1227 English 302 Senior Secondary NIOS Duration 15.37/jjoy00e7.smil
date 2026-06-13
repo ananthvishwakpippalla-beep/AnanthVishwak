@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="01:06:40.282"/>
+		<meta name="ncc:totalElapsedTime" content="09:13:50.987"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 25: Bholi"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="4000.282s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#jjoy_01bb" id="jjoy_01bb"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=0.000s" clip-end="npt=4.586s" id="audio_0001"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=4.586s" clip-end="npt=11.052s" id="audio_0002"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=11.052s" clip-end="npt=15.453s" id="audio_0003"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=15.453s" clip-end="npt=17.034s" id="audio_0004"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=17.034s" clip-end="npt=25.837s" id="audio_0005"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=25.837s" clip-end="npt=33.112s" id="audio_0006"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=33.112s" clip-end="npt=39.290s" id="audio_0007"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=39.290s" clip-end="npt=45.586s" id="audio_0008"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=45.586s" clip-end="npt=50.666s" id="audio_0009"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=50.666s" clip-end="npt=54.794s" id="audio_0010"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=54.794s" clip-end="npt=60.057s" id="audio_0011"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=60.057s" clip-end="npt=70.088s" id="audio_0012"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=70.088s" clip-end="npt=78.826s" id="audio_0013"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=78.826s" clip-end="npt=84.717s" id="audio_0014"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=84.717s" clip-end="npt=93.154s" id="audio_0015"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=93.154s" clip-end="npt=101.644s" id="audio_0016"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=101.644s" clip-end="npt=105.043s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pnqe_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01bc" id="pnqe_0002"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#jjoy_01bb" id="pnqe_0003"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=105.043s" clip-end="npt=106.166s" id="audio_0018"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=106.166s" clip-end="npt=110.921s" id="audio_0019"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=110.921s" clip-end="npt=114.421s" id="audio_0020"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=114.421s" clip-end="npt=119.162s" id="audio_0021"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=119.162s" clip-end="npt=121.187s" id="audio_0022"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=121.187s" clip-end="npt=127.312s" id="audio_0023"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=127.312s" clip-end="npt=135.084s" id="audio_0024"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=135.084s" clip-end="npt=138.806s" id="audio_0025"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=138.806s" clip-end="npt=143.587s" id="audio_0026"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=143.587s" clip-end="npt=148.667s" id="audio_0027"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=148.667s" clip-end="npt=152.272s" id="audio_0028"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=152.272s" clip-end="npt=161.872s" id="audio_0029"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=161.872s" clip-end="npt=172.165s" id="audio_0030"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=172.165s" clip-end="npt=181.399s" id="audio_0031"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=181.399s" clip-end="npt=188.321s" id="audio_0032"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=188.321s" clip-end="npt=195.845s" id="audio_0033"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=195.845s" clip-end="npt=208.841s" id="audio_0034"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=208.841s" clip-end="npt=218.885s" id="audio_0035"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=218.885s" clip-end="npt=222.490s" id="audio_0036"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=222.490s" clip-end="npt=232.691s" id="audio_0037"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=232.691s" clip-end="npt=236.674s" id="audio_0038"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=236.674s" clip-end="npt=240.828s" id="audio_0039"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=240.828s" clip-end="npt=242.865s" id="audio_0040"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=242.865s" clip-end="npt=246.614s" id="audio_0041"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=246.614s" clip-end="npt=249.801s" id="audio_0042"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=249.801s" clip-end="npt=254.542s" id="audio_0043"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=254.542s" clip-end="npt=261.765s" id="audio_0044"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=261.765s" clip-end="npt=266.010s" id="audio_0045"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=266.010s" clip-end="npt=274.291s" id="audio_0046"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=274.291s" clip-end="npt=277.491s" id="audio_0047"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=277.491s" clip-end="npt=283.708s" id="audio_0048"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=283.708s" clip-end="npt=286.986s" id="audio_0049"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=286.986s" clip-end="npt=288.710s" id="audio_0050"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=288.710s" clip-end="npt=292.028s" id="audio_0051"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=292.028s" clip-end="npt=303.221s" id="audio_0052"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=303.221s" clip-end="npt=311.763s" id="audio_0053"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=311.763s" clip-end="npt=315.551s" id="audio_0054"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=315.551s" clip-end="npt=324.172s" id="audio_0055"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=324.172s" clip-end="npt=330.663s" id="audio_0056"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=330.663s" clip-end="npt=338.656s" id="audio_0057"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=338.656s" clip-end="npt=342.348s" id="audio_0058"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pnqe_0005" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01bd" id="pnqe_0006"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#jjoy_01bb" id="pnqe_0007"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=342.348s" clip-end="npt=343.578s" id="audio_0059"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=343.578s" clip-end="npt=345.838s" id="audio_0060"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=345.838s" clip-end="npt=350.684s" id="audio_0061"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=350.684s" clip-end="npt=352.787s" id="audio_0062"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=352.787s" clip-end="npt=357.632s" id="audio_0063"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=357.632s" clip-end="npt=362.530s" id="audio_0064"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=362.530s" clip-end="npt=371.516s" id="audio_0065"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=371.516s" clip-end="npt=375.683s" id="audio_0066"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=375.683s" clip-end="npt=378.818s" id="audio_0067"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=378.818s" clip-end="npt=383.885s" id="audio_0068"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=383.885s" clip-end="npt=387.033s" id="audio_0069"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=387.033s" clip-end="npt=394.504s" id="audio_0070"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=394.504s" clip-end="npt=400.604s" id="audio_0071"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=400.604s" clip-end="npt=409.041s" id="audio_0072"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=409.041s" clip-end="npt=410.622s" id="audio_0073"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=410.622s" clip-end="npt=418.014s" id="audio_0074"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=418.014s" clip-end="npt=423.691s" id="audio_0075"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=423.691s" clip-end="npt=426.721s" id="audio_0076"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=426.721s" clip-end="npt=435.054s" id="audio_0077"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=435.054s" clip-end="npt=441.741s" id="audio_0078"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=441.741s" clip-end="npt=444.928s" id="audio_0079"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=444.928s" clip-end="npt=447.997s" id="audio_0080"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=447.997s" clip-end="npt=449.735s" id="audio_0081"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=449.735s" clip-end="npt=457.388s" id="audio_0082"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=457.388s" clip-end="npt=459.452s" id="audio_0083"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=459.452s" clip-end="npt=461.803s" id="audio_0084"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=461.803s" clip-end="npt=462.992s" id="audio_0085"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=462.992s" clip-end="npt=478.835s" id="audio_0086"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=478.835s" clip-end="npt=490.198s" id="audio_0087"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=490.198s" clip-end="npt=492.648s" id="audio_0088"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pnqe_0009" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01be" id="pnqe_000a"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#jjoy_01bb" id="pnqe_000b"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=492.648s" clip-end="npt=494.462s" id="audio_0089"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=494.462s" clip-end="npt=497.962s" id="audio_0090"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=497.962s" clip-end="npt=503.331s" id="audio_0091"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=503.331s" clip-end="npt=515.203s" id="audio_0092"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=515.203s" clip-end="npt=517.071s" id="audio_0093"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=517.071s" clip-end="npt=521.564s" id="audio_0094"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=521.564s" clip-end="npt=529.962s" id="audio_0095"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=529.962s" clip-end="npt=544.160s" id="audio_0096"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=544.160s" clip-end="npt=555.602s" id="audio_0097"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=555.602s" clip-end="npt=562.067s" id="audio_0098"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=562.067s" clip-end="npt=566.482s" id="audio_0099"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=566.482s" clip-end="npt=573.443s" id="audio_0100"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=573.443s" clip-end="npt=584.820s" id="audio_0101"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=584.820s" clip-end="npt=593.414s" id="audio_0102"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=593.414s" clip-end="npt=596.940s" id="audio_0103"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=596.940s" clip-end="npt=605.430s" id="audio_0104"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=605.430s" clip-end="npt=608.447s" id="audio_0105"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=608.447s" clip-end="npt=611.334s" id="audio_0106"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=611.334s" clip-end="npt=614.612s" id="audio_0107"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=614.612s" clip-end="npt=630.403s" id="audio_0108"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=630.403s" clip-end="npt=637.783s" id="audio_0109"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=637.783s" clip-end="npt=643.321s" id="audio_0110"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=643.321s" clip-end="npt=645.084s" id="audio_0111"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=645.084s" clip-end="npt=648.793s" id="audio_0112"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=648.793s" clip-end="npt=655.951s" id="audio_0113"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=655.951s" clip-end="npt=659.502s" id="audio_0114"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pnqe_0010" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c0" id="pnqe_0011"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#jjoy_01bb" id="pnqe_0012"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=659.502s" clip-end="npt=660.554s" id="audio_0115"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=660.554s" clip-end="npt=664.460s" id="audio_0116"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=664.460s" clip-end="npt=665.753s" id="audio_0117"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=665.753s" clip-end="npt=667.764s" id="audio_0118"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=667.764s" clip-end="npt=671.682s" id="audio_0119"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=671.682s" clip-end="npt=674.177s" id="audio_0120"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=674.177s" clip-end="npt=676.946s" id="audio_0121"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=676.946s" clip-end="npt=684.665s" id="audio_0122"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=684.665s" clip-end="npt=692.489s" id="audio_0123"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=692.489s" clip-end="npt=695.219s" id="audio_0124"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=695.219s" clip-end="npt=698.576s" id="audio_0125"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=698.576s" clip-end="npt=701.227s" id="audio_0126"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=701.227s" clip-end="npt=703.447s" id="audio_0127"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=703.447s" clip-end="npt=705.498s" id="audio_0128"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=705.498s" clip-end="npt=708.646s" id="audio_0129"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=708.646s" clip-end="npt=712.198s" id="audio_0130"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=712.198s" clip-end="npt=719.212s" id="audio_0131"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=719.212s" clip-end="npt=720.740s" id="audio_0132"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=720.740s" clip-end="npt=730.144s" id="audio_0133"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=730.144s" clip-end="npt=734.468s" id="audio_0134"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=734.468s" clip-end="npt=740.228s" id="audio_0135"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=740.228s" clip-end="npt=742.291s" id="audio_0136"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=742.291s" clip-end="npt=744.447s" id="audio_0137"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=744.447s" clip-end="npt=747.503s" id="audio_0138"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=747.503s" clip-end="npt=750.442s" id="audio_0139"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=750.442s" clip-end="npt=755.862s" id="audio_0140"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=755.862s" clip-end="npt=760.042s" id="audio_0141"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=760.042s" clip-end="npt=771.666s" id="audio_0142"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=771.666s" clip-end="npt=777.439s" id="audio_0143"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=777.439s" clip-end="npt=785.276s" id="audio_0144"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=785.276s" clip-end="npt=790.513s" id="audio_0145"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=790.513s" clip-end="npt=801.446s" id="audio_0146"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=801.446s" clip-end="npt=807.258s" id="audio_0147"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=807.258s" clip-end="npt=818.020s" id="audio_0148"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=818.020s" clip-end="npt=823.232s" id="audio_0149"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=823.232s" clip-end="npt=827.647s" id="audio_0150"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=827.647s" clip-end="npt=830.405s" id="audio_0151"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pnqe_0014" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c1" id="pnqe_0015"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#jjoy_01bb" id="pnqe_0016"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=830.405s" clip-end="npt=831.673s" id="audio_0152"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=831.673s" clip-end="npt=834.233s" id="audio_0153"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=834.233s" clip-end="npt=837.734s" id="audio_0154"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=837.734s" clip-end="npt=841.717s" id="audio_0155"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=841.717s" clip-end="npt=842.827s" id="audio_0156"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=842.827s" clip-end="npt=847.947s" id="audio_0157"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=847.947s" clip-end="npt=855.471s" id="audio_0158"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=855.471s" clip-end="npt=860.173s" id="audio_0159"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=860.173s" clip-end="npt=866.076s" id="audio_0160"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=866.076s" clip-end="npt=872.803s" id="audio_0161"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=872.803s" clip-end="npt=879.098s" id="audio_0162"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=879.098s" clip-end="npt=884.245s" id="audio_0163"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=884.245s" clip-end="npt=891.050s" id="audio_0164"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=891.050s" clip-end="npt=899.030s" id="audio_0165"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=899.030s" clip-end="npt=906.423s" id="audio_0166"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=906.423s" clip-end="npt=910.681s" id="audio_0167"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=910.681s" clip-end="npt=921.874s" id="audio_0168"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=921.874s" clip-end="npt=928.235s" id="audio_0169"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=928.235s" clip-end="npt=929.489s" id="audio_0170"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=929.489s" clip-end="npt=936.019s" id="audio_0171"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=936.019s" clip-end="npt=938.357s" id="audio_0172"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=938.357s" clip-end="npt=940.774s" id="audio_0173"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=940.774s" clip-end="npt=943.869s" id="audio_0174"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=943.869s" clip-end="npt=945.867s" id="audio_0175"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=945.867s" clip-end="npt=949.383s" id="audio_0176"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pnqe_0018" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c2" id="pnqe_0019"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#jjoy_01bb" id="pnqe_001a"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=949.383s" clip-end="npt=950.774s" id="audio_0177"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=950.774s" clip-end="npt=953.046s" id="audio_0178"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=953.046s" clip-end="npt=955.005s" id="audio_0179"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=955.005s" clip-end="npt=962.241s" id="audio_0180"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=962.241s" clip-end="npt=964.253s" id="audio_0181"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=964.253s" clip-end="npt=975.120s" id="audio_0182"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=975.120s" clip-end="npt=979.247s" id="audio_0183"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=979.247s" clip-end="npt=983.335s" id="audio_0184"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=983.335s" clip-end="npt=988.481s" id="audio_0185"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=988.481s" clip-end="npt=993.157s" id="audio_0186"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=993.157s" clip-end="npt=998.630s" id="audio_0187"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=998.630s" clip-end="npt=999.740s" id="audio_0188"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=999.740s" clip-end="npt=1005.461s" id="audio_0189"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1005.461s" clip-end="npt=1011.378s" id="audio_0190"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1011.378s" clip-end="npt=1015.610s" id="audio_0191"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1015.610s" clip-end="npt=1022.741s" id="audio_0192"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1022.741s" clip-end="npt=1024.870s" id="audio_0193"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1024.870s" clip-end="npt=1025.967s" id="audio_0194"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1025.967s" clip-end="npt=1029.533s" id="audio_0195"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1029.533s" clip-end="npt=1033.569s" id="audio_0196"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1033.569s" clip-end="npt=1038.441s" id="audio_0197"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1038.441s" clip-end="npt=1042.294s" id="audio_0198"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1042.294s" clip-end="npt=1046.552s" id="audio_0199"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1046.552s" clip-end="npt=1056.857s" id="audio_0200"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1056.857s" clip-end="npt=1062.251s" id="audio_0201"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1062.251s" clip-end="npt=1066.365s" id="audio_0202"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1066.365s" clip-end="npt=1071.747s" id="audio_0203"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1071.747s" clip-end="npt=1077.174s" id="audio_0204"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1077.174s" clip-end="npt=1082.190s" id="audio_0205"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1082.190s" clip-end="npt=1088.929s" id="audio_0206"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1088.929s" clip-end="npt=1107.045s" id="audio_0207"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1107.045s" clip-end="npt=1115.642s" id="audio_0208"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1115.642s" clip-end="npt=1121.036s" id="audio_0209"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1121.036s" clip-end="npt=1132.112s" id="audio_0210"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1132.112s" clip-end="npt=1136.227s" id="audio_0211"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1136.227s" clip-end="npt=1139.335s" id="audio_0212"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1139.335s" clip-end="npt=1142.677s" id="audio_0213"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1142.677s" clip-end="npt=1149.926s" id="audio_0214"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1149.926s" clip-end="npt=1159.513s" id="audio_0215"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1159.513s" clip-end="npt=1166.709s" id="audio_0216"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1166.709s" clip-end="npt=1168.616s" id="audio_0217"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1168.616s" clip-end="npt=1174.703s" id="audio_0218"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1174.703s" clip-end="npt=1177.433s" id="audio_0219"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1177.433s" clip-end="npt=1178.400s" id="audio_0220"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xift_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c3" id="xift_0002"/>
+			</par>
+			<par endsync="last" id="ybue_0003">
+				<text src="ncc.html#jjoy_01bb" id="xift_0003"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1178.400s" clip-end="npt=1182.109s" id="audio_0221"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1182.109s" clip-end="npt=1189.319s" id="audio_0222"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1189.319s" clip-end="npt=1196.320s" id="audio_0223"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1196.320s" clip-end="npt=1201.936s" id="audio_0224"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1201.936s" clip-end="npt=1205.815s" id="audio_0225"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1205.815s" clip-end="npt=1210.373s" id="audio_0226"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1210.373s" clip-end="npt=1212.986s" id="audio_0227"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1212.986s" clip-end="npt=1215.154s" id="audio_0228"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1215.154s" clip-end="npt=1224.675s" id="audio_0229"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1224.675s" clip-end="npt=1233.322s" id="audio_0230"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1233.322s" clip-end="npt=1238.938s" id="audio_0231"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1238.938s" clip-end="npt=1242.556s" id="audio_0232"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1242.556s" clip-end="npt=1247.467s" id="audio_0233"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1247.467s" clip-end="npt=1252.052s" id="audio_0234"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1252.052s" clip-end="npt=1258.021s" id="audio_0235"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1258.021s" clip-end="npt=1264.042s" id="audio_0236"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1264.042s" clip-end="npt=1265.322s" id="audio_0237"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1265.322s" clip-end="npt=1273.381s" id="audio_0238"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1273.381s" clip-end="npt=1278.174s" id="audio_0239"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1278.174s" clip-end="npt=1286.416s" id="audio_0240"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1286.416s" clip-end="npt=1289.120s" id="audio_0241"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1289.120s" clip-end="npt=1292.045s" id="audio_0242"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1292.045s" clip-end="npt=1297.988s" id="audio_0243"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1297.988s" clip-end="npt=1299.817s" id="audio_0244"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1299.817s" clip-end="npt=1306.164s" id="audio_0245"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1306.164s" clip-end="npt=1310.318s" id="audio_0246"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1310.318s" clip-end="npt=1317.815s" id="audio_0247"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1317.815s" clip-end="npt=1323.026s" id="audio_0248"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1323.026s" clip-end="npt=1326.357s" id="audio_0249"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1326.357s" clip-end="npt=1329.479s" id="audio_0250"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1329.479s" clip-end="npt=1333.240s" id="audio_0251"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1333.240s" clip-end="npt=1335.944s" id="audio_0252"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1335.944s" clip-end="npt=1343.533s" id="audio_0253"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1343.533s" clip-end="npt=1347.111s" id="audio_0254"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1347.111s" clip-end="npt=1354.073s" id="audio_0255"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1354.073s" clip-end="npt=1357.507s" id="audio_0256"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1357.507s" clip-end="npt=1360.127s" id="audio_0257"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xift_0004" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c4" id="xift_0006"/>
+			</par>
+			<par endsync="last" id="ybue_004e">
+				<text src="ncc.html#jjoy_01bb" id="xift_0007"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1360.127s" clip-end="npt=1361.199s" id="audio_0258"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1361.199s" clip-end="npt=1364.242s" id="audio_0259"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1364.242s" clip-end="npt=1370.982s" id="audio_0260"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1370.982s" clip-end="npt=1374.300s" id="audio_0261"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1374.300s" clip-end="npt=1393.513s" id="audio_0262"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1393.513s" clip-end="npt=1409.709s" id="audio_0263"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1409.709s" clip-end="npt=1424.768s" id="audio_0264"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1424.768s" clip-end="npt=1426.100s" id="audio_0265"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1426.100s" clip-end="npt=1431.142s" id="audio_0266"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1431.142s" clip-end="npt=1433.820s" id="audio_0267"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1433.820s" clip-end="npt=1436.576s" id="audio_0268"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1436.576s" clip-end="npt=1442.113s" id="audio_0269"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1442.113s" clip-end="npt=1448.762s" id="audio_0270"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1448.762s" clip-end="npt=1452.837s" id="audio_0271"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1452.837s" clip-end="npt=1454.992s" id="audio_0272"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1454.992s" clip-end="npt=1459.380s" id="audio_0273"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1459.380s" clip-end="npt=1470.038s" id="audio_0274"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1470.038s" clip-end="npt=1477.157s" id="audio_0275"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1477.157s" clip-end="npt=1480.579s" id="audio_0276"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1480.579s" clip-end="npt=1485.699s" id="audio_0277"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1485.699s" clip-end="npt=1490.336s" id="audio_0278"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1490.336s" clip-end="npt=1499.988s" id="audio_0279"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1499.988s" clip-end="npt=1504.677s" id="audio_0280"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1504.677s" clip-end="npt=1512.200s" id="audio_0281"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1512.200s" clip-end="npt=1515.021s" id="audio_0282"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1515.021s" clip-end="npt=1520.324s" id="audio_0283"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1520.324s" clip-end="npt=1523.838s" id="audio_0284"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1523.838s" clip-end="npt=1525.980s" id="audio_0285"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1525.980s" clip-end="npt=1530.838s" id="audio_0286"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1530.838s" clip-end="npt=1533.346s" id="audio_0287"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1533.346s" clip-end="npt=1537.016s" id="audio_0288"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1537.016s" clip-end="npt=1542.162s" id="audio_0289"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1542.162s" clip-end="npt=1544.265s" id="audio_0290"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1544.265s" clip-end="npt=1556.647s" id="audio_0291"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1556.647s" clip-end="npt=1561.271s" id="audio_0292"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1561.271s" clip-end="npt=1572.177s" id="audio_0293"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1572.177s" clip-end="npt=1577.872s" id="audio_0294"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1577.872s" clip-end="npt=1582.378s" id="audio_0295"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1582.378s" clip-end="npt=1585.815s" id="audio_0296"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xift_0008" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c5" id="xift_000a"/>
+			</par>
+			<par endsync="last" id="ybue_009d">
+				<text src="ncc.html#jjoy_01bb" id="xift_000b"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1585.815s" clip-end="npt=1586.887s" id="audio_0297"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1586.887s" clip-end="npt=1589.147s" id="audio_0298"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1589.147s" clip-end="npt=1592.530s" id="audio_0299"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1592.530s" clip-end="npt=1598.185s" id="audio_0300"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1598.185s" clip-end="npt=1601.895s" id="audio_0301"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1601.895s" clip-end="npt=1607.446s" id="audio_0302"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1607.446s" clip-end="npt=1612.918s" id="audio_0303"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1612.918s" clip-end="npt=1619.005s" id="audio_0304"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1619.005s" clip-end="npt=1624.477s" id="audio_0305"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1624.477s" clip-end="npt=1626.201s" id="audio_0306"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1626.201s" clip-end="npt=1634.038s" id="audio_0307"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1634.038s" clip-end="npt=1638.492s" id="audio_0308"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1638.492s" clip-end="npt=1643.521s" id="audio_0309"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1643.521s" clip-end="npt=1647.178s" id="audio_0310"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1647.178s" clip-end="npt=1650.378s" id="audio_0311"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1650.378s" clip-end="npt=1653.447s" id="audio_0312"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1653.447s" clip-end="npt=1658.437s" id="audio_0313"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1658.437s" clip-end="npt=1659.821s" id="audio_0314"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1659.821s" clip-end="npt=1668.037s" id="audio_0315"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1668.037s" clip-end="npt=1671.877s" id="audio_0316"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1671.877s" clip-end="npt=1674.672s" id="audio_0317"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1674.672s" clip-end="npt=1678.015s" id="audio_0318"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1678.015s" clip-end="npt=1682.913s" id="audio_0319"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1682.913s" clip-end="npt=1689.209s" id="audio_0320"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1689.209s" clip-end="npt=1690.646s" id="audio_0321"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1690.646s" clip-end="npt=1694.812s" id="audio_0322"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1694.812s" clip-end="npt=1700.637s" id="audio_0323"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1700.637s" clip-end="npt=1708.265s" id="audio_0324"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1708.265s" clip-end="npt=1711.938s" id="audio_0325"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xift_000c" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c6" id="xift_000e"/>
+			</par>
+			<par endsync="last" id="ybue_00d8">
+				<text src="ncc.html#jjoy_01bb" id="xift_000f"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1711.938s" clip-end="npt=1713.010s" id="audio_0326"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1713.010s" clip-end="npt=1713.754s" id="audio_0327"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1713.754s" clip-end="npt=1716.367s" id="audio_0328"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1716.367s" clip-end="npt=1717.934s" id="audio_0329"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1717.934s" clip-end="npt=1722.845s" id="audio_0330"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1722.845s" clip-end="npt=1724.530s" id="audio_0331"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1724.530s" clip-end="npt=1728.762s" id="audio_0332"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1728.762s" clip-end="npt=1730.852s" id="audio_0333"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1730.852s" clip-end="npt=1736.860s" id="audio_0334"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1736.860s" clip-end="npt=1738.118s" id="audio_0335"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1738.118s" clip-end="npt=1739.555s" id="audio_0336"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1739.555s" clip-end="npt=1745.955s" id="audio_0337"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1745.955s" clip-end="npt=1749.351s" id="audio_0338"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1749.351s" clip-end="npt=1752.956s" id="audio_0339"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1752.956s" clip-end="npt=1762.347s" id="audio_0340"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1762.347s" clip-end="npt=1763.366s" id="audio_0341"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1763.366s" clip-end="npt=1767.545s" id="audio_0342"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1767.545s" clip-end="npt=1773.462s" id="audio_0343"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1773.462s" clip-end="npt=1781.038s" id="audio_0344"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1781.038s" clip-end="npt=1787.359s" id="audio_0345"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1787.359s" clip-end="npt=1793.955s" id="audio_0346"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1793.955s" clip-end="npt=1794.817s" id="audio_0347"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1794.817s" clip-end="npt=1801.087s" id="audio_0348"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1801.087s" clip-end="npt=1805.488s" id="audio_0349"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1805.488s" clip-end="npt=1812.725s" id="audio_0350"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1812.725s" clip-end="npt=1813.496s" id="audio_0351"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1813.496s" clip-end="npt=1815.194s" id="audio_0352"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1815.194s" clip-end="npt=1822.652s" id="audio_0353"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1822.652s" clip-end="npt=1823.997s" id="audio_0354"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1823.997s" clip-end="npt=1826.779s" id="audio_0355"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1826.779s" clip-end="npt=1829.496s" id="audio_0356"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1829.496s" clip-end="npt=1833.049s" id="audio_0357"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1833.049s" clip-end="npt=1835.831s" id="audio_0358"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1835.831s" clip-end="npt=1837.346s" id="audio_0359"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1837.346s" clip-end="npt=1840.023s" id="audio_0360"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1840.023s" clip-end="npt=1842.779s" id="audio_0361"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1842.779s" clip-end="npt=1845.235s" id="audio_0362"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1845.235s" clip-end="npt=1851.360s" id="audio_0363"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1851.360s" clip-end="npt=1865.662s" id="audio_0364"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1865.662s" clip-end="npt=1869.296s" id="audio_0365"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xift_0010" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c7" id="xift_0011"/>
+			</par>
+			<par endsync="last" id="ybue_0129">
+				<text src="ncc.html#jjoy_01bb" id="xift_0012"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1869.296s" clip-end="npt=1871.751s" id="audio_0366"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1871.751s" clip-end="npt=1877.289s" id="audio_0367"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1877.289s" clip-end="npt=1880.189s" id="audio_0368"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1880.189s" clip-end="npt=1883.141s" id="audio_0369"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1883.141s" clip-end="npt=1886.863s" id="audio_0370"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1886.863s" clip-end="npt=1889.502s" id="audio_0371"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1889.502s" clip-end="npt=1894.086s" id="audio_0372"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1894.086s" clip-end="npt=1899.977s" id="audio_0373"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1899.977s" clip-end="npt=1905.724s" id="audio_0374"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1905.724s" clip-end="npt=1908.205s" id="audio_0375"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1908.205s" clip-end="npt=1909.655s" id="audio_0376"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1909.655s" clip-end="npt=1911.066s" id="audio_0377"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1911.066s" clip-end="npt=1912.424s" id="audio_0378"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1912.424s" clip-end="npt=1915.467s" id="audio_0379"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1915.467s" clip-end="npt=1916.996s" id="audio_0380"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1916.996s" clip-end="npt=1918.628s" id="audio_0381"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1918.628s" clip-end="npt=1920.104s" id="audio_0382"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1920.104s" clip-end="npt=1921.554s" id="audio_0383"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1921.554s" clip-end="npt=1923.173s" id="audio_0384"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1923.173s" clip-end="npt=1927.588s" id="audio_0385"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1927.588s" clip-end="npt=1929.769s" id="audio_0386"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1929.769s" clip-end="npt=1934.484s" id="audio_0387"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1934.484s" clip-end="npt=1943.693s" id="audio_0388"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1943.693s" clip-end="npt=1951.451s" id="audio_0389"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1951.451s" clip-end="npt=1958.439s" id="audio_0390"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1958.439s" clip-end="npt=1962.592s" id="audio_0391"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1962.592s" clip-end="npt=1970.364s" id="audio_0392"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1970.364s" clip-end="npt=1973.942s" id="audio_0393"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1973.942s" clip-end="npt=1975.954s" id="audio_0394"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1975.954s" clip-end="npt=1979.990s" id="audio_0395"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1979.990s" clip-end="npt=1982.863s" id="audio_0396"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1982.863s" clip-end="npt=1991.027s" id="audio_0397"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1991.027s" clip-end="npt=1992.868s" id="audio_0398"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=1992.868s" clip-end="npt=2002.364s" id="audio_0399"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2002.364s" clip-end="npt=2003.369s" id="audio_0400"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2003.369s" clip-end="npt=2009.939s" id="audio_0401"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2009.939s" clip-end="npt=2011.859s" id="audio_0402"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2011.859s" clip-end="npt=2013.165s" id="audio_0403"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2013.165s" clip-end="npt=2017.253s" id="audio_0404"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2017.253s" clip-end="npt=2021.877s" id="audio_0405"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2021.877s" clip-end="npt=2024.006s" id="audio_0406"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2024.006s" clip-end="npt=2026.971s" id="audio_0407"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2026.971s" clip-end="npt=2029.936s" id="audio_0408"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2029.936s" clip-end="npt=2035.147s" id="audio_0409"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2035.147s" clip-end="npt=2040.359s" id="audio_0410"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2040.359s" clip-end="npt=2045.466s" id="audio_0411"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2045.466s" clip-end="npt=2051.696s" id="audio_0412"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2051.696s" clip-end="npt=2056.868s" id="audio_0413"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2056.868s" clip-end="npt=2058.096s" id="audio_0414"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2058.096s" clip-end="npt=2064.365s" id="audio_0415"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2064.365s" clip-end="npt=2067.354s" id="audio_0416"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xift_0013" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c8" id="xift_0014"/>
+			</par>
+			<par endsync="last" id="ybue_0190">
+				<text src="ncc.html#jjoy_01bb" id="xift_0015"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2067.354s" clip-end="npt=2070.018s" id="audio_0417"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2070.018s" clip-end="npt=2077.424s" id="audio_0418"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2077.424s" clip-end="npt=2082.400s" id="audio_0419"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2082.400s" clip-end="npt=2084.203s" id="audio_0420"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2084.203s" clip-end="npt=2085.339s" id="audio_0421"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2085.339s" clip-end="npt=2088.134s" id="audio_0422"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2088.134s" clip-end="npt=2089.349s" id="audio_0423"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2089.349s" clip-end="npt=2091.687s" id="audio_0424"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2091.687s" clip-end="npt=2095.070s" id="audio_0425"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2095.070s" clip-end="npt=2098.583s" id="audio_0426"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2098.583s" clip-end="npt=2099.497s" id="audio_0427"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2099.497s" clip-end="npt=2102.005s" id="audio_0428"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2102.005s" clip-end="npt=2105.362s" id="audio_0429"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2105.362s" clip-end="npt=2109.633s" id="audio_0430"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2109.633s" clip-end="npt=2112.611s" id="audio_0431"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2112.611s" clip-end="npt=2114.610s" id="audio_0432"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2114.610s" clip-end="npt=2127.619s" id="audio_0433"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2127.619s" clip-end="npt=2132.503s" id="audio_0434"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2132.503s" clip-end="npt=2133.862s" id="audio_0435"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2133.862s" clip-end="npt=2141.542s" id="audio_0436"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2141.542s" clip-end="npt=2145.930s" id="audio_0437"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2145.930s" clip-end="npt=2156.262s" id="audio_0438"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2156.262s" clip-end="npt=2166.228s" id="audio_0439"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2166.228s" clip-end="npt=2169.832s" id="audio_0440"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2169.832s" clip-end="npt=2171.961s" id="audio_0441"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2171.961s" clip-end="npt=2176.781s" id="audio_0442"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2176.781s" clip-end="npt=2180.203s" id="audio_0443"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2180.203s" clip-end="npt=2185.166s" id="audio_0444"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2185.166s" clip-end="npt=2187.948s" id="audio_0445"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2187.948s" clip-end="npt=2192.690s" id="audio_0446"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2192.690s" clip-end="npt=2196.308s" id="audio_0447"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2196.308s" clip-end="npt=2198.345s" id="audio_0448"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2198.345s" clip-end="npt=2200.278s" id="audio_0449"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2200.278s" clip-end="npt=2202.512s" id="audio_0450"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2202.512s" clip-end="npt=2204.497s" id="audio_0451"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2204.497s" clip-end="npt=2209.186s" id="audio_0452"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2209.186s" clip-end="npt=2211.119s" id="audio_0453"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2211.119s" clip-end="npt=2213.366s" id="audio_0454"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2213.366s" clip-end="npt=2217.741s" id="audio_0455"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2217.741s" clip-end="npt=2220.118s" id="audio_0456"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2220.118s" clip-end="npt=2222.404s" id="audio_0457"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2222.404s" clip-end="npt=2226.753s" id="audio_0458"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2226.753s" clip-end="npt=2229.366s" id="audio_0459"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2229.366s" clip-end="npt=2231.364s" id="audio_0460"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2231.364s" clip-end="npt=2235.334s" id="audio_0461"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2235.334s" clip-end="npt=2238.012s" id="audio_0462"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2238.012s" clip-end="npt=2240.611s" id="audio_0463"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2240.611s" clip-end="npt=2246.032s" id="audio_0464"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2246.032s" clip-end="npt=2248.474s" id="audio_0465"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2248.474s" clip-end="npt=2250.681s" id="audio_0466"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2250.681s" clip-end="npt=2258.753s" id="audio_0467"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2258.753s" clip-end="npt=2260.268s" id="audio_0468"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2260.268s" clip-end="npt=2265.832s" id="audio_0469"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2265.832s" clip-end="npt=2269.579s" id="audio_0470"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xift_0016" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01c9" id="xift_0018"/>
+			</par>
+			<par endsync="last" id="par_0015">
+				<text src="ncc.html#jjoy_01bb" id="xift_0019"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2269.579s" clip-end="npt=2270.939s" id="audio_0471"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2270.939s" clip-end="npt=2272.547s" id="audio_0472"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2272.547s" clip-end="npt=2273.984s" id="audio_0473"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2273.984s" clip-end="npt=2279.914s" id="audio_0474"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2279.914s" clip-end="npt=2281.769s" id="audio_0475"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2281.769s" clip-end="npt=2283.258s" id="audio_0476"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2283.258s" clip-end="npt=2284.551s" id="audio_0477"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2284.551s" clip-end="npt=2286.131s" id="audio_0478"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2286.131s" clip-end="npt=2287.607s" id="audio_0479"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2287.607s" clip-end="npt=2288.939s" id="audio_0480"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2288.939s" clip-end="npt=2290.415s" id="audio_0481"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2290.415s" clip-end="npt=2291.956s" id="audio_0482"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2291.956s" clip-end="npt=2293.367s" id="audio_0483"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2293.367s" clip-end="npt=2294.556s" id="audio_0484"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2294.556s" clip-end="npt=2298.369s" id="audio_0485"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2298.369s" clip-end="npt=2299.728s" id="audio_0486"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2299.728s" clip-end="npt=2312.502s" id="audio_0487"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2312.502s" clip-end="npt=2320.221s" id="audio_0488"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2320.221s" clip-end="npt=2329.899s" id="audio_0489"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2329.899s" clip-end="npt=2343.274s" id="audio_0490"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2343.274s" clip-end="npt=2351.215s" id="audio_0491"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2351.215s" clip-end="npt=2352.848s" id="audio_0492"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2352.848s" clip-end="npt=2356.727s" id="audio_0493"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2356.727s" clip-end="npt=2364.511s" id="audio_0494"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2364.511s" clip-end="npt=2366.314s" id="audio_0495"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2366.314s" clip-end="npt=2370.716s" id="audio_0496"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2370.716s" clip-end="npt=2372.022s" id="audio_0497"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2372.022s" clip-end="npt=2380.603s" id="audio_0498"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2380.603s" clip-end="npt=2381.765s" id="audio_0499"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2381.765s" clip-end="npt=2386.898s" id="audio_0500"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2386.898s" clip-end="npt=2392.227s" id="audio_0501"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2392.227s" clip-end="npt=2398.719s" id="audio_0502"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2398.719s" clip-end="npt=2404.622s" id="audio_0503"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2404.622s" clip-end="npt=2413.442s" id="audio_0504"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2413.442s" clip-end="npt=2415.166s" id="audio_0505"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2415.166s" clip-end="npt=2419.711s" id="audio_0506"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2419.711s" clip-end="npt=2424.244s" id="audio_0507"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2424.244s" clip-end="npt=2429.925s" id="audio_0508"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2429.925s" clip-end="npt=2434.941s" id="audio_0509"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2434.941s" clip-end="npt=2436.051s" id="audio_0510"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2436.051s" clip-end="npt=2440.936s" id="audio_0511"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2440.936s" clip-end="npt=2444.828s" id="audio_0512"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2444.828s" clip-end="npt=2448.969s" id="audio_0513"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2448.969s" clip-end="npt=2452.325s" id="audio_0514"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2452.325s" clip-end="npt=2459.195s" id="audio_0515"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2459.195s" clip-end="npt=2463.062s" id="audio_0516"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2463.062s" clip-end="npt=2469.644s" id="audio_0517"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2469.644s" clip-end="npt=2472.374s" id="audio_0518"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2472.374s" clip-end="npt=2475.039s" id="audio_0519"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01ca" id="ybue_0214"/>
+			</par>
+			<par endsync="last" id="ybue_0215">
+				<text src="ncc.html#jjoy_01bb" id="par_0004"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2475.039s" clip-end="npt=2477.665s" id="audio_0520"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2477.665s" clip-end="npt=2479.376s" id="audio_0521"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2479.376s" clip-end="npt=2484.417s" id="audio_0522"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2484.417s" clip-end="npt=2485.645s" id="audio_0523"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2485.645s" clip-end="npt=2491.980s" id="audio_0524"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2491.980s" clip-end="npt=2495.115s" id="audio_0525"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2495.115s" clip-end="npt=2495.964s" id="audio_0526"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2495.964s" clip-end="npt=2498.968s" id="audio_0527"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2498.968s" clip-end="npt=2503.970s" id="audio_0528"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2503.970s" clip-end="npt=2508.842s" id="audio_0529"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2508.842s" clip-end="npt=2517.946s" id="audio_0530"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2517.946s" clip-end="npt=2525.234s" id="audio_0531"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2525.234s" clip-end="npt=2533.123s" id="audio_0532"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2533.123s" clip-end="npt=2537.433s" id="audio_0533"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2537.433s" clip-end="npt=2538.778s" id="audio_0534"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2538.778s" clip-end="npt=2546.981s" id="audio_0535"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2546.981s" clip-end="npt=2550.233s" id="audio_0536"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2550.233s" clip-end="npt=2551.957s" id="audio_0537"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2551.957s" clip-end="npt=2559.624s" id="audio_0538"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2559.624s" clip-end="npt=2563.007s" id="audio_0539"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2563.007s" clip-end="npt=2563.843s" id="audio_0540"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2563.843s" clip-end="npt=2569.707s" id="audio_0541"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2569.707s" clip-end="npt=2571.144s" id="audio_0542"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2571.144s" clip-end="npt=2573.116s" id="audio_0543"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2573.116s" clip-end="npt=2576.617s" id="audio_0544"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2576.617s" clip-end="npt=2577.661s" id="audio_0545"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2577.661s" clip-end="npt=2582.337s" id="audio_0546"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2582.337s" clip-end="npt=2583.644s" id="audio_0547"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2583.644s" clip-end="npt=2585.459s" id="audio_0548"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2585.459s" clip-end="npt=2588.698s" id="audio_0549"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2588.698s" clip-end="npt=2589.626s" id="audio_0550"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2589.626s" clip-end="npt=2592.904s" id="audio_0551"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2592.904s" clip-end="npt=2594.746s" id="audio_0552"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2594.746s" clip-end="npt=2595.790s" id="audio_0553"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2595.790s" clip-end="npt=2598.990s" id="audio_0554"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2598.990s" clip-end="npt=2603.340s" id="audio_0555"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2603.340s" clip-end="npt=2608.969s" id="audio_0556"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2608.969s" clip-end="npt=2614.494s" id="audio_0557"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2614.494s" clip-end="npt=2616.205s" id="audio_0558"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2616.205s" clip-end="npt=2620.933s" id="audio_0559"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2620.933s" clip-end="npt=2626.210s" id="audio_0560"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2626.210s" clip-end="npt=2627.777s" id="audio_0561"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2627.777s" clip-end="npt=2639.846s" id="audio_0562"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2639.846s" clip-end="npt=2642.719s" id="audio_0563"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2642.719s" clip-end="npt=2644.339s" id="audio_0564"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2644.339s" clip-end="npt=2649.511s" id="audio_0565"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2649.511s" clip-end="npt=2653.821s" id="audio_0566"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2653.821s" clip-end="npt=2654.893s" id="audio_0567"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2654.893s" clip-end="npt=2658.811s" id="audio_0568"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2658.811s" clip-end="npt=2664.127s" id="audio_0569"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2664.127s" clip-end="npt=2665.315s" id="audio_0570"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2665.315s" clip-end="npt=2670.344s" id="audio_0571"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2670.344s" clip-end="npt=2674.145s" id="audio_0572"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2674.145s" clip-end="npt=2679.121s" id="audio_0573"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2679.121s" clip-end="npt=2683.797s" id="audio_0574"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2683.797s" clip-end="npt=2696.035s" id="audio_0575"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2696.035s" clip-end="npt=2698.941s" id="audio_0576"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0006" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01cb" id="ybue_0288"/>
+			</par>
+			<par endsync="last" id="ybue_0289">
+				<text src="ncc.html#jjoy_01bb" id="par_0008"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2698.941s" clip-end="npt=2700.100s" id="audio_0577"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2700.100s" clip-end="npt=2703.130s" id="audio_0578"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2703.130s" clip-end="npt=2705.286s" id="audio_0579"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2705.286s" clip-end="npt=2710.419s" id="audio_0580"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2710.419s" clip-end="npt=2716.766s" id="audio_0581"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2716.766s" clip-end="npt=2719.875s" id="audio_0582"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2719.875s" clip-end="npt=2723.963s" id="audio_0583"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2723.963s" clip-end="npt=2733.263s" id="audio_0584"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2733.263s" clip-end="npt=2737.103s" id="audio_0585"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2737.103s" clip-end="npt=2754.017s" id="audio_0586"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2754.017s" clip-end="npt=2758.014s" id="audio_0587"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2758.014s" clip-end="npt=2777.175s" id="audio_0588"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2777.175s" clip-end="npt=2780.309s" id="audio_0589"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2780.309s" clip-end="npt=2787.885s" id="audio_0590"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2787.885s" clip-end="npt=2791.176s" id="audio_0591"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2791.176s" clip-end="npt=2797.798s" id="audio_0592"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2797.798s" clip-end="npt=2802.644s" id="audio_0593"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2802.644s" clip-end="npt=2808.299s" id="audio_0594"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2808.299s" clip-end="npt=2813.759s" id="audio_0595"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2813.759s" clip-end="npt=2819.597s" id="audio_0596"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2819.597s" clip-end="npt=2825.619s" id="audio_0597"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2825.619s" clip-end="npt=2829.054s" id="audio_0598"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2829.054s" clip-end="npt=2842.481s" id="audio_0599"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2842.481s" clip-end="npt=2847.601s" id="audio_0600"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2847.601s" clip-end="npt=2852.890s" id="audio_0601"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2852.890s" clip-end="npt=2855.790s" id="audio_0602"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2855.790s" clip-end="npt=2861.511s" id="audio_0603"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2861.511s" clip-end="npt=2864.842s" id="audio_0604"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ybue_02c2" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01cc" id="par_000a"/>
+			</par>
+			<par endsync="last" id="ybue_02c3">
+				<text src="ncc.html#jjoy_01bb" id="par_000b"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2864.842s" clip-end="npt=2865.893s" id="audio_0605"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2865.893s" clip-end="npt=2868.884s" id="audio_0606"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2868.884s" clip-end="npt=2875.806s" id="audio_0607"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2875.806s" clip-end="npt=2879.189s" id="audio_0608"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2879.189s" clip-end="npt=2888.071s" id="audio_0609"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2888.071s" clip-end="npt=2889.507s" id="audio_0610"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2889.507s" clip-end="npt=2895.032s" id="audio_0611"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2895.032s" clip-end="npt=2898.454s" id="audio_0612"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2898.454s" clip-end="npt=2907.179s" id="audio_0613"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2907.179s" clip-end="npt=2911.502s" id="audio_0614"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2911.502s" clip-end="npt=2915.551s" id="audio_0615"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2915.551s" clip-end="npt=2927.215s" id="audio_0616"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2927.215s" clip-end="npt=2928.586s" id="audio_0617"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2928.586s" clip-end="npt=2933.994s" id="audio_0618"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2933.994s" clip-end="npt=2940.877s" id="audio_0619"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2940.877s" clip-end="npt=2945.004s" id="audio_0620"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2945.004s" clip-end="npt=2950.751s" id="audio_0621"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2950.751s" clip-end="npt=2957.191s" id="audio_0622"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2957.191s" clip-end="npt=2963.682s" id="audio_0623"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2963.682s" clip-end="npt=2970.683s" id="audio_0624"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2970.683s" clip-end="npt=2971.741s" id="audio_0625"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2971.741s" clip-end="npt=2979.251s" id="audio_0626"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2979.251s" clip-end="npt=2980.335s" id="audio_0627"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2980.335s" clip-end="npt=2984.358s" id="audio_0628"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2984.358s" clip-end="npt=2987.689s" id="audio_0629"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2987.689s" clip-end="npt=2988.681s" id="audio_0630"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2988.681s" clip-end="npt=2991.502s" id="audio_0631"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=2991.502s" clip-end="npt=3000.515s" id="audio_0632"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3000.515s" clip-end="npt=3009.018s" id="audio_0633"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3009.018s" clip-end="npt=3013.040s" id="audio_0634"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3013.040s" clip-end="npt=3019.035s" id="audio_0635"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3019.035s" clip-end="npt=3024.443s" id="audio_0636"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3024.443s" clip-end="npt=3025.984s" id="audio_0637"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3025.984s" clip-end="npt=3030.229s" id="audio_0638"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3030.229s" clip-end="npt=3031.835s" id="audio_0639"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3031.835s" clip-end="npt=3037.974s" id="audio_0640"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3037.974s" clip-end="npt=3043.212s" id="audio_0641"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3043.212s" clip-end="npt=3048.972s" id="audio_0642"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3048.972s" clip-end="npt=3050.186s" id="audio_0643"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3050.186s" clip-end="npt=3052.381s" id="audio_0644"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3052.381s" clip-end="npt=3057.893s" id="audio_0645"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3057.893s" clip-end="npt=3061.709s" id="audio_0646"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000d" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01cd" id="par_000e"/>
+			</par>
+			<par endsync="last" id="ybue_0318">
+				<text src="ncc.html#jjoy_01bb" id="par_000f"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3061.709s" clip-end="npt=3062.986s" id="audio_0647"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3062.986s" clip-end="npt=3065.311s" id="audio_0648"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3065.311s" clip-end="npt=3067.910s" id="audio_0649"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3067.910s" clip-end="npt=3069.268s" id="audio_0650"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3069.268s" clip-end="npt=3077.157s" id="audio_0651"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3077.157s" clip-end="npt=3086.718s" id="audio_0652"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3086.718s" clip-end="npt=3094.855s" id="audio_0653"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3094.855s" clip-end="npt=3096.318s" id="audio_0654"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3096.318s" clip-end="npt=3108.282s" id="audio_0655"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3108.282s" clip-end="npt=3110.620s" id="audio_0656"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3110.620s" clip-end="npt=3114.930s" id="audio_0657"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3114.930s" clip-end="npt=3116.602s" id="audio_0658"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3116.602s" clip-end="npt=3122.153s" id="audio_0659"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3122.153s" clip-end="npt=3128.227s" id="audio_0660"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3128.227s" clip-end="npt=3130.865s" id="audio_0661"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3130.865s" clip-end="npt=3135.802s" id="audio_0662"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3135.802s" clip-end="npt=3147.806s" id="audio_0663"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3147.806s" clip-end="npt=3149.177s" id="audio_0664"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3149.177s" clip-end="npt=3159.090s" id="audio_0665"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3159.090s" clip-end="npt=3170.258s" id="audio_0666"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3170.258s" clip-end="npt=3178.264s" id="audio_0667"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3178.264s" clip-end="npt=3182.222s" id="audio_0668"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3182.222s" clip-end="npt=3194.186s" id="audio_0669"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3194.186s" clip-end="npt=3195.218s" id="audio_0670"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3195.218s" clip-end="npt=3210.604s" id="audio_0671"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3210.604s" clip-end="npt=3212.250s" id="audio_0672"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3212.250s" clip-end="npt=3216.664s" id="audio_0673"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3216.664s" clip-end="npt=3220.452s" id="audio_0674"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3220.452s" clip-end="npt=3229.334s" id="audio_0675"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3229.334s" clip-end="npt=3231.084s" id="audio_0676"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3231.084s" clip-end="npt=3246.784s" id="audio_0677"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3246.784s" clip-end="npt=3250.238s" id="audio_0678"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vkxf_0001" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01ce" id="vkxf_0002"/>
+			</par>
+			<par endsync="last" id="ybue_035a">
+				<text src="ncc.html#jjoy_01bb" id="vkxf_0003"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3250.238s" clip-end="npt=3252.876s" id="audio_0679"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3252.876s" clip-end="npt=3257.487s" id="audio_0680"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3257.487s" clip-end="npt=3259.525s" id="audio_0681"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3259.525s" clip-end="npt=3268.302s" id="audio_0682"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3268.302s" clip-end="npt=3271.933s" id="audio_0683"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3271.933s" clip-end="npt=3274.062s" id="audio_0684"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3274.062s" clip-end="npt=3277.431s" id="audio_0685"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3277.431s" clip-end="npt=3280.422s" id="audio_0686"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3280.422s" clip-end="npt=3283.309s" id="audio_0687"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3283.309s" clip-end="npt=3286.405s" id="audio_0688"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3286.405s" clip-end="npt=3289.513s" id="audio_0689"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3289.513s" clip-end="npt=3293.601s" id="audio_0690"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3293.601s" clip-end="npt=3295.038s" id="audio_0691"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3295.038s" clip-end="npt=3296.697s" id="audio_0692"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3296.697s" clip-end="npt=3300.576s" id="audio_0693"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3300.576s" clip-end="npt=3305.565s" id="audio_0694"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3305.565s" clip-end="npt=3315.792s" id="audio_0695"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3315.792s" clip-end="npt=3323.734s" id="audio_0696"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3323.734s" clip-end="npt=3325.288s" id="audio_0697"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3325.288s" clip-end="npt=3327.482s" id="audio_0698"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3327.482s" clip-end="npt=3329.976s" id="audio_0699"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3329.976s" clip-end="npt=3331.975s" id="audio_0700"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3331.975s" clip-end="npt=3334.104s" id="audio_0701"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3334.104s" clip-end="npt=3337.539s" id="audio_0702"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3337.539s" clip-end="npt=3339.341s" id="audio_0703"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3339.341s" clip-end="npt=3344.278s" id="audio_0704"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3344.278s" clip-end="npt=3346.029s" id="audio_0705"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3346.029s" clip-end="npt=3348.471s" id="audio_0706"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3348.471s" clip-end="npt=3350.208s" id="audio_0707"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3350.208s" clip-end="npt=3351.906s" id="audio_0708"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3351.906s" clip-end="npt=3353.474s" id="audio_0709"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3353.474s" clip-end="npt=3355.185s" id="audio_0710"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3355.185s" clip-end="npt=3359.808s" id="audio_0711"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3359.808s" clip-end="npt=3363.380s" id="audio_0712"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vkxf_0004" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01cf" id="vkxf_0006"/>
+			</par>
+			<par endsync="last" id="ybue_039f">
+				<text src="ncc.html#jjoy_01bb" id="vkxf_0007"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3363.380s" clip-end="npt=3365.430s" id="audio_0713"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3365.430s" clip-end="npt=3369.323s" id="audio_0714"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3369.323s" clip-end="npt=3371.164s" id="audio_0715"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3371.164s" clip-end="npt=3374.168s" id="audio_0716"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3374.168s" clip-end="npt=3375.683s" id="audio_0717"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3375.683s" clip-end="npt=3377.264s" id="audio_0718"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3377.264s" clip-end="npt=3378.805s" id="audio_0719"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3378.805s" clip-end="npt=3381.470s" id="audio_0720"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3381.470s" clip-end="npt=3383.207s" id="audio_0721"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3383.207s" clip-end="npt=3384.160s" id="audio_0722"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3384.160s" clip-end="npt=3386.903s" id="audio_0723"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3386.903s" clip-end="npt=3391.905s" id="audio_0724"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3391.905s" clip-end="npt=3393.512s" id="audio_0725"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3393.512s" clip-end="npt=3403.190s" id="audio_0726"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3403.190s" clip-end="npt=3406.756s" id="audio_0727"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3406.756s" clip-end="npt=3415.233s" id="audio_0728"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3415.233s" clip-end="npt=3421.215s" id="audio_0729"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3421.215s" clip-end="npt=3427.693s" id="audio_0730"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3427.693s" clip-end="npt=3429.156s" id="audio_0731"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3429.156s" clip-end="npt=3436.875s" id="audio_0732"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3436.875s" clip-end="npt=3438.247s" id="audio_0733"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3438.247s" clip-end="npt=3446.475s" id="audio_0734"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3446.475s" clip-end="npt=3459.550s" id="audio_0735"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3459.550s" clip-end="npt=3461.208s" id="audio_0736"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3461.208s" clip-end="npt=3466.420s" id="audio_0737"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3466.420s" clip-end="npt=3467.974s" id="audio_0738"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3467.974s" clip-end="npt=3472.545s" id="audio_0739"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3472.545s" clip-end="npt=3477.914s" id="audio_0740"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3477.914s" clip-end="npt=3479.442s" id="audio_0741"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3479.442s" clip-end="npt=3480.709s" id="audio_0742"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3480.709s" clip-end="npt=3481.793s" id="audio_0743"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3481.793s" clip-end="npt=3483.021s" id="audio_0744"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3483.021s" clip-end="npt=3484.157s" id="audio_0745"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3484.157s" clip-end="npt=3485.163s" id="audio_0746"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3485.163s" clip-end="npt=3487.240s" id="audio_0747"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3487.240s" clip-end="npt=3488.520s" id="audio_0748"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3488.520s" clip-end="npt=3491.170s" id="audio_0749"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vkxf_000a" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01d0" id="vkxf_000b"/>
+			</par>
+			<par endsync="last" id="ybue_03ea">
+				<text src="ncc.html#jjoy_01bb" id="vkxf_000c"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3491.170s" clip-end="npt=3492.536s" id="audio_0750"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3492.536s" clip-end="npt=3494.782s" id="audio_0751"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3494.782s" clip-end="npt=3497.342s" id="audio_0752"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3497.342s" clip-end="npt=3501.548s" id="audio_0753"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3501.548s" clip-end="npt=3504.330s" id="audio_0754"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3504.330s" clip-end="npt=3509.124s" id="audio_0755"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3509.124s" clip-end="npt=3512.154s" id="audio_0756"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3512.154s" clip-end="npt=3522.537s" id="audio_0757"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3522.537s" clip-end="npt=3525.881s" id="audio_0758"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3525.881s" clip-end="npt=3531.641s" id="audio_0759"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3531.641s" clip-end="npt=3535.246s" id="audio_0760"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3535.246s" clip-end="npt=3537.231s" id="audio_0761"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3537.231s" clip-end="npt=3539.347s" id="audio_0762"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3539.347s" clip-end="npt=3541.346s" id="audio_0763"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3541.346s" clip-end="npt=3543.044s" id="audio_0764"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3543.044s" clip-end="npt=3547.503s" id="audio_0765"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3547.503s" clip-end="npt=3549.985s" id="audio_0766"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3549.985s" clip-end="npt=3551.813s" id="audio_0767"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3551.813s" clip-end="npt=3564.705s" id="audio_0768"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3564.705s" clip-end="npt=3567.565s" id="audio_0769"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3567.565s" clip-end="npt=3569.903s" id="audio_0770"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3569.903s" clip-end="npt=3574.971s" id="audio_0771"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3574.971s" clip-end="npt=3580.352s" id="audio_0772"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3580.352s" clip-end="npt=3587.497s" id="audio_0773"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3587.497s" clip-end="npt=3591.715s" id="audio_0774"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3591.715s" clip-end="npt=3600.205s" id="audio_0775"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3600.205s" clip-end="npt=3601.955s" id="audio_0776"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3601.955s" clip-end="npt=3612.796s" id="audio_0777"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3612.796s" clip-end="npt=3613.880s" id="audio_0778"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3613.880s" clip-end="npt=3619.000s" id="audio_0779"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3619.000s" clip-end="npt=3622.945s" id="audio_0780"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3622.945s" clip-end="npt=3632.832s" id="audio_0781"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3632.832s" clip-end="npt=3634.112s" id="audio_0782"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3634.112s" clip-end="npt=3645.632s" id="audio_0783"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3645.632s" clip-end="npt=3648.854s" id="audio_0784"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vkxf_000d" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01d1" id="vkxf_000e"/>
+			</par>
+			<par endsync="last" id="ybue_0431">
+				<text src="ncc.html#jjoy_01bb" id="vkxf_000f"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3648.854s" clip-end="npt=3650.030s" id="audio_0785"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3650.030s" clip-end="npt=3652.929s" id="audio_0786"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3652.929s" clip-end="npt=3654.719s" id="audio_0787"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3654.719s" clip-end="npt=3660.818s" id="audio_0788"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3660.818s" clip-end="npt=3663.914s" id="audio_0789"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3663.914s" clip-end="npt=3669.321s" id="audio_0790"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3669.321s" clip-end="npt=3680.711s" id="audio_0791"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3680.711s" clip-end="npt=3694.438s" id="audio_0792"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3694.438s" clip-end="npt=3696.750s" id="audio_0793"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3696.750s" clip-end="npt=3698.539s" id="audio_0794"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3698.539s" clip-end="npt=3700.329s" id="audio_0795"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3700.329s" clip-end="npt=3701.896s" id="audio_0796"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3701.896s" clip-end="npt=3703.241s" id="audio_0797"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3703.241s" clip-end="npt=3705.200s" id="audio_0798"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3705.200s" clip-end="npt=3706.507s" id="audio_0799"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3706.507s" clip-end="npt=3708.322s" id="audio_0800"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3708.322s" clip-end="npt=3709.955s" id="audio_0801"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3709.955s" clip-end="npt=3714.317s" id="audio_0802"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3714.317s" clip-end="npt=3715.989s" id="audio_0803"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3715.989s" clip-end="npt=3716.956s" id="audio_0804"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3716.956s" clip-end="npt=3718.497s" id="audio_0805"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3718.497s" clip-end="npt=3722.702s" id="audio_0806"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3722.702s" clip-end="npt=3726.373s" id="audio_0807"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3726.373s" clip-end="npt=3728.828s" id="audio_0808"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3728.828s" clip-end="npt=3731.401s" id="audio_0809"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3731.401s" clip-end="npt=3733.922s" id="audio_0810"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3733.922s" clip-end="npt=3735.555s" id="audio_0811"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3735.555s" clip-end="npt=3737.318s" id="audio_0812"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3737.318s" clip-end="npt=3738.755s" id="audio_0813"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3738.755s" clip-end="npt=3740.649s" id="audio_0814"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3740.649s" clip-end="npt=3746.879s" id="audio_0815"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3746.879s" clip-end="npt=3749.700s" id="audio_0816"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3749.700s" clip-end="npt=3751.529s" id="audio_0817"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3751.529s" clip-end="npt=3754.820s" id="audio_0818"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3754.820s" clip-end="npt=3758.673s" id="audio_0819"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3758.673s" clip-end="npt=3766.040s" id="audio_0820"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3766.040s" clip-end="npt=3769.840s" id="audio_0821"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3769.840s" clip-end="npt=3773.328s" id="audio_0822"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3773.328s" clip-end="npt=3774.712s" id="audio_0823"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3774.712s" clip-end="npt=3781.347s" id="audio_0824"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3781.347s" clip-end="npt=3785.083s" id="audio_0825"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3785.083s" clip-end="npt=3788.727s" id="audio_0826"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3788.727s" clip-end="npt=3794.121s" id="audio_0827"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3794.121s" clip-end="npt=3800.195s" id="audio_0828"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3800.195s" clip-end="npt=3802.167s" id="audio_0829"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3802.167s" clip-end="npt=3803.356s" id="audio_0830"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3803.356s" clip-end="npt=3804.858s" id="audio_0831"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3804.858s" clip-end="npt=3807.339s" id="audio_0832"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3807.339s" clip-end="npt=3808.332s" id="audio_0833"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3808.332s" clip-end="npt=3810.108s" id="audio_0834"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3810.108s" clip-end="npt=3812.590s" id="audio_0835"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3812.590s" clip-end="npt=3813.700s" id="audio_0836"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3813.700s" clip-end="npt=3815.320s" id="audio_0837"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3815.320s" clip-end="npt=3817.932s" id="audio_0838"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3817.932s" clip-end="npt=3820.910s" id="audio_0839"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3820.910s" clip-end="npt=3823.352s" id="audio_0840"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3823.352s" clip-end="npt=3824.502s" id="audio_0841"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3824.502s" clip-end="npt=3826.017s" id="audio_0842"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3826.017s" clip-end="npt=3827.819s" id="audio_0843"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3827.819s" clip-end="npt=3829.413s" id="audio_0844"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3829.413s" clip-end="npt=3830.902s" id="audio_0845"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3830.902s" clip-end="npt=3834.350s" id="audio_0846"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3834.350s" clip-end="npt=3838.098s" id="audio_0847"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vkxf_0011" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01d2" id="vkxf_0012"/>
+			</par>
+			<par endsync="last" id="ybue_04b0">
+				<text src="ncc.html#jjoy_01bb" id="vkxf_0013"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3838.098s" clip-end="npt=3839.145s" id="audio_0848"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3839.145s" clip-end="npt=3841.496s" id="audio_0849"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3841.496s" clip-end="npt=3842.828s" id="audio_0850"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3842.828s" clip-end="npt=3844.552s" id="audio_0851"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3844.552s" clip-end="npt=3848.079s" id="audio_0852"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3848.079s" clip-end="npt=3850.156s" id="audio_0853"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3850.156s" clip-end="npt=3852.624s" id="audio_0854"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3852.624s" clip-end="npt=3857.731s" id="audio_0855"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3857.731s" clip-end="npt=3862.303s" id="audio_0856"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3862.303s" clip-end="npt=3866.221s" id="audio_0857"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3866.221s" clip-end="npt=3867.958s" id="audio_0858"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3867.958s" clip-end="npt=3870.335s" id="audio_0859"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3870.335s" clip-end="npt=3871.850s" id="audio_0860"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3871.850s" clip-end="npt=3875.129s" id="audio_0861"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3875.129s" clip-end="npt=3877.010s" id="audio_0862"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3877.010s" clip-end="npt=3879.543s" id="audio_0863"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3879.543s" clip-end="npt=3884.180s" id="audio_0864"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3884.180s" clip-end="npt=3885.695s" id="audio_0865"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3885.695s" clip-end="npt=3889.209s" id="audio_0866"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3889.209s" clip-end="npt=3891.272s" id="audio_0867"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3891.272s" clip-end="npt=3894.185s" id="audio_0868"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3894.185s" clip-end="npt=3896.575s" id="audio_0869"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3896.575s" clip-end="npt=3899.227s" id="audio_0870"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3899.227s" clip-end="npt=3901.748s" id="audio_0871"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3901.748s" clip-end="npt=3906.554s" id="audio_0872"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3906.554s" clip-end="npt=3910.459s" id="audio_0873"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3910.459s" clip-end="npt=3912.170s" id="audio_0874"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3912.170s" clip-end="npt=3919.681s" id="audio_0875"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3919.681s" clip-end="npt=3922.110s" id="audio_0876"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3922.110s" clip-end="npt=3930.286s" id="audio_0877"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3930.286s" clip-end="npt=3932.063s" id="audio_0878"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3932.063s" clip-end="npt=3934.962s" id="audio_0879"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3934.962s" clip-end="npt=3936.961s" id="audio_0880"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3936.961s" clip-end="npt=3938.358s" id="audio_0881"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3938.358s" clip-end="npt=3940.878s" id="audio_0882"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3940.878s" clip-end="npt=3943.855s" id="audio_0883"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vkxf_0015" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_01d3" id="vkxf_0016"/>
+			</par>
+			<par endsync="last" id="ybue_04f9">
+				<text src="ncc.html#jjoy_01bb" id="vkxf_0017"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3943.855s" clip-end="npt=3945.172s" id="audio_0884"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3945.172s" clip-end="npt=3949.273s" id="audio_0885"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3949.273s" clip-end="npt=3951.141s" id="audio_0886"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3951.141s" clip-end="npt=3953.178s" id="audio_0887"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3953.178s" clip-end="npt=3954.955s" id="audio_0888"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3954.955s" clip-end="npt=3964.150s" id="audio_0889"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3964.150s" clip-end="npt=3965.312s" id="audio_0890"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3965.312s" clip-end="npt=3968.251s" id="audio_0891"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3968.251s" clip-end="npt=3971.294s" id="audio_0892"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3971.294s" clip-end="npt=3972.313s" id="audio_0893"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3972.313s" clip-end="npt=3975.578s" id="audio_0894"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3975.578s" clip-end="npt=3977.786s" id="audio_0895"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3977.786s" clip-end="npt=3982.043s" id="audio_0896"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3982.043s" clip-end="npt=3983.650s" id="audio_0897"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3983.650s" clip-end="npt=3985.557s" id="audio_0898"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3985.557s" clip-end="npt=3987.464s" id="audio_0899"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3987.464s" clip-end="npt=3988.470s" id="audio_0900"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3988.470s" clip-end="npt=3993.756s" id="audio_0901"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3993.756s" clip-end="npt=3998.145s" id="audio_0902"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_00b6" system-required="pagenumber-on">
+				<text src="ncc.html#ybue_051b" id="par_00b7"/>
+			</par>
+			<par endsync="last" id="fzfd_0001">
+				<text src="ncc.html#jjoy_01bb" id="par_00b8"/>
+				<seq>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3998.145s" clip-end="npt=3999.002s" id="audio_0903"/>
+					<audio src="26_Lesson_25__Bholi.mp3" clip-begin="npt=3999.002s" clip-end="npt=4000.282s" id="audio_0904"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

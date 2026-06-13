@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:30:47.434"/>
+		<meta name="ncc:totalElapsedTime" content="07:04:04.081"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300211429"/>
+    <meta name="title" content="Lesson 17: India her past and future"/>
+    <meta name="dc:title" content="Hindi Yuvakbharati 12 th"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="1847.434s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#oirb_0004" id="oirb_0004"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=0.000s" clip-end="npt=2.273s" id="audio_0001"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=2.273s" clip-end="npt=7.367s" id="audio_0002"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=7.367s" clip-end="npt=10.894s" id="audio_0003"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=10.894s" clip-end="npt=17.790s" id="audio_0004"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=17.790s" clip-end="npt=24.229s" id="audio_0005"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=24.229s" clip-end="npt=27.747s" id="audio_0006"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=27.747s" clip-end="npt=31.796s" id="audio_0007"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=31.796s" clip-end="npt=36.159s" id="audio_0008"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=36.159s" clip-end="npt=43.133s" id="audio_0009"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=43.133s" clip-end="npt=47.770s" id="audio_0010"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=47.770s" clip-end="npt=53.478s" id="audio_0011"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=53.478s" clip-end="npt=58.235s" id="audio_0012"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=58.235s" clip-end="npt=73.856s" id="audio_0013"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=73.856s" clip-end="npt=82.502s" id="audio_0014"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=82.502s" clip-end="npt=85.389s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0006" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0184" id="par_0007"/>
+			</par>
+			<par endsync="last" id="par_0005">
+				<text src="ncc.html#oirb_0004" id="par_0008"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=85.389s" clip-end="npt=86.668s" id="audio_0016"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=86.668s" clip-end="npt=89.946s" id="audio_0017"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=89.946s" clip-end="npt=93.603s" id="audio_0018"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=93.603s" clip-end="npt=103.961s" id="audio_0019"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=103.961s" clip-end="npt=117.257s" id="audio_0020"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=117.257s" clip-end="npt=120.614s" id="audio_0021"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=120.614s" clip-end="npt=129.274s" id="audio_0022"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=129.274s" clip-end="npt=132.787s" id="audio_0023"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=132.787s" clip-end="npt=134.315s" id="audio_0024"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=134.315s" clip-end="npt=138.717s" id="audio_0025"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=138.717s" clip-end="npt=146.110s" id="audio_0026"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=146.110s" clip-end="npt=161.927s" id="audio_0027"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=161.927s" clip-end="npt=173.185s" id="audio_0028"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=173.185s" clip-end="npt=180.069s" id="audio_0029"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=180.069s" clip-end="npt=181.231s" id="audio_0030"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=181.231s" clip-end="npt=184.379s" id="audio_0031"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=184.379s" clip-end="npt=189.068s" id="audio_0032"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=189.068s" clip-end="npt=198.798s" id="audio_0033"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=198.798s" clip-end="npt=207.563s" id="audio_0034"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=207.563s" clip-end="npt=213.976s" id="audio_0035"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=213.976s" clip-end="npt=225.600s" id="audio_0036"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=225.600s" clip-end="npt=230.041s" id="audio_0037"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=230.041s" clip-end="npt=240.372s" id="audio_0038"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=240.372s" clip-end="npt=245.489s" id="audio_0039"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=245.489s" clip-end="npt=256.721s" id="audio_0040"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=256.721s" clip-end="npt=268.072s" id="audio_0041"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=268.072s" clip-end="npt=270.984s" id="audio_0042"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=270.984s" clip-end="npt=283.549s" id="audio_0043"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=283.549s" clip-end="npt=286.815s" id="audio_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000a" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0185" id="par_000b"/>
+			</par>
+			<par endsync="last" id="par_0007">
+				<text src="ncc.html#oirb_0004" id="par_000c"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=286.815s" clip-end="npt=288.101s" id="audio_0045"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=288.101s" clip-end="npt=292.385s" id="audio_0046"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=292.385s" clip-end="npt=297.178s" id="audio_0047"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=297.178s" clip-end="npt=308.764s" id="audio_0048"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=308.764s" clip-end="npt=310.462s" id="audio_0049"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=310.462s" clip-end="npt=322.595s" id="audio_0050"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=322.595s" clip-end="npt=327.441s" id="audio_0051"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=327.441s" clip-end="npt=332.143s" id="audio_0052"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=332.143s" clip-end="npt=336.806s" id="audio_0053"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=336.806s" clip-end="npt=349.893s" id="audio_0054"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=349.893s" clip-end="npt=354.556s" id="audio_0055"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=354.556s" clip-end="npt=369.172s" id="audio_0056"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=369.172s" clip-end="npt=377.448s" id="audio_0057"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=377.448s" clip-end="npt=380.883s" id="audio_0058"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=380.883s" clip-end="npt=385.885s" id="audio_0059"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=385.885s" clip-end="npt=395.851s" id="audio_0060"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=395.851s" clip-end="npt=402.630s" id="audio_0061"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=402.630s" clip-end="npt=406.404s" id="audio_0062"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=406.404s" clip-end="npt=412.635s" id="audio_0063"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=412.635s" clip-end="npt=420.785s" id="audio_0064"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=420.785s" clip-end="npt=425.800s" id="audio_0065"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=425.800s" clip-end="npt=433.128s" id="audio_0066"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=433.128s" clip-end="npt=436.955s" id="audio_0067"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=436.955s" clip-end="npt=443.995s" id="audio_0068"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=443.995s" clip-end="npt=450.303s" id="audio_0069"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=450.303s" clip-end="npt=455.162s" id="audio_0070"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=455.162s" clip-end="npt=456.755s" id="audio_0071"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=456.755s" clip-end="npt=462.058s" id="audio_0072"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=462.058s" clip-end="npt=464.984s" id="audio_0073"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_000d" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0186" id="par_000e"/>
+			</par>
+			<par endsync="last" id="par_0009">
+				<text src="ncc.html#oirb_0004" id="par_000f"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=464.984s" clip-end="npt=466.249s" id="audio_0074"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=466.249s" clip-end="npt=468.665s" id="audio_0075"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=468.665s" clip-end="npt=472.257s" id="audio_0076"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=472.257s" clip-end="npt=476.698s" id="audio_0077"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=476.698s" clip-end="npt=484.130s" id="audio_0078"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=484.130s" clip-end="npt=500.613s" id="audio_0079"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=500.613s" clip-end="npt=507.614s" id="audio_0080"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=507.614s" clip-end="npt=515.150s" id="audio_0081"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=515.150s" clip-end="npt=530.393s" id="audio_0082"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=530.393s" clip-end="npt=539.431s" id="audio_0083"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=539.431s" clip-end="npt=542.892s" id="audio_0084"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=542.892s" clip-end="npt=564.391s" id="audio_0085"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=564.391s" clip-end="npt=570.451s" id="audio_0086"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=570.451s" clip-end="npt=576.094s" id="audio_0087"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=576.094s" clip-end="npt=582.180s" id="audio_0088"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=582.180s" clip-end="npt=586.582s" id="audio_0089"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=586.582s" clip-end="npt=589.743s" id="audio_0090"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=589.743s" clip-end="npt=591.153s" id="audio_0091"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=591.153s" clip-end="npt=597.658s" id="audio_0092"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=597.658s" clip-end="npt=603.692s" id="audio_0093"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=603.692s" clip-end="npt=611.503s" id="audio_0094"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=611.503s" clip-end="npt=613.031s" id="audio_0095"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=613.031s" clip-end="npt=617.707s" id="audio_0096"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=617.707s" clip-end="npt=620.946s" id="audio_0097"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=620.946s" clip-end="npt=621.860s" id="audio_0098"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=621.860s" clip-end="npt=627.163s" id="audio_0099"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=627.163s" clip-end="npt=635.444s" id="audio_0100"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=635.444s" clip-end="npt=644.952s" id="audio_0101"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=644.952s" clip-end="npt=649.132s" id="audio_0102"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=649.132s" clip-end="npt=650.151s" id="audio_0103"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=650.151s" clip-end="npt=660.221s" id="audio_0104"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=660.221s" clip-end="npt=666.477s" id="audio_0105"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=666.477s" clip-end="npt=671.179s" id="audio_0106"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=671.179s" clip-end="npt=676.378s" id="audio_0107"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=676.378s" clip-end="npt=678.193s" id="audio_0108"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=678.193s" clip-end="npt=683.522s" id="audio_0109"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=683.522s" clip-end="npt=688.433s" id="audio_0110"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=688.433s" clip-end="npt=697.602s" id="audio_0111"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=697.602s" clip-end="npt=701.510s" id="audio_0112"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0010" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0187" id="par_0011"/>
+			</par>
+			<par endsync="last" id="par_0011">
+				<text src="ncc.html#oirb_0004" id="par_0012"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=701.510s" clip-end="npt=704.305s" id="audio_0113"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=704.305s" clip-end="npt=707.113s" id="audio_0114"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=707.113s" clip-end="npt=710.196s" id="audio_0115"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=710.196s" clip-end="npt=716.217s" id="audio_0116"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=716.217s" clip-end="npt=720.658s" id="audio_0117"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=720.658s" clip-end="npt=726.026s" id="audio_0118"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=726.026s" clip-end="npt=728.142s" id="audio_0119"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=728.142s" clip-end="npt=730.114s" id="audio_0120"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=730.114s" clip-end="npt=731.407s" id="audio_0121"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=731.407s" clip-end="npt=732.962s" id="audio_0122"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=732.962s" clip-end="npt=734.451s" id="audio_0123"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=734.451s" clip-end="npt=735.887s" id="audio_0124"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=735.887s" clip-end="npt=737.389s" id="audio_0125"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=737.389s" clip-end="npt=738.787s" id="audio_0126"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=738.787s" clip-end="npt=740.629s" id="audio_0127"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=740.629s" clip-end="npt=743.920s" id="audio_0128"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=743.920s" clip-end="npt=745.618s" id="audio_0129"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=745.618s" clip-end="npt=750.999s" id="audio_0130"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=750.999s" clip-end="npt=754.617s" id="audio_0131"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=754.617s" clip-end="npt=757.739s" id="audio_0132"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=757.739s" clip-end="npt=759.110s" id="audio_0133"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=759.110s" clip-end="npt=760.181s" id="audio_0134"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=760.181s" clip-end="npt=761.683s" id="audio_0135"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=761.683s" clip-end="npt=763.120s" id="audio_0136"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=763.120s" clip-end="npt=764.518s" id="audio_0137"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=764.518s" clip-end="npt=765.654s" id="audio_0138"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=765.654s" clip-end="npt=766.960s" id="audio_0139"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=766.960s" clip-end="npt=769.860s" id="audio_0140"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=769.860s" clip-end="npt=771.335s" id="audio_0141"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=771.335s" clip-end="npt=772.785s" id="audio_0142"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=772.785s" clip-end="npt=774.248s" id="audio_0143"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=774.248s" clip-end="npt=775.620s" id="audio_0144"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=775.620s" clip-end="npt=776.939s" id="audio_0145"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=776.939s" clip-end="npt=778.258s" id="audio_0146"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=778.258s" clip-end="npt=779.851s" id="audio_0147"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=779.851s" clip-end="npt=781.445s" id="audio_0148"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=781.445s" clip-end="npt=783.012s" id="audio_0149"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=783.012s" clip-end="npt=787.309s" id="audio_0150"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=787.309s" clip-end="npt=788.916s" id="audio_0151"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=788.916s" clip-end="npt=799.509s" id="audio_0152"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=799.509s" clip-end="npt=802.278s" id="audio_0153"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=802.278s" clip-end="npt=807.280s" id="audio_0154"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=807.280s" clip-end="npt=811.316s" id="audio_0155"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=811.316s" clip-end="npt=813.014s" id="audio_0156"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=813.014s" clip-end="npt=822.744s" id="audio_0157"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=822.744s" clip-end="npt=826.336s" id="audio_0158"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=826.336s" clip-end="npt=830.738s" id="audio_0159"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=830.738s" clip-end="npt=831.992s" id="audio_0160"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=831.992s" clip-end="npt=836.315s" id="audio_0161"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=836.315s" clip-end="npt=842.163s" id="audio_0162"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=842.163s" clip-end="npt=843.665s" id="audio_0163"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=843.665s" clip-end="npt=847.609s" id="audio_0164"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=847.609s" clip-end="npt=851.671s" id="audio_0165"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=851.671s" clip-end="npt=855.237s" id="audio_0166"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=855.237s" clip-end="npt=859.416s" id="audio_0167"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=859.416s" clip-end="npt=864.902s" id="audio_0168"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=864.902s" clip-end="npt=869.356s" id="audio_0169"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=869.356s" clip-end="npt=874.698s" id="audio_0170"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=874.698s" clip-end="npt=876.853s" id="audio_0171"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=876.853s" clip-end="npt=879.400s" id="audio_0172"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=879.400s" clip-end="npt=881.634s" id="audio_0173"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=881.634s" clip-end="npt=885.500s" id="audio_0174"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=885.500s" clip-end="npt=889.418s" id="audio_0175"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=889.418s" clip-end="npt=890.855s" id="audio_0176"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=890.855s" clip-end="npt=893.924s" id="audio_0177"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=893.924s" clip-end="npt=902.492s" id="audio_0178"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=902.492s" clip-end="npt=905.641s" id="audio_0179"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0015" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0188" id="par_0016"/>
+			</par>
+			<par endsync="last" id="par_0013">
+				<text src="ncc.html#oirb_0004" id="par_0017"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=905.641s" clip-end="npt=906.997s" id="audio_0180"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=906.997s" clip-end="npt=908.878s" id="audio_0181"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=908.878s" clip-end="npt=910.903s" id="audio_0182"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=910.903s" clip-end="npt=914.821s" id="audio_0183"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=914.821s" clip-end="npt=917.264s" id="audio_0184"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=917.264s" clip-end="npt=918.661s" id="audio_0185"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=918.661s" clip-end="npt=928.875s" id="audio_0186"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=928.875s" clip-end="npt=931.683s" id="audio_0187"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=931.683s" clip-end="npt=933.015s" id="audio_0188"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=933.015s" clip-end="npt=935.001s" id="audio_0189"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=935.001s" clip-end="npt=937.535s" id="audio_0190"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=937.535s" clip-end="npt=942.106s" id="audio_0191"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=942.106s" clip-end="npt=943.086s" id="audio_0192"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=943.086s" clip-end="npt=949.041s" id="audio_0193"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=949.041s" clip-end="npt=953.064s" id="audio_0194"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=953.064s" clip-end="npt=958.639s" id="audio_0195"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=958.639s" clip-end="npt=960.703s" id="audio_0196"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=960.703s" clip-end="npt=963.289s" id="audio_0197"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=963.289s" clip-end="npt=976.285s" id="audio_0198"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=976.285s" clip-end="npt=978.205s" id="audio_0199"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=978.205s" clip-end="npt=987.322s" id="audio_0200"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=987.322s" clip-end="npt=991.122s" id="audio_0201"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=991.122s" clip-end="npt=994.610s" id="audio_0202"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=994.610s" clip-end="npt=999.390s" id="audio_0203"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=999.390s" clip-end="npt=1003.740s" id="audio_0204"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1003.740s" clip-end="npt=1008.990s" id="audio_0205"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1008.990s" clip-end="npt=1018.629s" id="audio_0206"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1018.629s" clip-end="npt=1028.347s" id="audio_0207"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1028.347s" clip-end="npt=1032.213s" id="audio_0208"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1032.213s" clip-end="npt=1037.882s" id="audio_0209"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1037.882s" clip-end="npt=1040.324s" id="audio_0210"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1040.324s" clip-end="npt=1048.422s" id="audio_0211"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1048.422s" clip-end="npt=1054.783s" id="audio_0212"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1054.783s" clip-end="npt=1060.621s" id="audio_0213"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1060.621s" clip-end="npt=1064.109s" id="audio_0214"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1064.109s" clip-end="npt=1068.158s" id="audio_0215"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1068.158s" clip-end="npt=1077.849s" id="audio_0216"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1077.849s" clip-end="npt=1085.239s" id="audio_0217"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1085.239s" clip-end="npt=1088.100s" id="audio_0218"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1088.100s" clip-end="npt=1089.315s" id="audio_0219"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1089.315s" clip-end="npt=1092.985s" id="audio_0220"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1092.985s" clip-end="npt=1100.626s" id="audio_0221"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1100.626s" clip-end="npt=1111.636s" id="audio_0222"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1111.636s" clip-end="npt=1115.489s" id="audio_0223"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1115.489s" clip-end="npt=1122.791s" id="audio_0224"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1122.791s" clip-end="npt=1130.810s" id="audio_0225"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1130.810s" clip-end="npt=1147.489s" id="audio_0226"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1147.489s" clip-end="npt=1149.880s" id="audio_0227"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1149.880s" clip-end="npt=1156.461s" id="audio_0228"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1156.461s" clip-end="npt=1157.623s" id="audio_0229"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1157.623s" clip-end="npt=1162.077s" id="audio_0230"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1162.077s" clip-end="npt=1166.623s" id="audio_0231"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1166.623s" clip-end="npt=1170.920s" id="audio_0232"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1170.920s" clip-end="npt=1174.342s" id="audio_0233"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1174.342s" clip-end="npt=1177.307s" id="audio_0234"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1177.307s" clip-end="npt=1184.242s" id="audio_0235"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1184.242s" clip-end="npt=1187.063s" id="audio_0236"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1187.063s" clip-end="npt=1187.965s" id="audio_0237"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1187.965s" clip-end="npt=1195.240s" id="audio_0238"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1195.240s" clip-end="npt=1199.093s" id="audio_0239"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1199.093s" clip-end="npt=1201.849s" id="audio_0240"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1201.849s" clip-end="npt=1204.239s" id="audio_0241"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1204.239s" clip-end="npt=1208.732s" id="audio_0242"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1208.732s" clip-end="npt=1215.041s" id="audio_0243"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1215.041s" clip-end="npt=1217.117s" id="audio_0244"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1217.117s" clip-end="npt=1221.584s" id="audio_0245"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1221.584s" clip-end="npt=1228.376s" id="audio_0246"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1228.376s" clip-end="npt=1233.444s" id="audio_0247"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1233.444s" clip-end="npt=1237.506s" id="audio_0248"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1237.506s" clip-end="npt=1243.854s" id="audio_0249"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1243.854s" clip-end="npt=1254.642s" id="audio_0250"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1254.642s" clip-end="npt=1262.257s" id="audio_0251"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1262.257s" clip-end="npt=1267.077s" id="audio_0252"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1267.077s" clip-end="npt=1269.603s" id="audio_0253"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pwfd_0047" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_0189" id="pwfd_0048"/>
+			</par>
+			<par endsync="last" id="pwfd_004a">
+				<text src="ncc.html#oirb_0004" id="pwfd_0049"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1269.603s" clip-end="npt=1271.719s" id="audio_0254"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1271.719s" clip-end="npt=1273.678s" id="audio_0255"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1273.678s" clip-end="npt=1278.785s" id="audio_0256"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1278.785s" clip-end="npt=1282.795s" id="audio_0257"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1282.795s" clip-end="npt=1289.587s" id="audio_0258"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1289.587s" clip-end="npt=1295.569s" id="audio_0259"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1295.569s" clip-end="npt=1300.219s" id="audio_0260"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1300.219s" clip-end="npt=1313.175s" id="audio_0261"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1313.175s" clip-end="npt=1325.440s" id="audio_0262"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1325.440s" clip-end="npt=1339.180s" id="audio_0263"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1339.180s" clip-end="npt=1342.393s" id="audio_0264"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1342.393s" clip-end="npt=1359.759s" id="audio_0265"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1359.759s" clip-end="npt=1361.835s" id="audio_0266"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1361.835s" clip-end="npt=1363.585s" id="audio_0267"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1363.585s" clip-end="npt=1365.597s" id="audio_0268"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1365.597s" clip-end="npt=1372.376s" id="audio_0269"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1372.376s" clip-end="npt=1373.342s" id="audio_0270"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1373.342s" clip-end="npt=1378.162s" id="audio_0271"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1378.162s" clip-end="npt=1383.883s" id="audio_0272"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1383.883s" clip-end="npt=1385.215s" id="audio_0273"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1385.215s" clip-end="npt=1389.329s" id="audio_0274"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1389.329s" clip-end="npt=1390.296s" id="audio_0275"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1390.296s" clip-end="npt=1394.945s" id="audio_0276"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1394.945s" clip-end="npt=1403.070s" id="audio_0277"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1403.070s" clip-end="npt=1406.074s" id="audio_0278"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1406.074s" clip-end="npt=1410.527s" id="audio_0279"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1410.527s" clip-end="npt=1414.028s" id="audio_0280"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1414.028s" clip-end="npt=1420.297s" id="audio_0281"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1420.297s" clip-end="npt=1431.870s" id="audio_0282"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1431.870s" clip-end="npt=1437.865s" id="audio_0283"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1437.865s" clip-end="npt=1440.387s" id="audio_0284"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pwfd_0089" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_018a" id="pwfd_008a"/>
+			</par>
+			<par endsync="last" id="pwfd_008b">
+				<text src="ncc.html#oirb_0004" id="pwfd_008c"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1440.387s" clip-end="npt=1441.789s" id="audio_0285"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1441.789s" clip-end="npt=1444.192s" id="audio_0286"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1444.192s" clip-end="npt=1446.948s" id="audio_0287"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1446.948s" clip-end="npt=1450.018s" id="audio_0288"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1450.018s" clip-end="npt=1452.878s" id="audio_0289"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1452.878s" clip-end="npt=1467.128s" id="audio_0290"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1467.128s" clip-end="npt=1472.992s" id="audio_0291"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1472.992s" clip-end="npt=1485.113s" id="audio_0292"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1485.113s" clip-end="npt=1486.759s" id="audio_0293"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1486.759s" clip-end="npt=1492.493s" id="audio_0294"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1492.493s" clip-end="npt=1506.299s" id="audio_0295"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pwfd_00a3" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_018b" id="pwfd_00a4"/>
+			</par>
+			<par endsync="last" id="pwfd_00a5">
+				<text src="ncc.html#oirb_0004" id="pwfd_00a6"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1506.299s" clip-end="npt=1510.687s" id="audio_0296"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1510.687s" clip-end="npt=1519.086s" id="audio_0297"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1519.086s" clip-end="npt=1520.457s" id="audio_0298"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1520.457s" clip-end="npt=1521.528s" id="audio_0299"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1521.528s" clip-end="npt=1524.454s" id="audio_0300"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1524.454s" clip-end="npt=1536.300s" id="audio_0301"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1536.300s" clip-end="npt=1537.136s" id="audio_0302"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1537.136s" clip-end="npt=1550.498s" id="audio_0303"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1550.498s" clip-end="npt=1551.477s" id="audio_0304"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1551.477s" clip-end="npt=1567.556s" id="audio_0305"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1567.556s" clip-end="npt=1580.669s" id="audio_0306"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1580.669s" clip-end="npt=1584.692s" id="audio_0307"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1584.692s" clip-end="npt=1589.486s" id="audio_0308"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1589.486s" clip-end="npt=1592.947s" id="audio_0309"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1592.947s" clip-end="npt=1605.812s" id="audio_0310"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1605.812s" clip-end="npt=1611.050s" id="audio_0311"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1611.050s" clip-end="npt=1612.526s" id="audio_0312"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1612.526s" clip-end="npt=1614.668s" id="audio_0313"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1614.668s" clip-end="npt=1615.726s" id="audio_0314"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1615.726s" clip-end="npt=1621.250s" id="audio_0315"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1621.250s" clip-end="npt=1629.597s" id="audio_0316"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1629.597s" clip-end="npt=1631.020s" id="audio_0317"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1631.020s" clip-end="npt=1632.614s" id="audio_0318"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1632.614s" clip-end="npt=1642.096s" id="audio_0319"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1642.096s" clip-end="npt=1642.971s" id="audio_0320"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1642.971s" clip-end="npt=1657.809s" id="audio_0321"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1657.809s" clip-end="npt=1664.091s" id="audio_0322"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1664.091s" clip-end="npt=1669.956s" id="audio_0323"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1669.956s" clip-end="npt=1671.458s" id="audio_0324"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1671.458s" clip-end="npt=1672.842s" id="audio_0325"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1672.842s" clip-end="npt=1677.453s" id="audio_0326"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1677.453s" clip-end="npt=1688.359s" id="audio_0327"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1688.359s" clip-end="npt=1704.947s" id="audio_0328"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1704.947s" clip-end="npt=1715.619s" id="audio_0329"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pwfd_00eb" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_018c" id="pwfd_00ec"/>
+			</par>
+			<par endsync="last" id="pwfd_00ed">
+				<text src="ncc.html#oirb_0004" id="pwfd_00ee"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1715.619s" clip-end="npt=1718.557s" id="audio_0330"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1718.557s" clip-end="npt=1722.397s" id="audio_0331"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1722.397s" clip-end="npt=1725.414s" id="audio_0332"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1725.414s" clip-end="npt=1728.654s" id="audio_0333"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1728.654s" clip-end="npt=1731.266s" id="audio_0334"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1731.266s" clip-end="npt=1733.787s" id="audio_0335"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1733.787s" clip-end="npt=1738.267s" id="audio_0336"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1738.267s" clip-end="npt=1740.082s" id="audio_0337"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1740.082s" clip-end="npt=1741.819s" id="audio_0338"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1741.819s" clip-end="npt=1743.805s" id="audio_0339"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1743.805s" clip-end="npt=1747.305s" id="audio_0340"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1747.305s" clip-end="npt=1750.074s" id="audio_0341"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1750.074s" clip-end="npt=1753.796s" id="audio_0342"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1753.796s" clip-end="npt=1755.769s" id="audio_0343"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1755.769s" clip-end="npt=1757.859s" id="audio_0344"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1757.859s" clip-end="npt=1760.262s" id="audio_0345"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1760.262s" clip-end="npt=1762.325s" id="audio_0346"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1762.325s" clip-end="npt=1766.949s" id="audio_0347"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1766.949s" clip-end="npt=1769.091s" id="audio_0348"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1769.091s" clip-end="npt=1773.650s" id="audio_0349"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1773.650s" clip-end="npt=1776.118s" id="audio_0350"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1776.118s" clip-end="npt=1778.312s" id="audio_0351"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1778.312s" clip-end="npt=1780.533s" id="audio_0352"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1780.533s" clip-end="npt=1781.682s" id="audio_0353"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1781.682s" clip-end="npt=1786.802s" id="audio_0354"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1786.802s" clip-end="npt=1789.427s" id="audio_0355"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1789.427s" clip-end="npt=1790.825s" id="audio_0356"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1790.825s" clip-end="npt=1795.596s" id="audio_0357"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1795.596s" clip-end="npt=1798.495s" id="audio_0358"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1798.495s" clip-end="npt=1800.115s" id="audio_0359"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1800.115s" clip-end="npt=1802.166s" id="audio_0360"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1802.166s" clip-end="npt=1804.817s" id="audio_0361"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1804.817s" clip-end="npt=1807.037s" id="audio_0362"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1807.037s" clip-end="npt=1809.610s" id="audio_0363"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1809.610s" clip-end="npt=1810.577s" id="audio_0364"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1810.577s" clip-end="npt=1812.536s" id="audio_0365"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1812.536s" clip-end="npt=1816.533s" id="audio_0366"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1816.533s" clip-end="npt=1818.296s" id="audio_0367"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1818.296s" clip-end="npt=1820.373s" id="audio_0368"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1820.373s" clip-end="npt=1825.989s" id="audio_0369"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1825.989s" clip-end="npt=1827.988s" id="audio_0370"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1827.988s" clip-end="npt=1831.161s" id="audio_0371"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1831.161s" clip-end="npt=1833.186s" id="audio_0372"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1833.186s" clip-end="npt=1836.595s" id="audio_0373"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1836.595s" clip-end="npt=1840.761s" id="audio_0374"/>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1840.761s" clip-end="npt=1845.529s" id="audio_0375"/>
+				</seq>
+			</par>
+			<par endsync="last" id="par_0002" system-required="pagenumber-on">
+				<text src="ncc.html#jjoy_018d" id="par_0003"/>
+			</par>
+			<par endsync="last" id="par_0003">
+				<text src="ncc.html#oirb_0004" id="par_0004"/>
+				<seq>
+					<audio src="18_Lesson_17__India_her_past_and_future.mp3" clip-begin="npt=1845.529s" clip-end="npt=1847.434s" id="audio_0376"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

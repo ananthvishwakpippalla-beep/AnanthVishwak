@@ -1,0 +1,15 @@
+# 302 English (NIOS)
+
+Contents in this folder:
+- inst.pdf (instructor/guide)
+- `E1227 English 302 Senior Secondary NIOS Duration 15.37/` (audio lessons and supporting SMIL files)
+- 302_English_Sr_Sec.zip (zipped materials)
+
+Study notes and suggested actions:
+- Use the audio lessons for listening comprehension practice. They are numbered by lesson and include helpful question and answer files.
+- Open `inst.pdf` for instructor notes and syllabus details.
+- Create a separate notes file (e.g., `notes.md`) to summarise each lesson and important vocabulary.
+
+Quick links:
+- Audio folder: [E1227 English 302 Senior Secondary NIOS Duration 15.37](./E1227%20English%20302%20Senior%20Secondary%20NIOS%20Duration%2015.37/)
+- Instructor guide: [inst.pdf](./inst.pdf)
