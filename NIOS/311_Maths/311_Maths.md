@@ -8,6 +8,11 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Timetable notes relevant to Maths:
+- Weekly timetable: `../Outputs/weekly_timetable.html`.
+- Morning swimming 06:00–07:00 may mean early study blocks should be after 07:00.
+- Evening badminton is 20:00–22:00, plan major study sessions earlier in the evening.
+
 Files available:
 - `311_E_Book1.pdf` (textbook)
 - `311_E_book2.pdf` (textbook)

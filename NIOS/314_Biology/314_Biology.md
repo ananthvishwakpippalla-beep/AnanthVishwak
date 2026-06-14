@@ -8,6 +8,10 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Timetable notes relevant to Biology:
+- Weekly timetable: `../Outputs/weekly_timetable.html`.
+- Schedule diagram practice and lab work outside the Muzigal 11:00–13:00 window and before evening badminton.
+
 Files available:
 - `314_Book-1_Eng.pdf`
 - `314_Book-2_Eng.pdf`

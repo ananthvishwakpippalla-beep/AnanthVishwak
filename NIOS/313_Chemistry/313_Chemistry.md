@@ -8,6 +8,10 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Timetable notes relevant to Chemistry:
+- Weekly timetable: `../Outputs/weekly_timetable.html`.
+- Practical sessions should be scheduled outside the Muzigal 11:00–13:00 window and before evening badminton training.
+
 Files available:
 - `313_E_book1.pdf`
 - `313_E_book2.pdf`

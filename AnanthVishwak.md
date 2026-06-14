@@ -35,3 +35,12 @@ UserName:
 ananthvishwakpippalla-beep
 Email:
 ananthvishwak.pippalla@gmail.com
+
+## Outputs
+
+
+## Others
+Learning Telugu
+Helping mother
+English speaking
+Learning Korean language

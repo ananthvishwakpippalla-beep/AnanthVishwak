@@ -8,6 +8,10 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Timetable notes relevant to Physics:
+- Weekly timetable: `../Outputs/weekly_timetable.html`.
+- Lab prep should be scheduled outside the Muzigal 11:00–13:00 practice window and before evening badminton (20:00).
+
 Files available:
 - `312_E_book1.pdf`
 - `312_E_book2.pdf`

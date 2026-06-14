@@ -8,6 +8,10 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Timetable notes relevant to Painting:
+- Weekly timetable: `../Outputs/weekly_timetable.html`.
+- Practical art sessions can be scheduled in afternoon or early evening, avoiding Muzigal 11:00–13:00 window and badminton hours.
+
 Files available:
 - `332_Painting_Theory_New.pdf`
 - `332_TMA.pdf`
