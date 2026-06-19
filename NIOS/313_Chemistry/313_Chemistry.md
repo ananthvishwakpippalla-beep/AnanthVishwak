@@ -8,8 +8,12 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Goals and focus for Chemistry
+- Build strong conceptual understanding and practice for JEE / BITSAT / TG EAPCET: physical chemistry basics, organic reaction mechanisms, inorganic periodic trends.
+- Weekly practice: at least 3 focused sessions for reactions and numerical problems.
+- Maintain `reaction_summary.md` and `solved_TMA.md` in this folder.
+
 Timetable notes relevant to Chemistry:
-- Weekly timetable: `../Outputs/weekly_timetable.html`.
 - Practical sessions should be scheduled outside the Muzigal 11:00–13:00 window and before evening badminton training.
 
 Files available:

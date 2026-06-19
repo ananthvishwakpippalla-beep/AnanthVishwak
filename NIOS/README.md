@@ -25,7 +25,20 @@ Timetable & activities
   - Muzigal classes: flexible 1.5h between 17:30–20:00 (Mon–Sat)
   - Muzigal practice window: 11:00–13:00
 
+Goals & focus areas
+- Academic goals:
+  - Pass NIOS intermediate (Grades 11 & 12) with strong percentage.
+  - Build practical understanding in Maths, Physics, Chemistry.
+  - Prepare for engineering entrance exams: JEE Main / JEE Advanced, BITSAT, TG EAPCET.
+- Music goals:
+  - Long-term: music director / music programmer.
+  - Short-term: regular Muzigal practice and class attendance.
+- Sports goals:
+  - Improve swimming and badminton performance; daily swimming scheduled.
+
 Tips
 - Keep PDFs in the subject folders and update the subject markdown with notes, important chapters, and assignment deadlines.
 - Use the audio files in `302_English/E1227 English 302 Senior Secondary NIOS Duration 15.37/` for listening practice.
 - Add summaries and solved exercises in each subject markdown to build a quick revision guide.
+
+

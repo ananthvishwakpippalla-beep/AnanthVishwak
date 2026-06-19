@@ -8,6 +8,11 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Goals and focus for Maths
+- Help prepare for JEE / BITSAT / TG EAPCET: focus on problem solving, calculus, algebra, coordinate geometry, trigonometry.
+- Weekly practice: allocate at least 4 focused problem-solving sessions per week (see `Outputs/weekly_timetable.html`).
+- Keep solved TMAs and practice tests in `solved_TMA.md` and `practice_tests/` folder in this directory.
+
 Timetable notes relevant to Maths:
 - Weekly timetable: `../Outputs/weekly_timetable.html`.
 - Morning swimming 06:00–07:00 may mean early study blocks should be after 07:00.

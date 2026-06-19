@@ -8,8 +8,11 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Goals and focus for Biology
+- Build clear understanding of diagrams, classification, and lab techniques relevant to NIOS.
+- For competitive exams focus on conceptual clarity where applicable.
+
 Timetable notes relevant to Biology:
-- Weekly timetable: `../Outputs/weekly_timetable.html`.
 - Schedule diagram practice and lab work outside the Muzigal 11:00–13:00 window and before evening badminton.
 
 Files available:

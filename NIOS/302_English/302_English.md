@@ -8,6 +8,10 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Goals and focus for English
+- Improve reading comprehension, writing clarity, and listening skills for NIOS assessments.
+- Use weekly audio lessons for listening practice and summarise each lesson.
+
 Timetable notes relevant to English:
 - Weekly timetable is at `../Outputs/weekly_timetable.html` and includes daily morning swimming (06:00–07:00) and evening badminton (20:00–22:00).
 - Muzigal practice window (11:00–13:00) is available for music; try to schedule English listening practice around 14:00–16:00 if needed.

@@ -8,8 +8,12 @@
   - https://swayam.gov.in/
   - https://www.nios.ac.in/online-course-material.aspx
 
+Goals and focus for Physics
+- Prepare conceptual understanding and problem-solving for JEE / BITSAT / TG EAPCET: mechanics, electricity & magnetism, waves, optics, modern physics.
+- Weekly practice: at least 3–4 problem-solving sessions and one lab-practical slot.
+- Keep solved TMAs and sample problems in `solved_TMA.md` and `practice_tests/`.
+
 Timetable notes relevant to Physics:
-- Weekly timetable: `../Outputs/weekly_timetable.html`.
 - Lab prep should be scheduled outside the Muzigal 11:00–13:00 practice window and before evening badminton (20:00).
 
 Files available:
