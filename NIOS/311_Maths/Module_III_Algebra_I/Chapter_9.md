@@ -1,3 +1,5 @@
+# Module III — Algebra I
+
 # NIOS Senior Secondary Mathematics (311)
 
 ## Chapter 9: Quadratic Equations and Linear Inequalities

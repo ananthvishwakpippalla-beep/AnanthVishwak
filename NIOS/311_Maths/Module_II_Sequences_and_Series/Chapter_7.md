@@ -1,3 +1,5 @@
+# Module II — Sequences and Series
+
 # NIOS Senior Secondary Mathematics (311)
 
 ## Chapter 7: Some Special Sequences
